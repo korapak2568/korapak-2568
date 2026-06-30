@@ -1,18 +1,12 @@
-import fullstackSeed from "@/data/technical-expertise/en.fullstack.json";
+import fullstackSeed from "@/data/technical-expertise/fullstack/en.json";
 import type { IFullStack, IFullStackStack } from "@/lib/model/IFullStack";
 
 export type FullstackStackKey = Exclude<
   keyof IFullStack,
-  "title" | "span" | "subTitle" | "stacks" | "services"
+  "title" | "span" | "subTitle" | "sideImages" | "stacks" | "services"
 >;
 
-export type FullstackMetadataKey =
-  | "dotnetcore"
-  | "go"
-  | "java"
-  | "nodejs"
-  | "php"
-  | "python";
+export type FullstackMetadataKey = "go" | "java" | "nodejs" | "php" | "python";
 
 export type FullstackRouteConfig = {
   slug: string;

@@ -9,13 +9,6 @@ export const MetaLinkBackend: IMetaLinkBackend = {
             alt: "Chorn Planet's image of Back-End & API Development Banner"
         }
     },
-    dotnetcore: {
-        canonical: "/technical-expertise/full-stack-developer/dotnetcore-developer/",
-        image: {
-            url: "/images-opengraph/fullstack/dotnet-core-development-service.png" + MetadataImageVersion,
-            alt: "Chorn Planet's image of .NET Core C# Development Banner"
-        }
-    },
     go: {
         canonical: "/technical-expertise/full-stack-developer/go-developer/",
         image: {

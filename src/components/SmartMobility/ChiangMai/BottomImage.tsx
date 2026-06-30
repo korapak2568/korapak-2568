@@ -1,28 +1,28 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link"
-import {ISmartRoute, ISmartSection} from "@/lib/model/ISmartMobility";
+import { ISmartRoute, ISmartSection } from "@/lib/model/ISmartMobility";
 import {
     getPlatformImageAlt,
     getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
 
 export default function BottomImage(
-    {lang, bottomCards}: { lang: string; bottomCards: Array<ISmartSection | ISmartRoute> }
+    { lang, bottomCards }: { lang: string; bottomCards: Array<ISmartSection | ISmartRoute> }
 ) {
     return (
         <div className="vision-bottom-container">
             {bottomCards.map((card, index) => (
                 <Link key={index} href={"/" + lang + card.link} className="vision-card">
                     <div className="vision-image-wrapper">
-                        {card.media?.image_url && (
+                        {card.image && (
                             <Image
                                 src={getPlatformImageSrc(
-                                    {image_url: card.media.image_url, alt: card.title},
+                                    card.image,
                                     "thumbnail",
                                 )}
                                 alt={getPlatformImageAlt(
-                                    {image_url: card.media.image_url, alt: card.title},
+                                    card.image,
                                     "thumbnail",
                                 )}
                                 className="vision-image"

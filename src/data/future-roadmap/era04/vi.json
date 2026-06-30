@@ -39,11 +39,7 @@
       "category": "Environment",
       "description": "Phục hồi khí hậu quy mô lớn, hệ thống nước, tái tạo đất, hạ tầng tạo bóng mát và thiết kế sinh thái biến một vùng sa mạc từng khắc nghiệt thành khu vực sinh sống ổn định.",
       "layerId": "civilization",
-      "domains": [
-        "climate-restoration",
-        "water",
-        "ecological-engineering"
-      ],
+      "domains": ["climate-restoration", "water", "ecological-engineering"],
       "maturity": "regional-demonstration",
       "timeframe": {
         "startYear": 2080,
@@ -69,30 +65,30 @@
           "Scientists and local residents monitoring a restored desert ecosystem with atmospheric water towers and new wetlands, hopeful planetary repair, 16:9",
           "Before-and-after inspired scene of dry desert edge becoming fertile through ecological engineering and AI climate restoration, realistic future documentary, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-first-climate-restored-desert-zone-becomes-habitable.png",
+        "src": "/assets/future-roadmap/era-04/era-04-first-climate-restored-desert-zone-becomes-habitable.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-first-climate-restored-desert-zone-becomes-habitable.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-first-climate-restored-desert-zone-becomes-habitable.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-first-climate-restored-desert-zone-becomes-habitable.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-first-climate-restored-desert-zone-becomes-habitable.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-first-climate-restored-desert-zone-becomes-habitable.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-first-climate-restored-desert-zone-becomes-habitable.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-first-climate-restored-desert-zone-becomes-habitable.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-first-climate-restored-desert-zone-becomes-habitable.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -108,11 +104,7 @@
       "category": "Environment",
       "description": "Cấu trúc rạn san hô kỹ thuật, san hô chịu nhiệt, robot biển và giám sát sinh thái tái xây dựng các hệ rạn bị tổn hại và phục hồi đa dạng sinh học ven biển.",
       "layerId": "technology",
-      "domains": [
-        "ocean-restoration",
-        "biotechnology",
-        "marine-ecology"
-      ],
+      "domains": ["ocean-restoration", "biotechnology", "marine-ecology"],
       "maturity": "ecosystem-scale-deployment",
       "timeframe": {
         "startYear": 2080,
@@ -138,30 +130,30 @@
           "Autonomous reef drones placing modular coral structures across a damaged reef zone, cinematic ecological repair, 16:9",
           "Wide underwater view of restored coral corridors reconnecting marine habitats with diverse sea life returning, clean futuristic realism, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.png",
+        "src": "/assets/future-roadmap/era-04/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -207,30 +199,30 @@
           "AI biodiversity control center monitoring rewilding corridors across continents, maps of animal movement and ecosystem health, 16:9",
           "Elephants, deer, birds, and pollinators moving through restored habitat corridors beside human settlements, peaceful planetary transformation, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-global-rewilding-corridors-reconnect-continents.png",
+        "src": "/assets/future-roadmap/era-04/era-04-global-rewilding-corridors-reconnect-continents.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-global-rewilding-corridors-reconnect-continents.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-global-rewilding-corridors-reconnect-continents.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-global-rewilding-corridors-reconnect-continents.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-global-rewilding-corridors-reconnect-continents.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-global-rewilding-corridors-reconnect-continents.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-global-rewilding-corridors-reconnect-continents.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-global-rewilding-corridors-reconnect-continents.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-global-rewilding-corridors-reconnect-continents.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -246,11 +238,7 @@
       "category": "AI & Computing",
       "description": "Cảm biến môi trường toàn hành tinh trở thành hạ tầng công cộng, hiển thị theo thời gian thực tình trạng không khí, nước, đa dạng sinh học, đất, carbon, đại dương và khí hậu cho công dân và tổ chức.",
       "layerId": "civilization",
-      "domains": [
-        "planetary-monitoring",
-        "public-infrastructure",
-        "climate"
-      ],
+      "domains": ["planetary-monitoring", "public-infrastructure", "climate"],
       "maturity": "public-infrastructure",
       "timeframe": {
         "startYear": 2078,
@@ -276,30 +264,30 @@
           "Schoolchildren and community leaders using a transparent Earth dashboard to understand local environmental health, hopeful civic future, 16:9",
           "Satellite and sensor network visualized around Earth feeding a public environmental dashboard, clean planetary stewardship scene, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.png",
+        "src": "/assets/future-roadmap/era-04/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -315,11 +303,7 @@
       "category": "Environment",
       "description": "Các hệ thống thu gom nước từ khí quyển, chạy bằng năng lượng sạch dồi dào, giữ hơi ẩm trong không khí và cung cấp nước ngọt bền vững cho các vùng khô hạn.",
       "layerId": "technology",
-      "domains": [
-        "water",
-        "climate-adaptation",
-        "infrastructure"
-      ],
+      "domains": ["water", "climate-adaptation", "infrastructure"],
       "maturity": "regional-scale-deployment",
       "timeframe": {
         "startYear": 2078,
@@ -345,30 +329,30 @@
           "Engineers monitoring moisture capture arrays at sunrise in an arid landscape, clean climate-adaptation technology, 16:9",
           "Regional water network combining atmospheric harvesters, storage lakes, and restored dryland ecosystems, realistic planetary transformation, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.png",
+        "src": "/assets/future-roadmap/era-04/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -384,11 +368,7 @@
       "category": "Materials & Manufacturing",
       "description": "Nhà máy được thiết kế lại quanh vật liệu tuần hoàn, tháo rời bằng robot, hộ chiếu sản phẩm số và khả năng thu hồi gần như toàn bộ linh kiện cùng dòng thải.",
       "layerId": "technology",
-      "domains": [
-        "manufacturing",
-        "circular-economy",
-        "automation"
-      ],
+      "domains": ["manufacturing", "circular-economy", "automation"],
       "maturity": "global-standard",
       "timeframe": {
         "startYear": 2080,
@@ -414,30 +394,30 @@
           "Engineers reviewing digital product passports and material recovery dashboards in a zero-waste factory, optimistic technology scene, 16:9",
           "Consumer products being disassembled by robots and rebuilt into new goods without waste, bright circular manufacturing system, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-zero-waste-manufacturing-becomes-the-global-standard.png",
+        "src": "/assets/future-roadmap/era-04/era-04-zero-waste-manufacturing-becomes-the-global-standard.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-zero-waste-manufacturing-becomes-the-global-standard.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-zero-waste-manufacturing-becomes-the-global-standard.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-zero-waste-manufacturing-becomes-the-global-standard.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-zero-waste-manufacturing-becomes-the-global-standard.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-zero-waste-manufacturing-becomes-the-global-standard.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-zero-waste-manufacturing-becomes-the-global-standard.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-zero-waste-manufacturing-becomes-the-global-standard.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-zero-waste-manufacturing-becomes-the-global-standard.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -453,11 +433,7 @@
       "category": "Materials & Manufacturing",
       "description": "Polymer phân hủy sinh học tiên tiến thay thế nhựa truyền thống trong bao bì, dệt may, hàng tiêu dùng và ứng dụng công nghiệp mà không làm giảm hiệu năng.",
       "layerId": "technology",
-      "domains": [
-        "materials-science",
-        "chemistry",
-        "pollution-reduction"
-      ],
+      "domains": ["materials-science", "chemistry", "pollution-reduction"],
       "maturity": "global-replacement",
       "timeframe": {
         "startYear": 2078,
@@ -483,30 +459,30 @@
           "Ocean cleanup transition scene showing biodegradable materials and reduced plastic pollution along a restored coastline, optimistic environmental future, 16:9",
           "Factory producing universal biodegradable polymers for packaging, textiles, and consumer goods, circular economy atmosphere, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-universal-biodegradable-polymers-replace-plastic.png",
+        "src": "/assets/future-roadmap/era-04/era-04-universal-biodegradable-polymers-replace-plastic.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-universal-biodegradable-polymers-replace-plastic.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-universal-biodegradable-polymers-replace-plastic.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-universal-biodegradable-polymers-replace-plastic.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-universal-biodegradable-polymers-replace-plastic.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-universal-biodegradable-polymers-replace-plastic.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-universal-biodegradable-polymers-replace-plastic.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-universal-biodegradable-polymers-replace-plastic.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-universal-biodegradable-polymers-replace-plastic.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -522,11 +498,7 @@
       "category": "Environment",
       "description": "Các trang trại đại dương bền vững sản xuất cá, nhuyễn thể, tảo và protein biển nuôi cấy ở quy mô lớn, đồng thời bảo vệ hệ sinh thái và giảm áp lực lên đất liền.",
       "layerId": "civilization",
-      "domains": [
-        "food-systems",
-        "ocean-farming",
-        "climate-technology"
-      ],
+      "domains": ["food-systems", "ocean-farming", "climate-technology"],
       "maturity": "major-global-supply",
       "timeframe": {
         "startYear": 2082,
@@ -552,30 +524,30 @@
           "Workers and robots harvesting ocean-grown protein from clean offshore farms under ecological monitoring, realistic future scene, 16:9",
           "Aerial view of large ocean farming grids integrated with wildlife corridors and clean energy platforms, planetary food system, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-ocean-farming-produces-a-major-share-of-global-protein.png",
+        "src": "/assets/future-roadmap/era-04/era-04-ocean-farming-produces-a-major-share-of-global-protein.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-ocean-farming-produces-a-major-share-of-global-protein.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-ocean-farming-produces-a-major-share-of-global-protein.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-ocean-farming-produces-a-major-share-of-global-protein.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-ocean-farming-produces-a-major-share-of-global-protein.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-ocean-farming-produces-a-major-share-of-global-protein.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-ocean-farming-produces-a-major-share-of-global-protein.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-ocean-farming-produces-a-major-share-of-global-protein.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-ocean-farming-produces-a-major-share-of-global-protein.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -621,30 +593,30 @@
           "Submersible vehicles approaching a beautiful undersea city integrated with ecological monitoring systems, cinematic realism, 16:9",
           "Undersea urban habitat connected to algae farms and coral restoration zones, hopeful ocean civilization future, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-first-undersea-city-project-completed.png",
+        "src": "/assets/future-roadmap/era-04/era-04-first-undersea-city-project-completed.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-first-undersea-city-project-completed.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-first-undersea-city-project-completed.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-first-undersea-city-project-completed.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-first-undersea-city-project-completed.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-first-undersea-city-project-completed.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-first-undersea-city-project-completed.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-first-undersea-city-project-completed.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-first-undersea-city-project-completed.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -690,30 +662,30 @@
           "Aerial view of an AI-planned city with green corridors, passive cooling towers, and integrated transit reducing energy use, 16:9",
           "Residents enjoying a beautiful low-energy city designed by AI for comfort, resilience, and public life, realistic future, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-ai-designed-cities-reduce-energy-use-by-90.png",
+        "src": "/assets/future-roadmap/era-04/era-04-ai-designed-cities-reduce-energy-use-by-90.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-ai-designed-cities-reduce-energy-use-by-90.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-ai-designed-cities-reduce-energy-use-by-90.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-ai-designed-cities-reduce-energy-use-by-90.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-ai-designed-cities-reduce-energy-use-by-90.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-ai-designed-cities-reduce-energy-use-by-90.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-ai-designed-cities-reduce-energy-use-by-90.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-ai-designed-cities-reduce-energy-use-by-90.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-ai-designed-cities-reduce-energy-use-by-90.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -729,11 +701,7 @@
       "category": "Civilization",
       "description": "Một thành phố vận hành theo quy tắc dân chủ cho phép hệ thống AI quản lý hạ tầng, dịch vụ, ngân sách và quy hoạch, trong khi khung pháp lý xác định trách nhiệm và quyền lợi.",
       "layerId": "society",
-      "domains": [
-        "governance",
-        "artificial-intelligence",
-        "smart-cities"
-      ],
+      "domains": ["governance", "artificial-intelligence", "smart-cities"],
       "maturity": "legal-recognition",
       "timeframe": {
         "startYear": 2085,
@@ -759,30 +727,30 @@
           "Public square in a legally recognized AI-managed city with residents, autonomous services, and transparent civic interfaces, realistic future, 16:9",
           "Council chamber where humans and AI governance systems collaborate under a city charter, calm democratic atmosphere, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-first-self-governing-ai-managed-city-recognized-legally.png",
+        "src": "/assets/future-roadmap/era-04/era-04-first-self-governing-ai-managed-city-recognized-legally.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-first-self-governing-ai-managed-city-recognized-legally.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-first-self-governing-ai-managed-city-recognized-legally.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-first-self-governing-ai-managed-city-recognized-legally.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-first-self-governing-ai-managed-city-recognized-legally.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-first-self-governing-ai-managed-city-recognized-legally.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-first-self-governing-ai-managed-city-recognized-legally.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-first-self-governing-ai-managed-city-recognized-legally.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-first-self-governing-ai-managed-city-recognized-legally.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -798,11 +766,7 @@
       "category": "Robotics",
       "description": "Hoạt động khai khoáng trở nên hoàn toàn bằng robot, giữ con người tránh xa môi trường nguy hiểm đồng thời cải thiện độ chính xác, an toàn và giám sát môi trường.",
       "layerId": "technology",
-      "domains": [
-        "mining",
-        "robotics",
-        "industrial-safety"
-      ],
+      "domains": ["mining", "robotics", "industrial-safety"],
       "maturity": "fully-autonomous-operations",
       "timeframe": {
         "startYear": 2078,
@@ -828,30 +792,30 @@
           "Remote mining control center where former miners supervise autonomous fleets from a safe location, human-centered transition, 16:9",
           "Robotic mining machines extracting minerals precisely with ecological monitoring and restoration systems nearby, futuristic realism, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.png",
+        "src": "/assets/future-roadmap/era-04/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -867,11 +831,7 @@
       "category": "Robotics",
       "description": "Robot gia đình đa năng giá phải chăng hỗ trợ dọn dẹp, nấu ăn, nâng đỡ, bảo trì, chăm sóc, an ninh và các công việc hằng ngày trong nhà.",
       "layerId": "society",
-      "domains": [
-        "robotics",
-        "consumer-technology",
-        "home-life"
-      ],
+      "domains": ["robotics", "consumer-technology", "home-life"],
       "maturity": "mass-adoption",
       "timeframe": {
         "startYear": 2078,
@@ -897,30 +857,30 @@
           "Apartment building where many households use friendly general-purpose robots like common appliances, clean future society, 16:9",
           "Close-up of a household robot organizing groceries and checking home maintenance systems, human-centered robotics scene, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-household-robots-become-as-common-as-smartphones.png",
+        "src": "/assets/future-roadmap/era-04/era-04-household-robots-become-as-common-as-smartphones.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-household-robots-become-as-common-as-smartphones.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-household-robots-become-as-common-as-smartphones.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-household-robots-become-as-common-as-smartphones.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-household-robots-become-as-common-as-smartphones.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-household-robots-become-as-common-as-smartphones.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-household-robots-become-as-common-as-smartphones.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-household-robots-become-as-common-as-smartphones.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-household-robots-become-as-common-as-smartphones.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -936,11 +896,7 @@
       "category": "Civilization",
       "description": "Bạn đồng hành AI cá nhân được công nhận pháp lý là trợ lý chăm sóc có giám sát cho hỗ trợ cảm xúc, chăm sóc người cao tuổi, hỗ trợ khuyết tật và điều phối đời sống hằng ngày.",
       "layerId": "society",
-      "domains": [
-        "artificial-intelligence",
-        "caregiving",
-        "law"
-      ],
+      "domains": ["artificial-intelligence", "caregiving", "law"],
       "maturity": "legal-recognition",
       "timeframe": {
         "startYear": 2080,
@@ -966,30 +922,30 @@
           "Public certification center for AI care companions with safety and accountability standards, civic technology documentary, 16:9",
           "Friendly AI companion interface helping a disabled person plan mobility, medication, and communication support, respectful human-centered future, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-personal-ai-companions-become-legally-recognized-care-assistants.png",
+        "src": "/assets/future-roadmap/era-04/era-04-personal-ai-companions-become-legally-recognized-care-assistants.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-personal-ai-companions-become-legally-recognized-care-assistants.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-personal-ai-companions-become-legally-recognized-care-assistants.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-personal-ai-companions-become-legally-recognized-care-assistants.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-personal-ai-companions-become-legally-recognized-care-assistants.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-personal-ai-companions-become-legally-recognized-care-assistants.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-personal-ai-companions-become-legally-recognized-care-assistants.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-personal-ai-companions-become-legally-recognized-care-assistants.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-personal-ai-companions-become-legally-recognized-care-assistants.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1005,11 +961,7 @@
       "category": "Society & Economy",
       "description": "Robot, tự động hóa và dịch vụ dồi dào khiến hầu hết lao động thể chất nguy hiểm, lặp lại hoặc kiệt sức trở thành lựa chọn thay vì yêu cầu kinh tế để sinh tồn.",
       "layerId": "society",
-      "domains": [
-        "automation",
-        "labor",
-        "post-scarcity"
-      ],
+      "domains": ["automation", "labor", "post-scarcity"],
       "maturity": "societal-transition",
       "timeframe": {
         "startYear": 2085,
@@ -1035,30 +987,30 @@
           "Community workshop where people do physical work by choice alongside robots, warm human-centered civilization scene, 16:9",
           "Public plaza showing a society where machines handle exhausting labor and people focus on learning, art, and care, realistic future, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-most-physical-jobs-become-optional.png",
+        "src": "/assets/future-roadmap/era-04/era-04-most-physical-jobs-become-optional.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-most-physical-jobs-become-optional.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-most-physical-jobs-become-optional.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-most-physical-jobs-become-optional.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-most-physical-jobs-become-optional.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-most-physical-jobs-become-optional.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-most-physical-jobs-become-optional.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-most-physical-jobs-become-optional.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-most-physical-jobs-become-optional.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1074,11 +1026,7 @@
       "category": "Biology & Medicine",
       "description": "Chi giả thần kinh tiên tiến kết nối trực tiếp với hệ thần kinh để phục hồi hoặc mô phỏng thị giác, thính giác, xúc giác, thăng bằng và phản hồi cảm giác tinh vi.",
       "layerId": "technology",
-      "domains": [
-        "neurotechnology",
-        "healthcare",
-        "prosthetics"
-      ],
+      "domains": ["neurotechnology", "healthcare", "prosthetics"],
       "maturity": "routine-clinical-care",
       "timeframe": {
         "startYear": 2080,
@@ -1104,30 +1052,30 @@
           "Doctor calibrating visual and auditory neural prosthetics with transparent sensory maps, hopeful healthcare scene, 16:9",
           "Rehabilitation room where people test restored sensory feedback with advanced neural prosthetics, optimistic clinical future, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-neural-prosthetics-restore-sight-hearing-and-touch.png",
+        "src": "/assets/future-roadmap/era-04/era-04-neural-prosthetics-restore-sight-hearing-and-touch.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-neural-prosthetics-restore-sight-hearing-and-touch.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-neural-prosthetics-restore-sight-hearing-and-touch.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-neural-prosthetics-restore-sight-hearing-and-touch.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-neural-prosthetics-restore-sight-hearing-and-touch.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-neural-prosthetics-restore-sight-hearing-and-touch.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-neural-prosthetics-restore-sight-hearing-and-touch.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-neural-prosthetics-restore-sight-hearing-and-touch.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-neural-prosthetics-restore-sight-hearing-and-touch.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1143,11 +1091,7 @@
       "category": "Biology & Medicine",
       "description": "Nội tạng in sinh học bằng tế bào phù hợp với bệnh nhân trở thành thường quy cho cấy ghép, giảm danh sách chờ và phản ứng thải ghép đối với nhiều cơ quan lớn.",
       "layerId": "technology",
-      "domains": [
-        "bioprinting",
-        "healthcare",
-        "regenerative-medicine"
-      ],
+      "domains": ["bioprinting", "healthcare", "regenerative-medicine"],
       "maturity": "routine-transplant-care",
       "timeframe": {
         "startYear": 2082,
@@ -1173,30 +1117,30 @@
           "Doctors reviewing a printed organ readiness dashboard before transplant, realistic regenerative medicine scene, 16:9",
           "Close-up of vascularized tissue being bioprinted layer by layer in a high-tech clinic, cinematic medical realism, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-human-organ-printing-becomes-routine.png",
+        "src": "/assets/future-roadmap/era-04/era-04-human-organ-printing-becomes-routine.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-human-organ-printing-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-human-organ-printing-becomes-routine.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-human-organ-printing-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-human-organ-printing-becomes-routine.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-human-organ-printing-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-human-organ-printing-becomes-routine.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-human-organ-printing-becomes-routine.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-human-organ-printing-becomes-routine.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1212,11 +1156,7 @@
       "category": "Society & Economy",
       "description": "Dịch vụ phổ quát, năng lượng dồi dào, sản xuất tự động, nước sạch, logistics lương thực và phối hợp toàn cầu làm nghèo cùng cực giảm xuống dưới 1% trên toàn thế giới.",
       "layerId": "civilization",
-      "domains": [
-        "post-scarcity",
-        "economic-systems",
-        "human-development"
-      ],
+      "domains": ["post-scarcity", "economic-systems", "human-development"],
       "maturity": "global-milestone",
       "timeframe": {
         "startYear": 2085,
@@ -1242,30 +1182,30 @@
           "Village, city, and refugee community transformed by universal services and post-scarcity infrastructure, warm civilization milestone, 16:9",
           "Public square with people from many cultures celebrating access to basic dignity and opportunity, realistic future society, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-extreme-poverty-falls-below-1-worldwide.png",
+        "src": "/assets/future-roadmap/era-04/era-04-extreme-poverty-falls-below-1-worldwide.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-extreme-poverty-falls-below-1-worldwide.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-extreme-poverty-falls-below-1-worldwide.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-extreme-poverty-falls-below-1-worldwide.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-extreme-poverty-falls-below-1-worldwide.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-extreme-poverty-falls-below-1-worldwide.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-extreme-poverty-falls-below-1-worldwide.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-extreme-poverty-falls-below-1-worldwide.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-extreme-poverty-falls-below-1-worldwide.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1281,11 +1221,7 @@
       "category": "AI & Computing",
       "description": "AI tiên tiến và mô hình kịch bản ở quy mô lượng tử cho phép các quốc gia xác minh kết quả, ngăn leo thang và thay thế răn đe hạt nhân bằng hệ thống tránh xung đột minh bạch.",
       "layerId": "society",
-      "domains": [
-        "governance",
-        "peacebuilding",
-        "quantum-computing"
-      ],
+      "domains": ["governance", "peacebuilding", "quantum-computing"],
       "maturity": "global-security-framework",
       "timeframe": {
         "startYear": 2088,
@@ -1311,30 +1247,30 @@
           "Diplomats reviewing verified de-escalation models with AI systems replacing nuclear deterrence logic, realistic future politics, 16:9",
           "Secure international control room monitoring treaty compliance and conflict simulations, calm civilization-scale security future, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.png",
+        "src": "/assets/future-roadmap/era-04/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1350,11 +1286,7 @@
       "category": "Energy",
       "description": "Các tháp nông trại thẳng đứng chạy bằng nhiệt hạch cung cấp sản lượng lương thực cao và ổn định gần thành phố cũng như vùng dễ tổn thương, chấm dứt nạn đói mãn tính như một tình trạng toàn cầu dai dẳng.",
       "layerId": "civilization",
-      "domains": [
-        "food-systems",
-        "fusion-energy",
-        "urban-infrastructure"
-      ],
+      "domains": ["food-systems", "fusion-energy", "urban-infrastructure"],
       "maturity": "global-food-security",
       "timeframe": {
         "startYear": 2085,
@@ -1380,30 +1312,30 @@
           "Dry-region settlement supported by vertical farm towers ending chronic hunger locally, water systems and greenhouses glowing, 16:9",
           "Global food security command center coordinating fusion farm tower production and AI logistics, hopeful civilization milestone, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.png",
+        "src": "/assets/future-roadmap/era-04/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1449,30 +1381,30 @@
           "Human-centered scene of planetary Digital Twin Simulates Earth's Systems Continuously, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating planetary Digital Twin Simulates Earth's Systems Continuously, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-planetary-digital-twin-simulates-earths-systems-continuously.png",
+        "src": "/assets/future-roadmap/era-04/era-04-planetary-digital-twin-simulates-earths-systems-continuously.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-planetary-digital-twin-simulates-earths-systems-continuously.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-planetary-digital-twin-simulates-earths-systems-continuously.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-planetary-digital-twin-simulates-earths-systems-continuously.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-planetary-digital-twin-simulates-earths-systems-continuously.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-planetary-digital-twin-simulates-earths-systems-continuously.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-planetary-digital-twin-simulates-earths-systems-continuously.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-planetary-digital-twin-simulates-earths-systems-continuously.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-planetary-digital-twin-simulates-earths-systems-continuously.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1518,30 +1450,30 @@
           "Human-centered scene of aI Policymakers Assist Most Governments, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating aI Policymakers Assist Most Governments, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-ai-policymakers-assist-most-governments.png",
+        "src": "/assets/future-roadmap/era-04/era-04-ai-policymakers-assist-most-governments.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-ai-policymakers-assist-most-governments.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-ai-policymakers-assist-most-governments.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-ai-policymakers-assist-most-governments.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-ai-policymakers-assist-most-governments.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-ai-policymakers-assist-most-governments.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-ai-policymakers-assist-most-governments.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-ai-policymakers-assist-most-governments.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-ai-policymakers-assist-most-governments.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1587,30 +1519,30 @@
           "Human-centered scene of personal AI Agents Become Primary Human Interfaces, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating personal AI Agents Become Primary Human Interfaces, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-personal-ai-agents-become-primary-human-interfaces.png",
+        "src": "/assets/future-roadmap/era-04/era-04-personal-ai-agents-become-primary-human-interfaces.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-personal-ai-agents-become-primary-human-interfaces.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-personal-ai-agents-become-primary-human-interfaces.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-personal-ai-agents-become-primary-human-interfaces.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-personal-ai-agents-become-primary-human-interfaces.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-personal-ai-agents-become-primary-human-interfaces.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-personal-ai-agents-become-primary-human-interfaces.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-personal-ai-agents-become-primary-human-interfaces.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-personal-ai-agents-become-primary-human-interfaces.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1656,30 +1588,30 @@
           "Human-centered scene of autonomous Infrastructure Repair Swarms Maintain Cities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating autonomous Infrastructure Repair Swarms Maintain Cities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.png",
+        "src": "/assets/future-roadmap/era-04/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1725,30 +1657,30 @@
           "Human-centered scene of robotic Ocean Harvesting Systems Operate Globally, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating robotic Ocean Harvesting Systems Operate Globally, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-robotic-ocean-harvesting-systems-operate-globally.png",
+        "src": "/assets/future-roadmap/era-04/era-04-robotic-ocean-harvesting-systems-operate-globally.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-robotic-ocean-harvesting-systems-operate-globally.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-robotic-ocean-harvesting-systems-operate-globally.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-robotic-ocean-harvesting-systems-operate-globally.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-robotic-ocean-harvesting-systems-operate-globally.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-robotic-ocean-harvesting-systems-operate-globally.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-robotic-ocean-harvesting-systems-operate-globally.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-robotic-ocean-harvesting-systems-operate-globally.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-robotic-ocean-harvesting-systems-operate-globally.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1794,30 +1726,30 @@
           "Human-centered scene of autonomous Disaster Recovery Networks Eliminate Most Recovery Delays, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating autonomous Disaster Recovery Networks Eliminate Most Recovery Delays, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.png",
+        "src": "/assets/future-roadmap/era-04/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1833,11 +1765,7 @@
       "category": "Energy",
       "description": "Lưới điện nhiệt hạch toàn cầu cung cấp năng lượng gần như không giới hạn mở rộng sự dồi dào năng lượng vào lưới điện lục địa, truyền điện không dây, hệ thống năng lượng mặt trời không gian và chấm dứt nghèo năng lượng.",
       "layerId": "energy",
-      "domains": [
-        "fusion-energy",
-        "clean-energy",
-        "abundance-infrastructure"
-      ],
+      "domains": ["fusion-energy", "clean-energy", "abundance-infrastructure"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2097,
@@ -1863,30 +1791,30 @@
           "Human-centered scene of global Fusion Grid Supplies Nearly Unlimited Energy, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating global Fusion Grid Supplies Nearly Unlimited Energy, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.png",
+        "src": "/assets/future-roadmap/era-04/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1902,11 +1830,7 @@
       "category": "Energy",
       "description": "Mạng truyền điện không dây bao phủ các lục địa mở rộng sự dồi dào năng lượng vào lưới điện lục địa, truyền điện không dây, hệ thống năng lượng mặt trời không gian và chấm dứt nghèo năng lượng.",
       "layerId": "energy",
-      "domains": [
-        "fusion-energy",
-        "clean-energy",
-        "abundance-infrastructure"
-      ],
+      "domains": ["fusion-energy", "clean-energy", "abundance-infrastructure"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2097,
@@ -1932,30 +1856,30 @@
           "Human-centered scene of wireless Power Transmission Networks Cover Continents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating wireless Power Transmission Networks Cover Continents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-wireless-power-transmission-networks-cover-continents.png",
+        "src": "/assets/future-roadmap/era-04/era-04-wireless-power-transmission-networks-cover-continents.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-wireless-power-transmission-networks-cover-continents.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-wireless-power-transmission-networks-cover-continents.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-wireless-power-transmission-networks-cover-continents.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-wireless-power-transmission-networks-cover-continents.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-wireless-power-transmission-networks-cover-continents.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-wireless-power-transmission-networks-cover-continents.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-wireless-power-transmission-networks-cover-continents.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-wireless-power-transmission-networks-cover-continents.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1971,11 +1895,7 @@
       "category": "Energy",
       "description": "Mảng năng lượng mặt trời không gian cung cấp điện cho các vùng lớn mở rộng sự dồi dào năng lượng vào lưới điện lục địa, truyền điện không dây, hệ thống năng lượng mặt trời không gian và chấm dứt nghèo năng lượng.",
       "layerId": "energy",
-      "domains": [
-        "fusion-energy",
-        "clean-energy",
-        "abundance-infrastructure"
-      ],
+      "domains": ["fusion-energy", "clean-energy", "abundance-infrastructure"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2098,
@@ -2001,30 +1921,30 @@
           "Human-centered scene of space-Based Solar Arrays Supply Major Regions, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating space-Based Solar Arrays Supply Major Regions, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-space-based-solar-arrays-supply-major-regions.png",
+        "src": "/assets/future-roadmap/era-04/era-04-space-based-solar-arrays-supply-major-regions.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-space-based-solar-arrays-supply-major-regions.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-space-based-solar-arrays-supply-major-regions.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-space-based-solar-arrays-supply-major-regions.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-space-based-solar-arrays-supply-major-regions.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-space-based-solar-arrays-supply-major-regions.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-space-based-solar-arrays-supply-major-regions.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-space-based-solar-arrays-supply-major-regions.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-space-based-solar-arrays-supply-major-regions.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2040,11 +1960,7 @@
       "category": "Energy",
       "description": "Nghèo năng lượng biến mất trên toàn thế giới mở rộng sự dồi dào năng lượng vào lưới điện lục địa, truyền điện không dây, hệ thống năng lượng mặt trời không gian và chấm dứt nghèo năng lượng.",
       "layerId": "energy",
-      "domains": [
-        "fusion-energy",
-        "clean-energy",
-        "abundance-infrastructure"
-      ],
+      "domains": ["fusion-energy", "clean-energy", "abundance-infrastructure"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2099,
@@ -2070,30 +1986,30 @@
           "Human-centered scene of energy Poverty Disappears Worldwide, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating energy Poverty Disappears Worldwide, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-energy-poverty-disappears-worldwide.png",
+        "src": "/assets/future-roadmap/era-04/era-04-energy-poverty-disappears-worldwide.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-energy-poverty-disappears-worldwide.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-energy-poverty-disappears-worldwide.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-energy-poverty-disappears-worldwide.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-energy-poverty-disappears-worldwide.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-energy-poverty-disappears-worldwide.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-energy-poverty-disappears-worldwide.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-energy-poverty-disappears-worldwide.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-energy-poverty-disappears-worldwide.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2109,11 +2025,7 @@
       "category": "Space",
       "description": "Thành phố không gian quay tạo trọng lực nhân tạo đầu tiên mở cửa mở rộng văn minh không gian sang dân số Mặt Trăng và Sao Hỏa lớn hơn, các thành phố không gian quay, kinh tế tiểu hành tinh và logistics Trái Đất–Mặt Trăng tốc độ cao.",
       "layerId": "space",
-      "domains": [
-        "space-settlement",
-        "lunar-mars-systems",
-        "orbital-habitats"
-      ],
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2100,
@@ -2139,30 +2051,30 @@
           "Human-centered scene of first Rotating Artificial Gravity Space City Opens, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating first Rotating Artificial Gravity Space City Opens, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-first-rotating-artificial-gravity-space-city-opens.png",
+        "src": "/assets/future-roadmap/era-04/era-04-first-rotating-artificial-gravity-space-city-opens.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-first-rotating-artificial-gravity-space-city-opens.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-first-rotating-artificial-gravity-space-city-opens.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-first-rotating-artificial-gravity-space-city-opens.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-first-rotating-artificial-gravity-space-city-opens.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-first-rotating-artificial-gravity-space-city-opens.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-first-rotating-artificial-gravity-space-city-opens.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-first-rotating-artificial-gravity-space-city-opens.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-first-rotating-artificial-gravity-space-city-opens.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2178,11 +2090,7 @@
       "category": "Space",
       "description": "Dân số Mặt Trăng vượt 100.000 cư dân mở rộng văn minh không gian sang dân số Mặt Trăng và Sao Hỏa lớn hơn, các thành phố không gian quay, kinh tế tiểu hành tinh và logistics Trái Đất–Mặt Trăng tốc độ cao.",
       "layerId": "space",
-      "domains": [
-        "space-settlement",
-        "lunar-mars-systems",
-        "orbital-habitats"
-      ],
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2100,
@@ -2208,30 +2116,30 @@
           "Human-centered scene of lunar Population Exceeds 100,000 Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating lunar Population Exceeds 100,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-lunar-population-exceeds-100-000-residents.png",
+        "src": "/assets/future-roadmap/era-04/era-04-lunar-population-exceeds-100-000-residents.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-lunar-population-exceeds-100-000-residents.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-lunar-population-exceeds-100-000-residents.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-lunar-population-exceeds-100-000-residents.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-lunar-population-exceeds-100-000-residents.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-lunar-population-exceeds-100-000-residents.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-lunar-population-exceeds-100-000-residents.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-lunar-population-exceeds-100-000-residents.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-lunar-population-exceeds-100-000-residents.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2247,11 +2155,7 @@
       "category": "Space",
       "description": "Dân số Sao Hỏa vượt 10.000 cư dân mở rộng văn minh không gian sang dân số Mặt Trăng và Sao Hỏa lớn hơn, các thành phố không gian quay, kinh tế tiểu hành tinh và logistics Trái Đất–Mặt Trăng tốc độ cao.",
       "layerId": "space",
-      "domains": [
-        "space-settlement",
-        "lunar-mars-systems",
-        "orbital-habitats"
-      ],
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2101,
@@ -2277,30 +2181,30 @@
           "Human-centered scene of mars Population Surpasses 10,000 Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating mars Population Surpasses 10,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-mars-population-surpasses-10-000-residents.png",
+        "src": "/assets/future-roadmap/era-04/era-04-mars-population-surpasses-10-000-residents.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-mars-population-surpasses-10-000-residents.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-mars-population-surpasses-10-000-residents.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-mars-population-surpasses-10-000-residents.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-mars-population-surpasses-10-000-residents.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-mars-population-surpasses-10-000-residents.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-mars-population-surpasses-10-000-residents.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-mars-population-surpasses-10-000-residents.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-mars-population-surpasses-10-000-residents.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2316,11 +2220,7 @@
       "category": "Space",
       "description": "Khai thác tiểu hành tinh trở thành ngành kinh tế lớn mở rộng văn minh không gian sang dân số Mặt Trăng và Sao Hỏa lớn hơn, các thành phố không gian quay, kinh tế tiểu hành tinh và logistics Trái Đất–Mặt Trăng tốc độ cao.",
       "layerId": "space",
-      "domains": [
-        "space-settlement",
-        "lunar-mars-systems",
-        "orbital-habitats"
-      ],
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2102,
@@ -2346,30 +2246,30 @@
           "Human-centered scene of asteroid Mining Becomes a Major Economic Sector, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating asteroid Mining Becomes a Major Economic Sector, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-asteroid-mining-becomes-a-major-economic-sector.png",
+        "src": "/assets/future-roadmap/era-04/era-04-asteroid-mining-becomes-a-major-economic-sector.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-asteroid-mining-becomes-a-major-economic-sector.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-asteroid-mining-becomes-a-major-economic-sector.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-asteroid-mining-becomes-a-major-economic-sector.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-asteroid-mining-becomes-a-major-economic-sector.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-asteroid-mining-becomes-a-major-economic-sector.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-asteroid-mining-becomes-a-major-economic-sector.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-asteroid-mining-becomes-a-major-economic-sector.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-asteroid-mining-becomes-a-major-economic-sector.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2385,11 +2285,7 @@
       "category": "Space",
       "description": "Mạng vận tải hàng hóa tốc độ cao Trái Đất–Mặt Trăng trở thành thường quy mở rộng văn minh không gian sang dân số Mặt Trăng và Sao Hỏa lớn hơn, các thành phố không gian quay, kinh tế tiểu hành tinh và logistics Trái Đất–Mặt Trăng tốc độ cao.",
       "layerId": "space",
-      "domains": [
-        "space-settlement",
-        "lunar-mars-systems",
-        "orbital-habitats"
-      ],
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2103,
@@ -2415,30 +2311,30 @@
           "Human-centered scene of earth-Moon High-Speed Cargo Network Becomes Routine, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating earth-Moon High-Speed Cargo Network Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-earth-moon-high-speed-cargo-network-becomes-routine.png",
+        "src": "/assets/future-roadmap/era-04/era-04-earth-moon-high-speed-cargo-network-becomes-routine.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-earth-moon-high-speed-cargo-network-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-earth-moon-high-speed-cargo-network-becomes-routine.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-earth-moon-high-speed-cargo-network-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-earth-moon-high-speed-cargo-network-becomes-routine.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-earth-moon-high-speed-cargo-network-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-earth-moon-high-speed-cargo-network-becomes-routine.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-earth-moon-high-speed-cargo-network-becomes-routine.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-earth-moon-high-speed-cargo-network-becomes-routine.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2454,11 +2350,7 @@
       "category": "Biology & Medicine",
       "description": "Lão hóa sinh học được đảo ngược đáng kể khiến sửa chữa và tăng cường cơ thể tiên tiến trở thành thường quy thông qua chi giả thần kinh, in nội tạng, máu tổng hợp, đảo ngược lão hóa và giám sát bảo vệ thần kinh.",
       "layerId": "biology-medicine",
-      "domains": [
-        "advanced-medicine",
-        "regenerative-biology",
-        "human-health"
-      ],
+      "domains": ["advanced-medicine", "regenerative-biology", "human-health"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2103,
@@ -2484,30 +2376,30 @@
           "Human-centered scene of biological Aging Is Significantly Reversed, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating biological Aging Is Significantly Reversed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-biological-aging-is-significantly-reversed.png",
+        "src": "/assets/future-roadmap/era-04/era-04-biological-aging-is-significantly-reversed.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-biological-aging-is-significantly-reversed.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-biological-aging-is-significantly-reversed.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-biological-aging-is-significantly-reversed.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-biological-aging-is-significantly-reversed.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-biological-aging-is-significantly-reversed.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-biological-aging-is-significantly-reversed.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-biological-aging-is-significantly-reversed.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-biological-aging-is-significantly-reversed.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2523,11 +2415,7 @@
       "category": "Biology & Medicine",
       "description": "Máu tổng hợp thay thế sự phụ thuộc vào hiến máu khẩn cấp khiến sửa chữa và tăng cường cơ thể tiên tiến trở thành thường quy thông qua chi giả thần kinh, in nội tạng, máu tổng hợp, đảo ngược lão hóa và giám sát bảo vệ thần kinh.",
       "layerId": "biology-medicine",
-      "domains": [
-        "advanced-medicine",
-        "regenerative-biology",
-        "human-health"
-      ],
+      "domains": ["advanced-medicine", "regenerative-biology", "human-health"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2104,
@@ -2553,30 +2441,30 @@
           "Human-centered scene of synthetic Blood Replaces Emergency Donor Dependence, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating synthetic Blood Replaces Emergency Donor Dependence, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-synthetic-blood-replaces-emergency-donor-dependence.png",
+        "src": "/assets/future-roadmap/era-04/era-04-synthetic-blood-replaces-emergency-donor-dependence.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-synthetic-blood-replaces-emergency-donor-dependence.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-synthetic-blood-replaces-emergency-donor-dependence.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-synthetic-blood-replaces-emergency-donor-dependence.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-synthetic-blood-replaces-emergency-donor-dependence.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-synthetic-blood-replaces-emergency-donor-dependence.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-synthetic-blood-replaces-emergency-donor-dependence.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-synthetic-blood-replaces-emergency-donor-dependence.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-synthetic-blood-replaces-emergency-donor-dependence.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2592,11 +2480,7 @@
       "category": "Biology & Medicine",
       "description": "Giám sát sức khỏe não bộ ngăn ngừa hầu hết bệnh thoái hóa thần kinh khiến sửa chữa và tăng cường cơ thể tiên tiến trở thành thường quy thông qua chi giả thần kinh, in nội tạng, máu tổng hợp, đảo ngược lão hóa và giám sát bảo vệ thần kinh.",
       "layerId": "biology-medicine",
-      "domains": [
-        "advanced-medicine",
-        "regenerative-biology",
-        "human-health"
-      ],
+      "domains": ["advanced-medicine", "regenerative-biology", "human-health"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2105,
@@ -2622,30 +2506,30 @@
           "Human-centered scene of brain Health Monitoring Prevents Most Neurodegenerative Diseases, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating brain Health Monitoring Prevents Most Neurodegenerative Diseases, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.png",
+        "src": "/assets/future-roadmap/era-04/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2661,11 +2545,7 @@
       "category": "Physics",
       "description": "Siêu dẫn nhiệt độ phòng trở thành hạ tầng toàn cầu biến vật lý chính xác thành hạ tầng hành tinh thông qua internet lượng tử, trọng lực nhân tạo, hệ thống đồng bộ thời gian toàn cầu, siêu dẫn và điện toán lượng tử mạnh mẽ.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2106,
@@ -2691,30 +2571,30 @@
           "Human-centered scene of room-Temperature Superconductors Become Global Infrastructure, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating room-Temperature Superconductors Become Global Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-room-temperature-superconductors-become-global-infrastructure.png",
+        "src": "/assets/future-roadmap/era-04/era-04-room-temperature-superconductors-become-global-infrastructure.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-room-temperature-superconductors-become-global-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-room-temperature-superconductors-become-global-infrastructure.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-room-temperature-superconductors-become-global-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-room-temperature-superconductors-become-global-infrastructure.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-room-temperature-superconductors-become-global-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-room-temperature-superconductors-become-global-infrastructure.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-room-temperature-superconductors-become-global-infrastructure.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-room-temperature-superconductors-become-global-infrastructure.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2730,11 +2610,7 @@
       "category": "Physics",
       "description": "Hệ thống trọng lực nhân tạo trưởng thành về thương mại biến vật lý chính xác thành hạ tầng hành tinh thông qua internet lượng tử, trọng lực nhân tạo, hệ thống đồng bộ thời gian toàn cầu, siêu dẫn và điện toán lượng tử mạnh mẽ.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2106,
@@ -2760,30 +2636,30 @@
           "Human-centered scene of artificial Gravity Systems Become Commercially Mature, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating artificial Gravity Systems Become Commercially Mature, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-artificial-gravity-systems-become-commercially-mature.png",
+        "src": "/assets/future-roadmap/era-04/era-04-artificial-gravity-systems-become-commercially-mature.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-artificial-gravity-systems-become-commercially-mature.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-artificial-gravity-systems-become-commercially-mature.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-artificial-gravity-systems-become-commercially-mature.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-artificial-gravity-systems-become-commercially-mature.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-artificial-gravity-systems-become-commercially-mature.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-artificial-gravity-systems-become-commercially-mature.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-artificial-gravity-systems-become-commercially-mature.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-artificial-gravity-systems-become-commercially-mature.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2799,11 +2675,7 @@
       "category": "Physics",
       "description": "Internet lượng tử thay thế mã hóa truyền thống biến vật lý chính xác thành hạ tầng hành tinh thông qua internet lượng tử, trọng lực nhân tạo, hệ thống đồng bộ thời gian toàn cầu, siêu dẫn và điện toán lượng tử mạnh mẽ.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2107,
@@ -2829,30 +2701,30 @@
           "Human-centered scene of quantum Internet Replaces Traditional Encryption, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating quantum Internet Replaces Traditional Encryption, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-quantum-internet-replaces-traditional-encryption.png",
+        "src": "/assets/future-roadmap/era-04/era-04-quantum-internet-replaces-traditional-encryption.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-quantum-internet-replaces-traditional-encryption.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-quantum-internet-replaces-traditional-encryption.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-quantum-internet-replaces-traditional-encryption.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-quantum-internet-replaces-traditional-encryption.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-quantum-internet-replaces-traditional-encryption.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-quantum-internet-replaces-traditional-encryption.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-quantum-internet-replaces-traditional-encryption.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-quantum-internet-replaces-traditional-encryption.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2868,11 +2740,7 @@
       "category": "Physics",
       "description": "Đồng hồ chính xác cấp hành tinh đồng bộ hóa hạ tầng con người biến vật lý chính xác thành hạ tầng hành tinh thông qua internet lượng tử, trọng lực nhân tạo, hệ thống đồng bộ thời gian toàn cầu, siêu dẫn và điện toán lượng tử mạnh mẽ.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2108,
@@ -2898,30 +2766,30 @@
           "Human-centered scene of planetary Precision Clocks Synchronize Human Infrastructure, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating planetary Precision Clocks Synchronize Human Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-planetary-precision-clocks-synchronize-human-infrastructure.png",
+        "src": "/assets/future-roadmap/era-04/era-04-planetary-precision-clocks-synchronize-human-infrastructure.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-planetary-precision-clocks-synchronize-human-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-planetary-precision-clocks-synchronize-human-infrastructure.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-planetary-precision-clocks-synchronize-human-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-planetary-precision-clocks-synchronize-human-infrastructure.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-planetary-precision-clocks-synchronize-human-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-planetary-precision-clocks-synchronize-human-infrastructure.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-planetary-precision-clocks-synchronize-human-infrastructure.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-planetary-precision-clocks-synchronize-human-infrastructure.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2937,11 +2805,7 @@
       "category": "Physics",
       "description": "Máy tính lượng tử quy mô lớn giải các bài toán từng bất khả thi biến vật lý chính xác thành hạ tầng hành tinh thông qua internet lượng tử, trọng lực nhân tạo, hệ thống đồng bộ thời gian toàn cầu, siêu dẫn và điện toán lượng tử mạnh mẽ.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2109,
@@ -2967,30 +2831,30 @@
           "Human-centered scene of large-Scale Quantum Computers Solve Previously Impossible Problems, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating large-Scale Quantum Computers Solve Previously Impossible Problems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.png",
+        "src": "/assets/future-roadmap/era-04/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3036,30 +2900,30 @@
           "Human-centered scene of self-Healing Buildings Become Standard Construction Practice, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating self-Healing Buildings Become Standard Construction Practice, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-self-healing-buildings-become-standard-construction-practice.png",
+        "src": "/assets/future-roadmap/era-04/era-04-self-healing-buildings-become-standard-construction-practice.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-self-healing-buildings-become-standard-construction-practice.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-self-healing-buildings-become-standard-construction-practice.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-self-healing-buildings-become-standard-construction-practice.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-self-healing-buildings-become-standard-construction-practice.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-self-healing-buildings-become-standard-construction-practice.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-self-healing-buildings-become-standard-construction-practice.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-self-healing-buildings-become-standard-construction-practice.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-self-healing-buildings-become-standard-construction-practice.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3075,11 +2939,7 @@
       "category": "Society & Economy",
       "description": "Tuần làm việc bốn ngày trở thành phổ quát bình thường hóa lao động thể chất tự chọn, dịch vụ phổ quát, công việc sáng tạo và sự suy giảm nghèo cùng cực khi các hệ thống hành tinh ổn định.",
       "layerId": "society-economy",
-      "domains": [
-        "post-scarcity",
-        "public-services",
-        "economic-systems"
-      ],
+      "domains": ["post-scarcity", "public-services", "economic-systems"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2110,
@@ -3105,30 +2965,30 @@
           "Human-centered scene of four-Day Workweek Becomes Universal, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating four-Day Workweek Becomes Universal, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-four-day-workweek-becomes-universal.png",
+        "src": "/assets/future-roadmap/era-04/era-04-four-day-workweek-becomes-universal.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-four-day-workweek-becomes-universal.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-four-day-workweek-becomes-universal.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-four-day-workweek-becomes-universal.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-four-day-workweek-becomes-universal.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-four-day-workweek-becomes-universal.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-four-day-workweek-becomes-universal.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-four-day-workweek-becomes-universal.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-four-day-workweek-becomes-universal.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3144,11 +3004,7 @@
       "category": "Society & Economy",
       "description": "Dịch vụ cơ bản toàn cầu thay thế hầu hết hệ thống phúc lợi bình thường hóa lao động thể chất tự chọn, dịch vụ phổ quát, công việc sáng tạo và sự suy giảm nghèo cùng cực khi các hệ thống hành tinh ổn định.",
       "layerId": "society-economy",
-      "domains": [
-        "post-scarcity",
-        "public-services",
-        "economic-systems"
-      ],
+      "domains": ["post-scarcity", "public-services", "economic-systems"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2111,
@@ -3174,30 +3030,30 @@
           "Human-centered scene of global Basic Services Replace Most Welfare Systems, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating global Basic Services Replace Most Welfare Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-global-basic-services-replace-most-welfare-systems.png",
+        "src": "/assets/future-roadmap/era-04/era-04-global-basic-services-replace-most-welfare-systems.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-global-basic-services-replace-most-welfare-systems.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-global-basic-services-replace-most-welfare-systems.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-global-basic-services-replace-most-welfare-systems.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-global-basic-services-replace-most-welfare-systems.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-global-basic-services-replace-most-welfare-systems.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-global-basic-services-replace-most-welfare-systems.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-global-basic-services-replace-most-welfare-systems.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-global-basic-services-replace-most-welfare-systems.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3213,11 +3069,7 @@
       "category": "Society & Economy",
       "description": "Công việc của con người chủ yếu trở thành sáng tạo và xã hội bình thường hóa lao động thể chất tự chọn, dịch vụ phổ quát, công việc sáng tạo và sự suy giảm nghèo cùng cực khi các hệ thống hành tinh ổn định.",
       "layerId": "society-economy",
-      "domains": [
-        "post-scarcity",
-        "public-services",
-        "economic-systems"
-      ],
+      "domains": ["post-scarcity", "public-services", "economic-systems"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2112,
@@ -3243,30 +3095,30 @@
           "Human-centered scene of human Work Becomes Primarily Creative and Social, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating human Work Becomes Primarily Creative and Social, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-human-work-becomes-primarily-creative-and-social.png",
+        "src": "/assets/future-roadmap/era-04/era-04-human-work-becomes-primarily-creative-and-social.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-human-work-becomes-primarily-creative-and-social.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-human-work-becomes-primarily-creative-and-social.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-human-work-becomes-primarily-creative-and-social.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-human-work-becomes-primarily-creative-and-social.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-human-work-becomes-primarily-creative-and-social.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-human-work-becomes-primarily-creative-and-social.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-human-work-becomes-primarily-creative-and-social.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-human-work-becomes-primarily-creative-and-social.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3282,11 +3134,7 @@
       "category": "Civilization",
       "description": "Hội đồng quản trị hành tinh điều phối các thách thức toàn cầu thiết lập quản trị hành tinh, quyền con người–AI, thành phố do AI quản lý được công nhận pháp lý và mức xung đột bạo lực thấp trong lịch sử.",
       "layerId": "civilization",
-      "domains": [
-        "governance",
-        "rights",
-        "planetary-civilization"
-      ],
+      "domains": ["governance", "rights", "planetary-civilization"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2112,
@@ -3312,30 +3160,30 @@
           "Human-centered scene of planetary Governance Council Coordinates Global Challenges, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating planetary Governance Council Coordinates Global Challenges, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-planetary-governance-council-coordinates-global-challenges.png",
+        "src": "/assets/future-roadmap/era-04/era-04-planetary-governance-council-coordinates-global-challenges.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-planetary-governance-council-coordinates-global-challenges.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-planetary-governance-council-coordinates-global-challenges.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-planetary-governance-council-coordinates-global-challenges.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-planetary-governance-council-coordinates-global-challenges.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-planetary-governance-council-coordinates-global-challenges.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-planetary-governance-council-coordinates-global-challenges.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-planetary-governance-council-coordinates-global-challenges.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-planetary-governance-council-coordinates-global-challenges.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3351,11 +3199,7 @@
       "category": "Civilization",
       "description": "Hiến chương quyền con người–AI được phê chuẩn thiết lập quản trị hành tinh, quyền con người–AI, thành phố do AI quản lý được công nhận pháp lý và mức xung đột bạo lực thấp trong lịch sử.",
       "layerId": "civilization",
-      "domains": [
-        "governance",
-        "rights",
-        "planetary-civilization"
-      ],
+      "domains": ["governance", "rights", "planetary-civilization"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2113,
@@ -3381,30 +3225,30 @@
           "Human-centered scene of human-AI Rights Charter Is Ratified, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating human-AI Rights Charter Is Ratified, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-human-ai-rights-charter-is-ratified.png",
+        "src": "/assets/future-roadmap/era-04/era-04-human-ai-rights-charter-is-ratified.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-human-ai-rights-charter-is-ratified.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-human-ai-rights-charter-is-ratified.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-human-ai-rights-charter-is-ratified.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-human-ai-rights-charter-is-ratified.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-human-ai-rights-charter-is-ratified.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-human-ai-rights-charter-is-ratified.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-human-ai-rights-charter-is-ratified.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-human-ai-rights-charter-is-ratified.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3420,11 +3264,7 @@
       "category": "Civilization",
       "description": "Xung đột bạo lực toàn cầu đạt mức thấp lịch sử thiết lập quản trị hành tinh, quyền con người–AI, thành phố do AI quản lý được công nhận pháp lý và mức xung đột bạo lực thấp trong lịch sử.",
       "layerId": "civilization",
-      "domains": [
-        "governance",
-        "rights",
-        "planetary-civilization"
-      ],
+      "domains": ["governance", "rights", "planetary-civilization"],
       "maturity": "planetary-scale-adoption",
       "timeframe": {
         "startYear": 2114,
@@ -3450,30 +3290,30 @@
           "Human-centered scene of global Violent Conflict Reaches Historic Low, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating global Violent Conflict Reaches Historic Low, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-04/era-04-global-violent-conflict-reaches-historic-low.png",
+        "src": "/assets/future-roadmap/era-04/era-04-global-violent-conflict-reaches-historic-low.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-04/mobile/era-04-global-violent-conflict-reaches-historic-low.webp",
+          "src": "/assets/future-roadmap/era-04/mobile/era-04-global-violent-conflict-reaches-historic-low.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-04/thumbnail/era-04-global-violent-conflict-reaches-historic-low.webp",
+          "src": "/assets/future-roadmap/era-04/thumbnail/era-04-global-violent-conflict-reaches-historic-low.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-04/desktop/era-04-global-violent-conflict-reaches-historic-low.webp",
+          "src": "/assets/future-roadmap/era-04/desktop/era-04-global-violent-conflict-reaches-historic-low.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-global-violent-conflict-reaches-historic-low.png",
+          "src": "/open_graph/future-roadmap/era-04/open_graph/era-04-global-violent-conflict-reaches-historic-low.png",
           "width": 1200,
           "height": 630,
           "quality": 82

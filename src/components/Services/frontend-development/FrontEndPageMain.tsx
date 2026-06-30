@@ -15,7 +15,7 @@ const FrontEndPageMain: React.FC<{ lang: string, frontEnd: IFrontEnd }> = ({lang
                         <h1>{content.services.title}</h1>
                         <div className="row align-items-center align-items-center-custom">
                             <FrontEndModuleLeft lang={lang} frontEnd={content}/>
-                            <FrontEndRightImages lang={lang}/>
+                            <FrontEndRightImages lang={lang} frontEnd={content}/>
                         </div>
                         <FrontEndModuleBottom lang={lang} frontEnd={content}/>
                     </div>

@@ -1,13 +1,11 @@
 "use client";
 
 import { SchemaMarkupServicePage } from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import ServicesDetailsDotNetCore from "@/components/Services/fullstack-development/dotnetcore/ServicesDetailsDotNetCore";
 import ServicesDetailsGoLang from "@/components/Services/fullstack-development/go-lang/ServicesDetailsGoLang";
 import ServicesDetailsJava from "@/components/Services/fullstack-development/java/ServicesDetailsJava";
 import ServicesDetailsNodejs from "@/components/Services/fullstack-development/nodejs/ServicesDetailsNodejs";
 import ServicesDetailsPhp from "@/components/Services/fullstack-development/php/ServicesDetailsPhp";
 import ServicesDetailsPython from "@/components/Services/fullstack-development/python/ServicesDetailsPython";
-import type { IDevOps } from "@/lib/model/IDevOps";
 import type { IFrontEnd } from "@/lib/model/IFrontEnd";
 import type { IFullStack, IFullStackStack } from "@/lib/model/IFullStack";
 import type { PlatformFullstackContent } from "@/lib/platform-content/fullstackContent";
@@ -24,11 +22,9 @@ type DetailComponentProps = {
   stack: IFullStackStack;
   frontEnd: IFrontEnd;
   fullStack: IFullStack;
-  devOps: IDevOps;
 };
 
 const detailComponents: Record<FullstackStackKey, ComponentType<DetailComponentProps>> = {
-  dotnetcore: ServicesDetailsDotNetCore,
   go: ServicesDetailsGoLang,
   java: ServicesDetailsJava,
   nodejs: ServicesDetailsNodejs,
@@ -63,7 +59,6 @@ export default function PlatformFullStackDetailPage({
         stack={stack}
         frontEnd={fullstackContent.frontEnd}
         fullStack={fullstackContent.fullStack}
-        devOps={fullstackContent.devOps}
       />
       <SchemaMarkupServicePage
         name={route.schema.name}

@@ -1,20 +1,12 @@
-import frontendSeed from "@/data/technical-expertise/en.frontend.json";
+import frontendSeed from "@/data/technical-expertise/frontend/en.json";
 import type { IFrontEnd, IFrontEndStack } from "@/lib/model/IFrontEnd";
 
 export type FrontendStackKey = Exclude<
   keyof IFrontEnd,
-  "title" | "span" | "subTitle" | "stacks" | "services"
+  "title" | "span" | "subTitle" | "sideImages" | "stacks" | "services"
 >;
 
-export type FrontendMetadataKey =
-  | "angular"
-  | "css3"
-  | "html5"
-  | "javascript"
-  | "nextjs"
-  | "react"
-  | "typescript"
-  | "vue";
+export type FrontendMetadataKey = "nextjs" | "react" | "typescript";
 
 export type FrontendRouteConfig = {
   slug: string;

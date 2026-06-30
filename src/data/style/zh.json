@@ -10,23 +10,23 @@
       "images": [
         {
           "slot": "primary",
-          "src": "/images/dev/styles/set1.png",
+          "src": "/assets/styles/01-rice-valley-couple-lanna.png",
           "alt": "兰纳情侣",
           "sizes": "(max-width: 768px) 100vw, 36vw",
           "mobile": {
-            "src": "/images/dev/styles/mobile/set1.webp",
+            "src": "/assets/styles/mobile/01-rice-valley-couple-lanna.webp",
             "width": 720,
             "height": 1280,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/images/dev/styles/thumbnail/set1.webp",
+            "src": "/assets/styles/thumbnail/01-rice-valley-couple-lanna.webp",
             "width": 405,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/images/dev/styles/desktop/set1.webp",
+            "src": "/assets/styles/desktop/01-rice-valley-couple-lanna.webp",
             "width": 900,
             "height": 1600,
             "quality": 82
@@ -34,23 +34,23 @@
         },
         {
           "slot": "secondary",
-          "src": "/images/dev/styles/set2.png",
+          "src": "/assets/styles/02-coastal-resort-floral.png",
           "alt": "海滨度假花卉套装",
           "sizes": "(max-width: 768px) 50vw, 18vw",
           "mobile": {
-            "src": "/images/dev/styles/mobile/set2.webp",
+            "src": "/assets/styles/mobile/02-coastal-resort-floral.webp",
             "width": 720,
             "height": 1280,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/images/dev/styles/thumbnail/set2.webp",
+            "src": "/assets/styles/thumbnail/02-coastal-resort-floral.webp",
             "width": 405,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/images/dev/styles/desktop/set2.webp",
+            "src": "/assets/styles/desktop/02-coastal-resort-floral.webp",
             "width": 900,
             "height": 1600,
             "quality": 82
@@ -58,23 +58,23 @@
         },
         {
           "slot": "tertiary",
-          "src": "/images/dev/styles/set3.png",
+          "src": "/assets/styles/03-waterfall-citrus-travel.png",
           "alt": "旅行造型",
           "sizes": "(max-width: 768px) 50vw, 18vw",
           "mobile": {
-            "src": "/images/dev/styles/mobile/set3.webp",
+            "src": "/assets/styles/mobile/03-waterfall-citrus-travel.webp",
             "width": 720,
             "height": 1280,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/images/dev/styles/thumbnail/set3.webp",
+            "src": "/assets/styles/thumbnail/03-waterfall-citrus-travel.webp",
             "width": 405,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/images/dev/styles/desktop/set3.webp",
+            "src": "/assets/styles/desktop/03-waterfall-citrus-travel.webp",
             "width": 900,
             "height": 1600,
             "quality": 82
@@ -152,46 +152,52 @@
       "title": "兰纳情侣",
       "visualSummary": "适合莲花山谷叙事与乡村旅游的浪漫兰纳情侣造型。",
       "image": {
-        "src": "/images-platform/styles/01-rice-valley-couple-lanna.png",
+        "src": "/assets/styles/01-rice-valley-couple-lanna.png",
         "alt": "兰纳情侣",
         "mobile": {
-          "src": "/images-platform/styles/mobile/01-rice-valley-couple-lanna.webp",
+          "src": "/assets/styles/mobile/01-rice-valley-couple-lanna.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/01-rice-valley-couple-lanna.webp",
+          "src": "/assets/styles/thumbnail/01-rice-valley-couple-lanna.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/01-rice-valley-couple-lanna.webp",
+          "src": "/assets/styles/desktop/01-rice-valley-couple-lanna.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/01-rice-valley-couple-lanna.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-2.png",
+            "src": "/assets/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-2.png",
             "alt": "兰纳情侣 1",
             "mobile": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-2.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-2.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-2.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -200,22 +206,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-3.png",
+            "src": "/assets/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-3.png",
             "alt": "兰纳情侣 2",
             "mobile": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-3.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-3.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-3.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -224,22 +230,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-4.png",
+            "src": "/assets/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-4.png",
             "alt": "兰纳情侣 3",
             "mobile": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-4.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-4.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-4.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -248,22 +254,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-5.png",
+            "src": "/assets/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-5.png",
             "alt": "兰纳情侣 4",
             "mobile": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-5.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-5.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-5.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-5.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-5.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-5.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -286,46 +292,52 @@
       "title": "花卉套装",
       "visualSummary": "适合海滨度假村、海滩步道、水上别墅与高级夏日生活方式的花卉套装。",
       "image": {
-        "src": "/images-platform/styles/02-coastal-resort-floral.png",
+        "src": "/assets/styles/02-coastal-resort-floral.png",
         "alt": "花卉套装",
         "mobile": {
-          "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+          "src": "/assets/styles/mobile/02-coastal-resort-floral.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+          "src": "/assets/styles/thumbnail/02-coastal-resort-floral.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+          "src": "/assets/styles/desktop/02-coastal-resort-floral.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/02-coastal-resort-floral.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-1.png",
+            "src": "/assets/styles/02-coastal-resort-floral/coastal-resort-floral-1.png",
             "alt": "花卉套装 1",
             "mobile": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-1.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-1.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-1.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -334,22 +346,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-2.png",
+            "src": "/assets/styles/02-coastal-resort-floral/coastal-resort-floral-2.png",
             "alt": "花卉套装 2",
             "mobile": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-2.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-2.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-2.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -358,22 +370,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-3.png",
+            "src": "/assets/styles/02-coastal-resort-floral/coastal-resort-floral-3.png",
             "alt": "花卉套装 3",
             "mobile": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-3.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-3.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-3.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -382,22 +394,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-4.png",
+            "src": "/assets/styles/02-coastal-resort-floral/coastal-resort-floral-4.png",
             "alt": "花卉套装 4",
             "mobile": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-4.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-4.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-4.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -420,46 +432,52 @@
       "title": "旅行造型",
       "visualSummary": "适合瀑布观景台、自然步道与轻冒险旅游的明亮短袖旅行造型。",
       "image": {
-        "src": "/images-platform/styles/03-waterfall-citrus-travel.png",
+        "src": "/assets/styles/03-waterfall-citrus-travel.png",
         "alt": "旅行造型",
         "mobile": {
-          "src": "/images-platform/styles/mobile/03-waterfall-citrus-travel.webp",
+          "src": "/assets/styles/mobile/03-waterfall-citrus-travel.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/03-waterfall-citrus-travel.webp",
+          "src": "/assets/styles/thumbnail/03-waterfall-citrus-travel.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/03-waterfall-citrus-travel.webp",
+          "src": "/assets/styles/desktop/03-waterfall-citrus-travel.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/03-waterfall-citrus-travel.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-1.png",
+            "src": "/assets/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-1.png",
             "alt": "旅行造型 1",
             "mobile": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-1.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-1.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-1.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -468,22 +486,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-2.png",
+            "src": "/assets/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-2.png",
             "alt": "旅行造型 2",
             "mobile": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-2.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-2.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-2.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -492,22 +510,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-3.png",
+            "src": "/assets/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-3.png",
             "alt": "旅行造型 3",
             "mobile": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-3.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-3.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-3.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -516,22 +534,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-4.png",
+            "src": "/assets/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-4.png",
             "alt": "旅行造型 4",
             "mobile": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-4.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-4.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-4.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -555,46 +573,52 @@
       "title": "莲池咖啡馆",
       "visualSummary": "为摆盘食物、莲池与本地餐饮设计的柔和色调咖啡馆造型。",
       "image": {
-        "src": "/images-platform/styles/04-lotus-smart-food-cafe.png",
+        "src": "/assets/styles/04-lotus-smart-food-cafe.png",
         "alt": "莲池咖啡馆",
         "mobile": {
-          "src": "/images-platform/styles/mobile/04-lotus-smart-food-cafe.webp",
+          "src": "/assets/styles/mobile/04-lotus-smart-food-cafe.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/04-lotus-smart-food-cafe.webp",
+          "src": "/assets/styles/thumbnail/04-lotus-smart-food-cafe.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/04-lotus-smart-food-cafe.webp",
+          "src": "/assets/styles/desktop/04-lotus-smart-food-cafe.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/04-lotus-smart-food-cafe.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-1.png",
+            "src": "/assets/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-1.png",
             "alt": "莲池咖啡馆 1",
             "mobile": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-1.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-1.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-1.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -603,22 +627,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-2.png",
+            "src": "/assets/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-2.png",
             "alt": "莲池咖啡馆 2",
             "mobile": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-2.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-2.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-2.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -627,22 +651,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-3.png",
+            "src": "/assets/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-3.png",
             "alt": "莲池咖啡馆 3",
             "mobile": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-3.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-3.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-3.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -651,22 +675,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-4.png",
+            "src": "/assets/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-4.png",
             "alt": "莲池咖啡馆 4",
             "mobile": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-4.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-4.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-4.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -689,46 +713,52 @@
       "title": "兰纳服饰",
       "visualSummary": "适合莲池步道、文化旅行与 Quiet Luxury 身份的精致紫色兰纳服饰。",
       "image": {
-        "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+        "src": "/assets/styles/05-lotus-lanna-ceremony.png",
         "alt": "兰纳服饰",
         "mobile": {
-          "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+          "src": "/assets/styles/mobile/05-lotus-lanna-ceremony.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+          "src": "/assets/styles/thumbnail/05-lotus-lanna-ceremony.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+          "src": "/assets/styles/desktop/05-lotus-lanna-ceremony.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/05-lotus-lanna-ceremony.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-1.png",
+            "src": "/assets/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-1.png",
             "alt": "兰纳服饰 1",
             "mobile": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-1.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-1.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-1.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -737,22 +767,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-2.png",
+            "src": "/assets/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-2.png",
             "alt": "兰纳服饰 2",
             "mobile": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-2.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-2.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-2.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -761,22 +791,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-3.png",
+            "src": "/assets/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-3.png",
             "alt": "兰纳服饰 3",
             "mobile": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-3.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-3.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-3.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -785,22 +815,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-4.png",
+            "src": "/assets/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-4.png",
             "alt": "兰纳服饰 4",
             "mobile": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-4.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-4.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-4.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -823,46 +853,52 @@
       "title": "绣球花谷绅士",
       "visualSummary": "干净利落的男士度假造型，以黑白单色热带印花为亮点，为山景露台与绣球花谷而打造。",
       "image": {
-        "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+        "src": "/assets/styles/06-mountain-hydrangea-gentleman.png",
         "alt": "绣球花谷绅士",
         "mobile": {
-          "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+          "src": "/assets/styles/mobile/06-mountain-hydrangea-gentleman.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+          "src": "/assets/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+          "src": "/assets/styles/desktop/06-mountain-hydrangea-gentleman.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/06-mountain-hydrangea-gentleman.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-1.png",
+            "src": "/assets/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-1.png",
             "alt": "绣球花谷绅士 1",
             "mobile": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-1.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-1.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-1.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -871,22 +907,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-2.png",
+            "src": "/assets/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-2.png",
             "alt": "绣球花谷绅士 2",
             "mobile": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-2.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-2.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-2.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -895,22 +931,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-3.png",
+            "src": "/assets/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-3.png",
             "alt": "绣球花谷绅士 3",
             "mobile": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-3.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-3.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-3.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -919,22 +955,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-4.png",
+            "src": "/assets/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-4.png",
             "alt": "绣球花谷绅士 4",
             "mobile": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-4.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-4.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-4.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -958,46 +994,52 @@
       "title": "兰纳女士",
       "visualSummary": "以绿色与金色打造的精致兰纳服饰，为花谷景观与山地露台而生，可成为高级文化肖像影像。",
       "image": {
-        "src": "/images-platform/styles/07-mountain-lanna-noble-woman.png",
+        "src": "/assets/styles/07-mountain-lanna-noble-woman.png",
         "alt": "兰纳女士",
         "mobile": {
-          "src": "/images-platform/styles/mobile/07-mountain-lanna-noble-woman.webp",
+          "src": "/assets/styles/mobile/07-mountain-lanna-noble-woman.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/07-mountain-lanna-noble-woman.webp",
+          "src": "/assets/styles/thumbnail/07-mountain-lanna-noble-woman.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/07-mountain-lanna-noble-woman.webp",
+          "src": "/assets/styles/desktop/07-mountain-lanna-noble-woman.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/07-mountain-lanna-noble-woman.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-1.png",
+            "src": "/assets/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-1.png",
             "alt": "兰纳女士 1",
             "mobile": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-1.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-1.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-1.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1006,22 +1048,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-2.png",
+            "src": "/assets/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-2.png",
             "alt": "兰纳女士 2",
             "mobile": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-2.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-2.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-2.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1030,22 +1072,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-3.png",
+            "src": "/assets/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-3.png",
             "alt": "兰纳女士 3",
             "mobile": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-3.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-3.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-3.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1054,22 +1096,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-4.png",
+            "src": "/assets/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-4.png",
             "alt": "兰纳女士 4",
             "mobile": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-4.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-4.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-4.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1093,46 +1135,52 @@
       "title": "花谷休闲绅士",
       "visualSummary": "适合男士旅行内容的彩色花卉衬衫，便于花园漫步与温暖家庭假期搭配。",
       "image": {
-        "src": "/images-platform/styles/08-flower-valley-gentleman-casual.png",
+        "src": "/assets/styles/08-flower-valley-gentleman-casual.png",
         "alt": "花谷休闲绅士",
         "mobile": {
-          "src": "/images-platform/styles/mobile/08-flower-valley-gentleman-casual.webp",
+          "src": "/assets/styles/mobile/08-flower-valley-gentleman-casual.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/08-flower-valley-gentleman-casual.webp",
+          "src": "/assets/styles/thumbnail/08-flower-valley-gentleman-casual.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/08-flower-valley-gentleman-casual.webp",
+          "src": "/assets/styles/desktop/08-flower-valley-gentleman-casual.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/08-flower-valley-gentleman-casual.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-1.png",
+            "src": "/assets/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-1.png",
             "alt": "花谷休闲绅士 1",
             "mobile": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-1.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-1.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-1.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1141,22 +1189,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-2.png",
+            "src": "/assets/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-2.png",
             "alt": "花谷休闲绅士 2",
             "mobile": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-2.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-2.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-2.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1165,22 +1213,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-3.png",
+            "src": "/assets/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-3.png",
             "alt": "花谷休闲绅士 3",
             "mobile": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-3.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-3.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-3.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1189,22 +1237,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-4.png",
+            "src": "/assets/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-4.png",
             "alt": "花谷休闲绅士 4",
             "mobile": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-4.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-4.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-4.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1228,46 +1276,52 @@
       "title": "迈向海风的第一步",
       "visualSummary": "柔和色调旅行造型，搭配行李箱与编织包，为从交通站到码头、再进入海风入口的过渡时刻而设计。",
       "image": {
-        "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+        "src": "/assets/styles/09-coastal-mts-traveler.png",
         "alt": "迈向海风的第一步",
         "mobile": {
-          "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+          "src": "/assets/styles/mobile/09-coastal-mts-traveler.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+          "src": "/assets/styles/thumbnail/09-coastal-mts-traveler.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+          "src": "/assets/styles/desktop/09-coastal-mts-traveler.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/09-coastal-mts-traveler.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-1.png",
+            "src": "/assets/styles/09-coastal-mts-traveler/coastal-mts-traveler-1.png",
             "alt": "迈向海风的第一步 1",
             "mobile": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-1.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-1.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-1.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1276,22 +1330,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-2.png",
+            "src": "/assets/styles/09-coastal-mts-traveler/coastal-mts-traveler-2.png",
             "alt": "迈向海风的第一步 2",
             "mobile": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-2.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-2.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-2.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1300,22 +1354,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-3.png",
+            "src": "/assets/styles/09-coastal-mts-traveler/coastal-mts-traveler-3.png",
             "alt": "迈向海风的第一步 3",
             "mobile": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-3.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-3.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-3.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1324,22 +1378,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-4.png",
+            "src": "/assets/styles/09-coastal-mts-traveler/coastal-mts-traveler-4.png",
             "alt": "迈向海风的第一步 4",
             "mobile": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-4.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-4.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-4.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1362,46 +1416,52 @@
       "title": "柔和清晨造型的美学",
       "visualSummary": "为奢华酒店健康时光而设计的柔和清晨造型，搭配温热咖啡与安静晨光。",
       "image": {
-        "src": "/images-platform/styles/10-soft-morning-luxury-safe.png",
+        "src": "/assets/styles/10-soft-morning-luxury-safe.png",
         "alt": "柔和清晨造型的美学",
         "mobile": {
-          "src": "/images-platform/styles/mobile/10-soft-morning-luxury-safe.webp",
+          "src": "/assets/styles/mobile/10-soft-morning-luxury-safe.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/10-soft-morning-luxury-safe.webp",
+          "src": "/assets/styles/thumbnail/10-soft-morning-luxury-safe.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/10-soft-morning-luxury-safe.webp",
+          "src": "/assets/styles/desktop/10-soft-morning-luxury-safe.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/10-soft-morning-luxury-safe.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-1.png",
+            "src": "/assets/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-1.png",
             "alt": "柔和清晨造型的美学 1",
             "mobile": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-1.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-1.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-1.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1410,22 +1470,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-2.png",
+            "src": "/assets/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-2.png",
             "alt": "柔和清晨造型的美学 2",
             "mobile": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-2.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-2.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-2.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1434,22 +1494,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-3.png",
+            "src": "/assets/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-3.png",
             "alt": "柔和清晨造型的美学 3",
             "mobile": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-3.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-3.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-3.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1458,22 +1518,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-4.png",
+            "src": "/assets/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-4.png",
             "alt": "柔和清晨造型的美学 4",
             "mobile": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-4.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-4.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-4.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82

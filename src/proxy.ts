@@ -14,6 +14,7 @@ const PUBLIC_PATH_PREFIXES = [
     '/images-ai',
     '/images-platform',
     '/images-opengraph',
+    '/open_graph',
     '/future-roadmap',
     '/smart-city',
     '/smart-food',

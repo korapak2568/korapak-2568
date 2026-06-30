@@ -19,29 +19,29 @@
       }
     ],
     "visual": {
-      "src": "/smart-food/smart-food-overview.png",
+      "src": "/assets/smart-food/smart-food-overview.png",
       "alt": "Smart Food AI platform serving customers in Chiang Mai",
       "ariaLabel": "Smart Food AI visual story",
       "mobile": {
-        "src": "/smart-food/mobile/smart-food-overview.webp",
+        "src": "/assets/smart-food/mobile/smart-food-overview.webp",
         "width": 768,
         "height": 512,
         "quality": 78
       },
       "thumbnail": {
-        "src": "/smart-food/thumbnail/smart-food-overview.webp",
+        "src": "/assets/smart-food/thumbnail/smart-food-overview.webp",
         "width": 480,
         "height": 320,
         "quality": 72
       },
       "desktop": {
-        "src": "/smart-food/desktop/smart-food-overview.webp",
+        "src": "/assets/smart-food/desktop/smart-food-overview.webp",
         "width": 1200,
         "height": 800,
         "quality": 82
       },
       "open_graph": {
-        "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+        "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
         "width": 1200,
         "height": 630,
         "quality": 82
@@ -59,28 +59,28 @@
       "We do more than make food ordering easier for customers. Smart Food is evolving into an All-in-One Restaurant OS that covers kitchen management, delivery service, automatic payment-slip verification, accounting systems, and internal operations, creating a strong foundation for sustainable food business growth."
     ],
     "image": {
-      "src": "/smart-food/chat-ordering.png",
+      "src": "/assets/smart-food/chat-ordering.png",
       "alt": "Smart Food AI serving customers in Chiang Mai through chat-based food ordering",
       "mobile": {
-        "src": "/smart-food/mobile/chat-ordering.webp",
+        "src": "/assets/smart-food/mobile/chat-ordering.webp",
         "width": 720,
         "height": 608,
         "quality": 78
       },
       "thumbnail": {
-        "src": "/smart-food/thumbnail/chat-ordering.webp",
+        "src": "/assets/smart-food/thumbnail/chat-ordering.webp",
         "width": 480,
         "height": 405,
         "quality": 72
       },
       "desktop": {
-        "src": "/smart-food/desktop/chat-ordering.webp",
+        "src": "/assets/smart-food/desktop/chat-ordering.webp",
         "width": 900,
         "height": 760,
         "quality": 82
       },
       "open_graph": {
-        "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+        "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
         "width": 1200,
         "height": 630,
         "quality": 82
@@ -115,28 +115,28 @@
         "title": "1. Order food easily through AI Chat",
         "text": "Customers can choose favorite menus, ask for details, or confirm orders instantly through a simple and natural chat conversation.",
         "image": {
-          "src": "/smart-food/process1-chat-ordering.png",
+          "src": "/assets/smart-food/process1-chat-ordering.png",
           "alt": "Smart Food intelligent AI Chat food ordering interface for customers",
           "mobile": {
-            "src": "/smart-food/mobile/process1-chat-ordering.webp",
+            "src": "/assets/smart-food/mobile/process1-chat-ordering.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process1-chat-ordering.webp",
+            "src": "/assets/smart-food/thumbnail/process1-chat-ordering.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process1-chat-ordering.webp",
+            "src": "/assets/smart-food/desktop/process1-chat-ordering.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -147,28 +147,28 @@
         "title": "2. Process and verify bills automatically",
         "text": "The AI system summarizes the order total, receives payment slips, and automatically verifies the payment amount before sending the order to the kitchen.",
         "image": {
-          "src": "/smart-food/process2-bill-processing.png",
+          "src": "/assets/smart-food/process2-bill-processing.png",
           "alt": "Smart Food AI system summarizing bills and automatically verifying payment slips",
           "mobile": {
-            "src": "/smart-food/mobile/process2-bill-processing.webp",
+            "src": "/assets/smart-food/mobile/process2-bill-processing.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process2-bill-processing.webp",
+            "src": "/assets/smart-food/thumbnail/process2-bill-processing.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process2-bill-processing.webp",
+            "src": "/assets/smart-food/desktop/process2-bill-processing.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -179,28 +179,28 @@
         "title": "3. Freshly cooked with kitchen team standards",
         "text": "The kitchen team receives confirmed orders and starts cooking immediately with fresh ingredients under an accurate, standardized kitchen queue management system.",
         "image": {
-          "src": "/smart-food/process3-cooking.png",
+          "src": "/assets/smart-food/process3-cooking.png",
           "alt": "Kitchen team carefully preparing food according to orders from the Smart Food system",
           "mobile": {
-            "src": "/smart-food/mobile/process3-cooking.webp",
+            "src": "/assets/smart-food/mobile/process3-cooking.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process3-cooking.webp",
+            "src": "/assets/smart-food/thumbnail/process3-cooking.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process3-cooking.webp",
+            "src": "/assets/smart-food/desktop/process3-cooking.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -211,28 +211,28 @@
         "title": "4. Coordinate delivery dispatch",
         "text": "The system alerts and forwards completed orders to local delivery riders immediately, preparing meals for fast delivery to customers.",
         "image": {
-          "src": "/smart-food/process4-delivery.png",
+          "src": "/assets/smart-food/process4-delivery.png",
           "alt": "Smart Food system coordinating food delivery with local delivery riders",
           "mobile": {
-            "src": "/smart-food/mobile/process4-delivery.webp",
+            "src": "/assets/smart-food/mobile/process4-delivery.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process4-delivery.webp",
+            "src": "/assets/smart-food/thumbnail/process4-delivery.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process4-delivery.webp",
+            "src": "/assets/smart-food/desktop/process4-delivery.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -243,28 +243,28 @@
         "title": "5. Receive hot food delivered directly",
         "text": "Customers can pin their delivery location accurately and enjoy their favorite meals, completing a seamless food ordering experience.",
         "image": {
-          "src": "/smart-food/process5-receiving.png",
+          "src": "/assets/smart-food/process5-receiving.png",
           "alt": "Delivery rider safely handing a completed food order to the customer",
           "mobile": {
-            "src": "/smart-food/mobile/process5-receiving.webp",
+            "src": "/assets/smart-food/mobile/process5-receiving.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process5-receiving.webp",
+            "src": "/assets/smart-food/thumbnail/process5-receiving.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process5-receiving.webp",
+            "src": "/assets/smart-food/desktop/process5-receiving.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82

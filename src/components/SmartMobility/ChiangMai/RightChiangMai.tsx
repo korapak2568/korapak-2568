@@ -1,14 +1,14 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import {ISmartImage} from "@/lib/model/ISmartMobility";
+import { ISmartImage } from "@/lib/model/ISmartMobility";
 import {
     getPlatformImageAlt,
     getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
 
 export default function RightChiangMai(
-    {lang, rightItems}: {
+    { lang, rightItems }: {
         lang: string,
         rightItems: ISmartImage[]
     }
@@ -23,14 +23,14 @@ export default function RightChiangMai(
                                 <Link href={'/' + lang + item.link}>
                                     <div className="smart-right-image-wrapper">
                                         {
-                                            item.media?.image_url &&
+                                            item.image &&
                                             <Image
                                                 src={getPlatformImageSrc(
-                                                    {image_url: item.media.image_url, alt: item.title},
+                                                    item.image,
                                                     "thumbnail",
                                                 )}
                                                 alt={getPlatformImageAlt(
-                                                    {image_url: item.media.image_url, alt: item.title},
+                                                    item.image,
                                                     "thumbnail",
                                                 )}
                                                 width={650}

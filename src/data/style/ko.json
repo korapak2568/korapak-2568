@@ -10,23 +10,23 @@
       "images": [
         {
           "slot": "primary",
-          "src": "/images/dev/styles/set1.png",
+          "src": "/assets/styles/01-rice-valley-couple-lanna.png",
           "alt": "란나 커플",
           "sizes": "(max-width: 768px) 100vw, 36vw",
           "mobile": {
-            "src": "/images/dev/styles/mobile/set1.webp",
+            "src": "/assets/styles/mobile/01-rice-valley-couple-lanna.webp",
             "width": 720,
             "height": 1280,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/images/dev/styles/thumbnail/set1.webp",
+            "src": "/assets/styles/thumbnail/01-rice-valley-couple-lanna.webp",
             "width": 405,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/images/dev/styles/desktop/set1.webp",
+            "src": "/assets/styles/desktop/01-rice-valley-couple-lanna.webp",
             "width": 900,
             "height": 1600,
             "quality": 82
@@ -34,23 +34,23 @@
         },
         {
           "slot": "secondary",
-          "src": "/images/dev/styles/set2.png",
+          "src": "/assets/styles/02-coastal-resort-floral.png",
           "alt": "해안 리조트 플로럴 의상",
           "sizes": "(max-width: 768px) 50vw, 18vw",
           "mobile": {
-            "src": "/images/dev/styles/mobile/set2.webp",
+            "src": "/assets/styles/mobile/02-coastal-resort-floral.webp",
             "width": 720,
             "height": 1280,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/images/dev/styles/thumbnail/set2.webp",
+            "src": "/assets/styles/thumbnail/02-coastal-resort-floral.webp",
             "width": 405,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/images/dev/styles/desktop/set2.webp",
+            "src": "/assets/styles/desktop/02-coastal-resort-floral.webp",
             "width": 900,
             "height": 1600,
             "quality": 82
@@ -58,23 +58,23 @@
         },
         {
           "slot": "tertiary",
-          "src": "/images/dev/styles/set3.png",
+          "src": "/assets/styles/03-waterfall-citrus-travel.png",
           "alt": "여행 룩",
           "sizes": "(max-width: 768px) 50vw, 18vw",
           "mobile": {
-            "src": "/images/dev/styles/mobile/set3.webp",
+            "src": "/assets/styles/mobile/03-waterfall-citrus-travel.webp",
             "width": 720,
             "height": 1280,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/images/dev/styles/thumbnail/set3.webp",
+            "src": "/assets/styles/thumbnail/03-waterfall-citrus-travel.webp",
             "width": 405,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/images/dev/styles/desktop/set3.webp",
+            "src": "/assets/styles/desktop/03-waterfall-citrus-travel.webp",
             "width": 900,
             "height": 1600,
             "quality": 82
@@ -152,46 +152,52 @@
       "title": "란나 커플",
       "visualSummary": "연꽃 계곡 스토리텔링과 농촌 관광을 위한 로맨틱한 란나 커플 룩.",
       "image": {
-        "src": "/images-platform/styles/01-rice-valley-couple-lanna.png",
+        "src": "/assets/styles/01-rice-valley-couple-lanna.png",
         "alt": "란나 커플",
         "mobile": {
-          "src": "/images-platform/styles/mobile/01-rice-valley-couple-lanna.webp",
+          "src": "/assets/styles/mobile/01-rice-valley-couple-lanna.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/01-rice-valley-couple-lanna.webp",
+          "src": "/assets/styles/thumbnail/01-rice-valley-couple-lanna.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/01-rice-valley-couple-lanna.webp",
+          "src": "/assets/styles/desktop/01-rice-valley-couple-lanna.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/01-rice-valley-couple-lanna.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-2.png",
+            "src": "/assets/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-2.png",
             "alt": "란나 커플 1",
             "mobile": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-2.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-2.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-2.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -200,22 +206,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-3.png",
+            "src": "/assets/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-3.png",
             "alt": "란나 커플 2",
             "mobile": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-3.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-3.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-3.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -224,22 +230,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-4.png",
+            "src": "/assets/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-4.png",
             "alt": "란나 커플 3",
             "mobile": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-4.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-4.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-4.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -248,22 +254,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-5.png",
+            "src": "/assets/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-5.png",
             "alt": "란나 커플 4",
             "mobile": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-5.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-5.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-5.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-5.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-5.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-5.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -286,46 +292,52 @@
       "title": "플로럴 의상",
       "visualSummary": "해안 리조트, 해변 산책로, 수상 빌라, 프리미엄 여름 라이프스타일을 위한 플로럴 의상.",
       "image": {
-        "src": "/images-platform/styles/02-coastal-resort-floral.png",
+        "src": "/assets/styles/02-coastal-resort-floral.png",
         "alt": "플로럴 의상",
         "mobile": {
-          "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+          "src": "/assets/styles/mobile/02-coastal-resort-floral.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+          "src": "/assets/styles/thumbnail/02-coastal-resort-floral.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+          "src": "/assets/styles/desktop/02-coastal-resort-floral.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/02-coastal-resort-floral.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-1.png",
+            "src": "/assets/styles/02-coastal-resort-floral/coastal-resort-floral-1.png",
             "alt": "플로럴 의상 1",
             "mobile": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-1.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-1.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-1.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -334,22 +346,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-2.png",
+            "src": "/assets/styles/02-coastal-resort-floral/coastal-resort-floral-2.png",
             "alt": "플로럴 의상 2",
             "mobile": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-2.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-2.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-2.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -358,22 +370,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-3.png",
+            "src": "/assets/styles/02-coastal-resort-floral/coastal-resort-floral-3.png",
             "alt": "플로럴 의상 3",
             "mobile": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-3.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-3.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-3.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -382,22 +394,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-4.png",
+            "src": "/assets/styles/02-coastal-resort-floral/coastal-resort-floral-4.png",
             "alt": "플로럴 의상 4",
             "mobile": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-4.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-4.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-4.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -420,46 +432,52 @@
       "title": "여행 룩",
       "visualSummary": "폭포 전망대, 자연 산책로, 가벼운 모험 여행을 위한 밝은 반소매 여행 룩.",
       "image": {
-        "src": "/images-platform/styles/03-waterfall-citrus-travel.png",
+        "src": "/assets/styles/03-waterfall-citrus-travel.png",
         "alt": "여행 룩",
         "mobile": {
-          "src": "/images-platform/styles/mobile/03-waterfall-citrus-travel.webp",
+          "src": "/assets/styles/mobile/03-waterfall-citrus-travel.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/03-waterfall-citrus-travel.webp",
+          "src": "/assets/styles/thumbnail/03-waterfall-citrus-travel.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/03-waterfall-citrus-travel.webp",
+          "src": "/assets/styles/desktop/03-waterfall-citrus-travel.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/03-waterfall-citrus-travel.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-1.png",
+            "src": "/assets/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-1.png",
             "alt": "여행 룩 1",
             "mobile": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-1.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-1.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-1.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -468,22 +486,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-2.png",
+            "src": "/assets/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-2.png",
             "alt": "여행 룩 2",
             "mobile": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-2.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-2.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-2.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -492,22 +510,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-3.png",
+            "src": "/assets/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-3.png",
             "alt": "여행 룩 3",
             "mobile": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-3.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-3.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-3.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -516,22 +534,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-4.png",
+            "src": "/assets/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-4.png",
             "alt": "여행 룩 4",
             "mobile": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-4.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-4.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-4.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -555,46 +573,52 @@
       "title": "연못 카페",
       "visualSummary": "플레이팅 음식, 연못, 로컬 다이닝을 위해 설계된 부드러운 톤의 카페 룩.",
       "image": {
-        "src": "/images-platform/styles/04-lotus-smart-food-cafe.png",
+        "src": "/assets/styles/04-lotus-smart-food-cafe.png",
         "alt": "연못 카페",
         "mobile": {
-          "src": "/images-platform/styles/mobile/04-lotus-smart-food-cafe.webp",
+          "src": "/assets/styles/mobile/04-lotus-smart-food-cafe.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/04-lotus-smart-food-cafe.webp",
+          "src": "/assets/styles/thumbnail/04-lotus-smart-food-cafe.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/04-lotus-smart-food-cafe.webp",
+          "src": "/assets/styles/desktop/04-lotus-smart-food-cafe.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/04-lotus-smart-food-cafe.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-1.png",
+            "src": "/assets/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-1.png",
             "alt": "연못 카페 1",
             "mobile": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-1.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-1.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-1.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -603,22 +627,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-2.png",
+            "src": "/assets/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-2.png",
             "alt": "연못 카페 2",
             "mobile": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-2.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-2.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-2.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -627,22 +651,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-3.png",
+            "src": "/assets/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-3.png",
             "alt": "연못 카페 3",
             "mobile": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-3.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-3.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-3.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -651,22 +675,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-4.png",
+            "src": "/assets/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-4.png",
             "alt": "연못 카페 4",
             "mobile": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-4.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-4.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-4.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -689,46 +713,52 @@
       "title": "란나 의상",
       "visualSummary": "연못 산책로, 문화 여행, Quiet Luxury 정체성을 위한 세련된 보라색 란나 의상.",
       "image": {
-        "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+        "src": "/assets/styles/05-lotus-lanna-ceremony.png",
         "alt": "란나 의상",
         "mobile": {
-          "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+          "src": "/assets/styles/mobile/05-lotus-lanna-ceremony.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+          "src": "/assets/styles/thumbnail/05-lotus-lanna-ceremony.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+          "src": "/assets/styles/desktop/05-lotus-lanna-ceremony.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/05-lotus-lanna-ceremony.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-1.png",
+            "src": "/assets/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-1.png",
             "alt": "란나 의상 1",
             "mobile": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-1.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-1.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-1.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -737,22 +767,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-2.png",
+            "src": "/assets/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-2.png",
             "alt": "란나 의상 2",
             "mobile": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-2.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-2.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-2.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -761,22 +791,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-3.png",
+            "src": "/assets/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-3.png",
             "alt": "란나 의상 3",
             "mobile": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-3.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-3.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-3.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -785,22 +815,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-4.png",
+            "src": "/assets/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-4.png",
             "alt": "란나 의상 4",
             "mobile": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-4.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-4.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-4.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -823,46 +853,52 @@
       "title": "수국 계곡 젠틀맨",
       "visualSummary": "흑백 모노크롬 트로피컬 프린트가 돋보이는 깔끔한 남성 리조트웨어 룩으로, 산 전망 테라스와 수국 계곡을 위해 만들어졌습니다.",
       "image": {
-        "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+        "src": "/assets/styles/06-mountain-hydrangea-gentleman.png",
         "alt": "수국 계곡 젠틀맨",
         "mobile": {
-          "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+          "src": "/assets/styles/mobile/06-mountain-hydrangea-gentleman.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+          "src": "/assets/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+          "src": "/assets/styles/desktop/06-mountain-hydrangea-gentleman.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/06-mountain-hydrangea-gentleman.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-1.png",
+            "src": "/assets/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-1.png",
             "alt": "수국 계곡 젠틀맨 1",
             "mobile": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-1.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-1.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-1.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -871,22 +907,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-2.png",
+            "src": "/assets/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-2.png",
             "alt": "수국 계곡 젠틀맨 2",
             "mobile": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-2.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-2.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-2.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -895,22 +931,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-3.png",
+            "src": "/assets/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-3.png",
             "alt": "수국 계곡 젠틀맨 3",
             "mobile": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-3.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-3.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-3.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -919,22 +955,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-4.png",
+            "src": "/assets/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-4.png",
             "alt": "수국 계곡 젠틀맨 4",
             "mobile": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-4.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-4.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-4.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -958,46 +994,52 @@
       "title": "란나 레이디",
       "visualSummary": "초록과 금색으로 완성한 정교한 란나 의상으로, 꽃 계곡과 산 테라스 풍경에 어울리는 프리미엄 문화 포트레이트 이미지가 됩니다.",
       "image": {
-        "src": "/images-platform/styles/07-mountain-lanna-noble-woman.png",
+        "src": "/assets/styles/07-mountain-lanna-noble-woman.png",
         "alt": "란나 레이디",
         "mobile": {
-          "src": "/images-platform/styles/mobile/07-mountain-lanna-noble-woman.webp",
+          "src": "/assets/styles/mobile/07-mountain-lanna-noble-woman.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/07-mountain-lanna-noble-woman.webp",
+          "src": "/assets/styles/thumbnail/07-mountain-lanna-noble-woman.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/07-mountain-lanna-noble-woman.webp",
+          "src": "/assets/styles/desktop/07-mountain-lanna-noble-woman.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/07-mountain-lanna-noble-woman.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-1.png",
+            "src": "/assets/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-1.png",
             "alt": "란나 레이디 1",
             "mobile": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-1.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-1.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-1.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1006,22 +1048,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-2.png",
+            "src": "/assets/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-2.png",
             "alt": "란나 레이디 2",
             "mobile": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-2.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-2.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-2.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1030,22 +1072,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-3.png",
+            "src": "/assets/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-3.png",
             "alt": "란나 레이디 3",
             "mobile": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-3.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-3.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-3.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1054,22 +1096,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-4.png",
+            "src": "/assets/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-4.png",
             "alt": "란나 레이디 4",
             "mobile": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-4.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-4.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-4.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1093,46 +1135,52 @@
       "title": "꽃 계곡 캐주얼 젠틀맨",
       "visualSummary": "남성 여행 콘텐츠에 적합한 화려한 플로럴 셔츠로, 정원 산책과 따뜻한 가족 여행에 쉽게 스타일링할 수 있습니다.",
       "image": {
-        "src": "/images-platform/styles/08-flower-valley-gentleman-casual.png",
+        "src": "/assets/styles/08-flower-valley-gentleman-casual.png",
         "alt": "꽃 계곡 캐주얼 젠틀맨",
         "mobile": {
-          "src": "/images-platform/styles/mobile/08-flower-valley-gentleman-casual.webp",
+          "src": "/assets/styles/mobile/08-flower-valley-gentleman-casual.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/08-flower-valley-gentleman-casual.webp",
+          "src": "/assets/styles/thumbnail/08-flower-valley-gentleman-casual.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/08-flower-valley-gentleman-casual.webp",
+          "src": "/assets/styles/desktop/08-flower-valley-gentleman-casual.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/08-flower-valley-gentleman-casual.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-1.png",
+            "src": "/assets/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-1.png",
             "alt": "꽃 계곡 캐주얼 젠틀맨 1",
             "mobile": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-1.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-1.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-1.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1141,22 +1189,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-2.png",
+            "src": "/assets/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-2.png",
             "alt": "꽃 계곡 캐주얼 젠틀맨 2",
             "mobile": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-2.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-2.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-2.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1165,22 +1213,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-3.png",
+            "src": "/assets/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-3.png",
             "alt": "꽃 계곡 캐주얼 젠틀맨 3",
             "mobile": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-3.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-3.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-3.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1189,22 +1237,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-4.png",
+            "src": "/assets/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-4.png",
             "alt": "꽃 계곡 캐주얼 젠틀맨 4",
             "mobile": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-4.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-4.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-4.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1228,46 +1276,52 @@
       "title": "해풍을 향한 첫걸음",
       "visualSummary": "부드러운 톤의 여행 룩에 여행 가방과 위빙 백을 더해, 교통역에서 마리나와 바닷바람으로 이어지는 전환을 위해 설계했습니다.",
       "image": {
-        "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+        "src": "/assets/styles/09-coastal-mts-traveler.png",
         "alt": "해풍을 향한 첫걸음",
         "mobile": {
-          "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+          "src": "/assets/styles/mobile/09-coastal-mts-traveler.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+          "src": "/assets/styles/thumbnail/09-coastal-mts-traveler.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+          "src": "/assets/styles/desktop/09-coastal-mts-traveler.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/09-coastal-mts-traveler.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-1.png",
+            "src": "/assets/styles/09-coastal-mts-traveler/coastal-mts-traveler-1.png",
             "alt": "해풍을 향한 첫걸음 1",
             "mobile": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-1.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-1.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-1.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1276,22 +1330,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-2.png",
+            "src": "/assets/styles/09-coastal-mts-traveler/coastal-mts-traveler-2.png",
             "alt": "해풍을 향한 첫걸음 2",
             "mobile": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-2.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-2.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-2.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1300,22 +1354,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-3.png",
+            "src": "/assets/styles/09-coastal-mts-traveler/coastal-mts-traveler-3.png",
             "alt": "해풍을 향한 첫걸음 3",
             "mobile": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-3.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-3.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-3.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1324,22 +1378,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-4.png",
+            "src": "/assets/styles/09-coastal-mts-traveler/coastal-mts-traveler-4.png",
             "alt": "해풍을 향한 첫걸음 4",
             "mobile": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-4.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-4.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-4.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1362,46 +1416,52 @@
       "title": "부드러운 아침 룩의 미학",
       "visualSummary": "럭셔리 호텔의 웰니스 시간을 위해 만들어진 부드러운 아침 룩으로, 따뜻한 커피와 고요한 아침을 함께합니다.",
       "image": {
-        "src": "/images-platform/styles/10-soft-morning-luxury-safe.png",
+        "src": "/assets/styles/10-soft-morning-luxury-safe.png",
         "alt": "부드러운 아침 룩의 미학",
         "mobile": {
-          "src": "/images-platform/styles/mobile/10-soft-morning-luxury-safe.webp",
+          "src": "/assets/styles/mobile/10-soft-morning-luxury-safe.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/10-soft-morning-luxury-safe.webp",
+          "src": "/assets/styles/thumbnail/10-soft-morning-luxury-safe.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/10-soft-morning-luxury-safe.webp",
+          "src": "/assets/styles/desktop/10-soft-morning-luxury-safe.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/10-soft-morning-luxury-safe.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-1.png",
+            "src": "/assets/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-1.png",
             "alt": "부드러운 아침 룩의 미학 1",
             "mobile": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-1.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-1.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-1.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1410,22 +1470,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-2.png",
+            "src": "/assets/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-2.png",
             "alt": "부드러운 아침 룩의 미학 2",
             "mobile": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-2.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-2.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-2.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1434,22 +1494,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-3.png",
+            "src": "/assets/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-3.png",
             "alt": "부드러운 아침 룩의 미학 3",
             "mobile": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-3.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-3.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-3.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1458,22 +1518,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-4.png",
+            "src": "/assets/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-4.png",
             "alt": "부드러운 아침 룩의 미학 4",
             "mobile": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-4.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-4.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-4.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82

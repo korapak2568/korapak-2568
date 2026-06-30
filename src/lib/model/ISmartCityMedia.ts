@@ -1,11 +1,13 @@
 import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
 
 export interface ISmartCityResponsiveImage {
-    url: string;
+    src?: string;
+    url?: string;
     alt: string;
     mobile?: PlatformResponsiveImageVariant;
     thumbnail?: PlatformResponsiveImageVariant;
     desktop?: PlatformResponsiveImageVariant;
+    open_graph?: PlatformResponsiveImageVariant;
 }
 
 export interface IHeroSection {

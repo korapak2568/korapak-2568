@@ -70,6 +70,7 @@ export default function MainChiangMai({
   content: SmartMobilityChiangMaiContentPayload;
 }) {
   const primaryContent = getPrimaryContent(content);
+  const primaryImage = primaryContent.image;
 
   return (
     <div className="portfolio-details-area smart-container-top">
@@ -93,16 +94,10 @@ export default function MainChiangMai({
         <div className="row">
           <div className="col-lg-8">
             <div className="portfolio-details-image neo-image-container">
-              {primaryContent.media?.image_url ? (
+              {primaryImage ? (
                 <Image
-                  src={getPlatformImageSrc(
-                    { image_url: primaryContent.media.image_url, alt: primaryContent.title },
-                    "desktop",
-                  )}
-                  alt={getPlatformImageAlt(
-                    { image_url: primaryContent.media.image_url, alt: primaryContent.title },
-                    "desktop",
-                  )}
+                  src={getPlatformImageSrc(primaryImage, "desktop")}
+                  alt={getPlatformImageAlt(primaryImage, "desktop")}
                   width={1000}
                   height={600}
                 />
@@ -110,7 +105,7 @@ export default function MainChiangMai({
             </div>
 
             <div className="neo-tag">
-              {primaryContent.media?.image_tags?.map((tag) => (
+              {primaryImage?.tags?.map((tag) => (
                 <span key={tag}>{tag}</span>
               ))}
             </div>

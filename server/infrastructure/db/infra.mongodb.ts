@@ -10,7 +10,6 @@ import {AiCompanionsContentRecord} from "@/core/domain/ai-companions-content.ent
 import {SmartCityLandingContentRecord} from "@/core/domain/smart-city-landing-content.entity";
 import {SmartCityChiangMaiContentRecord} from "@/core/domain/smart-city-chiang-mai-content.entity";
 import {SmartMobilityChiangMaiContentRecord} from "@/core/domain/smart-mobility-chiang-mai-content.entity";
-import {TechnicalExpertiseContentRecord} from "@/core/domain/technical-expertise-content.entity";
 import {SmartFoodAiContentRecord} from "@/core/domain/smart-food-ai-content.entity";
 
 const uri = process.env.MONGODB_URI;
@@ -35,8 +34,6 @@ const smartCityChiangMaiContentCollectionName =
     process.env.MONGODB_COLLECTION_SMART_CITY_CHIANG_MAI_CONTENT || 'smart_city_chiang_mai_content';
 const smartMobilityChiangMaiContentCollectionName =
     process.env.MONGODB_COLLECTION_SMART_MOBILITY_CHIANG_MAI_CONTENT || 'smart_mobility_chiang_mai_content';
-const technicalExpertiseContentCollectionName =
-    process.env.MONGODB_COLLECTION_TECHNICAL_EXPERTISE_CONTENT || 'technical_expertise_content';
 const smartFoodAiContentCollectionName =
     process.env.MONGODB_COLLECTION_SMART_FOOD_AI_CONTENT || 'smart_food_ai_content';
 
@@ -123,7 +120,5 @@ export const smartCityChiangMaiContentCollection: Collection<SmartCityChiangMaiC
     db.collection(smartCityChiangMaiContentCollectionName);
 export const smartMobilityChiangMaiContentCollection: Collection<SmartMobilityChiangMaiContentRecord> =
     db.collection(smartMobilityChiangMaiContentCollectionName);
-export const technicalExpertiseContentCollection: Collection<TechnicalExpertiseContentRecord> =
-    db.collection(technicalExpertiseContentCollectionName);
 export const smartFoodAiContentCollection: Collection<SmartFoodAiContentRecord> =
     db.collection(smartFoodAiContentCollectionName);

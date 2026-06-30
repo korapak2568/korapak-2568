@@ -19,29 +19,29 @@
       }
     ],
     "visual": {
-      "src": "/smart-food/smart-food-overview.png",
+      "src": "/assets/smart-food/smart-food-overview.png",
       "alt": "Nền tảng Smart Food AI phục vụ khách hàng tại Chiang Mai",
       "ariaLabel": "Câu chuyện hình ảnh của Smart Food AI",
       "mobile": {
-        "src": "/smart-food/mobile/smart-food-overview.webp",
+        "src": "/assets/smart-food/mobile/smart-food-overview.webp",
         "width": 768,
         "height": 512,
         "quality": 78
       },
       "thumbnail": {
-        "src": "/smart-food/thumbnail/smart-food-overview.webp",
+        "src": "/assets/smart-food/thumbnail/smart-food-overview.webp",
         "width": 480,
         "height": 320,
         "quality": 72
       },
       "desktop": {
-        "src": "/smart-food/desktop/smart-food-overview.webp",
+        "src": "/assets/smart-food/desktop/smart-food-overview.webp",
         "width": 1200,
         "height": 800,
         "quality": 82
       },
       "open_graph": {
-        "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+        "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
         "width": 1200,
         "height": 630,
         "quality": 82
@@ -59,28 +59,28 @@
       "Chúng tôi không chỉ giúp khách hàng đặt món dễ hơn. Smart Food đang phát triển thành All-in-One Restaurant OS, bao phủ quản lý bếp, dịch vụ giao hàng, xác minh phiếu thanh toán tự động, hệ thống kế toán và vận hành nội bộ, tạo nền tảng vững chắc cho tăng trưởng bền vững của doanh nghiệp ẩm thực."
     ],
     "image": {
-      "src": "/smart-food/chat-ordering.png",
+      "src": "/assets/smart-food/chat-ordering.png",
       "alt": "Smart Food AI phục vụ khách hàng tại Chiang Mai thông qua đặt món bằng chat",
       "mobile": {
-        "src": "/smart-food/mobile/chat-ordering.webp",
+        "src": "/assets/smart-food/mobile/chat-ordering.webp",
         "width": 720,
         "height": 608,
         "quality": 78
       },
       "thumbnail": {
-        "src": "/smart-food/thumbnail/chat-ordering.webp",
+        "src": "/assets/smart-food/thumbnail/chat-ordering.webp",
         "width": 480,
         "height": 405,
         "quality": 72
       },
       "desktop": {
-        "src": "/smart-food/desktop/chat-ordering.webp",
+        "src": "/assets/smart-food/desktop/chat-ordering.webp",
         "width": 900,
         "height": 760,
         "quality": 82
       },
       "open_graph": {
-        "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+        "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
         "width": 1200,
         "height": 630,
         "quality": 82
@@ -115,28 +115,28 @@
         "title": "1. Đặt món dễ dàng qua AI Chat",
         "text": "Khách hàng có thể chọn món yêu thích, hỏi chi tiết hoặc xác nhận đơn hàng ngay lập tức qua cuộc trò chuyện chat đơn giản và tự nhiên.",
         "image": {
-          "src": "/smart-food/process1-chat-ordering.png",
+          "src": "/assets/smart-food/process1-chat-ordering.png",
           "alt": "Giao diện đặt món Smart Food AI Chat thông minh dành cho khách hàng",
           "mobile": {
-            "src": "/smart-food/mobile/process1-chat-ordering.webp",
+            "src": "/assets/smart-food/mobile/process1-chat-ordering.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process1-chat-ordering.webp",
+            "src": "/assets/smart-food/thumbnail/process1-chat-ordering.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process1-chat-ordering.webp",
+            "src": "/assets/smart-food/desktop/process1-chat-ordering.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -147,28 +147,28 @@
         "title": "2. Xử lý và xác minh hóa đơn tự động",
         "text": "Hệ thống AI tổng hợp giá trị đơn hàng, nhận phiếu thanh toán và tự động xác minh số tiền trước khi gửi đơn vào bếp.",
         "image": {
-          "src": "/smart-food/process2-bill-processing.png",
+          "src": "/assets/smart-food/process2-bill-processing.png",
           "alt": "Hệ thống Smart Food AI tổng hợp hóa đơn và tự động xác minh phiếu thanh toán",
           "mobile": {
-            "src": "/smart-food/mobile/process2-bill-processing.webp",
+            "src": "/assets/smart-food/mobile/process2-bill-processing.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process2-bill-processing.webp",
+            "src": "/assets/smart-food/thumbnail/process2-bill-processing.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process2-bill-processing.webp",
+            "src": "/assets/smart-food/desktop/process2-bill-processing.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -179,28 +179,28 @@
         "title": "3. Nấu mới theo tiêu chuẩn đội bếp",
         "text": "Đội bếp nhận đơn đã xác nhận và bắt đầu nấu ngay với nguyên liệu tươi dưới hệ thống quản lý hàng đợi bếp chính xác và chuẩn hóa.",
         "image": {
-          "src": "/smart-food/process3-cooking.png",
+          "src": "/assets/smart-food/process3-cooking.png",
           "alt": "Đội bếp chuẩn bị món ăn cẩn thận theo đơn hàng từ hệ thống Smart Food",
           "mobile": {
-            "src": "/smart-food/mobile/process3-cooking.webp",
+            "src": "/assets/smart-food/mobile/process3-cooking.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process3-cooking.webp",
+            "src": "/assets/smart-food/thumbnail/process3-cooking.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process3-cooking.webp",
+            "src": "/assets/smart-food/desktop/process3-cooking.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -211,28 +211,28 @@
         "title": "4. Điều phối giao hàng",
         "text": "Hệ thống lập tức thông báo và chuyển các đơn đã hoàn tất cho tài xế giao hàng địa phương, chuẩn bị giao món nhanh đến khách hàng.",
         "image": {
-          "src": "/smart-food/process4-delivery.png",
+          "src": "/assets/smart-food/process4-delivery.png",
           "alt": "Hệ thống Smart Food điều phối giao món với tài xế giao hàng địa phương",
           "mobile": {
-            "src": "/smart-food/mobile/process4-delivery.webp",
+            "src": "/assets/smart-food/mobile/process4-delivery.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process4-delivery.webp",
+            "src": "/assets/smart-food/thumbnail/process4-delivery.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process4-delivery.webp",
+            "src": "/assets/smart-food/desktop/process4-delivery.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -243,28 +243,28 @@
         "title": "5. Nhận món nóng giao tận tay",
         "text": "Khách hàng có thể ghim chính xác địa điểm giao hàng và thưởng thức món yêu thích, hoàn tất trải nghiệm đặt món liền mạch.",
         "image": {
-          "src": "/smart-food/process5-receiving.png",
+          "src": "/assets/smart-food/process5-receiving.png",
           "alt": "Tài xế giao hàng trao đơn món ăn đã hoàn tất cho khách hàng một cách an toàn",
           "mobile": {
-            "src": "/smart-food/mobile/process5-receiving.webp",
+            "src": "/assets/smart-food/mobile/process5-receiving.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process5-receiving.webp",
+            "src": "/assets/smart-food/thumbnail/process5-receiving.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process5-receiving.webp",
+            "src": "/assets/smart-food/desktop/process5-receiving.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82

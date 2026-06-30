@@ -2,7 +2,6 @@ import {IMetaLinks} from "./model/IMetaLinks";
 import {MetadataImageVersion} from "@/metadata/version/MetadataImageVersion";
 import {MetaLinkFrontend} from "@/metadata/metadataLink/MetaLinkFrontend";
 import {MetaLinkBackend} from "@/metadata/metadataLink/MetaLinkBackend";
-import {MetaLinkDevOps} from "@/metadata/metadataLink/MetaLinkDevOps";
 
 export const MetaLinks: IMetaLinks = {
     _404: {
@@ -54,13 +53,6 @@ export const MetaLinks: IMetaLinks = {
             alt: "Open graph image for AI-Ploy - LINE Chat AI Integration",
         }
     },
-    cloudSolutions: {
-        canonical: "/technical-expertise/cloud-infrastructure-systems-architecture/",
-        image: {
-            url: "/images-opengraph/banner/banner-logo.png" + MetadataImageVersion,
-            alt: "Open graph image for cloud solutions"
-        }
-    },
     gallery: {
         canonical: "/gallery/",
         image: {
@@ -87,13 +79,6 @@ export const MetaLinks: IMetaLinks = {
         image: {
             url: "/images-opengraph/frontend/frontend-development-services.png" + MetadataImageVersion,
             alt: "Open graph image for web development"
-        }
-    },
-    web3: {
-        canonical: "/technical-expertise/web3-blockchain-smart-contract-development/",
-        image: {
-            url: "/images-opengraph/banner/banner-logo.png" + MetadataImageVersion,
-            alt: "Open graph image for web3 and blockchain development"
         }
     },
     privacyPolicy: {
@@ -125,8 +110,5 @@ export const MetaLinks: IMetaLinks = {
         }
     },
     frontend: MetaLinkFrontend,
-    backend: MetaLinkBackend,
-    devops: MetaLinkDevOps
+    backend: MetaLinkBackend
 }
-
-

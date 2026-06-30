@@ -19,29 +19,29 @@
       }
     ],
     "visual": {
-      "src": "/smart-food/smart-food-overview.png",
+      "src": "/assets/smart-food/smart-food-overview.png",
       "alt": "服务清迈顾客的 Smart Food AI 平台",
       "ariaLabel": "Smart Food AI 视觉故事",
       "mobile": {
-        "src": "/smart-food/mobile/smart-food-overview.webp",
+        "src": "/assets/smart-food/mobile/smart-food-overview.webp",
         "width": 768,
         "height": 512,
         "quality": 78
       },
       "thumbnail": {
-        "src": "/smart-food/thumbnail/smart-food-overview.webp",
+        "src": "/assets/smart-food/thumbnail/smart-food-overview.webp",
         "width": 480,
         "height": 320,
         "quality": 72
       },
       "desktop": {
-        "src": "/smart-food/desktop/smart-food-overview.webp",
+        "src": "/assets/smart-food/desktop/smart-food-overview.webp",
         "width": 1200,
         "height": 800,
         "quality": 82
       },
       "open_graph": {
-        "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+        "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
         "width": 1200,
         "height": 630,
         "quality": 82
@@ -59,28 +59,28 @@
       "我们做的不只是让顾客点餐更轻松。Smart Food 正在发展为一套 All-in-One Restaurant OS，覆盖厨房管理、配送服务、自动付款凭证验证、会计系统与内部运营，为餐饮业务的可持续增长建立坚实基础。"
     ],
     "image": {
-      "src": "/smart-food/chat-ordering.png",
+      "src": "/assets/smart-food/chat-ordering.png",
       "alt": "Smart Food AI 通过聊天式点餐服务清迈顾客",
       "mobile": {
-        "src": "/smart-food/mobile/chat-ordering.webp",
+        "src": "/assets/smart-food/mobile/chat-ordering.webp",
         "width": 720,
         "height": 608,
         "quality": 78
       },
       "thumbnail": {
-        "src": "/smart-food/thumbnail/chat-ordering.webp",
+        "src": "/assets/smart-food/thumbnail/chat-ordering.webp",
         "width": 480,
         "height": 405,
         "quality": 72
       },
       "desktop": {
-        "src": "/smart-food/desktop/chat-ordering.webp",
+        "src": "/assets/smart-food/desktop/chat-ordering.webp",
         "width": 900,
         "height": 760,
         "quality": 82
       },
       "open_graph": {
-        "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+        "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
         "width": 1200,
         "height": 630,
         "quality": 82
@@ -115,28 +115,28 @@
         "title": "1. 通过 AI Chat 轻松点餐",
         "text": "顾客可以通过简单自然的聊天对话，选择喜爱的菜单、询问详情或即时确认订单。",
         "image": {
-          "src": "/smart-food/process1-chat-ordering.png",
+          "src": "/assets/smart-food/process1-chat-ordering.png",
           "alt": "Smart Food 面向顾客的智能 AI Chat 点餐界面",
           "mobile": {
-            "src": "/smart-food/mobile/process1-chat-ordering.webp",
+            "src": "/assets/smart-food/mobile/process1-chat-ordering.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process1-chat-ordering.webp",
+            "src": "/assets/smart-food/thumbnail/process1-chat-ordering.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process1-chat-ordering.webp",
+            "src": "/assets/smart-food/desktop/process1-chat-ordering.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -147,28 +147,28 @@
         "title": "2. 自动处理并验证账单",
         "text": "AI 系统汇总订单总额，接收付款凭证，并在订单送入厨房前自动核对付款金额。",
         "image": {
-          "src": "/smart-food/process2-bill-processing.png",
+          "src": "/assets/smart-food/process2-bill-processing.png",
           "alt": "Smart Food AI 系统汇总账单并自动验证付款凭证",
           "mobile": {
-            "src": "/smart-food/mobile/process2-bill-processing.webp",
+            "src": "/assets/smart-food/mobile/process2-bill-processing.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process2-bill-processing.webp",
+            "src": "/assets/smart-food/thumbnail/process2-bill-processing.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process2-bill-processing.webp",
+            "src": "/assets/smart-food/desktop/process2-bill-processing.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -179,28 +179,28 @@
         "title": "3. 依照厨房团队标准新鲜烹调",
         "text": "厨房团队接收已确认订单，并在精准、标准化的厨房排队管理系统下，立即使用新鲜食材开始烹调。",
         "image": {
-          "src": "/smart-food/process3-cooking.png",
+          "src": "/assets/smart-food/process3-cooking.png",
           "alt": "厨房团队根据 Smart Food 系统订单细致准备餐食",
           "mobile": {
-            "src": "/smart-food/mobile/process3-cooking.webp",
+            "src": "/assets/smart-food/mobile/process3-cooking.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process3-cooking.webp",
+            "src": "/assets/smart-food/thumbnail/process3-cooking.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process3-cooking.webp",
+            "src": "/assets/smart-food/desktop/process3-cooking.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -211,28 +211,28 @@
         "title": "4. 协调配送派单",
         "text": "系统会立即提醒并转发已完成订单给本地配送骑手，准备将餐食快速送达顾客。",
         "image": {
-          "src": "/smart-food/process4-delivery.png",
+          "src": "/assets/smart-food/process4-delivery.png",
           "alt": "Smart Food 系统与本地配送骑手协调餐食配送",
           "mobile": {
-            "src": "/smart-food/mobile/process4-delivery.webp",
+            "src": "/assets/smart-food/mobile/process4-delivery.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process4-delivery.webp",
+            "src": "/assets/smart-food/thumbnail/process4-delivery.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process4-delivery.webp",
+            "src": "/assets/smart-food/desktop/process4-delivery.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -243,28 +243,28 @@
         "title": "5. 接收热腾腾的直送餐食",
         "text": "顾客可以准确标记配送地点并享用喜爱的餐食，完成一次无缝的点餐体验。",
         "image": {
-          "src": "/smart-food/process5-receiving.png",
+          "src": "/assets/smart-food/process5-receiving.png",
           "alt": "配送骑手安全地将完成的餐食订单交给顾客",
           "mobile": {
-            "src": "/smart-food/mobile/process5-receiving.webp",
+            "src": "/assets/smart-food/mobile/process5-receiving.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process5-receiving.webp",
+            "src": "/assets/smart-food/thumbnail/process5-receiving.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process5-receiving.webp",
+            "src": "/assets/smart-food/desktop/process5-receiving.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82

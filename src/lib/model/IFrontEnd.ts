@@ -1,4 +1,3 @@
-
 // IFrontEnd.ts
 
 export interface IFrontEnd {
@@ -6,15 +5,11 @@ export interface IFrontEnd {
     span: string,
     subTitle: string,
 
-    angular: IFrontEndStack,
-    css3: IFrontEndStack,
-    html5: IFrontEndStack,
     nextjs: IFrontEndStack,
     react: IFrontEndStack,
     typescript: IFrontEndStack,
-    vue: IFrontEndStack,
-    javascript: IFrontEndStack,
 
+    sideImages: ITechnicalExpertiseImage[],
     stacks: IFrontEndStack[],
 
     services: IFrontEndService
@@ -61,6 +56,7 @@ export interface IFrontEndStack {
     title: string,
     description: string,
     image: string,
+    detailImage: string,
     alt: string,
     readMore: string,
     link: string,
@@ -68,4 +64,10 @@ export interface IFrontEndStack {
     features: IFrontEndFeature[],
     faqs: IFrontEndFaq[],
     frameworks?: IFrontEndFramework[],
+}
+
+export interface ITechnicalExpertiseImage {
+    title: string,
+    src: string,
+    alt: string,
 }

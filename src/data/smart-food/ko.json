@@ -19,29 +19,29 @@
       }
     ],
     "visual": {
-      "src": "/smart-food/smart-food-overview.png",
+      "src": "/assets/smart-food/smart-food-overview.png",
       "alt": "치앙마이 고객에게 서비스를 제공하는 Smart Food AI 플랫폼",
       "ariaLabel": "Smart Food AI 비주얼 스토리",
       "mobile": {
-        "src": "/smart-food/mobile/smart-food-overview.webp",
+        "src": "/assets/smart-food/mobile/smart-food-overview.webp",
         "width": 768,
         "height": 512,
         "quality": 78
       },
       "thumbnail": {
-        "src": "/smart-food/thumbnail/smart-food-overview.webp",
+        "src": "/assets/smart-food/thumbnail/smart-food-overview.webp",
         "width": 480,
         "height": 320,
         "quality": 72
       },
       "desktop": {
-        "src": "/smart-food/desktop/smart-food-overview.webp",
+        "src": "/assets/smart-food/desktop/smart-food-overview.webp",
         "width": 1200,
         "height": 800,
         "quality": 82
       },
       "open_graph": {
-        "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+        "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
         "width": 1200,
         "height": 630,
         "quality": 82
@@ -59,28 +59,28 @@
       "우리는 고객의 음식 주문을 더 쉽게 만드는 데 그치지 않습니다. Smart Food는 주방 관리, 배달 서비스, 결제 전표 자동 검증, 회계 시스템, 내부 운영까지 포괄하는 All-in-One Restaurant OS로 발전하며, 지속 가능한 외식 비즈니스 성장을 위한 탄탄한 기반을 만듭니다."
     ],
     "image": {
-      "src": "/smart-food/chat-ordering.png",
+      "src": "/assets/smart-food/chat-ordering.png",
       "alt": "채팅 기반 음식 주문으로 치앙마이 고객에게 서비스를 제공하는 Smart Food AI",
       "mobile": {
-        "src": "/smart-food/mobile/chat-ordering.webp",
+        "src": "/assets/smart-food/mobile/chat-ordering.webp",
         "width": 720,
         "height": 608,
         "quality": 78
       },
       "thumbnail": {
-        "src": "/smart-food/thumbnail/chat-ordering.webp",
+        "src": "/assets/smart-food/thumbnail/chat-ordering.webp",
         "width": 480,
         "height": 405,
         "quality": 72
       },
       "desktop": {
-        "src": "/smart-food/desktop/chat-ordering.webp",
+        "src": "/assets/smart-food/desktop/chat-ordering.webp",
         "width": 900,
         "height": 760,
         "quality": 82
       },
       "open_graph": {
-        "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+        "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
         "width": 1200,
         "height": 630,
         "quality": 82
@@ -115,28 +115,28 @@
         "title": "1. AI Chat으로 쉽게 음식 주문",
         "text": "고객은 간단하고 자연스러운 채팅 대화를 통해 좋아하는 메뉴를 선택하고, 세부 정보를 묻고, 즉시 주문을 확정할 수 있습니다.",
         "image": {
-          "src": "/smart-food/process1-chat-ordering.png",
+          "src": "/assets/smart-food/process1-chat-ordering.png",
           "alt": "고객을 위한 Smart Food 지능형 AI Chat 음식 주문 인터페이스",
           "mobile": {
-            "src": "/smart-food/mobile/process1-chat-ordering.webp",
+            "src": "/assets/smart-food/mobile/process1-chat-ordering.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process1-chat-ordering.webp",
+            "src": "/assets/smart-food/thumbnail/process1-chat-ordering.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process1-chat-ordering.webp",
+            "src": "/assets/smart-food/desktop/process1-chat-ordering.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -147,28 +147,28 @@
         "title": "2. 청구서를 자동 처리하고 검증",
         "text": "AI 시스템은 주문 합계를 요약하고 결제 전표를 수신한 뒤, 주문을 주방으로 보내기 전에 결제 금액을 자동으로 검증합니다.",
         "image": {
-          "src": "/smart-food/process2-bill-processing.png",
+          "src": "/assets/smart-food/process2-bill-processing.png",
           "alt": "Smart Food AI 시스템이 청구서를 요약하고 결제 전표를 자동 검증하는 모습",
           "mobile": {
-            "src": "/smart-food/mobile/process2-bill-processing.webp",
+            "src": "/assets/smart-food/mobile/process2-bill-processing.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process2-bill-processing.webp",
+            "src": "/assets/smart-food/thumbnail/process2-bill-processing.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process2-bill-processing.webp",
+            "src": "/assets/smart-food/desktop/process2-bill-processing.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -179,28 +179,28 @@
         "title": "3. 주방팀 기준에 맞춰 신선하게 조리",
         "text": "주방팀은 확정된 주문을 받고, 정확하고 표준화된 주방 대기열 관리 시스템 아래 신선한 재료로 즉시 조리를 시작합니다.",
         "image": {
-          "src": "/smart-food/process3-cooking.png",
+          "src": "/assets/smart-food/process3-cooking.png",
           "alt": "Smart Food 시스템의 주문에 따라 음식을 세심하게 준비하는 주방팀",
           "mobile": {
-            "src": "/smart-food/mobile/process3-cooking.webp",
+            "src": "/assets/smart-food/mobile/process3-cooking.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process3-cooking.webp",
+            "src": "/assets/smart-food/thumbnail/process3-cooking.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process3-cooking.webp",
+            "src": "/assets/smart-food/desktop/process3-cooking.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -211,28 +211,28 @@
         "title": "4. 배달 배차 조율",
         "text": "시스템은 완료된 주문을 지역 배달 라이더에게 즉시 알리고 전달하여, 고객에게 빠르게 배달할 준비를 합니다.",
         "image": {
-          "src": "/smart-food/process4-delivery.png",
+          "src": "/assets/smart-food/process4-delivery.png",
           "alt": "Smart Food 시스템이 지역 배달 라이더와 음식 배달을 조율하는 모습",
           "mobile": {
-            "src": "/smart-food/mobile/process4-delivery.webp",
+            "src": "/assets/smart-food/mobile/process4-delivery.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process4-delivery.webp",
+            "src": "/assets/smart-food/thumbnail/process4-delivery.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process4-delivery.webp",
+            "src": "/assets/smart-food/desktop/process4-delivery.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82
@@ -243,28 +243,28 @@
         "title": "5. 따뜻한 음식을 바로 수령",
         "text": "고객은 배달 위치를 정확히 지정하고 좋아하는 음식을 즐기며, 매끄러운 음식 주문 경험을 완성합니다.",
         "image": {
-          "src": "/smart-food/process5-receiving.png",
+          "src": "/assets/smart-food/process5-receiving.png",
           "alt": "배달 라이더가 완료된 음식 주문을 고객에게 안전하게 전달하는 모습",
           "mobile": {
-            "src": "/smart-food/mobile/process5-receiving.webp",
+            "src": "/assets/smart-food/mobile/process5-receiving.webp",
             "width": 720,
             "height": 1080,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/smart-food/thumbnail/process5-receiving.webp",
+            "src": "/assets/smart-food/thumbnail/process5-receiving.webp",
             "width": 480,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/smart-food/desktop/process5-receiving.webp",
+            "src": "/assets/smart-food/desktop/process5-receiving.webp",
             "width": 1024,
             "height": 1536,
             "quality": 82
           },
           "open_graph": {
-            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "src": "/open_graph/smart-food/open_graph/smart-food-overview.png",
             "width": 1200,
             "height": 630,
             "quality": 82

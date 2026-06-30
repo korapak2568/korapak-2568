@@ -15,7 +15,7 @@ const FullStackPageMain: React.FC<{ lang: string, fullStack: IFullStack }> = ({l
                         <h1>{content.services.title}</h1>
                         <div className="row align-items-center align-items-center-custom">
                             <FullStackModuleLeft lang={lang} fullStack={content}/>
-                            <FullStackModuleRight lang={lang}/>
+                            <FullStackModuleRight lang={lang} fullStack={content}/>
                         </div>
                         <FullStackModuleBottom lang={lang} fullStack={content}/>
                     </div>

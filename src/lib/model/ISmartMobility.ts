@@ -1,4 +1,3 @@
-
 // ISmartMobility.ts
 type ProvinceKey = 'chiang-mai'
 
@@ -23,6 +22,7 @@ export interface IProvince {
 export interface IContent {
     title: string
     description: string,
+    image?: ISmartMobilityImage
     media?: IMedia
 }
 
@@ -30,13 +30,15 @@ export interface ISmartItem {
     title: string
     description?: string,
     contents?: IContent[]
+    image?: ISmartMobilityImage
     media?: IMedia
 }
 
 export interface ISmartImage {
     title: string
     link: string | undefined,
-    media: IMedia | undefined,
+    image?: ISmartMobilityImage
+    media?: IMedia
 }
 
 export interface ISmartSection {
@@ -44,6 +46,7 @@ export interface ISmartSection {
     description: string,
     link?: string,
     items?: ISmartItem[]
+    image?: ISmartMobilityImage,
     media?: IMedia,
     safeStatement?: {
         title: string
@@ -57,6 +60,7 @@ export interface IVertiport {
     link: string,
     structureTitle: string,
     structure: IStructure[],
+    image?: ISmartMobilityImage
     media?: IMedia
 }
 
@@ -77,7 +81,28 @@ export interface ISmartRoute {
         sections?: ISmartSection[]
     }
 
+    image?: ISmartMobilityImage
     media?: IMedia
+}
+
+export interface ISmartMobilityImageVariant {
+    src: string
+    width: number
+    height: number
+    quality?: number
+}
+
+export interface ISmartMobilityImage {
+    src: string
+    alt: string
+    width: number
+    height: number
+    aspectRatio: string
+    mobile?: ISmartMobilityImageVariant
+    thumbnail?: ISmartMobilityImageVariant
+    desktop?: ISmartMobilityImageVariant
+    open_graph?: ISmartMobilityImageVariant
+    tags?: string[]
 }
 
 export interface IMedia {
@@ -91,5 +116,6 @@ export interface IMedia {
 export interface ISmartMobilityRelevant {
     title: string,
     link: string,
-    media: IMedia
+    image?: ISmartMobilityImage
+    media?: IMedia
 }

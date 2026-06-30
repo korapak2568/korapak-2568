@@ -5,34 +5,19 @@ import { HomePageContentPayload } from "@/core/domain/homepage-content.entity";
 import { LayoutContentPayload } from "@/core/domain/layout-content.entity";
 import { PolicyContentPayload } from "@/core/domain/policy-content.entity";
 import { SmartFoodAiContentPayload } from "@/core/domain/smart-food-ai-content.entity";
-import { SmartCityChiangMaiContentPayload } from "@/lib/model/ISmartCityChiangMai";
-import { SmartCityLandingContentPayload } from "@/lib/model/ISmartCityLandingContent";
-import { SmartMobilityChiangMaiContentPayload } from "@/lib/model/ISmartMobilityChiangMai";
-import { TechnicalExpertiseContentPayload } from "@/core/domain/technical-expertise-content.entity";
 import { IImageResponsiveUnit } from "@/image/model/IImageResponsiveUnit";
 import { IImageUnit } from "@/image/model/IImageUnit";
 import { IFooter } from "@/lib/model/IFooter";
 import { INavbar } from "@/lib/model/INavbar";
-import { ISmartCityItem } from "@/lib/model/ISmartCity";
-import {
-  ISmartImage,
-  ISmartRoute,
-  ISmartSection,
-  IVertiport,
-} from "@/lib/model/ISmartMobility";
 import { normalizeAboutContentLocale } from "@/core/domain/about-content.entity";
 import { normalizeAiCompanionsContentLocale } from "@/core/domain/ai-companions-content.entity";
 import { normalizeGalleryContentLocale } from "@/core/domain/gallery-content.entity";
 import { normalizeHomePageLocale } from "@/core/domain/homepage-content.entity";
 import { normalizeLayoutContentLocale } from "@/core/domain/layout-content.entity";
 import { normalizePolicyContentLocale } from "@/core/domain/policy-content.entity";
-import { normalizeSmartCityChiangMaiContentLocale } from "@/core/domain/smart-city-chiang-mai-content.entity";
-import { normalizeSmartCityLandingContentLocale } from "@/core/domain/smart-city-landing-content.entity";
 import { normalizeSmartFoodAiContentLocale } from "@/core/domain/smart-food-ai-content.entity";
-import { normalizeSmartMobilityChiangMaiContentLocale } from "@/core/domain/smart-mobility-chiang-mai-content.entity";
-import { normalizeTechnicalExpertiseContentLocale } from "@/core/domain/technical-expertise-content.entity";
 import { LanguageOptionList } from "@/lib/constants/languageOptions";
-import smartCityFallbackContent from "@/data/smart-city/en.smart-city.json";
+import homeFallbackContent from "@/data/home/en.json";
 
 const STATIC_FALLBACK_IMAGE_SRC =
   "/images/home/chorn-workplace-001-image-1200.webp";
@@ -57,57 +42,17 @@ const fallbackText = {
     "Chorn Planet presents digital products, AI services, smart city concepts, and platform engineering capabilities from Chiang Mai to global audiences.",
 };
 
-const SMART_MOBILITY_CHIANG_MAI_FALLBACK_DESCRIPTIONS: Record<string, string> =
-  {
-    "vision-smart-mobility-northern-gateway":
-      "An illustrative future mobility scenario exploring how Chiang Mai could evolve as a smart mobility and connectivity gateway within the Upper Mekong Subregion, integrating land, rail, and conceptual air mobility frameworks under long-term planning perspectives.",
-    "urban-hub-san-sai-doi-saket":
-      "A future-oriented urban mobility scenario illustrating a potential Smart Mobility Hub in the San Sai-Doi Saket corridor, exploring how transport, urban development, and regional connectivity could evolve over the long term.",
-    "hub-to-chiang-mai-airport":
-      "A future mobility scenario illustrating a potential urban connectivity corridor between a northern urban hub and Chiang Mai International Airport, presented for contextual and informational purposes only.",
-    "hub-to-doi-suthep":
-      "A conceptual future mobility scenario illustrating how Chiang Mai's urban mobility hub could connect to Doi Suthep through low-impact, culturally sensitive transport approaches.",
-    "hub-to-doi-inthanon":
-      "A long-term future mobility scenario illustrating how an urban mobility hub in Chiang Mai could connect to Doi Inthanon through evolving ground and air transport concepts.",
-    "vertiport-design":
-      "A future air mobility scenario illustrating how a vertiport could function as a Smart Air Mobility Gateway for Chiang Mai, with conceptual design, ground integration, and low-altitude air mobility explored as a long-term scenario.",
-  };
-
-const SMART_MOBILITY_CHIANG_MAI_SCENARIO_NOTE = {
-  title: "Conceptual scenario note",
-  description:
-    "This content is presented for informational scenario planning only and does not represent approved transport service availability, regulatory clearance, or implementation commitment.",
-};
-
-const SMART_MOBILITY_CHIANG_MAI_TITLES: Record<string, string> = {
-  "vision-smart-mobility-northern-gateway":
-    "Vision Smart Mobility Northern Gateway",
-  "urban-hub-san-sai-doi-saket": "Urban Hub San Sai Doi Saket",
-  "hub-to-chiang-mai-airport": "Hub to Chiang Mai Airport",
-  "hub-to-doi-suthep": "Hub to Doi Suthep",
-  "hub-to-doi-inthanon": "Hub to Doi Inthanon",
-  "vertiport-design": "Vertiport Design",
-};
-
-const SMART_MOBILITY_CHIANG_MAI_SLUGS = Object.keys(
-  SMART_MOBILITY_CHIANG_MAI_TITLES,
-);
-
-function getSmartMobilityChiangMaiImageUrl(slug: string): string {
-  return `/smart-mobility/chiang-mai/${slug}.png`;
-}
-
 const AI_LUXURY_FOOTER_LABELS: Record<string, string> = {
   en: "AI Luxury Platform",
-  th: "แพลตฟอร์ม AI Luxury",
+  th: "à¹à¸žà¸¥à¸•à¸Ÿà¸­à¸£à¹Œà¸¡ AI Luxury",
   da: "AI Luxury-platform",
   de: "AI-Luxusplattform",
   fi: "AI Luxury -alusta",
   fr: "Plateforme AI Luxury",
-  ja: "AIラグジュアリープラットフォーム",
-  ko: "AI 럭셔리 플랫폼",
+  ja: "AIãƒ©ã‚°ã‚¸ãƒ¥ã‚¢ãƒªãƒ¼ãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ ",
+  ko: "AI ëŸ­ì…”ë¦¬ í”Œëž«í¼",
   nl: "AI Luxury-platform",
-  zh: "AI 奢华平台",
+  zh: "AI å¥¢åŽå¹³å°",
 };
 
 const AI_SMART_FOOD_FOOTER_LABELS: Record<string, string> = {
@@ -117,23 +62,23 @@ const AI_SMART_FOOD_FOOTER_LABELS: Record<string, string> = {
   de: "AI Smart Food",
   fi: "AI Smart Food",
   fr: "AI Smart Food",
-  ja: "AIスマートフード",
-  ko: "AI 스마트 푸드",
+  ja: "AIã‚¹ãƒžãƒ¼ãƒˆãƒ•ãƒ¼ãƒ‰",
+  ko: "AI ìŠ¤ë§ˆíŠ¸ í‘¸ë“œ",
   nl: "AI Smart Food",
-  zh: "AI 智慧食品",
+  zh: "AI æ™ºæ…§é£Ÿå“",
 };
 
 const TIKTOK_CREATOR_FOOTER_LABELS: Record<string, string> = {
   en: "TikTok Creator",
-  th: "TikTok ครีเอเตอร์",
+  th: "TikTok à¸„à¸£à¸µà¹€à¸­à¹€à¸•à¸­à¸£à¹Œ",
   da: "TikTok-skaber",
   de: "TikTok-Creator",
-  fi: "TikTok-sisällöntuottaja",
-  fr: "Créateur TikTok",
-  ja: "TikTokクリエイター",
-  ko: "TikTok 크리에이터",
+  fi: "TikTok-sisÃ¤llÃ¶ntuottaja",
+  fr: "CrÃ©ateur TikTok",
+  ja: "TikTokã‚¯ãƒªã‚¨ã‚¤ã‚¿ãƒ¼",
+  ko: "TikTok í¬ë¦¬ì—ì´í„°",
   nl: "TikTok-creator",
-  zh: "TikTok 创作者",
+  zh: "TikTok åˆ›ä½œè€…",
 };
 
 type MainNavbarGroup =
@@ -147,51 +92,51 @@ type MainNavbarGroup =
 const MAIN_NAVBAR_LABELS: Record<MainNavbarGroup, Record<string, string>> = {
   Home: {
     en: "Home",
-    th: "หน้าแรก",
+    th: "à¸«à¸™à¹‰à¸²à¹à¸£à¸",
     da: "Hjem",
     de: "Startseite",
     fi: "Etusivu",
     fr: "Accueil",
-    ja: "ホーム",
-    ko: "홈",
+    ja: "ãƒ›ãƒ¼ãƒ ",
+    ko: "í™ˆ",
     nl: "Home",
-    zh: "首页",
+    zh: "é¦–é¡µ",
   },
   "AI Luxury": {
     en: "AI Luxury Platform",
-    th: "แพลตฟอร์ม AI Luxury",
+    th: "à¹à¸žà¸¥à¸•à¸Ÿà¸­à¸£à¹Œà¸¡ AI Luxury",
     da: "AI Luxury-platform",
     de: "AI-Luxusplattform",
     fi: "AI Luxury -alusta",
     fr: "Plateforme AI Luxury",
-    ja: "AIラグジュアリープラットフォーム",
-    ko: "AI 럭셔리 플랫폼",
+    ja: "AIãƒ©ã‚°ã‚¸ãƒ¥ã‚¢ãƒªãƒ¼ãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ ",
+    ko: "AI ëŸ­ì…”ë¦¬ í”Œëž«í¼",
     nl: "AI Luxury-platform",
-    zh: "AI 奢华平台",
+    zh: "AI å¥¢åŽå¹³å°",
   },
   "Smart City": {
     en: "Smart City",
-    th: "สมาร์ตซิตี้",
+    th: "à¸ªà¸¡à¸²à¸£à¹Œà¸•à¸‹à¸´à¸•à¸µà¹‰",
     da: "Smart City",
     de: "Smart City",
     fi: "Smart City",
     fr: "Smart City",
-    ja: "スマートシティ",
-    ko: "스마트 시티",
+    ja: "ã‚¹ãƒžãƒ¼ãƒˆã‚·ãƒ†ã‚£",
+    ko: "ìŠ¤ë§ˆíŠ¸ ì‹œí‹°",
     nl: "Smart City",
-    zh: "智慧城市",
+    zh: "æ™ºæ…§åŸŽå¸‚",
   },
   "Smart Mobility": {
     en: "Smart Mobility",
-    th: "สมาร์ตโมบิลิตี้",
+    th: "à¸ªà¸¡à¸²à¸£à¹Œà¸•à¹‚à¸¡à¸šà¸´à¸¥à¸´à¸•à¸µà¹‰",
     da: "Smart Mobility",
     de: "Smart Mobility",
     fi: "Smart Mobility",
     fr: "Smart Mobility",
-    ja: "スマートモビリティ",
-    ko: "스마트 모빌리티",
+    ja: "ã‚¹ãƒžãƒ¼ãƒˆãƒ¢ãƒ“ãƒªãƒ†ã‚£",
+    ko: "ìŠ¤ë§ˆíŠ¸ ëª¨ë¹Œë¦¬í‹°",
     nl: "Smart Mobility",
-    zh: "智慧出行",
+    zh: "æ™ºæ…§å‡ºè¡Œ",
   },
   "Smart Food AI": {
     en: "AI Smart Food",
@@ -200,10 +145,10 @@ const MAIN_NAVBAR_LABELS: Record<MainNavbarGroup, Record<string, string>> = {
     de: "AI Smart Food",
     fi: "AI Smart Food",
     fr: "AI Smart Food",
-    ja: "AIスマートフード",
-    ko: "AI 스마트 푸드",
+    ja: "AIã‚¹ãƒžãƒ¼ãƒˆãƒ•ãƒ¼ãƒ‰",
+    ko: "AI ìŠ¤ë§ˆíŠ¸ í‘¸ë“œ",
     nl: "AI Smart Food",
-    zh: "AI 智慧食品",
+    zh: "AI æ™ºæ…§é£Ÿå“",
   },
   About: {
     en: "About",
@@ -431,137 +376,6 @@ function createWorkplacePolicyFallback() {
   };
 }
 
-function createSmartCityItem(slug = "smart-city-overview"): ISmartCityItem {
-  return {
-    sceneNumber: "Overview",
-    sceneName: "Smart City Overview",
-    title: "Smart City Chiang Mai",
-    concept: "Urban intelligence and future city planning",
-    description: fallbackText.description,
-    features: [
-      {
-        title: "Smart City direction",
-        description:
-          "A public overview of smart city, mobility, and civic platform ideas for Chiang Mai.",
-      },
-    ],
-    link: `/smart-city/chiang-mai/${slug}/`,
-    media: {
-      image_url: STATIC_FALLBACK_IMAGE_SRC,
-      image_tags: ["Smart City", "Chiang Mai"],
-    },
-  };
-}
-
-function getSmartMobilityChiangMaiFallbackDescription(slug: string): string {
-  return (
-    SMART_MOBILITY_CHIANG_MAI_FALLBACK_DESCRIPTIONS[slug] ??
-    "A future-oriented smart mobility scenario for Chiang Mai, presented for contextual and informational purposes only."
-  );
-}
-
-function createSmartSection(slug: string, title: string): ISmartSection {
-  const description = getSmartMobilityChiangMaiFallbackDescription(slug);
-
-  return {
-    title,
-    description,
-    link: `/smart-mobility/chiang-mai/${slug}/`,
-    items: [
-      {
-        title: "Scenario overview",
-        description,
-      },
-      SMART_MOBILITY_CHIANG_MAI_SCENARIO_NOTE,
-    ],
-    media: {
-      image_url: getSmartMobilityChiangMaiImageUrl(slug),
-      image_tags: ["Smart Mobility", "Chiang Mai"],
-    },
-  };
-}
-
-function createSmartRoute(slug: string, title: string): ISmartRoute {
-  const section = createSmartSection(slug, title);
-
-  return {
-    ...section,
-    link: section.link ?? `/smart-mobility/chiang-mai/${slug}/`,
-    transportationModel: {
-      title: "Conceptual mobility model",
-      description: section.description,
-      sections: [
-        {
-          title: "Planning context",
-          description: SMART_MOBILITY_CHIANG_MAI_SCENARIO_NOTE.description,
-        },
-      ],
-    },
-  };
-}
-
-function createVertiport(slug: string): IVertiport {
-  const description = getSmartMobilityChiangMaiFallbackDescription(slug);
-
-  return {
-    title: "Vertiport Design",
-    description,
-    link: `/smart-mobility/chiang-mai/${slug}/`,
-    structureTitle: "Conceptual vertiport structure",
-    structure: [
-      {
-        title: "Planning context",
-        items: [
-          {
-            title: SMART_MOBILITY_CHIANG_MAI_SCENARIO_NOTE.title,
-            description: SMART_MOBILITY_CHIANG_MAI_SCENARIO_NOTE.description,
-          },
-        ],
-      },
-    ],
-    media: {
-      image_url: getSmartMobilityChiangMaiImageUrl(slug),
-      image_tags: ["Smart Mobility", "Vertiport"],
-    },
-  };
-}
-
-function createSmartMobilityRelatedItem(slug: string): ISmartImage {
-  return {
-    title:
-      SMART_MOBILITY_CHIANG_MAI_TITLES[slug] ?? "Smart Mobility Chiang Mai",
-    link: `/smart-mobility/chiang-mai/${slug}/`,
-    media: {
-      image_url: getSmartMobilityChiangMaiImageUrl(slug),
-      image_tags: ["Smart Mobility", "Chiang Mai"],
-    },
-  };
-}
-
-function createSmartMobilityFallbackRelatedItems(
-  currentSlug: string,
-): ISmartImage[] {
-  return SMART_MOBILITY_CHIANG_MAI_SLUGS.filter(
-    (slug) => slug !== currentSlug,
-  ).map(createSmartMobilityRelatedItem);
-}
-
-function createSmartMobilityFallbackBottomCards(
-  currentSlug: string,
-): Array<ISmartSection | ISmartRoute> {
-  return SMART_MOBILITY_CHIANG_MAI_SLUGS.filter((slug) => slug !== currentSlug)
-    .slice(0, 2)
-    .map((slug) => {
-      const title =
-        SMART_MOBILITY_CHIANG_MAI_TITLES[slug] ?? "Smart Mobility Chiang Mai";
-      return slug === "hub-to-chiang-mai-airport" ||
-        slug === "hub-to-doi-suthep" ||
-        slug === "hub-to-doi-inthanon"
-        ? createSmartRoute(slug, title)
-        : createSmartSection(slug, title);
-    });
-}
-
 function createService() {
   return {
     title: "AI Solutions",
@@ -656,46 +470,6 @@ function createAiLanding(name: string) {
   };
 }
 
-function createTechStack(title: string, link: string, image = "") {
-  return {
-    title,
-    description: fallbackText.description,
-    image,
-    alt: title,
-    readMore: "Read more",
-    link,
-    features: [
-      { title, description: fallbackText.description, list: [] },
-      {
-        title: `${title} use cases`,
-        description: fallbackText.description,
-        list: ["Product delivery", "Platform engineering"],
-      },
-      {
-        title: `${title} delivery approach`,
-        description: fallbackText.description,
-        list: [],
-      },
-    ],
-    faqs: [],
-    frameworks: [],
-  };
-}
-
-function createServiceGroup(title: string) {
-  return {
-    title,
-    descriptions: [fallbackText.description],
-    items: [
-      {
-        title: "Service capability",
-        description:
-          "Chorn Planet supports product planning, implementation, integration, and delivery readiness.",
-      },
-    ],
-  };
-}
-
 export function getFallbackAboutContent(locale: string): AboutContentPayload {
   const normalizedLocale = normalizeAboutContentLocale(locale);
   logStaticFallback("about content", normalizedLocale);
@@ -773,7 +547,7 @@ export function getFallbackHomePageContent(
   const normalizedLocale = normalizeHomePageLocale(locale);
   logStaticFallback("homepage content", normalizedLocale);
   const content = JSON.parse(
-    JSON.stringify(smartCityFallbackContent),
+    JSON.stringify(homeFallbackContent),
   ) as HomePageContentPayload;
 
   return {
@@ -883,52 +657,6 @@ export function getFallbackPolicyContent(locale: string): PolicyContentPayload {
   return getPolicyContentFallbackPayload(normalizedLocale);
 }
 
-export function getFallbackSmartCityChiangMaiContent(
-  locale: string,
-  slug: string,
-): SmartCityChiangMaiContentPayload {
-  const normalizedLocale = normalizeSmartCityChiangMaiContentLocale(locale);
-  logStaticFallback("smart city Chiang Mai content", normalizedLocale, slug);
-
-  return {
-    locale: normalizedLocale,
-    slug,
-    item: createSmartCityItem(slug),
-    relatedItems: [],
-    bottomContent: {
-      safeStatement: {
-        title: "Scenario note",
-        description: fallbackText.description,
-      },
-      bottomCards: [],
-    },
-  };
-}
-
-export function getFallbackSmartCityLandingContent(
-  locale: string,
-  slug: string,
-): SmartCityLandingContentPayload {
-  const normalizedLocale = normalizeSmartCityLandingContentLocale(locale);
-  logStaticFallback("smart city landing content", normalizedLocale, slug);
-
-  return {
-    locale: normalizedLocale,
-    slug,
-    content: {
-      heroObservation: {
-        headline: "Smart City Signal",
-        paragraphs: [fallbackText.description],
-        tags: ["Smart City", "Chiang Mai"],
-        cta: {
-          label: "Back to Smart City",
-          href: "/smart-city/",
-        },
-      },
-    },
-  };
-}
-
 export function getFallbackSmartFoodAiContent(
   locale: string,
 ): SmartFoodAiContentPayload {
@@ -1000,291 +728,5 @@ export function getFallbackSmartFoodAiContent(
     futureDirections: [
       "Continue improving Smart Food AI as a production-ready food-service platform surface.",
     ],
-  };
-}
-
-export function getFallbackSmartMobilityChiangMaiContent(
-  locale: string,
-  slug: string,
-  { log = true }: { log?: boolean } = {},
-): SmartMobilityChiangMaiContentPayload {
-  const normalizedLocale = normalizeSmartMobilityChiangMaiContentLocale(locale);
-  if (log) {
-    logStaticFallback(
-      "smart mobility Chiang Mai content",
-      normalizedLocale,
-      slug,
-    );
-  }
-  const title =
-    SMART_MOBILITY_CHIANG_MAI_TITLES[slug] ?? "Smart Mobility Chiang Mai";
-  const pageType =
-    slug === "vertiport-design"
-      ? "vertiport"
-      : slug === "vision-smart-mobility-northern-gateway"
-        ? "vision"
-        : slug === "urban-hub-san-sai-doi-saket"
-          ? "urbanHub"
-          : "route";
-  const primaryContent =
-    pageType === "vertiport"
-      ? createVertiport(slug)
-      : pageType === "route"
-        ? createSmartRoute(slug, title)
-        : createSmartSection(slug, title);
-
-  return {
-    locale: normalizedLocale,
-    slug,
-    pageType,
-    primaryContent,
-    connectivityMatrix: {
-      title: "Chiang Mai Smart Mobility Connectivity",
-      description:
-        "A conceptual connectivity view for Chiang Mai smart mobility scenarios across urban hubs, airport access, mountain destinations, and future air mobility concepts.",
-    },
-    safeStatement: SMART_MOBILITY_CHIANG_MAI_SCENARIO_NOTE,
-    rightItems: createSmartMobilityFallbackRelatedItems(slug),
-    bottomCards: createSmartMobilityFallbackBottomCards(slug),
-  };
-}
-
-export function getFallbackTechnicalExpertiseContent(
-  locale: string,
-): TechnicalExpertiseContentPayload {
-  const normalizedLocale = normalizeTechnicalExpertiseContentLocale(locale);
-  logStaticFallback("technical expertise content", normalizedLocale);
-  const angular = createTechStack(
-    "Angular Development",
-    "/technical-expertise/front-end-developer/angular-developer/",
-    "/images/technical-expertise/frontend/framework/angular-thumbnail.webp",
-  );
-  const css3 = createTechStack(
-    "CSS3 Development",
-    "/technical-expertise/front-end-developer/css3-developer/",
-    "/images/technical-expertise/frontend/framework/css3-thumbnail.webp",
-  );
-  const html5 = createTechStack(
-    "HTML5 Development",
-    "/technical-expertise/front-end-developer/html5-developer/",
-    "/images/technical-expertise/frontend/framework/html5-thumbnail.webp",
-  );
-  const nextjs = createTechStack(
-    "Next.js Development",
-    "/technical-expertise/front-end-developer/nextjs-developer/",
-    "/images/technical-expertise/frontend/framework/nextjs-thumbnail.webp",
-  );
-  const react = createTechStack(
-    "React Development",
-    "/technical-expertise/front-end-developer/react-developer/",
-    "/images/technical-expertise/frontend/framework/react-thumbnail.webp",
-  );
-  const typescript = createTechStack(
-    "TypeScript Development",
-    "/technical-expertise/front-end-developer/typescript-developer/",
-    "/images/technical-expertise/frontend/framework/typescript-thumbnail.webp",
-  );
-  const vue = createTechStack(
-    "Vue Development",
-    "/technical-expertise/front-end-developer/vue-developer/",
-    "/images/technical-expertise/frontend/framework/vue-thumbnail.webp",
-  );
-  const javascript = createTechStack(
-    "JavaScript Development",
-    "/technical-expertise/front-end-developer/javascript-developer/",
-    "/images/technical-expertise/frontend/framework/javascript-thumbnail.webp",
-  );
-  const dotnetcore = createTechStack(
-    ".NET Core Development",
-    "/technical-expertise/full-stack-developer/dotnetcore-developer/",
-    "/images/technical-expertise/backend/framework/dotnetcore-thumbnail.webp",
-  );
-  const go = createTechStack(
-    "Go Development",
-    "/technical-expertise/full-stack-developer/go-developer/",
-    "/images/technical-expertise/backend/framework/go-thumbnail.webp",
-  );
-  const java = createTechStack(
-    "Java Spring Boot Development",
-    "/technical-expertise/full-stack-developer/java-spring-boot-developer/",
-    "/images/technical-expertise/backend/framework/java-thumbnail.webp",
-  );
-  const nodejs = createTechStack(
-    "Node.js Development",
-    "/technical-expertise/full-stack-developer/nodejs-developer/",
-    "/images/technical-expertise/backend/framework/nodejs-thumbnail.webp",
-  );
-  const php = createTechStack(
-    "PHP Development",
-    "/technical-expertise/full-stack-developer/php-developer/",
-    "/images/technical-expertise/backend/framework/php-thumbnail.webp",
-  );
-  const python = createTechStack(
-    "Python Development",
-    "/technical-expertise/full-stack-developer/python-developer/",
-    "/images/technical-expertise/backend/framework/python-thumbnail.webp",
-  );
-  const appium = createTechStack(
-    "Appium",
-    "/technical-expertise/cloud-devops/appium/",
-    "/images/technical-expertise/devops/framework/appium-thumbnail.webp",
-  );
-  const docker = createTechStack(
-    "Docker",
-    "/technical-expertise/cloud-devops/docker/",
-    "/images/technical-expertise/devops/framework/docker-thumbnail.webp",
-  );
-  const github = createTechStack(
-    "GitHub",
-    "/technical-expertise/cloud-devops/github/",
-    "/images/technical-expertise/devops/framework/github-thumbnail.webp",
-  );
-  const gitlab = createTechStack(
-    "GitLab",
-    "/technical-expertise/cloud-devops/gitlab/",
-    "/images/technical-expertise/devops/framework/gitlab-thumbnail.webp",
-  );
-  const jenkins = createTechStack(
-    "Jenkins",
-    "/technical-expertise/cloud-devops/jenkins/",
-    "/images/technical-expertise/devops/framework/jenkins-thumbnail.webp",
-  );
-  const kubernetes = createTechStack(
-    "Kubernetes",
-    "/technical-expertise/cloud-devops/kubernetes/",
-    "/images/technical-expertise/devops/framework/kube-thumbnail.webp",
-  );
-  const postman = createTechStack(
-    "Postman",
-    "/technical-expertise/cloud-devops/postman/",
-    "/images/technical-expertise/devops/framework/postman-thumbnail.webp",
-  );
-  const selenium = createTechStack(
-    "Selenium",
-    "/technical-expertise/cloud-devops/selenium/",
-    "/images/technical-expertise/devops/framework/selenium-thumbnail.webp",
-  );
-  const soapui = createTechStack(
-    "SoapUI",
-    "/technical-expertise/cloud-devops/soapui/",
-    "/images/technical-expertise/devops/framework/soapui-thumbnail.webp",
-  );
-
-  return {
-    locale: normalizedLocale,
-    mobileDevelopment: {
-      pageTitle: "Mobile Development",
-    },
-    feature: createFeature(),
-    frontEnd: {
-      title: "Front End Development",
-      span: "User interface engineering",
-      subTitle: fallbackText.description,
-      angular,
-      css3,
-      html5,
-      nextjs,
-      react,
-      typescript,
-      vue,
-      javascript,
-      stacks: [
-        angular,
-        css3,
-        html5,
-        nextjs,
-        react,
-        typescript,
-        vue,
-        javascript,
-      ],
-      services: createServiceGroup("Front End Services"),
-    },
-    fullStack: {
-      title: "Full Stack Development",
-      span: "Application delivery",
-      subTitle: fallbackText.description,
-      dotnetcore,
-      go,
-      java,
-      nodejs,
-      php,
-      python,
-      stacks: [dotnetcore, go, java, nodejs, php, python],
-      services: createServiceGroup("Full Stack Services"),
-    },
-    devOps: {
-      title: "Cloud DevOps",
-      span: "Delivery operations",
-      subTitle: fallbackText.description,
-      appium,
-      docker,
-      github,
-      gitlab,
-      jenkins,
-      kubernetes,
-      postman,
-      selenium,
-      soapui,
-      stacks: [
-        appium,
-        docker,
-        github,
-        gitlab,
-        jenkins,
-        kubernetes,
-        postman,
-        selenium,
-        soapui,
-      ],
-      services: createServiceGroup("DevOps Services"),
-    },
-    cloud: {
-      title: "Cloud Infrastructure",
-      span: "Cloud architecture",
-      subTitle: fallbackText.description,
-      stacks: [
-        {
-          title: "Cloud Architecture",
-          description: fallbackText.description,
-          image: "",
-          alt: "Cloud Architecture",
-          readMore: "Read more",
-          link: "/technical-expertise/cloud-infrastructure-systems-architecture/",
-        },
-      ],
-    },
-    web3: {
-      title: "Web3 Blockchain",
-      span: "Blockchain engineering",
-      subTitle: fallbackText.description,
-      services: createServiceGroup("Web3 Services"),
-    },
-    cloudSolution: {
-      title: "Cloud Infrastructure Systems Architecture",
-      descriptions: [
-        {
-          title: "Cloud architecture",
-          span: "Platform capability",
-          description: fallbackText.description,
-        },
-      ],
-      benefits: ["Public page availability"],
-      sections: [
-        {
-          title: "Architecture planning",
-          span: "Cloud readiness",
-          description:
-            "Design reliable cloud foundations for applications, teams, and future platform growth.",
-        },
-      ],
-      migrationProcess: [
-        {
-          phase: "Discovery and architecture",
-          description: fallbackText.description,
-          outcomes: ["Clear delivery direction", "Cloud readiness plan"],
-        },
-      ],
-    },
   };
 }

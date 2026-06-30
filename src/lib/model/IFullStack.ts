@@ -1,4 +1,3 @@
-
 // IFullStack.ts
 
 export interface IFullStack {
@@ -6,13 +5,13 @@ export interface IFullStack {
     span: string,
     subTitle: string,
 
-    dotnetcore: IFullStackStack,
     go: IFullStackStack,
     java: IFullStackStack,
     nodejs: IFullStackStack,
     php: IFullStackStack,
     python: IFullStackStack,
 
+    sideImages: ITechnicalExpertiseImage[],
     stacks: IFullStackStack[],
 
     services: IFullStackService
@@ -59,6 +58,7 @@ export interface IFullStackStack {
     title: string,
     description: string,
     image: string,
+    detailImage: string,
     alt: string,
     readMore: string,
     link: string,
@@ -66,4 +66,10 @@ export interface IFullStackStack {
     features: IFullStackFeature[],
     faqs: IFullStackFaq[],
     frameworks?: IFullStackFramework[],
+}
+
+export interface ITechnicalExpertiseImage {
+    title: string,
+    src: string,
+    alt: string,
 }

@@ -47,10 +47,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "美食",
-              "平台"
-            ],
+            "tags": ["美食", "平台"],
             "cta": "探索 Smart Food",
             "href": "/smart-food/"
           },
@@ -84,10 +81,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "奢华",
-              "项目"
-            ],
+            "tags": ["奢华", "项目"],
             "cta": "查看奢华",
             "href": "/luxury/"
           },
@@ -121,10 +115,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "AI",
-              "工程"
-            ],
+            "tags": ["AI", "工程"],
             "cta": "查看科技",
             "href": "/technology/"
           },
@@ -133,35 +124,32 @@
             "title": "时尚、服装与穿搭方向",
             "description": "一个轻量级生活方式频道，承载视觉身份、穿搭概念与未来商业故事。",
             "image": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+              "src": "/assets/styles/09-coastal-mts-traveler.png",
               "alt": "风格与穿搭视觉",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.style",
               "mobile": {
-                "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/mobile/09-coastal-mts-traveler.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/thumbnail/09-coastal-mts-traveler.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/desktop/09-coastal-mts-traveler.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "风格",
-              "生活方式"
-            ],
+            "tags": ["风格", "生活方式"],
             "cta": "查看风格",
             "href": "/style/"
           }
@@ -178,35 +166,32 @@
             "title": "女士穿搭",
             "description": "面向高端生活方式场景的优雅文明造型。",
             "image": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+              "src": "/assets/styles/05-lotus-lanna-ceremony.png",
               "alt": "女士穿搭概念",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.lady",
               "mobile": {
-                "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/mobile/05-lotus-lanna-ceremony.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/thumbnail/05-lotus-lanna-ceremony.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/desktop/05-lotus-lanna-ceremony.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "女士",
-              "奢华"
-            ],
+            "tags": ["女士", "奢华"],
             "cta": "查看系列",
             "href": "/style/"
           },
@@ -215,35 +200,32 @@
             "title": "男士穿搭",
             "description": "适用于旅行、城市与度假场景的精致轮廓。",
             "image": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman.png",
               "alt": "男士穿搭概念",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.gentleman",
               "mobile": {
-                "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/mobile/06-mountain-hydrangea-gentleman.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/desktop/06-mountain-hydrangea-gentleman.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "男士",
-              "旅行"
-            ],
+            "tags": ["男士", "旅行"],
             "cta": "查看系列",
             "href": "/style/"
           },
@@ -252,35 +234,32 @@
             "title": "文明服饰",
             "description": "连接场域、仪式与未来商业的服饰故事。",
             "image": {
-              "src": "/images-platform/styles/02-coastal-resort-floral.png",
+              "src": "/assets/styles/02-coastal-resort-floral.png",
               "alt": "文明服饰概念",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.civilization",
               "mobile": {
-                "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/mobile/02-coastal-resort-floral.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/thumbnail/02-coastal-resort-floral.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/desktop/02-coastal-resort-floral.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "场域",
-              "Chorn DNA"
-            ],
+            "tags": ["场域", "Chorn DNA"],
             "cta": "打开频道",
             "href": "/style/"
           },
@@ -314,10 +293,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "兰纳",
-              "未来"
-            ],
+            "tags": ["兰纳", "未来"],
             "cta": "探索造型",
             "href": "/smart-mobility/"
           }
@@ -332,26 +308,26 @@
         {
           "title": "在躺椅沙发上放松",
           "image": {
-            "src": "/images-platform/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
+            "src": "/assets/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
             "alt": "一对情侣在可眺望山景的大窗旁放松。",
             "width": 1024,
             "height": 1536,
             "aspectRatio": "2:3",
             "positionKey": "home.circular.sofa",
             "mobile": {
-              "src": "/images-platform/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
               "width": 720,
               "height": 1080,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
               "width": 480,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
               "width": 1024,
               "height": 1536,
               "quality": 82
@@ -362,26 +338,26 @@
         {
           "title": "MTS 薰衣草山谷站",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-valley2-lavender-valley.png",
+            "src": "/assets/smart-mobility/mts-valley2-lavender-valley.png",
             "alt": "MTS 薰衣草山谷站",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.valley",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -392,26 +368,26 @@
         {
           "title": "MTS 珊瑚湾码头站",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-coastal2-coral-bay-marina.png",
+            "src": "/assets/smart-mobility/mts-coastal2-coral-bay-marina.png",
             "alt": "MTS 珊瑚湾码头站",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.coastal-marina",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -422,26 +398,26 @@
         {
           "title": "MTS 日出海景平台站",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
+            "src": "/assets/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
             "alt": "MTS 日出海景平台站",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.coastal-sunrise",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -499,51 +475,31 @@
       {
         "title": "AI 智慧出行",
         "body": "AI Smart Mobility 通过 Chorn Planet MTS Network 探索智能交通、互联基础设施与未来出行体验，作为连接目的地、旅游、生活方式环境与未来文明概念的循环系统。",
-        "tags": [
-          "MTS 网络",
-          "智慧基础设施",
-          "未来出行"
-        ],
+        "tags": ["MTS 网络", "智慧基础设施", "未来出行"],
         "link": "/smart-mobility/"
       },
       {
         "title": "智慧城市系统",
         "body": "Smart City Systems 探索智能环境、互联基础设施、出行协同与以人为中心的城市体验如何共同演进。该平台观察未来城市如何在互联文明生态中平衡科技、流动、舒适、可持续性与日常生活。",
-        "tags": [
-          "以人为中心的城市",
-          "互联基础设施",
-          "城市智能"
-        ],
+        "tags": ["以人为中心的城市", "互联基础设施", "城市智能"],
         "link": "/smart-city/"
       },
       {
         "title": "AI Smart Food",
         "body": "Smart Food 是贴近日常生活的实用层，为 Chorn Planet 提供一个围绕美食发现、菜单信息、客户体验、点餐概念与未来 AI 辅助餐饮服务流程的有用起点。",
-        "tags": [
-          "美食体验",
-          "点餐概念",
-          "日常实用"
-        ],
+        "tags": ["美食体验", "点餐概念", "日常实用"],
         "link": "/smart-food/"
       },
       {
         "title": "AI 奢华",
         "body": "AI 奢华是面向地产、目的地与生活方式叙事的高端项目层，帮助将高价值项目转化为更清晰的故事、更强的视觉系统与面向投资者的平台内容。",
-        "tags": [
-          "高端项目",
-          "目的地故事",
-          "投资者就绪"
-        ],
+        "tags": ["高端项目", "目的地故事", "投资者就绪"],
         "link": "/luxury/"
       },
       {
         "title": "风格与穿搭方向",
         "body": "Style 为平台提供视觉生活方式层，让穿搭概念在旅行、文化、柔性奢华与未来商业中转化为场景、故事与产品方向。",
-        "tags": [
-          "优雅风格",
-          "穿搭故事",
-          "未来商业"
-        ],
+        "tags": ["优雅风格", "穿搭故事", "未来商业"],
         "link": "/style/"
       }
     ]

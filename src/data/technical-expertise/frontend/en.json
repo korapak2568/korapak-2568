@@ -1,0 +1,392 @@
+{
+  "routes": [
+    {
+      "slug": "nextjs-developer",
+      "stackKey": "nextjs",
+      "metadataKey": "nextjs",
+      "schema": {
+        "name": "Next.js Development Services | Chorn Planet",
+        "description": "Expert Next.js development services by Chorn Planet. Enhance your web applications with scalable and high-performance solutions using Next.js.",
+        "url": "/technical-expertise/front-end-developer/nextjs-developer/"
+      }
+    },
+    {
+      "slug": "react-developer",
+      "stackKey": "react",
+      "metadataKey": "react",
+      "schema": {
+        "name": "React Development Services | Chorn Planet",
+        "description": "Chorn Planet provides top-tier React development services. Build dynamic and responsive user interfaces with React.",
+        "url": "/technical-expertise/front-end-developer/react-developer/"
+      }
+    },
+    {
+      "slug": "typescript-developer",
+      "stackKey": "typescript",
+      "metadataKey": "typescript",
+      "schema": {
+        "name": "TypeScript | Chorn Planet - Custom Software Development Experts",
+        "description": "Learn how Chorn Planet leverages TypeScript to build scalable, robust, and efficient custom software solutions for businesses across industries.",
+        "url": "/technical-expertise/front-end-developer/typescript-developer/"
+      }
+    }
+  ],
+  "schema": {
+    "name": "Frontend Development Services | Chorn Planet",
+    "description": "Chorn Planet provides expert frontend development services, specializing in modern frameworks like Next.js, React, Angular, Vue, HTML5, and CSS3. Build responsive and scalable websites with cutting-edge technologies.",
+    "url": "/technical-expertise/front-end-developer/"
+  },
+  "frontEnd": {
+    "title": "Front End Development",
+    "span": "User interface engineering",
+    "subTitle": "Chorn Planet presents digital products, AI services, smart city concepts, and platform engineering capabilities from Chiang Mai to global audiences.",
+    "nextjs": {
+      "title": "NextJS Development",
+      "description": "Next.js is a leading React framework that offers server-side rendering and static site generation, delivering high-performance, SEO-friendly web applications with minimal configuration. Perfect for modern web development needs.",
+      "image": "/assets/technical-expertise/frontend/framework/nextjs-thumbnail.webp",
+      "alt": "Logo representing Next.js framework",
+      "readMore": "Read more",
+      "link": "/technical-expertise/front-end-developer/nextjs-developer/",
+      "features": [
+        {
+          "title": "NextJS Development",
+          "description": "Next.js is a leading React framework that offers server-side rendering and static site generation, delivering high-performance, SEO-friendly web applications with minimal configuration. Perfect for modern web development needs.",
+          "list": []
+        },
+        {
+          "title": "Strong Points of NextJS",
+          "description": "NextJS stands out with its robust features",
+          "list": [
+            "Server-side rendering",
+            "Static site generation",
+            "Automatic code splitting",
+            "API routes",
+            "Incremental static regeneration",
+            "Built-in CSS and Sass support",
+            "Excellent developer experience"
+          ]
+        },
+        {
+          "title": "Challenge and Solutions",
+          "description": "Next.js tackles web development challenges by providing solutions for performance, scalability, and SEO, ensuring optimal application delivery.",
+          "list": []
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What is Next.js?",
+          "answer": "Next.js is a React framework that provides server-side rendering and static site generation for optimized web applications."
+        },
+        {
+          "question": "How does server-side rendering in Next.js improve performance?",
+          "answer": "Server-side rendering improves performance by pre-rendering pages on the server, reducing client-side rendering time."
+        },
+        {
+          "question": "What is static site generation in Next.js?",
+          "answer": "Static site generation pre-renders pages at build time, providing fast load times and improved SEO."
+        }
+      ],
+      "frameworks": [],
+      "detailImage": "/assets/technical-expertise/frontend/framework/nextjs-qrcode-1200.webp"
+    },
+    "react": {
+      "title": "React Development",
+      "description": "React.js is a popular JavaScript library for building user interfaces. It enables developers to create reusable UI component, enhancing development efficiency and application performance.",
+      "image": "/assets/technical-expertise/frontend/framework/react-thumbnail.webp",
+      "alt": "Logo representing React.js library",
+      "readMore": "Read more",
+      "link": "/technical-expertise/front-end-developer/react-developer/",
+      "features": [
+        {
+          "title": "React Development",
+          "description": "React.js is a popular JavaScript library for building user interfaces. It enables developers to create reusable UI component, enhancing development efficiency and application performance.",
+          "list": []
+        },
+        {
+          "title": "Strong Points of React.js",
+          "description": "React.js offers a robust set of features that make it a preferred choice for developers.",
+          "list": [
+            "Component-based architecture",
+            "Virtual DOM for improved performance",
+            "Unidirectional data flow",
+            "JSX syntax",
+            "Rich ecosystem and community",
+            "React Hooks",
+            "Extensive developer tools"
+          ]
+        },
+        {
+          "title": "Challenge and Solutions",
+          "description": "React.js addresses challenges in dynamic UI development with a virtual DOM, component reusability, and an active community.",
+          "list": []
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What is React.js?",
+          "answer": "React.js is a JavaScript library for building user interfaces, maintained by Facebook."
+        },
+        {
+          "question": "What are React Hooks?",
+          "answer": "React Hooks are functions that let you use state and lifecycle features in functional component."
+        },
+        {
+          "question": "How does the virtual DOM work?",
+          "answer": "The virtual DOM updates only the changed elements, improving application performance."
+        }
+      ],
+      "frameworks": [],
+      "detailImage": "/assets/technical-expertise/frontend/framework/react-qrcode-1200.webp"
+    },
+    "typescript": {
+      "title": "TypeScript Development",
+      "description": "TypeScript enhances development by introducing static typing and object-oriented programming features, allowing developers to build scalable and maintainable applications with confidence.",
+      "image": "/assets/technical-expertise/frontend/framework/typescript-thumbnail.webp",
+      "alt": "Logo representing TypeScript programming language",
+      "readMore": "Read more",
+      "link": "/technical-expertise/front-end-developer/typescript-developer/",
+      "features": [
+        {
+          "title": "TypeScript Development",
+          "description": "TypeScript enhances development by introducing static typing and object-oriented programming features, allowing developers to build scalable and maintainable applications with confidence.",
+          "list": []
+        },
+        {
+          "title": "Enhanced Code Quality",
+          "description": "TypeScript's type-checking features ensure that potential errors are caught during the development phase, reducing runtime errors and improving maintainability for large-scale projects.",
+          "list": [
+            "Static typing",
+            "Advanced error checking",
+            "Improved code quality",
+            "Enhanced IDE support",
+            "Scalable application architecture",
+            "Large community support"
+          ]
+        },
+        {
+          "title": "Improved Developer Productivity",
+          "description": "With features like type inference, interfaces, and generics, TypeScript makes managing complex codebases easier. It integrates seamlessly with modern tools, boosting productivity and collaboration.",
+          "list": []
+        },
+        {
+          "title": "Seamless Integration with Frameworks",
+          "description": "TypeScript integrates effortlessly with popular JavaScript frameworks such as React, Angular, and Vue.js. Developers can gradually adopt TypeScript in existing JavaScript projects, ensuring compatibility and scalability.",
+          "list": []
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What is TypeScript?",
+          "answer": "TypeScript is a superset of JavaScript that adds static typing and other advanced features for improved development."
+        },
+        {
+          "question": "Why use TypeScript over JavaScript?",
+          "answer": "TypeScript's static typing and robust tooling catch errors early, improve code quality, and enhance developer productivity."
+        },
+        {
+          "question": "Can TypeScript work with JavaScript frameworks?",
+          "answer": "Yes, TypeScript is fully compatible with JavaScript frameworks such as React, Angular, and Vue.js."
+        }
+      ],
+      "frameworks": [],
+      "detailImage": "/assets/technical-expertise/frontend/framework/typescript-qrcode-1200.webp"
+    },
+    "stacks": [
+      {
+        "title": "NextJS",
+        "description": "Next.js is a leading React framework that offers server-side rendering and static site generation, delivering high-performance, SEO-friendly web applications with minimal configuration. Perfect for modern web development needs.",
+        "image": "/assets/technical-expertise/frontend/framework/nextjs-thumbnail.webp",
+        "alt": "Logo representing Next.js framework",
+        "readMore": "Read more",
+        "link": "/technical-expertise/front-end-developer/nextjs-developer/",
+        "features": [
+          {
+            "title": "NextJS Development",
+            "description": "Next.js is a leading React framework that offers server-side rendering and static site generation, delivering high-performance, SEO-friendly web applications with minimal configuration. Perfect for modern web development needs.",
+            "list": []
+          },
+          {
+            "title": "Strong Points of NextJS",
+            "description": "NextJS stands out with its robust features",
+            "list": [
+              "Server-side rendering",
+              "Static site generation",
+              "Automatic code splitting",
+              "API routes",
+              "Incremental static regeneration",
+              "Built-in CSS and Sass support",
+              "Excellent developer experience"
+            ]
+          },
+          {
+            "title": "Challenge and Solutions",
+            "description": "Next.js tackles web development challenges by providing solutions for performance, scalability, and SEO, ensuring optimal application delivery.",
+            "list": []
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What is Next.js?",
+            "answer": "Next.js is a React framework that provides server-side rendering and static site generation for optimized web applications."
+          },
+          {
+            "question": "How does server-side rendering in Next.js improve performance?",
+            "answer": "Server-side rendering improves performance by pre-rendering pages on the server, reducing client-side rendering time."
+          },
+          {
+            "question": "What is static site generation in Next.js?",
+            "answer": "Static site generation pre-renders pages at build time, providing fast load times and improved SEO."
+          }
+        ],
+        "frameworks": [],
+        "detailImage": "/assets/technical-expertise/frontend/framework/nextjs-qrcode-1200.webp"
+      },
+      {
+        "title": "React",
+        "description": "React.js is a popular JavaScript library for building user interfaces. It enables developers to create reusable UI component, enhancing development efficiency and application performance.",
+        "image": "/assets/technical-expertise/frontend/framework/react-thumbnail.webp",
+        "alt": "Logo representing React.js library",
+        "readMore": "Read more",
+        "link": "/technical-expertise/front-end-developer/react-developer/",
+        "features": [
+          {
+            "title": "React Development",
+            "description": "React.js is a popular JavaScript library for building user interfaces. It enables developers to create reusable UI component, enhancing development efficiency and application performance.",
+            "list": []
+          },
+          {
+            "title": "Strong Points of React.js",
+            "description": "React.js offers a robust set of features that make it a preferred choice for developers.",
+            "list": [
+              "Component-based architecture",
+              "Virtual DOM for improved performance",
+              "Unidirectional data flow",
+              "JSX syntax",
+              "Rich ecosystem and community",
+              "React Hooks",
+              "Extensive developer tools"
+            ]
+          },
+          {
+            "title": "Challenge and Solutions",
+            "description": "React.js addresses challenges in dynamic UI development with a virtual DOM, component reusability, and an active community.",
+            "list": []
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What is React.js?",
+            "answer": "React.js is a JavaScript library for building user interfaces, maintained by Facebook."
+          },
+          {
+            "question": "What are React Hooks?",
+            "answer": "React Hooks are functions that let you use state and lifecycle features in functional component."
+          },
+          {
+            "question": "How does the virtual DOM work?",
+            "answer": "The virtual DOM updates only the changed elements, improving application performance."
+          }
+        ],
+        "frameworks": [],
+        "detailImage": "/assets/technical-expertise/frontend/framework/react-qrcode-1200.webp"
+      },
+      {
+        "title": "TypeScript",
+        "description": "TypeScript enhances development by introducing static typing and object-oriented programming features, allowing developers to build scalable and maintainable applications with confidence.",
+        "image": "/assets/technical-expertise/frontend/framework/typescript-thumbnail.webp",
+        "alt": "Logo representing TypeScript programming language",
+        "readMore": "Read more",
+        "link": "/technical-expertise/front-end-developer/typescript-developer/",
+        "features": [
+          {
+            "title": "TypeScript Development",
+            "description": "TypeScript enhances development by introducing static typing and object-oriented programming features, allowing developers to build scalable and maintainable applications with confidence.",
+            "list": []
+          },
+          {
+            "title": "Enhanced Code Quality",
+            "description": "TypeScript's type-checking features ensure that potential errors are caught during the development phase, reducing runtime errors and improving maintainability for large-scale projects.",
+            "list": [
+              "Static typing",
+              "Advanced error checking",
+              "Improved code quality",
+              "Enhanced IDE support",
+              "Scalable application architecture",
+              "Large community support"
+            ]
+          },
+          {
+            "title": "Improved Developer Productivity",
+            "description": "With features like type inference, interfaces, and generics, TypeScript makes managing complex codebases easier. It integrates seamlessly with modern tools, boosting productivity and collaboration.",
+            "list": []
+          },
+          {
+            "title": "Seamless Integration with Frameworks",
+            "description": "TypeScript integrates effortlessly with popular JavaScript frameworks such as React, Angular, and Vue.js. Developers can gradually adopt TypeScript in existing JavaScript projects, ensuring compatibility and scalability.",
+            "list": []
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What is TypeScript?",
+            "answer": "TypeScript is a superset of JavaScript that adds static typing and other advanced features for improved development."
+          },
+          {
+            "question": "Why use TypeScript over JavaScript?",
+            "answer": "TypeScript's static typing and robust tooling catch errors early, improve code quality, and enhance developer productivity."
+          },
+          {
+            "question": "Can TypeScript work with JavaScript frameworks?",
+            "answer": "Yes, TypeScript is fully compatible with JavaScript frameworks such as React, Angular, and Vue.js."
+          }
+        ],
+        "frameworks": [],
+        "detailImage": "/assets/technical-expertise/frontend/framework/typescript-qrcode-1200.webp"
+      }
+    ],
+    "services": {
+      "title": "Front End Services",
+      "descriptions": [
+        "Chorn Planet presents digital products, AI services, smart city concepts, and platform engineering capabilities from Chiang Mai to global audiences."
+      ],
+      "items": [
+        {
+          "title": "Service capability",
+          "description": "Chorn Planet supports product planning, implementation, integration, and delivery readiness."
+        }
+      ]
+    },
+    "sideImages": [
+      {
+        "title": "Chorn Planet frontend development side 1",
+        "src": "/assets/technical-expertise/front-end-developer/side-images/frontend-side-1-image-750.webp",
+        "alt": "Frontend development side image 1"
+      },
+      {
+        "title": "Chorn Planet frontend development side 2",
+        "src": "/assets/technical-expertise/front-end-developer/side-images/frontend-side-2-image-750.webp",
+        "alt": "Frontend development side image 2"
+      },
+      {
+        "title": "Chorn Planet frontend development side 3",
+        "src": "/assets/technical-expertise/front-end-developer/side-images/frontend-side-3-image-750.webp",
+        "alt": "Frontend development side image 3"
+      },
+      {
+        "title": "Chorn Planet frontend development side 4",
+        "src": "/assets/technical-expertise/front-end-developer/side-images/frontend-side-4-image-750.webp",
+        "alt": "Frontend development side image 4"
+      },
+      {
+        "title": "Chorn Planet frontend development side 5",
+        "src": "/assets/technical-expertise/front-end-developer/side-images/frontend-side-5-image-750.webp",
+        "alt": "Frontend development side image 5"
+      },
+      {
+        "title": "Chorn Planet frontend development side 6",
+        "src": "/assets/technical-expertise/front-end-developer/side-images/frontend-side-6-image-750.webp",
+        "alt": "Frontend development side image 6"
+      }
+    ]
+  }
+}

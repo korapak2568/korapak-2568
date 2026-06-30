@@ -68,7 +68,7 @@ function loadSmartFoodMetadata(locale: string): PlatformMetadataSource {
 
 function loadLuxuryMetadata(locale: string): PlatformMetadataSource {
   const content = getAiLuxuryContent(locale);
-  const openGraphImage = content.metadata?.open_graph;
+  const openGraphImage = content.heroImage.open_graph;
 
   return {
     title: content.metadata?.title ?? content.heroImage.title ?? "Chorn Planet",

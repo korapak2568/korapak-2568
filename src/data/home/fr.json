@@ -47,10 +47,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "Food",
-              "Plattform"
-            ],
+            "tags": ["Food", "Plattform"],
             "cta": "Explorer Smart Food",
             "href": "/smart-food/"
           },
@@ -84,10 +81,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "Luxe",
-              "Projets"
-            ],
+            "tags": ["Luxe", "Projets"],
             "cta": "Voir Luxury",
             "href": "/luxury/"
           },
@@ -121,10 +115,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "AI",
-              "Ingénierie"
-            ],
+            "tags": ["AI", "Ingénierie"],
             "cta": "Voir la technologie",
             "href": "/technology/"
           },
@@ -133,35 +124,32 @@
             "title": "Direction mode, vêtements et tenues",
             "description": "Un canal lifestyle léger pour l’identité visuelle, les concepts de tenues et les récits du commerce futur.",
             "image": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+              "src": "/assets/styles/09-coastal-mts-traveler.png",
               "alt": "Visuel style et tenue",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.style",
               "mobile": {
-                "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/mobile/09-coastal-mts-traveler.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/thumbnail/09-coastal-mts-traveler.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/desktop/09-coastal-mts-traveler.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Style",
-              "Lifestyle"
-            ],
+            "tags": ["Style", "Lifestyle"],
             "cta": "Voir le style",
             "href": "/style/"
           }
@@ -178,35 +166,32 @@
             "title": "Tenue femme",
             "description": "Des looks de civilisation élégants pour des scènes lifestyle premium.",
             "image": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+              "src": "/assets/styles/05-lotus-lanna-ceremony.png",
               "alt": "Concept de tenue femme",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.lady",
               "mobile": {
-                "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/mobile/05-lotus-lanna-ceremony.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/thumbnail/05-lotus-lanna-ceremony.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/desktop/05-lotus-lanna-ceremony.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Femme",
-              "Luxe"
-            ],
+            "tags": ["Femme", "Luxe"],
             "cta": "Voir la collection",
             "href": "/style/"
           },
@@ -215,35 +200,32 @@
             "title": "Tenue homme",
             "description": "Des silhouettes raffinées pour les contextes de voyage, urbains et resort.",
             "image": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman.png",
               "alt": "Concept de tenue homme",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.gentleman",
               "mobile": {
-                "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/mobile/06-mountain-hydrangea-gentleman.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/desktop/06-mountain-hydrangea-gentleman.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Homme",
-              "Voyage"
-            ],
+            "tags": ["Homme", "Voyage"],
             "cta": "Voir la collection",
             "href": "/style/"
           },
@@ -252,35 +234,32 @@
             "title": "Vêtements de civilisation",
             "description": "Des récits vestimentaires connectés aux zones, aux rituels et au commerce futur.",
             "image": {
-              "src": "/images-platform/styles/02-coastal-resort-floral.png",
+              "src": "/assets/styles/02-coastal-resort-floral.png",
               "alt": "Concept de vêtements de civilisation",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.civilization",
               "mobile": {
-                "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/mobile/02-coastal-resort-floral.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/thumbnail/02-coastal-resort-floral.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/desktop/02-coastal-resort-floral.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Zone",
-              "Chorn DNA"
-            ],
+            "tags": ["Zone", "Chorn DNA"],
             "cta": "Ouvrir le canal",
             "href": "/style/"
           },
@@ -314,10 +293,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "Lanna",
-              "Futur"
-            ],
+            "tags": ["Lanna", "Futur"],
             "cta": "Explorer le look",
             "href": "/smart-mobility/"
           }
@@ -332,26 +308,26 @@
         {
           "title": "Détente sur le canapé inclinable",
           "image": {
-            "src": "/images-platform/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
+            "src": "/assets/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
             "alt": "Un couple se détend près d’une grande fenêtre avec vue sur la montagne.",
             "width": 1024,
             "height": 1536,
             "aspectRatio": "2:3",
             "positionKey": "home.circular.sofa",
             "mobile": {
-              "src": "/images-platform/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
               "width": 720,
               "height": 1080,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
               "width": 480,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
               "width": 1024,
               "height": 1536,
               "quality": 82
@@ -362,26 +338,26 @@
         {
           "title": "Station MTS Lavender Valley",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-valley2-lavender-valley.png",
+            "src": "/assets/smart-mobility/mts-valley2-lavender-valley.png",
             "alt": "Station MTS Lavender Valley",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.valley",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -392,26 +368,26 @@
         {
           "title": "Station MTS Coral Bay Marina",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-coastal2-coral-bay-marina.png",
+            "src": "/assets/smart-mobility/mts-coastal2-coral-bay-marina.png",
             "alt": "Station MTS Coral Bay Marina",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.coastal-marina",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -422,26 +398,26 @@
         {
           "title": "Station MTS Sunrise Ocean Deck",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
+            "src": "/assets/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
             "alt": "Station MTS Sunrise Ocean Deck",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.coastal-sunrise",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -539,11 +515,7 @@
       {
         "title": "Direction style et tenue",
         "body": "Style donne à la plateforme une couche lifestyle visuelle. Les concepts de tenues deviennent des scènes, des histoires et des directions produits à travers le voyage, la culture, le soft luxury et le commerce futur.",
-        "tags": [
-          "Graceful Style",
-          "Histoires de tenues",
-          "Commerce futur"
-        ],
+        "tags": ["Graceful Style", "Histoires de tenues", "Commerce futur"],
         "link": "/style/"
       }
     ]

@@ -1,16 +1,10 @@
 import type { Metadata } from "next";
 import { getLocalizedAlternates } from "@/lib/metadata/alternates";
-import coastalStationsSeed from "@/data/smart-mobility/coastal/en.coastal.json";
-import mtsContentSeed from "@/data/smart-mobility/mts/en.mts.json";
-import valleyStationsSeed from "@/data/smart-mobility/valley/en.valley.json";
+import coastalStationsSeed from "@/data/smart-mobility/coastal/en.json";
+import mtsContentSeed from "@/data/smart-mobility/mts/en.json";
+import valleyStationsSeed from "@/data/smart-mobility/valley/en.json";
 import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
 
-export type MtsImageGenerationSize = {
-  width: number;
-  height: number;
-  aspectRatio: string;
-  positionKey: string;
-};
 
 export type MtsStation = {
   type: "MTS";
@@ -25,11 +19,14 @@ export type MtsStation = {
   image: {
     src: string;
     alt: string;
+    width: number;
+    height: number;
+    aspectRatio?: string;
     mobile?: PlatformResponsiveImageVariant;
     thumbnail?: PlatformResponsiveImageVariant;
     desktop?: PlatformResponsiveImageVariant;
+    open_graph?: PlatformResponsiveImageVariant;
   };
-  imageGenerationSize: MtsImageGenerationSize;
 };
 
 export type MtsLine = {
@@ -284,9 +281,9 @@ export function getSmartMobilityStationMetadata({
       url: `/${resolveSmartMobilityLocale(locale)}/smart-mobility/mts/${station.slug}/`,
       images: [
         {
-          url: station.image.src,
-          width: station.imageGenerationSize.width,
-          height: station.imageGenerationSize.height,
+          url: station.image.open_graph?.src ?? station.image.src,
+          width: station.image.open_graph?.width ?? station.image.width,
+          height: station.image.open_graph?.height ?? station.image.height,
           alt: station.image.alt,
         },
       ],
@@ -295,7 +292,7 @@ export function getSmartMobilityStationMetadata({
       card: "summary_large_image",
       title: station.name,
       description: station.story,
-      images: [station.image.src],
+      images: [station.image.open_graph?.src ?? station.image.src],
     },
   };
 }

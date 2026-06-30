@@ -10,23 +10,23 @@
       "images": [
         {
           "slot": "primary",
-          "src": "/images/dev/styles/set1.png",
+          "src": "/assets/styles/01-rice-valley-couple-lanna.png",
           "alt": "Lanna-Paar",
           "sizes": "(max-width: 768px) 100vw, 36vw",
           "mobile": {
-            "src": "/images/dev/styles/mobile/set1.webp",
+            "src": "/assets/styles/mobile/01-rice-valley-couple-lanna.webp",
             "width": 720,
             "height": 1280,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/images/dev/styles/thumbnail/set1.webp",
+            "src": "/assets/styles/thumbnail/01-rice-valley-couple-lanna.webp",
             "width": 405,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/images/dev/styles/desktop/set1.webp",
+            "src": "/assets/styles/desktop/01-rice-valley-couple-lanna.webp",
             "width": 900,
             "height": 1600,
             "quality": 82
@@ -34,23 +34,23 @@
         },
         {
           "slot": "secondary",
-          "src": "/images/dev/styles/set2.png",
+          "src": "/assets/styles/02-coastal-resort-floral.png",
           "alt": "Florales Outfit im Küstenresort",
           "sizes": "(max-width: 768px) 50vw, 18vw",
           "mobile": {
-            "src": "/images/dev/styles/mobile/set2.webp",
+            "src": "/assets/styles/mobile/02-coastal-resort-floral.webp",
             "width": 720,
             "height": 1280,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/images/dev/styles/thumbnail/set2.webp",
+            "src": "/assets/styles/thumbnail/02-coastal-resort-floral.webp",
             "width": 405,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/images/dev/styles/desktop/set2.webp",
+            "src": "/assets/styles/desktop/02-coastal-resort-floral.webp",
             "width": 900,
             "height": 1600,
             "quality": 82
@@ -58,23 +58,23 @@
         },
         {
           "slot": "tertiary",
-          "src": "/images/dev/styles/set3.png",
+          "src": "/assets/styles/03-waterfall-citrus-travel.png",
           "alt": "Reiselook",
           "sizes": "(max-width: 768px) 50vw, 18vw",
           "mobile": {
-            "src": "/images/dev/styles/mobile/set3.webp",
+            "src": "/assets/styles/mobile/03-waterfall-citrus-travel.webp",
             "width": 720,
             "height": 1280,
             "quality": 78
           },
           "thumbnail": {
-            "src": "/images/dev/styles/thumbnail/set3.webp",
+            "src": "/assets/styles/thumbnail/03-waterfall-citrus-travel.webp",
             "width": 405,
             "height": 720,
             "quality": 72
           },
           "desktop": {
-            "src": "/images/dev/styles/desktop/set3.webp",
+            "src": "/assets/styles/desktop/03-waterfall-citrus-travel.webp",
             "width": 900,
             "height": 1600,
             "quality": 82
@@ -152,46 +152,52 @@
       "title": "Lanna-Paar",
       "visualSummary": "Ein romantischer Lanna-Paarlook für Lotus-Tal-Storytelling und ländlichen Tourismus.",
       "image": {
-        "src": "/images-platform/styles/01-rice-valley-couple-lanna.png",
+        "src": "/assets/styles/01-rice-valley-couple-lanna.png",
         "alt": "Lanna-Paar",
         "mobile": {
-          "src": "/images-platform/styles/mobile/01-rice-valley-couple-lanna.webp",
+          "src": "/assets/styles/mobile/01-rice-valley-couple-lanna.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/01-rice-valley-couple-lanna.webp",
+          "src": "/assets/styles/thumbnail/01-rice-valley-couple-lanna.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/01-rice-valley-couple-lanna.webp",
+          "src": "/assets/styles/desktop/01-rice-valley-couple-lanna.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/01-rice-valley-couple-lanna.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-2.png",
+            "src": "/assets/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-2.png",
             "alt": "Lanna-Paar 1",
             "mobile": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-2.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-2.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-2.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -200,22 +206,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-3.png",
+            "src": "/assets/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-3.png",
             "alt": "Lanna-Paar 2",
             "mobile": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-3.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-3.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-3.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -224,22 +230,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-4.png",
+            "src": "/assets/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-4.png",
             "alt": "Lanna-Paar 3",
             "mobile": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-4.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-4.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-4.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -248,22 +254,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-5.png",
+            "src": "/assets/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-5.png",
             "alt": "Lanna-Paar 4",
             "mobile": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-5.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-5.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-5.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-5.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-5.webp",
+              "src": "/assets/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-5.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -286,46 +292,52 @@
       "title": "Florales Outfit",
       "visualSummary": "Ein florales Outfit für Küstenresorts, Strandpromenaden, Overwater-Villen und Premium-Sommerlifestyle.",
       "image": {
-        "src": "/images-platform/styles/02-coastal-resort-floral.png",
+        "src": "/assets/styles/02-coastal-resort-floral.png",
         "alt": "Florales Outfit",
         "mobile": {
-          "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+          "src": "/assets/styles/mobile/02-coastal-resort-floral.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+          "src": "/assets/styles/thumbnail/02-coastal-resort-floral.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+          "src": "/assets/styles/desktop/02-coastal-resort-floral.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/02-coastal-resort-floral.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-1.png",
+            "src": "/assets/styles/02-coastal-resort-floral/coastal-resort-floral-1.png",
             "alt": "Florales Outfit 1",
             "mobile": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-1.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-1.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-1.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -334,22 +346,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-2.png",
+            "src": "/assets/styles/02-coastal-resort-floral/coastal-resort-floral-2.png",
             "alt": "Florales Outfit 2",
             "mobile": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-2.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-2.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-2.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -358,22 +370,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-3.png",
+            "src": "/assets/styles/02-coastal-resort-floral/coastal-resort-floral-3.png",
             "alt": "Florales Outfit 3",
             "mobile": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-3.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-3.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-3.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -382,22 +394,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-4.png",
+            "src": "/assets/styles/02-coastal-resort-floral/coastal-resort-floral-4.png",
             "alt": "Florales Outfit 4",
             "mobile": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-4.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-4.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-4.webp",
+              "src": "/assets/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -420,46 +432,52 @@
       "title": "Reiselook",
       "visualSummary": "Ein heller Kurzarm-Reiselook für Wasserfall-Decks, Naturpfade und leichte Abenteuerreisen.",
       "image": {
-        "src": "/images-platform/styles/03-waterfall-citrus-travel.png",
+        "src": "/assets/styles/03-waterfall-citrus-travel.png",
         "alt": "Reiselook",
         "mobile": {
-          "src": "/images-platform/styles/mobile/03-waterfall-citrus-travel.webp",
+          "src": "/assets/styles/mobile/03-waterfall-citrus-travel.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/03-waterfall-citrus-travel.webp",
+          "src": "/assets/styles/thumbnail/03-waterfall-citrus-travel.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/03-waterfall-citrus-travel.webp",
+          "src": "/assets/styles/desktop/03-waterfall-citrus-travel.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/03-waterfall-citrus-travel.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-1.png",
+            "src": "/assets/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-1.png",
             "alt": "Reiselook 1",
             "mobile": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-1.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-1.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-1.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -468,22 +486,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-2.png",
+            "src": "/assets/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-2.png",
             "alt": "Reiselook 2",
             "mobile": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-2.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-2.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-2.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -492,22 +510,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-3.png",
+            "src": "/assets/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-3.png",
             "alt": "Reiselook 3",
             "mobile": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-3.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-3.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-3.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -516,22 +534,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-4.png",
+            "src": "/assets/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-4.png",
             "alt": "Reiselook 4",
             "mobile": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-4.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-4.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-4.webp",
+              "src": "/assets/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -555,46 +573,52 @@
       "title": "Lotusteich-Café",
       "visualSummary": "Ein sanft getönter Café-Look für angerichtetes Essen, Lotusteiche und lokale Gastronomie.",
       "image": {
-        "src": "/images-platform/styles/04-lotus-smart-food-cafe.png",
+        "src": "/assets/styles/04-lotus-smart-food-cafe.png",
         "alt": "Lotusteich-Café",
         "mobile": {
-          "src": "/images-platform/styles/mobile/04-lotus-smart-food-cafe.webp",
+          "src": "/assets/styles/mobile/04-lotus-smart-food-cafe.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/04-lotus-smart-food-cafe.webp",
+          "src": "/assets/styles/thumbnail/04-lotus-smart-food-cafe.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/04-lotus-smart-food-cafe.webp",
+          "src": "/assets/styles/desktop/04-lotus-smart-food-cafe.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/04-lotus-smart-food-cafe.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-1.png",
+            "src": "/assets/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-1.png",
             "alt": "Lotusteich-Café 1",
             "mobile": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-1.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-1.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-1.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -603,22 +627,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-2.png",
+            "src": "/assets/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-2.png",
             "alt": "Lotusteich-Café 2",
             "mobile": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-2.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-2.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-2.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -627,22 +651,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-3.png",
+            "src": "/assets/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-3.png",
             "alt": "Lotusteich-Café 3",
             "mobile": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-3.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-3.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-3.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -651,22 +675,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-4.png",
+            "src": "/assets/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-4.png",
             "alt": "Lotusteich-Café 4",
             "mobile": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-4.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-4.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-4.webp",
+              "src": "/assets/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -689,46 +713,52 @@
       "title": "Lanna-Outfit",
       "visualSummary": "Ein verfeinertes violettes Lanna-Outfit für Lotusteich-Stege, Kulturreisen und Quiet-Luxury-Identität.",
       "image": {
-        "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+        "src": "/assets/styles/05-lotus-lanna-ceremony.png",
         "alt": "Lanna-Outfit",
         "mobile": {
-          "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+          "src": "/assets/styles/mobile/05-lotus-lanna-ceremony.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+          "src": "/assets/styles/thumbnail/05-lotus-lanna-ceremony.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+          "src": "/assets/styles/desktop/05-lotus-lanna-ceremony.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/05-lotus-lanna-ceremony.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-1.png",
+            "src": "/assets/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-1.png",
             "alt": "Lanna-Outfit 1",
             "mobile": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-1.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-1.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-1.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -737,22 +767,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-2.png",
+            "src": "/assets/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-2.png",
             "alt": "Lanna-Outfit 2",
             "mobile": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-2.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-2.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-2.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -761,22 +791,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-3.png",
+            "src": "/assets/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-3.png",
             "alt": "Lanna-Outfit 3",
             "mobile": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-3.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-3.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-3.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -785,22 +815,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-4.png",
+            "src": "/assets/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-4.png",
             "alt": "Lanna-Outfit 4",
             "mobile": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-4.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-4.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-4.webp",
+              "src": "/assets/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -823,46 +853,52 @@
       "title": "Hydrangea-Valley-Gentleman",
       "visualSummary": "Ein sauberer Resortwear-Look für Herren mit monochromem tropischem Schwarz-Weiß-Print, geschaffen für Bergterrassen und Hortensientäler.",
       "image": {
-        "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+        "src": "/assets/styles/06-mountain-hydrangea-gentleman.png",
         "alt": "Hydrangea-Valley-Gentleman",
         "mobile": {
-          "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+          "src": "/assets/styles/mobile/06-mountain-hydrangea-gentleman.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+          "src": "/assets/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+          "src": "/assets/styles/desktop/06-mountain-hydrangea-gentleman.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/06-mountain-hydrangea-gentleman.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-1.png",
+            "src": "/assets/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-1.png",
             "alt": "Hydrangea-Valley-Gentleman 1",
             "mobile": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-1.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-1.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-1.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -871,22 +907,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-2.png",
+            "src": "/assets/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-2.png",
             "alt": "Hydrangea-Valley-Gentleman 2",
             "mobile": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-2.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-2.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-2.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -895,22 +931,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-3.png",
+            "src": "/assets/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-3.png",
             "alt": "Hydrangea-Valley-Gentleman 3",
             "mobile": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-3.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-3.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-3.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -919,22 +955,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-4.png",
+            "src": "/assets/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-4.png",
             "alt": "Hydrangea-Valley-Gentleman 4",
             "mobile": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-4.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-4.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-4.webp",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -958,46 +994,52 @@
       "title": "Lanna Lady",
       "visualSummary": "Ein verfeinertes Lanna-Outfit in Grün und Gold für Blumentäler und Bergterrassen, bereit für Premium-Kulturporträts.",
       "image": {
-        "src": "/images-platform/styles/07-mountain-lanna-noble-woman.png",
+        "src": "/assets/styles/07-mountain-lanna-noble-woman.png",
         "alt": "Lanna Lady",
         "mobile": {
-          "src": "/images-platform/styles/mobile/07-mountain-lanna-noble-woman.webp",
+          "src": "/assets/styles/mobile/07-mountain-lanna-noble-woman.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/07-mountain-lanna-noble-woman.webp",
+          "src": "/assets/styles/thumbnail/07-mountain-lanna-noble-woman.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/07-mountain-lanna-noble-woman.webp",
+          "src": "/assets/styles/desktop/07-mountain-lanna-noble-woman.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/07-mountain-lanna-noble-woman.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-1.png",
+            "src": "/assets/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-1.png",
             "alt": "Lanna Lady 1",
             "mobile": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-1.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-1.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-1.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1006,22 +1048,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-2.png",
+            "src": "/assets/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-2.png",
             "alt": "Lanna Lady 2",
             "mobile": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-2.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-2.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-2.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1030,22 +1072,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-3.png",
+            "src": "/assets/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-3.png",
             "alt": "Lanna Lady 3",
             "mobile": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-3.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-3.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-3.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1054,22 +1096,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-4.png",
+            "src": "/assets/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-4.png",
             "alt": "Lanna Lady 4",
             "mobile": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-4.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-4.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-4.webp",
+              "src": "/assets/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1093,46 +1135,52 @@
       "title": "Lässiger Gentleman im Blumental",
       "visualSummary": "Ein farbenfrohes florales Hemd für Herren-Reisecontent, leicht zu stylen für Gartenspaziergänge und warme Familienausflüge.",
       "image": {
-        "src": "/images-platform/styles/08-flower-valley-gentleman-casual.png",
+        "src": "/assets/styles/08-flower-valley-gentleman-casual.png",
         "alt": "Lässiger Gentleman im Blumental",
         "mobile": {
-          "src": "/images-platform/styles/mobile/08-flower-valley-gentleman-casual.webp",
+          "src": "/assets/styles/mobile/08-flower-valley-gentleman-casual.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/08-flower-valley-gentleman-casual.webp",
+          "src": "/assets/styles/thumbnail/08-flower-valley-gentleman-casual.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/08-flower-valley-gentleman-casual.webp",
+          "src": "/assets/styles/desktop/08-flower-valley-gentleman-casual.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/08-flower-valley-gentleman-casual.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-1.png",
+            "src": "/assets/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-1.png",
             "alt": "Lässiger Gentleman im Blumental 1",
             "mobile": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-1.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-1.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-1.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1141,22 +1189,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-2.png",
+            "src": "/assets/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-2.png",
             "alt": "Lässiger Gentleman im Blumental 2",
             "mobile": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-2.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-2.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-2.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1165,22 +1213,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-3.png",
+            "src": "/assets/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-3.png",
             "alt": "Lässiger Gentleman im Blumental 3",
             "mobile": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-3.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-3.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-3.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1189,22 +1237,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-4.png",
+            "src": "/assets/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-4.png",
             "alt": "Lässiger Gentleman im Blumental 4",
             "mobile": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-4.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-4.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-4.webp",
+              "src": "/assets/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1228,46 +1276,52 @@
       "title": "Der erste Schritt zur Meeresbrise",
       "visualSummary": "Ein sanfter Reiselook mit Koffer und gewebter Tasche für den Übergang von Transitstation zu Marina und erstem Zugang zur Meeresbrise.",
       "image": {
-        "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+        "src": "/assets/styles/09-coastal-mts-traveler.png",
         "alt": "Der erste Schritt zur Meeresbrise",
         "mobile": {
-          "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+          "src": "/assets/styles/mobile/09-coastal-mts-traveler.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+          "src": "/assets/styles/thumbnail/09-coastal-mts-traveler.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+          "src": "/assets/styles/desktop/09-coastal-mts-traveler.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/09-coastal-mts-traveler.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-1.png",
+            "src": "/assets/styles/09-coastal-mts-traveler/coastal-mts-traveler-1.png",
             "alt": "Der erste Schritt zur Meeresbrise 1",
             "mobile": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-1.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-1.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-1.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1276,22 +1330,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-2.png",
+            "src": "/assets/styles/09-coastal-mts-traveler/coastal-mts-traveler-2.png",
             "alt": "Der erste Schritt zur Meeresbrise 2",
             "mobile": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-2.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-2.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-2.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1300,22 +1354,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-3.png",
+            "src": "/assets/styles/09-coastal-mts-traveler/coastal-mts-traveler-3.png",
             "alt": "Der erste Schritt zur Meeresbrise 3",
             "mobile": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-3.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-3.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-3.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1324,22 +1378,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-4.png",
+            "src": "/assets/styles/09-coastal-mts-traveler/coastal-mts-traveler-4.png",
             "alt": "Der erste Schritt zur Meeresbrise 4",
             "mobile": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-4.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-4.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-4.webp",
+              "src": "/assets/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1362,46 +1416,52 @@
       "title": "Die Ästhetik eines sanften Morgenlooks",
       "visualSummary": "Ein sanfter Morgenlook für Wellness-Stunden im Luxushotel, begleitet von warmem Kaffee und stiller Morgenruhe.",
       "image": {
-        "src": "/images-platform/styles/10-soft-morning-luxury-safe.png",
+        "src": "/assets/styles/10-soft-morning-luxury-safe.png",
         "alt": "Die Ästhetik eines sanften Morgenlooks",
         "mobile": {
-          "src": "/images-platform/styles/mobile/10-soft-morning-luxury-safe.webp",
+          "src": "/assets/styles/mobile/10-soft-morning-luxury-safe.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/images-platform/styles/thumbnail/10-soft-morning-luxury-safe.webp",
+          "src": "/assets/styles/thumbnail/10-soft-morning-luxury-safe.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/images-platform/styles/desktop/10-soft-morning-luxury-safe.webp",
+          "src": "/assets/styles/desktop/10-soft-morning-luxury-safe.webp",
           "width": 1600,
           "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/styles/open_graph/10-soft-morning-luxury-safe.png",
+          "width": 1200,
+          "height": 630,
           "quality": 82
         }
       },
       "images": [
         {
           "image": {
-            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-1.png",
+            "src": "/assets/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-1.png",
             "alt": "Die Ästhetik eines sanften Morgenlooks 1",
             "mobile": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-1.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-1.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-1.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-1.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-1.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-1.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1410,22 +1470,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-2.png",
+            "src": "/assets/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-2.png",
             "alt": "Die Ästhetik eines sanften Morgenlooks 2",
             "mobile": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-2.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-2.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-2.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-2.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-2.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-2.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1434,22 +1494,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-3.png",
+            "src": "/assets/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-3.png",
             "alt": "Die Ästhetik eines sanften Morgenlooks 3",
             "mobile": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-3.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-3.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-3.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-3.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-3.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-3.webp",
               "width": 900,
               "height": 1600,
               "quality": 82
@@ -1458,22 +1518,22 @@
         },
         {
           "image": {
-            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-4.png",
+            "src": "/assets/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-4.png",
             "alt": "Die Ästhetik eines sanften Morgenlooks 4",
             "mobile": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-4.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-4.webp",
               "width": 720,
               "height": 1280,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-4.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-4.webp",
               "width": 405,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-4.webp",
+              "src": "/assets/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-4.webp",
               "width": 900,
               "height": 1600,
               "quality": 82

@@ -65,30 +65,30 @@
           "Wide view of a smart emergency room command center with live patient flow analytics, medical staff coordinating care, optimistic near future, 16:9",
           "Human doctor and AI diagnostic interface working together during hospital triage, ethical and calm atmosphere, cinematic documentary realism, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-ai-hospital-triage-becomes-standard-worldwide.png",
+        "src": "/assets/future-roadmap/era-01/era-01-ai-hospital-triage-becomes-standard-worldwide.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-hospital-triage-becomes-standard-worldwide.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-ai-hospital-triage-becomes-standard-worldwide.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -102,7 +102,7 @@
       "title": "Carbon-Negative Concrete Enters Mass Production",
       "shortTitle": "Carbon-Negative Concrete",
       "category": "Materials & Manufacturing",
-"description": "New cement and concrete processes store more carbon than they emit, turning major construction projects into long-term carbon sinks.",
+      "description": "New cement and concrete processes store more carbon than they emit, turning major construction projects into long-term carbon sinks.",
       "layerId": "technology",
       "domains": ["climate-technology", "materials-science", "construction"],
       "maturity": "mass-production",
@@ -130,30 +130,30 @@
           "Large bridge being built with low-carbon concrete beside a restored river ecosystem, optimistic climate technology, 16:9",
           "Modern megacity construction with carbon capture symbols on material delivery trucks, bright sustainable urban future, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-carbon-negative-concrete-enters-mass-production.png",
+        "src": "/assets/future-roadmap/era-01/era-01-carbon-negative-concrete-enters-mass-production.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-carbon-negative-concrete-enters-mass-production.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-carbon-negative-concrete-enters-mass-production.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-carbon-negative-concrete-enters-mass-production.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-carbon-negative-concrete-enters-mass-production.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-carbon-negative-concrete-enters-mass-production.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -167,7 +167,7 @@
       "title": "Personal AI Health Monitors Detect Disease Before Symptoms",
       "shortTitle": "AI Health Monitors",
       "category": "AI & Computing",
-"description": "Wearables, home sensors, and personal health models continuously analyze biometrics to detect disease risk before people feel sick.",
+      "description": "Wearables, home sensors, and personal health models continuously analyze biometrics to detect disease risk before people feel sick.",
       "layerId": "technology",
       "domains": ["artificial-intelligence", "healthcare", "consumer-devices"],
       "maturity": "consumer-adoption",
@@ -195,30 +195,30 @@
           "AI health assistant dashboard predicting disease risk before symptoms, minimalist interface, human-centered design, 16:9",
           "Family using preventive AI health monitoring at home with privacy-focused devices, optimistic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.png",
+        "src": "/assets/future-roadmap/era-01/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -232,7 +232,7 @@
       "title": "AI-Generated Medicines Enter Rapid Approval Pipelines",
       "shortTitle": "AI-Generated Medicines",
       "category": "AI & Computing",
-"description": "Drug discovery platforms design candidate medicines faster, while regulators create accelerated pathways for safe AI-generated therapies.",
+      "description": "Drug discovery platforms design candidate medicines faster, while regulators create accelerated pathways for safe AI-generated therapies.",
       "layerId": "technology",
       "domains": ["artificial-intelligence", "biotechnology", "medicine"],
       "maturity": "regulated-pipeline",
@@ -260,30 +260,30 @@
           "Regulatory review room with scientists and AI evidence dashboards evaluating new medicine approvals, clean futuristic style, 16:9",
           "Digital molecule design interface connected to automated synthesis machines, optimistic medical breakthrough atmosphere, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.png",
+        "src": "/assets/future-roadmap/era-01/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -297,7 +297,7 @@
       "title": "Vertical Farms Become Profitable In Major Cities",
       "shortTitle": "Profitable Vertical Farms",
       "category": "Environment",
-"description": "Urban vertical farms reach strong economics through automation, efficient lighting, climate control, and direct local distribution.",
+      "description": "Urban vertical farms reach strong economics through automation, efficient lighting, climate control, and direct local distribution.",
       "layerId": "technology",
       "domains": ["food-systems", "urban-infrastructure", "automation"],
       "maturity": "commercial-scale",
@@ -325,30 +325,30 @@
           "Engineers monitoring climate-controlled vertical farming towers, clean futuristic documentary lighting, 16:9",
           "Night view of a city block with transparent vertical farm floors full of crops, sustainable urban food system, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-vertical-farms-become-profitable-in-major-cities.png",
+        "src": "/assets/future-roadmap/era-01/era-01-vertical-farms-become-profitable-in-major-cities.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-vertical-farms-become-profitable-in-major-cities.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-vertical-farms-become-profitable-in-major-cities.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-vertical-farms-become-profitable-in-major-cities.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-vertical-farms-become-profitable-in-major-cities.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-vertical-farms-become-profitable-in-major-cities.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -362,7 +362,7 @@
       "title": "Humanoid Service Robots Become Common In Hotels, Hospitals, And Warehouses",
       "shortTitle": "Humanoid Service Robots",
       "category": "Robotics",
-"description": "General-purpose humanoid robots begin handling routine service, logistics, cleaning, lifting, and support tasks across labor-intensive environments.",
+      "description": "General-purpose humanoid robots begin handling routine service, logistics, cleaning, lifting, and support tasks across labor-intensive environments.",
       "layerId": "technology",
       "domains": ["robotics", "automation", "service-economy"],
       "maturity": "early-mainstream",
@@ -390,30 +390,30 @@
           "Warehouse with humanoid robots lifting boxes and coordinating with human supervisors, safe and organized automation, 16:9",
           "Group of service robots charging and receiving task updates in a facility operations room, optimistic robotics future, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-humanoid-service-robots-become-common.png",
+        "src": "/assets/future-roadmap/era-01/era-01-humanoid-service-robots-become-common.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-humanoid-service-robots-become-common.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-humanoid-service-robots-become-common.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-humanoid-service-robots-become-common.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-humanoid-service-robots-become-common.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-humanoid-service-robots-become-common.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-humanoid-service-robots-become-common.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-humanoid-service-robots-become-common.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-humanoid-service-robots-become-common.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -427,7 +427,7 @@
       "title": "Autonomous Drone Delivery Becomes Normal In Dense Cities",
       "shortTitle": "Urban Drone Delivery",
       "category": "Robotics",
-"description": "Drone delivery networks become reliable enough for routine movement of small packages, urgent supplies, food, and medical items across dense urban zones.",
+      "description": "Drone delivery networks become reliable enough for routine movement of small packages, urgent supplies, food, and medical items across dense urban zones.",
       "layerId": "technology",
       "domains": ["mobility", "logistics", "autonomous-systems"],
       "maturity": "urban-normalization",
@@ -455,30 +455,30 @@
           "Medical drone landing at a hospital balcony with urgent supplies, calm efficient urban logistics scene, 16:9",
           "Evening city street with quiet delivery drones overhead and reduced traffic below, optimistic mobility future, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.png",
+        "src": "/assets/future-roadmap/era-01/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -492,7 +492,7 @@
       "title": "Smart Roads Begin Charging Electric Vehicles While Moving",
       "shortTitle": "Charging Smart Roads",
       "category": "Energy",
-"description": "Selected highways and urban lanes use embedded charging infrastructure to power compatible electric vehicles while they drive.",
+      "description": "Selected highways and urban lanes use embedded charging infrastructure to power compatible electric vehicles while they drive.",
       "layerId": "technology",
       "domains": ["energy", "mobility", "infrastructure"],
       "maturity": "pilot-to-corridor",
@@ -520,30 +520,30 @@
           "Engineers inspecting embedded road charging infrastructure during construction, sustainable transport technology, 16:9",
           "Night view of freight trucks using dynamic electric charging lanes on an intelligent highway, cinematic realism, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.png",
+        "src": "/assets/future-roadmap/era-01/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -557,7 +557,7 @@
       "title": "AI Climate Prediction Prevents Major Crop Failures",
       "shortTitle": "AI Crop Protection",
       "category": "AI & Computing",
-"description": "Advanced climate and crop-risk models give farmers, governments, and food companies earlier warnings before droughts, pests, floods, and heat waves damage harvests.",
+      "description": "Advanced climate and crop-risk models give farmers, governments, and food companies earlier warnings before droughts, pests, floods, and heat waves damage harvests.",
       "layerId": "technology",
       "domains": ["artificial-intelligence", "climate", "agriculture"],
       "maturity": "operational-deployment",
@@ -585,30 +585,30 @@
           "Drone and satellite data visualized over farmland during drought prevention planning, optimistic climate technology, 16:9",
           "AI-assisted irrigation system activating before heat stress damages crops, clean agricultural future, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-ai-climate-prediction-prevents-major-crop-failures.png",
+        "src": "/assets/future-roadmap/era-01/era-01-ai-climate-prediction-prevents-major-crop-failures.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-climate-prediction-prevents-major-crop-failures.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-ai-climate-prediction-prevents-major-crop-failures.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -622,7 +622,7 @@
       "title": "Ocean Plastic-Eating Enzyme Treatment Begins Controlled Deployment",
       "shortTitle": "Plastic-Eating Enzymes",
       "category": "Environment",
-"description": "Specialized enzyme systems begin carefully monitored deployment for breaking down selected plastics collected from oceans, rivers, and coastal zones.",
+      "description": "Specialized enzyme systems begin carefully monitored deployment for breaking down selected plastics collected from oceans, rivers, and coastal zones.",
       "layerId": "technology",
       "domains": ["biotechnology", "climate-technology", "ocean-restoration"],
       "maturity": "controlled-deployment",
@@ -650,30 +650,30 @@
           "Autonomous boats collecting ocean plastic and delivering it to a safe enzyme processing platform, optimistic restoration future, 16:9",
           "Close-up of transparent bioreactor breaking down plastic fragments under strict ecological monitoring, biotech documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.png",
+        "src": "/assets/future-roadmap/era-01/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -687,7 +687,7 @@
       "title": "Synthetic Meat Becomes Cheaper Than Livestock Meat",
       "shortTitle": "Affordable Synthetic Meat",
       "category": "Biology & Medicine",
-"description": "Cultivated and precision-fermented meats reach price parity and then become cheaper than conventional livestock meat in many markets.",
+      "description": "Cultivated and precision-fermented meats reach price parity and then become cheaper than conventional livestock meat in many markets.",
       "layerId": "technology",
       "domains": ["food-systems", "biotechnology", "climate-technology"],
       "maturity": "price-breakthrough",
@@ -715,30 +715,30 @@
           "Chef preparing cultivated meat in a bright restaurant kitchen, appetizing realistic documentary style, 16:9",
           "Precision fermentation facility producing sustainable proteins at industrial scale, clean biotechnology atmosphere, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.png",
+        "src": "/assets/future-roadmap/era-01/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -752,7 +752,7 @@
       "title": "First Large-Scale Brain-Computer Interface For Disabled Patients",
       "shortTitle": "Medical Brain Interfaces",
       "category": "Biology & Medicine",
-"description": "Brain-computer interfaces move beyond small trials and become available to larger groups of disabled patients for communication, mobility, and device control.",
+      "description": "Brain-computer interfaces move beyond small trials and become available to larger groups of disabled patients for communication, mobility, and device control.",
       "layerId": "technology",
       "domains": ["neurotechnology", "healthcare", "human-computer-interface"],
       "maturity": "clinical-scale",
@@ -780,30 +780,30 @@
           "Close-up of non-invasive brain interface headset connected to assistive communication display, clean medical future, 16:9",
           "Hospital neurotechnology center helping patients regain digital communication through BCI systems, optimistic clinical scene, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.png",
+        "src": "/assets/future-roadmap/era-01/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -817,7 +817,7 @@
       "title": "AI Legal Assistants Reduce Access-To-Justice Inequality",
       "shortTitle": "AI Legal Access",
       "category": "AI & Computing",
-"description": "AI legal tools help people understand rights, prepare documents, navigate disputes, and access basic legal guidance at far lower cost.",
+      "description": "AI legal tools help people understand rights, prepare documents, navigate disputes, and access basic legal guidance at far lower cost.",
       "layerId": "society",
       "domains": ["artificial-intelligence", "law", "public-services"],
       "maturity": "public-adoption",
@@ -845,30 +845,30 @@
           "Court self-help center where people use AI guidance tools to understand forms and rights, documentary realism, 16:9",
           "Small business owner reviewing contract risks with an AI legal assistant dashboard, clean professional setting, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.png",
+        "src": "/assets/future-roadmap/era-01/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -882,7 +882,7 @@
       "title": "Decentralized Disaster-Response Robot Fleets Become Operational",
       "shortTitle": "Disaster Robot Fleets",
       "category": "Robotics",
-"description": "Swarms of ground, aerial, and marine robots support search, rescue, mapping, supply delivery, and hazard inspection after disasters.",
+      "description": "Swarms of ground, aerial, and marine robots support search, rescue, mapping, supply delivery, and hazard inspection after disasters.",
       "layerId": "civilization",
       "domains": ["robotics", "disaster-response", "public-safety"],
       "maturity": "operational-network",
@@ -910,30 +910,30 @@
           "Decentralized drone swarm delivering medical supplies after an earthquake, damaged urban landscape, clean cinematic realism, 16:9",
           "Emergency command vehicle coordinating aerial, ground, and marine robots through a resilient mesh network, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-decentralized-disaster-response-robot-fleets-become-operational.png",
+        "src": "/assets/future-roadmap/era-01/era-01-decentralized-disaster-response-robot-fleets-become-operational.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-decentralized-disaster-response-robot-fleets-become-operational.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-decentralized-disaster-response-robot-fleets-become-operational.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -947,7 +947,7 @@
       "title": "Real-Time Universal Language Translation Becomes Seamless",
       "shortTitle": "Seamless Translation",
       "category": "AI & Computing",
-"description": "Wearables, phones, glasses, and meeting systems provide natural real-time translation across speech, text, tone, and context.",
+      "description": "Wearables, phones, glasses, and meeting systems provide natural real-time translation across speech, text, tone, and context.",
       "layerId": "society",
       "domains": ["artificial-intelligence", "communication", "culture"],
       "maturity": "mainstream",
@@ -975,30 +975,30 @@
           "Traveler using seamless language translation earbuds in a busy market, warm human-centered documentary style, 16:9",
           "Classroom with students from many countries learning together through real-time universal translation, optimistic education future, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-real-time-universal-language-translation-becomes-seamless.png",
+        "src": "/assets/future-roadmap/era-01/era-01-real-time-universal-language-translation-becomes-seamless.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-real-time-universal-language-translation-becomes-seamless.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-real-time-universal-language-translation-becomes-seamless.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-real-time-universal-language-translation-becomes-seamless.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-real-time-universal-language-translation-becomes-seamless.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-real-time-universal-language-translation-becomes-seamless.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1012,7 +1012,7 @@
       "title": "Discovery Of A Next-Generation CO2 Absorbing Material",
       "shortTitle": "CO2 Absorbing Material",
       "category": "Materials & Manufacturing",
-"description": "Researchers discover a material that captures carbon dioxide with dramatically higher efficiency, lower energy cost, or longer durability than previous systems.",
+      "description": "Researchers discover a material that captures carbon dioxide with dramatically higher efficiency, lower energy cost, or longer durability than previous systems.",
       "layerId": "technology",
       "domains": ["materials-science", "climate-technology", "carbon-removal"],
       "maturity": "breakthrough-discovery",
@@ -1040,30 +1040,30 @@
           "Close-up of porous carbon capture material visualized at macro scale, scientists reviewing performance data, 16:9",
           "Urban building facade coated with CO2 absorbing material, subtle clean-tech design, bright sustainable city future, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-discovery-of-a-next-generation-co2-absorbing-material.png",
+        "src": "/assets/future-roadmap/era-01/era-01-discovery-of-a-next-generation-co2-absorbing-material.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-discovery-of-a-next-generation-co2-absorbing-material.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-discovery-of-a-next-generation-co2-absorbing-material.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1077,7 +1077,7 @@
       "title": "Autonomous AI Robots Begin Building Homes For Free",
       "shortTitle": "Free Robot-Built Homes",
       "category": "Robotics",
-"description": "Autonomous construction robots, public funding, and ultra-low-cost materials make it possible for some regions to build basic homes with near-zero labor cost.",
+      "description": "Autonomous construction robots, public funding, and ultra-low-cost materials make it possible for some regions to build basic homes with near-zero labor cost.",
       "layerId": "civilization",
       "domains": ["robotics", "housing", "construction"],
       "maturity": "public-pilot",
@@ -1105,30 +1105,30 @@
           "New neighborhood of robot-built homes with families moving in, warm optimistic civilization scene, 16:9",
           "Construction robots assembling modular wall panels under public housing program banners, realistic and grounded, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-autonomous-ai-robots-begin-building-homes-for-free.png",
+        "src": "/assets/future-roadmap/era-01/era-01-autonomous-ai-robots-begin-building-homes-for-free.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-autonomous-ai-robots-begin-building-homes-for-free.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-autonomous-ai-robots-begin-building-homes-for-free.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1142,7 +1142,7 @@
       "title": "Universal Cancer Blood Test",
       "shortTitle": "Universal Cancer Blood Test",
       "category": "Biology & Medicine",
-"description": "A routine blood test screens for many cancer types early by detecting molecular signals before tumors become advanced or symptomatic.",
+      "description": "A routine blood test screens for many cancer types early by detecting molecular signals before tumors become advanced or symptomatic.",
       "layerId": "technology",
       "domains": ["healthcare", "biotechnology", "diagnostics"],
       "maturity": "routine-screening",
@@ -1170,30 +1170,30 @@
           "Close-up of blood sample vial moving through automated multi-cancer screening machine, clean biotech future, 16:9",
           "Public health screening center offering routine cancer blood tests, diverse community, optimistic healthcare future, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-universal-cancer-blood-test.png",
+        "src": "/assets/future-roadmap/era-01/era-01-universal-cancer-blood-test.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-universal-cancer-blood-test.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-universal-cancer-blood-test.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-universal-cancer-blood-test.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-universal-cancer-blood-test.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-universal-cancer-blood-test.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-universal-cancer-blood-test.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-universal-cancer-blood-test.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-universal-cancer-blood-test.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1207,7 +1207,7 @@
       "title": "Self-Healing Megacity Materials",
       "shortTitle": "Self-Healing Materials",
       "category": "Materials & Manufacturing",
-"description": "Roads, bridges, building skins, pipes, and structural components begin using materials that repair cracks, corrosion, and surface damage automatically.",
+      "description": "Roads, bridges, building skins, pipes, and structural components begin using materials that repair cracks, corrosion, and surface damage automatically.",
       "layerId": "technology",
       "domains": ["materials-science", "smart-cities", "infrastructure"],
       "maturity": "infrastructure-adoption",
@@ -1235,30 +1235,30 @@
           "Engineers inspecting building facade made of self-healing materials, futuristic skyline, optimistic infrastructure scene, 16:9",
           "Underground smart pipe network using self-repairing coatings and maintenance drones, clean technical visualization, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-self-healing-megacity-materials.png",
+        "src": "/assets/future-roadmap/era-01/era-01-self-healing-megacity-materials.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-self-healing-megacity-materials.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-self-healing-megacity-materials.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-self-healing-megacity-materials.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-self-healing-megacity-materials.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-self-healing-megacity-materials.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-self-healing-megacity-materials.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-self-healing-megacity-materials.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-self-healing-megacity-materials.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1272,7 +1272,7 @@
       "title": "Lunar Robotics Program",
       "shortTitle": "Lunar Robotics",
       "category": "Robotics",
-"description": "Robotic systems begin preparing the Moon for sustained human activity by mapping terrain, building infrastructure, mining resources, and supporting early habitats.",
+      "description": "Robotic systems begin preparing the Moon for sustained human activity by mapping terrain, building infrastructure, mining resources, and supporting early habitats.",
       "layerId": "civilization",
       "domains": ["space", "robotics", "infrastructure"],
       "maturity": "early-lunar-infrastructure",
@@ -1300,30 +1300,30 @@
           "Robotic construction system using lunar regolith to print protective walls around a small habitat, 16:9",
           "Moon base preparation site with solar arrays, cargo landers, and autonomous robots working under harsh sunlight, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-lunar-robotics-program.png",
+        "src": "/assets/future-roadmap/era-01/era-01-lunar-robotics-program.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-lunar-robotics-program.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-lunar-robotics-program.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-lunar-robotics-program.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-lunar-robotics-program.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-lunar-robotics-program.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-lunar-robotics-program.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-lunar-robotics-program.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-lunar-robotics-program.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1337,7 +1337,7 @@
       "title": "AI Personal Tutors Become Available For Every Child",
       "shortTitle": "AI Personal Tutors Become",
       "category": "AI & Computing",
-"description": "AI personal tutors become available for every child shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
+      "description": "AI personal tutors become available for every child shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
       "layerId": "ai-computing",
       "domains": ["artificial-intelligence", "automation", "digital-systems"],
       "maturity": "early-commercial-adoption",
@@ -1365,30 +1365,30 @@
           "Human-centered scene of aI personal tutors become available for every child, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating aI personal tutors become available for every child, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-ai-personal-tutors-become-available-for-every-child.png",
+        "src": "/assets/future-roadmap/era-01/era-01-ai-personal-tutors-become-available-for-every-child.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-ai-personal-tutors-become-available-for-every-child.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-ai-personal-tutors-become-available-for-every-child.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-ai-personal-tutors-become-available-for-every-child.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-personal-tutors-become-available-for-every-child.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-ai-personal-tutors-become-available-for-every-child.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1402,7 +1402,7 @@
       "title": "AI Software Agents Automate Most Office Workflows",
       "shortTitle": "AI Software Agents Automate",
       "category": "AI & Computing",
-"description": "AI software agents automate most office workflows shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
+      "description": "AI software agents automate most office workflows shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
       "layerId": "ai-computing",
       "domains": ["artificial-intelligence", "automation", "digital-systems"],
       "maturity": "early-commercial-adoption",
@@ -1430,30 +1430,30 @@
           "Human-centered scene of aI software agents automate most office workflows, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating aI software agents automate most office workflows, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-ai-software-agents-automate-most-office-workflows.png",
+        "src": "/assets/future-roadmap/era-01/era-01-ai-software-agents-automate-most-office-workflows.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-ai-software-agents-automate-most-office-workflows.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-ai-software-agents-automate-most-office-workflows.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-ai-software-agents-automate-most-office-workflows.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-software-agents-automate-most-office-workflows.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-ai-software-agents-automate-most-office-workflows.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1467,7 +1467,7 @@
       "title": "AI Scientific Assistants Accelerate Material Discovery",
       "shortTitle": "AI Scientific Assistants Accelerate",
       "category": "AI & Computing",
-"description": "AI scientific assistants accelerate material discovery shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
+      "description": "AI scientific assistants accelerate material discovery shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
       "layerId": "ai-computing",
       "domains": ["artificial-intelligence", "automation", "digital-systems"],
       "maturity": "early-commercial-adoption",
@@ -1495,30 +1495,30 @@
           "Human-centered scene of aI scientific assistants accelerate material discovery, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating aI scientific assistants accelerate material discovery, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-ai-scientific-assistants-accelerate-material-discovery.png",
+        "src": "/assets/future-roadmap/era-01/era-01-ai-scientific-assistants-accelerate-material-discovery.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-scientific-assistants-accelerate-material-discovery.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-ai-scientific-assistants-accelerate-material-discovery.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1532,7 +1532,7 @@
       "title": "AI-Generated Films And Games Become Mainstream",
       "shortTitle": "AIgenerated Films And Games",
       "category": "AI & Computing",
-"description": "AI-generated films and games become mainstream shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
+      "description": "AI-generated films and games become mainstream shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
       "layerId": "ai-computing",
       "domains": ["artificial-intelligence", "automation", "digital-systems"],
       "maturity": "early-commercial-adoption",
@@ -1560,30 +1560,30 @@
           "Human-centered scene of aI-generated films and games become mainstream, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating aI-generated films and games become mainstream, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-ai-generated-films-and-games-become-mainstream.png",
+        "src": "/assets/future-roadmap/era-01/era-01-ai-generated-films-and-games-become-mainstream.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-ai-generated-films-and-games-become-mainstream.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-ai-generated-films-and-games-become-mainstream.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-ai-generated-films-and-games-become-mainstream.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-generated-films-and-games-become-mainstream.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-ai-generated-films-and-games-become-mainstream.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1597,7 +1597,7 @@
       "title": "AI Companions Become Socially Accepted",
       "shortTitle": "AI Companions Become Socially",
       "category": "AI & Computing",
-"description": "AI companions become socially accepted shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
+      "description": "AI companions become socially accepted shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
       "layerId": "ai-computing",
       "domains": ["artificial-intelligence", "automation", "digital-systems"],
       "maturity": "early-commercial-adoption",
@@ -1625,30 +1625,30 @@
           "Human-centered scene of aI companions become socially accepted, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating aI companions become socially accepted, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-ai-companions-become-socially-accepted.png",
+        "src": "/assets/future-roadmap/era-01/era-01-ai-companions-become-socially-accepted.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-ai-companions-become-socially-accepted.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-ai-companions-become-socially-accepted.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-companions-become-socially-accepted.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-ai-companions-become-socially-accepted.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-ai-companions-become-socially-accepted.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-ai-companions-become-socially-accepted.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-companions-become-socially-accepted.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-ai-companions-become-socially-accepted.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1662,7 +1662,7 @@
       "title": "Agricultural Robots Replace Most Repetitive Farm Labor",
       "shortTitle": "Agricultural Robots Replace Most",
       "category": "Robotics",
-"description": "Agricultural robots replace most repetitive farm labor moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
+      "description": "Agricultural robots replace most repetitive farm labor moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
       "layerId": "robotics",
       "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
       "maturity": "large-scale-demonstration",
@@ -1690,30 +1690,30 @@
           "Human-centered scene of agricultural robots replace most repetitive farm labor, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating agricultural robots replace most repetitive farm labor, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-agricultural-robots-replace-most-repetitive-farm-labor.png",
+        "src": "/assets/future-roadmap/era-01/era-01-agricultural-robots-replace-most-repetitive-farm-labor.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-agricultural-robots-replace-most-repetitive-farm-labor.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-agricultural-robots-replace-most-repetitive-farm-labor.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1727,7 +1727,7 @@
       "title": "Home Cleaning Robots Become Fully Autonomous",
       "shortTitle": "Home Cleaning Robots Become",
       "category": "Robotics",
-"description": "Home cleaning robots become fully autonomous moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
+      "description": "Home cleaning robots become fully autonomous moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
       "layerId": "robotics",
       "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
       "maturity": "large-scale-demonstration",
@@ -1755,30 +1755,30 @@
           "Human-centered scene of home cleaning robots become fully autonomous, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating home cleaning robots become fully autonomous, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-home-cleaning-robots-become-fully-autonomous.png",
+        "src": "/assets/future-roadmap/era-01/era-01-home-cleaning-robots-become-fully-autonomous.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-home-cleaning-robots-become-fully-autonomous.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-home-cleaning-robots-become-fully-autonomous.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-home-cleaning-robots-become-fully-autonomous.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-home-cleaning-robots-become-fully-autonomous.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-home-cleaning-robots-become-fully-autonomous.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1792,7 +1792,7 @@
       "title": "Warehouse Robots Achieve Lights-Out Operations",
       "shortTitle": "Warehouse Robots Achieve Lightsout",
       "category": "Robotics",
-"description": "Warehouse robots achieve lights-out operations moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
+      "description": "Warehouse robots achieve lights-out operations moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
       "layerId": "robotics",
       "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
       "maturity": "large-scale-demonstration",
@@ -1820,30 +1820,30 @@
           "Human-centered scene of warehouse robots achieve lights-out operations, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating warehouse robots achieve lights-out operations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-warehouse-robots-achieve-lights-out-operations.png",
+        "src": "/assets/future-roadmap/era-01/era-01-warehouse-robots-achieve-lights-out-operations.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-warehouse-robots-achieve-lights-out-operations.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-warehouse-robots-achieve-lights-out-operations.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-warehouse-robots-achieve-lights-out-operations.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-warehouse-robots-achieve-lights-out-operations.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-warehouse-robots-achieve-lights-out-operations.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1857,7 +1857,7 @@
       "title": "Robotic Eldercare Assistants Become Common",
       "shortTitle": "Robotic Eldercare Assistants Become",
       "category": "Robotics",
-"description": "Robotic eldercare assistants become common moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
+      "description": "Robotic eldercare assistants become common moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
       "layerId": "robotics",
       "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
       "maturity": "large-scale-demonstration",
@@ -1885,30 +1885,30 @@
           "Human-centered scene of robotic eldercare assistants become common, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating robotic eldercare assistants become common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-robotic-eldercare-assistants-become-common.png",
+        "src": "/assets/future-roadmap/era-01/era-01-robotic-eldercare-assistants-become-common.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-robotic-eldercare-assistants-become-common.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-robotic-eldercare-assistants-become-common.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-robotic-eldercare-assistants-become-common.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-robotic-eldercare-assistants-become-common.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-robotic-eldercare-assistants-become-common.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-robotic-eldercare-assistants-become-common.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-robotic-eldercare-assistants-become-common.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-robotic-eldercare-assistants-become-common.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1922,7 +1922,7 @@
       "title": "Autonomous Underwater Robots Restore Coral Reefs",
       "shortTitle": "Autonomous Underwater Robots Restore",
       "category": "Robotics",
-"description": "Autonomous underwater robots restore coral reefs moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
+      "description": "Autonomous underwater robots restore coral reefs moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
       "layerId": "robotics",
       "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
       "maturity": "large-scale-demonstration",
@@ -1950,30 +1950,30 @@
           "Human-centered scene of autonomous underwater robots restore coral reefs, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating autonomous underwater robots restore coral reefs, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-autonomous-underwater-robots-restore-coral-reefs.png",
+        "src": "/assets/future-roadmap/era-01/era-01-autonomous-underwater-robots-restore-coral-reefs.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-autonomous-underwater-robots-restore-coral-reefs.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-autonomous-underwater-robots-restore-coral-reefs.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1987,7 +1987,7 @@
       "title": "Open-Air Fusion Ignition Is Demonstrated",
       "shortTitle": "Openair Fusion Ignition Is",
       "category": "Energy",
-"description": "Open-air fusion ignition is demonstrated marks the first wave of cleaner, denser, and smarter energy systems that prepare civilization for large-scale electrification and future abundance.",
+      "description": "Open-air fusion ignition is demonstrated marks the first wave of cleaner, denser, and smarter energy systems that prepare civilization for large-scale electrification and future abundance.",
       "layerId": "energy",
       "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
       "maturity": "large-scale-demonstration",
@@ -2015,30 +2015,30 @@
           "Human-centered scene of open-air fusion ignition is demonstrated, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating open-air fusion ignition is demonstrated, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-open-air-fusion-ignition-is-demonstrated.png",
+        "src": "/assets/future-roadmap/era-01/era-01-open-air-fusion-ignition-is-demonstrated.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-open-air-fusion-ignition-is-demonstrated.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-open-air-fusion-ignition-is-demonstrated.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-open-air-fusion-ignition-is-demonstrated.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-open-air-fusion-ignition-is-demonstrated.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-open-air-fusion-ignition-is-demonstrated.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2052,7 +2052,7 @@
       "title": "Ambient-Temperature Superconductor Prototype Is Verified",
       "shortTitle": "Ambienttemperature Superconductor Prototype Is",
       "category": "Energy",
-"description": "Ambient-temperature superconductor prototype is verified turns early frontier physics into practical demonstrations that could reshape energy, computing, sensing, and infrastructure.",
+      "description": "Ambient-temperature superconductor prototype is verified turns early frontier physics into practical demonstrations that could reshape energy, computing, sensing, and infrastructure.",
       "layerId": "physics",
       "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "large-scale-demonstration",
@@ -2080,30 +2080,30 @@
           "Human-centered scene of ambient-temperature superconductor prototype is verified, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating ambient-temperature superconductor prototype is verified, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-ambient-temperature-superconductor-prototype-is-verified.png",
+        "src": "/assets/future-roadmap/era-01/era-01-ambient-temperature-superconductor-prototype-is-verified.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ambient-temperature-superconductor-prototype-is-verified.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-ambient-temperature-superconductor-prototype-is-verified.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2117,7 +2117,7 @@
       "title": "Solid-State Batteries Surpass Lithium-Ion Technology",
       "shortTitle": "Solidstate Batteries Surpass Lithiumion",
       "category": "Energy",
-"description": "Solid-state batteries surpass lithium-ion technology marks the first wave of cleaner, denser, and smarter energy systems that prepare civilization for large-scale electrification and future abundance.",
+      "description": "Solid-state batteries surpass lithium-ion technology marks the first wave of cleaner, denser, and smarter energy systems that prepare civilization for large-scale electrification and future abundance.",
       "layerId": "energy",
       "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
       "maturity": "large-scale-demonstration",
@@ -2145,30 +2145,30 @@
           "Human-centered scene of solid-state batteries surpass lithium-ion technology, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating solid-state batteries surpass lithium-ion technology, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-solid-state-batteries-surpass-lithium-ion-technology.png",
+        "src": "/assets/future-roadmap/era-01/era-01-solid-state-batteries-surpass-lithium-ion-technology.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-solid-state-batteries-surpass-lithium-ion-technology.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-solid-state-batteries-surpass-lithium-ion-technology.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2182,7 +2182,7 @@
       "title": "AI-Managed Smart Grids Reduce Energy Waste",
       "shortTitle": "AImanaged Smart Grids Reduce",
       "category": "Energy",
-"description": "AI-managed smart grids reduce energy waste marks the first wave of cleaner, denser, and smarter energy systems that prepare civilization for large-scale electrification and future abundance.",
+      "description": "AI-managed smart grids reduce energy waste marks the first wave of cleaner, denser, and smarter energy systems that prepare civilization for large-scale electrification and future abundance.",
       "layerId": "energy",
       "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
       "maturity": "large-scale-demonstration",
@@ -2210,30 +2210,30 @@
           "Human-centered scene of aI-managed smart grids reduce energy waste, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating aI-managed smart grids reduce energy waste, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-ai-managed-smart-grids-reduce-energy-waste.png",
+        "src": "/assets/future-roadmap/era-01/era-01-ai-managed-smart-grids-reduce-energy-waste.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-managed-smart-grids-reduce-energy-waste.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-ai-managed-smart-grids-reduce-energy-waste.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2247,7 +2247,7 @@
       "title": "Building-Integrated Solar Materials Become Affordable",
       "shortTitle": "Buildingintegrated Solar Materials Become",
       "category": "Energy",
-"description": "Building-integrated solar materials become affordable marks the first wave of cleaner, denser, and smarter energy systems that prepare civilization for large-scale electrification and future abundance.",
+      "description": "Building-integrated solar materials become affordable marks the first wave of cleaner, denser, and smarter energy systems that prepare civilization for large-scale electrification and future abundance.",
       "layerId": "energy",
       "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
       "maturity": "large-scale-demonstration",
@@ -2275,30 +2275,30 @@
           "Human-centered scene of building-integrated solar materials become affordable, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating building-integrated solar materials become affordable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-building-integrated-solar-materials-become-affordable.png",
+        "src": "/assets/future-roadmap/era-01/era-01-building-integrated-solar-materials-become-affordable.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-building-integrated-solar-materials-become-affordable.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-building-integrated-solar-materials-become-affordable.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-building-integrated-solar-materials-become-affordable.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-building-integrated-solar-materials-become-affordable.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-building-integrated-solar-materials-become-affordable.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2312,7 +2312,7 @@
       "title": "Organ Regeneration Patches Enter Clinical Use",
       "shortTitle": "Organ Regeneration Patches Enter",
       "category": "Biology & Medicine",
-"description": "Organ regeneration patches enter clinical use brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
+      "description": "Organ regeneration patches enter clinical use brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
       "layerId": "biology-medicine",
       "domains": ["medicine", "biotechnology", "human-health"],
       "maturity": "large-scale-demonstration",
@@ -2340,30 +2340,30 @@
           "Human-centered scene of organ regeneration patches enter clinical use, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating organ regeneration patches enter clinical use, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-organ-regeneration-patches-enter-clinical-use.png",
+        "src": "/assets/future-roadmap/era-01/era-01-organ-regeneration-patches-enter-clinical-use.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-organ-regeneration-patches-enter-clinical-use.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-organ-regeneration-patches-enter-clinical-use.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-organ-regeneration-patches-enter-clinical-use.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-organ-regeneration-patches-enter-clinical-use.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-organ-regeneration-patches-enter-clinical-use.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2377,7 +2377,7 @@
       "title": "Digital Immune Systems Prevent Most Infectious Outbreaks",
       "shortTitle": "Digital Immune Systems Prevent",
       "category": "Biology & Medicine",
-"description": "Digital immune systems prevent most infectious outbreaks brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
+      "description": "Digital immune systems prevent most infectious outbreaks brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
       "layerId": "biology-medicine",
       "domains": ["medicine", "biotechnology", "human-health"],
       "maturity": "large-scale-demonstration",
@@ -2405,30 +2405,30 @@
           "Human-centered scene of digital immune systems prevent most infectious outbreaks, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating digital immune systems prevent most infectious outbreaks, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.png",
+        "src": "/assets/future-roadmap/era-01/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2442,7 +2442,7 @@
       "title": "Longevity Drugs Extend Healthy Lifespan Significantly",
       "shortTitle": "Longevity Drugs Extend Healthy",
       "category": "Biology & Medicine",
-"description": "Longevity drugs extend healthy lifespan significantly brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
+      "description": "Longevity drugs extend healthy lifespan significantly brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
       "layerId": "biology-medicine",
       "domains": ["medicine", "biotechnology", "human-health"],
       "maturity": "large-scale-demonstration",
@@ -2470,30 +2470,30 @@
           "Human-centered scene of longevity drugs extend healthy lifespan significantly, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating longevity drugs extend healthy lifespan significantly, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-longevity-drugs-extend-healthy-lifespan-significantly.png",
+        "src": "/assets/future-roadmap/era-01/era-01-longevity-drugs-extend-healthy-lifespan-significantly.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-longevity-drugs-extend-healthy-lifespan-significantly.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-longevity-drugs-extend-healthy-lifespan-significantly.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2507,7 +2507,7 @@
       "title": "Synthetic Blood Enters Emergency Medicine",
       "shortTitle": "Synthetic Blood Enters Emergency",
       "category": "Biology & Medicine",
-"description": "Synthetic blood enters emergency medicine brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
+      "description": "Synthetic blood enters emergency medicine brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
       "layerId": "biology-medicine",
       "domains": ["medicine", "biotechnology", "human-health"],
       "maturity": "large-scale-demonstration",
@@ -2535,30 +2535,30 @@
           "Human-centered scene of synthetic blood enters emergency medicine, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating synthetic blood enters emergency medicine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-synthetic-blood-enters-emergency-medicine.png",
+        "src": "/assets/future-roadmap/era-01/era-01-synthetic-blood-enters-emergency-medicine.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-synthetic-blood-enters-emergency-medicine.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-synthetic-blood-enters-emergency-medicine.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-synthetic-blood-enters-emergency-medicine.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-synthetic-blood-enters-emergency-medicine.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-synthetic-blood-enters-emergency-medicine.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2572,7 +2572,7 @@
       "title": "Gene Therapies Cure Several Inherited Diseases",
       "shortTitle": "Gene Therapies Cure Several",
       "category": "Biology & Medicine",
-"description": "Gene therapies cure several inherited diseases brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
+      "description": "Gene therapies cure several inherited diseases brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
       "layerId": "biology-medicine",
       "domains": ["medicine", "biotechnology", "human-health"],
       "maturity": "large-scale-demonstration",
@@ -2600,30 +2600,30 @@
           "Human-centered scene of gene therapies cure several inherited diseases, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating gene therapies cure several inherited diseases, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-gene-therapies-cure-several-inherited-diseases.png",
+        "src": "/assets/future-roadmap/era-01/era-01-gene-therapies-cure-several-inherited-diseases.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-gene-therapies-cure-several-inherited-diseases.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-gene-therapies-cure-several-inherited-diseases.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-gene-therapies-cure-several-inherited-diseases.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-gene-therapies-cure-several-inherited-diseases.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-gene-therapies-cure-several-inherited-diseases.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2637,7 +2637,7 @@
       "title": "Programmable Smart Materials Enter Industry",
       "shortTitle": "Programmable Smart Materials Enter",
       "category": "Materials & Manufacturing",
-"description": "Programmable smart materials enter industry upgrades civilization's material base through cleaner construction, self-healing structures, 3D printing, programmable materials, and carbon capture.",
+      "description": "Programmable smart materials enter industry upgrades civilization's material base through cleaner construction, self-healing structures, 3D printing, programmable materials, and carbon capture.",
       "layerId": "materials-manufacturing",
       "domains": ["advanced-materials", "manufacturing", "construction"],
       "maturity": "large-scale-demonstration",
@@ -2665,30 +2665,30 @@
           "Human-centered scene of programmable smart materials enter industry, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating programmable smart materials enter industry, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-programmable-smart-materials-enter-industry.png",
+        "src": "/assets/future-roadmap/era-01/era-01-programmable-smart-materials-enter-industry.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-programmable-smart-materials-enter-industry.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-programmable-smart-materials-enter-industry.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-programmable-smart-materials-enter-industry.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-programmable-smart-materials-enter-industry.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-programmable-smart-materials-enter-industry.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-programmable-smart-materials-enter-industry.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-programmable-smart-materials-enter-industry.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-programmable-smart-materials-enter-industry.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2702,7 +2702,7 @@
       "title": "3D-Printed Buildings Become Mainstream",
       "shortTitle": "3Dprinted Buildings Become Mainstream",
       "category": "Materials & Manufacturing",
-"description": "3D-printed buildings become mainstream upgrades civilization's material base through cleaner construction, self-healing structures, 3D printing, programmable materials, and carbon capture.",
+      "description": "3D-printed buildings become mainstream upgrades civilization's material base through cleaner construction, self-healing structures, 3D printing, programmable materials, and carbon capture.",
       "layerId": "materials-manufacturing",
       "domains": ["advanced-materials", "manufacturing", "construction"],
       "maturity": "large-scale-demonstration",
@@ -2730,30 +2730,30 @@
           "Human-centered scene of 3D-printed buildings become mainstream, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating 3D-printed buildings become mainstream, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-3d-printed-buildings-become-mainstream.png",
+        "src": "/assets/future-roadmap/era-01/era-01-3d-printed-buildings-become-mainstream.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-3d-printed-buildings-become-mainstream.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-3d-printed-buildings-become-mainstream.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-3d-printed-buildings-become-mainstream.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-3d-printed-buildings-become-mainstream.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-3d-printed-buildings-become-mainstream.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-3d-printed-buildings-become-mainstream.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-3d-printed-buildings-become-mainstream.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-3d-printed-buildings-become-mainstream.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2767,7 +2767,7 @@
       "title": "Precision Agriculture Dramatically Reduces Fertilizer Waste",
       "shortTitle": "Precision Agriculture Dramatically Reduces",
       "category": "Environment",
-"description": "Precision agriculture dramatically reduces fertilizer waste shows early climate repair, food resilience, water access, reforestation, and pollution treatment becoming deployable systems.",
+      "description": "Precision agriculture dramatically reduces fertilizer waste shows early climate repair, food resilience, water access, reforestation, and pollution treatment becoming deployable systems.",
       "layerId": "environment",
       "domains": ["climate", "ecosystem-restoration", "water-systems"],
       "maturity": "large-scale-demonstration",
@@ -2795,30 +2795,30 @@
           "Human-centered scene of precision agriculture dramatically reduces fertilizer waste, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating precision agriculture dramatically reduces fertilizer waste, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.png",
+        "src": "/assets/future-roadmap/era-01/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2832,7 +2832,7 @@
       "title": "Desalination Technologies Provide Low-Cost Fresh Water",
       "shortTitle": "Desalination Technologies Provide Lowcost",
       "category": "Environment",
-"description": "Desalination technologies provide low-cost fresh water shows early climate repair, food resilience, water access, reforestation, and pollution treatment becoming deployable systems.",
+      "description": "Desalination technologies provide low-cost fresh water shows early climate repair, food resilience, water access, reforestation, and pollution treatment becoming deployable systems.",
       "layerId": "environment",
       "domains": ["climate", "ecosystem-restoration", "water-systems"],
       "maturity": "large-scale-demonstration",
@@ -2860,30 +2860,30 @@
           "Human-centered scene of desalination technologies provide low-cost fresh water, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating desalination technologies provide low-cost fresh water, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-desalination-technologies-provide-low-cost-fresh-water.png",
+        "src": "/assets/future-roadmap/era-01/era-01-desalination-technologies-provide-low-cost-fresh-water.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-desalination-technologies-provide-low-cost-fresh-water.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-desalination-technologies-provide-low-cost-fresh-water.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2897,7 +2897,7 @@
       "title": "Reforestation Drones Restore Damaged Ecosystems",
       "shortTitle": "Reforestation Drones Restore Damaged",
       "category": "Environment",
-"description": "Reforestation drones restore damaged ecosystems shows early climate repair, food resilience, water access, reforestation, and pollution treatment becoming deployable systems.",
+      "description": "Reforestation drones restore damaged ecosystems shows early climate repair, food resilience, water access, reforestation, and pollution treatment becoming deployable systems.",
       "layerId": "environment",
       "domains": ["climate", "ecosystem-restoration", "water-systems"],
       "maturity": "large-scale-demonstration",
@@ -2925,30 +2925,30 @@
           "Human-centered scene of reforestation drones restore damaged ecosystems, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating reforestation drones restore damaged ecosystems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-reforestation-drones-restore-damaged-ecosystems.png",
+        "src": "/assets/future-roadmap/era-01/era-01-reforestation-drones-restore-damaged-ecosystems.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-reforestation-drones-restore-damaged-ecosystems.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-reforestation-drones-restore-damaged-ecosystems.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2962,7 +2962,7 @@
       "title": "First Commercial Orbital Hotel Opens",
       "shortTitle": "Commercial Orbital Hotel Opens",
       "category": "Space",
-"description": "First commercial orbital hotel opens opens the first commercial and robotic pathways beyond Earth, preparing the ground for orbital services and lunar resource activity.",
+      "description": "First commercial orbital hotel opens opens the first commercial and robotic pathways beyond Earth, preparing the ground for orbital services and lunar resource activity.",
       "layerId": "space",
       "domains": [
         "orbital-infrastructure",
@@ -2994,30 +2994,30 @@
           "Human-centered scene of first commercial orbital hotel opens, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating first commercial orbital hotel opens, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-first-commercial-orbital-hotel-opens.png",
+        "src": "/assets/future-roadmap/era-01/era-01-first-commercial-orbital-hotel-opens.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-first-commercial-orbital-hotel-opens.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-first-commercial-orbital-hotel-opens.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-first-commercial-orbital-hotel-opens.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-first-commercial-orbital-hotel-opens.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-first-commercial-orbital-hotel-opens.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-first-commercial-orbital-hotel-opens.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-commercial-orbital-hotel-opens.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-first-commercial-orbital-hotel-opens.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3031,7 +3031,7 @@
       "title": "First Autonomous Lunar Construction Site Begins Operation",
       "shortTitle": "Autonomous Lunar Construction Site",
       "category": "Space",
-"description": "First autonomous lunar construction site begins operation opens the first commercial and robotic pathways beyond Earth, preparing the ground for orbital services and lunar resource activity.",
+      "description": "First autonomous lunar construction site begins operation opens the first commercial and robotic pathways beyond Earth, preparing the ground for orbital services and lunar resource activity.",
       "layerId": "space",
       "domains": [
         "orbital-infrastructure",
@@ -3063,30 +3063,30 @@
           "Human-centered scene of first autonomous lunar construction site begins operation, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating first autonomous lunar construction site begins operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-first-autonomous-lunar-construction-site-begins-operation.png",
+        "src": "/assets/future-roadmap/era-01/era-01-first-autonomous-lunar-construction-site-begins-operation.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-autonomous-lunar-construction-site-begins-operation.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-first-autonomous-lunar-construction-site-begins-operation.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3100,7 +3100,7 @@
       "title": "First Lunar Resource Prospecting Mission Becomes Commercial",
       "shortTitle": "Lunar Resource Prospecting Mission",
       "category": "Space",
-"description": "First lunar resource prospecting mission becomes commercial opens the first commercial and robotic pathways beyond Earth, preparing the ground for orbital services and lunar resource activity.",
+      "description": "First lunar resource prospecting mission becomes commercial opens the first commercial and robotic pathways beyond Earth, preparing the ground for orbital services and lunar resource activity.",
       "layerId": "space",
       "domains": [
         "orbital-infrastructure",
@@ -3132,30 +3132,30 @@
           "Human-centered scene of first lunar resource prospecting mission becomes commercial, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating first lunar resource prospecting mission becomes commercial, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.png",
+        "src": "/assets/future-roadmap/era-01/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3169,7 +3169,7 @@
       "title": "Universal Digital Identity Becomes Globally Interoperable",
       "shortTitle": "Universal Digital Identity Becomes",
       "category": "Society & Economy",
-"description": "Universal digital identity becomes globally interoperable captures early social and economic transformation as digital identity, cashless systems, AI services, and automation reshape daily life.",
+      "description": "Universal digital identity becomes globally interoperable captures early social and economic transformation as digital identity, cashless systems, AI services, and automation reshape daily life.",
       "layerId": "society-economy",
       "domains": ["social-systems", "economy", "public-services"],
       "maturity": "large-scale-demonstration",
@@ -3197,30 +3197,30 @@
           "Human-centered scene of universal digital identity becomes globally interoperable, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating universal digital identity becomes globally interoperable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-universal-digital-identity-becomes-globally-interoperable.png",
+        "src": "/assets/future-roadmap/era-01/era-01-universal-digital-identity-becomes-globally-interoperable.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-universal-digital-identity-becomes-globally-interoperable.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-universal-digital-identity-becomes-globally-interoperable.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3234,7 +3234,7 @@
       "title": "Cashless Economies Dominate Most Countries",
       "shortTitle": "Cashless Economies Dominate Most",
       "category": "Society & Economy",
-"description": "Cashless economies dominate most countries captures early social and economic transformation as digital identity, cashless systems, AI services, and automation reshape daily life.",
+      "description": "Cashless economies dominate most countries captures early social and economic transformation as digital identity, cashless systems, AI services, and automation reshape daily life.",
       "layerId": "society-economy",
       "domains": ["social-systems", "economy", "public-services"],
       "maturity": "large-scale-demonstration",
@@ -3262,30 +3262,30 @@
           "Human-centered scene of cashless economies dominate most countries, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating cashless economies dominate most countries, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-01/era-01-cashless-economies-dominate-most-countries.png",
+        "src": "/assets/future-roadmap/era-01/era-01-cashless-economies-dominate-most-countries.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-01/mobile/era-01-cashless-economies-dominate-most-countries.webp",
+          "src": "/assets/future-roadmap/era-01/mobile/era-01-cashless-economies-dominate-most-countries.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-01/thumbnail/era-01-cashless-economies-dominate-most-countries.webp",
+          "src": "/assets/future-roadmap/era-01/thumbnail/era-01-cashless-economies-dominate-most-countries.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-01/desktop/era-01-cashless-economies-dominate-most-countries.webp",
+          "src": "/assets/future-roadmap/era-01/desktop/era-01-cashless-economies-dominate-most-countries.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-cashless-economies-dominate-most-countries.png",
+          "src": "/open_graph/future-roadmap/era-01/open_graph/era-01-cashless-economies-dominate-most-countries.png",
           "width": 1200,
           "height": 630,
           "quality": 82

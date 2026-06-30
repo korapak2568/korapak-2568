@@ -1,12 +1,8 @@
 "use client";
 
-import Link from "next/link";
 import SystemCapability from "@/components/Services/WebDevelopment/SystemCapability";
 import WebDevelopmentBackEnd from "@/components/Services/WebDevelopment/WebDevelopmentBackEnd";
 import WevDevelopmentFrontEnd from "@/components/Services/WebDevelopment/WevDevelopmentFrontEnd";
-import WebDevelopmentDevOps from "@/components/Services/WebDevelopment/WebDevelopmentDevOps";
-import { truncateText } from "@/lib/truncateText";
-import type { IFeatureStack } from "@/lib/model/IFeature";
 import type { PlatformTechnologyContent } from "@/lib/platform-content/technologyContentShared";
 import { usePlatformTechnologyContent } from "@/lib/platform-content/usePlatformTechnologyContent";
 
@@ -19,7 +15,6 @@ export default function WebDevelopmentPageMain({
 }) {
   const { data: cachedContent } = usePlatformTechnologyContent(lang, content);
   const technologyContent = cachedContent ?? content;
-  const featureContent = technologyContent.feature;
   const pageContent = technologyContent.page;
 
   return (
@@ -27,7 +22,7 @@ export default function WebDevelopmentPageMain({
       <section className="policy-page__hero technology-document-hero">
         <div className="platform-shell policy-page__hero-inner">
           <div className="technology-document-hero__heading">
-            <span className="platform-eyebrow">{featureContent.span}</span>
+            <span className="platform-eyebrow">{pageContent.summary.label}</span>
             <h1>{pageContent.title}</h1>
             <h2>{pageContent.hero.subtitle}</h2>
           </div>
@@ -69,36 +64,6 @@ export default function WebDevelopmentPageMain({
           lang={lang}
           fullStack={technologyContent.fullStack}
         />
-        <WebDevelopmentDevOps lang={lang} devOps={technologyContent.devOps} />
-      </section>
-
-      <section className="technology-premium-module technology-premium-module--feature">
-        <div className="technology-premium-container">
-          <h1 className="technology-premium-module__title">
-            {pageContent.sections.deliveryModel.title}
-          </h1>
-          <div className="technology-feature-grid">
-            {technologyContent.feature.stacks.map(
-              (stack: IFeatureStack, index: number) => (
-                <div key={index} className="home-feature-container">
-                  <Link href={`/${lang}${stack.link}`}>
-                    <div className="custom-single-features-box feature-box">
-                      <div className="icon feature-box-icon">
-                        <i
-                          className={`${stack.icon} feature-icon hover-rotate`}
-                        />
-                        <span className="feature-box-title">{stack.title}</span>
-                      </div>
-                      <p className="feature-box-description">
-                        {truncateText(stack.description, 110)}
-                      </p>
-                    </div>
-                  </Link>
-                </div>
-              ),
-            )}
-          </div>
-        </div>
       </section>
     </main>
   );

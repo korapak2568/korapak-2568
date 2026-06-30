@@ -47,10 +47,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "Еда",
-              "Платформа"
-            ],
+            "tags": ["Еда", "Платформа"],
             "cta": "Исследовать Smart Food",
             "href": "/smart-food/"
           },
@@ -84,10 +81,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "Люкс",
-              "Проекты"
-            ],
+            "tags": ["Люкс", "Проекты"],
             "cta": "Смотреть Luxury",
             "href": "/luxury/"
           },
@@ -121,10 +115,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "AI",
-              "Инжиниринг"
-            ],
+            "tags": ["AI", "Инжиниринг"],
             "cta": "Смотреть технологии",
             "href": "/technology/"
           },
@@ -133,35 +124,32 @@
             "title": "Направление моды, одежды и образов",
             "description": "Легкий lifestyle-канал для визуальной идентичности, концепций образов и историй commerce будущего.",
             "image": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+              "src": "/assets/styles/09-coastal-mts-traveler.png",
               "alt": "Визуал стиля и образов",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.style",
               "mobile": {
-                "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/mobile/09-coastal-mts-traveler.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/thumbnail/09-coastal-mts-traveler.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/desktop/09-coastal-mts-traveler.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Стиль",
-              "Lifestyle"
-            ],
+            "tags": ["Стиль", "Lifestyle"],
             "cta": "Смотреть стиль",
             "href": "/style/"
           }
@@ -178,35 +166,32 @@
             "title": "Женский образ",
             "description": "Элегантные цивилизационные образы для premium lifestyle-сцен.",
             "image": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+              "src": "/assets/styles/05-lotus-lanna-ceremony.png",
               "alt": "Концепт женского образа",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.lady",
               "mobile": {
-                "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/mobile/05-lotus-lanna-ceremony.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/thumbnail/05-lotus-lanna-ceremony.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/desktop/05-lotus-lanna-ceremony.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Женщина",
-              "Люкс"
-            ],
+            "tags": ["Женщина", "Люкс"],
             "cta": "Смотреть коллекцию",
             "href": "/style/"
           },
@@ -215,35 +200,32 @@
             "title": "Мужской образ",
             "description": "Утонченные силуэты для путешествий, города и курортных контекстов.",
             "image": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman.png",
               "alt": "Концепт мужского образа",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.gentleman",
               "mobile": {
-                "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/mobile/06-mountain-hydrangea-gentleman.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/desktop/06-mountain-hydrangea-gentleman.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Мужчина",
-              "Путешествия"
-            ],
+            "tags": ["Мужчина", "Путешествия"],
             "cta": "Смотреть коллекцию",
             "href": "/style/"
           },
@@ -252,35 +234,32 @@
             "title": "Одежда цивилизации",
             "description": "Истории одежды, связанные с зонами, ритуалами и commerce будущего.",
             "image": {
-              "src": "/images-platform/styles/02-coastal-resort-floral.png",
+              "src": "/assets/styles/02-coastal-resort-floral.png",
               "alt": "Концепт одежды цивилизации",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.civilization",
               "mobile": {
-                "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/mobile/02-coastal-resort-floral.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/thumbnail/02-coastal-resort-floral.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/desktop/02-coastal-resort-floral.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Зона",
-              "Chorn DNA"
-            ],
+            "tags": ["Зона", "Chorn DNA"],
             "cta": "Открыть канал",
             "href": "/style/"
           },
@@ -314,10 +293,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "Ланна",
-              "Будущее"
-            ],
+            "tags": ["Ланна", "Будущее"],
             "cta": "Исследовать образ",
             "href": "/smart-mobility/"
           }
@@ -332,26 +308,26 @@
         {
           "title": "Отдых на кресле-диване с откидной спинкой",
           "image": {
-            "src": "/images-platform/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
+            "src": "/assets/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
             "alt": "Пара отдыхает у большого окна с видом на горы.",
             "width": 1024,
             "height": 1536,
             "aspectRatio": "2:3",
             "positionKey": "home.circular.sofa",
             "mobile": {
-              "src": "/images-platform/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
               "width": 720,
               "height": 1080,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
               "width": 480,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
               "width": 1024,
               "height": 1536,
               "quality": 82
@@ -362,26 +338,26 @@
         {
           "title": "Станция MTS Lavender Valley",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-valley2-lavender-valley.png",
+            "src": "/assets/smart-mobility/mts-valley2-lavender-valley.png",
             "alt": "Станция MTS Lavender Valley",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.valley",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -392,26 +368,26 @@
         {
           "title": "Станция MTS Coral Bay Marina",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-coastal2-coral-bay-marina.png",
+            "src": "/assets/smart-mobility/mts-coastal2-coral-bay-marina.png",
             "alt": "Станция MTS Coral Bay Marina",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.coastal-marina",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -422,26 +398,26 @@
         {
           "title": "Станция MTS Sunrise Ocean Deck",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
+            "src": "/assets/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
             "alt": "Станция MTS Sunrise Ocean Deck",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.coastal-sunrise",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -499,11 +475,7 @@
       {
         "title": "AI Smart Mobility",
         "body": "AI Smart Mobility исследует интеллектуальный транспорт, connected infrastructure и опыт мобильности будущего через Chorn Planet MTS Network. Он действует как циркуляционная система, соединяющая направления, туризм, lifestyle-среды и концепции цивилизации, готовой к будущему.",
-        "tags": [
-          "MTS Network",
-          "Smart Infrastructure",
-          "Future Mobility"
-        ],
+        "tags": ["MTS Network", "Smart Infrastructure", "Future Mobility"],
         "link": "/smart-mobility/"
       },
       {
@@ -529,21 +501,13 @@
       {
         "title": "AI Luxury",
         "body": "AI Luxury — premium project layer для property, destination и lifestyle narratives. Он помогает превращать высокоценные проекты в более ясные истории, более сильные визуальные системы и контент платформы, готовый для инвесторов.",
-        "tags": [
-          "Premium Projects",
-          "Destination Stories",
-          "Investor Ready"
-        ],
+        "tags": ["Premium Projects", "Destination Stories", "Investor Ready"],
         "link": "/luxury/"
       },
       {
         "title": "Направление стиля и образов",
         "body": "Style дает платформе визуальный lifestyle-слой. Концепции образов становятся сценами, историями и продуктовым направлением в путешествиях, культуре, soft luxury и commerce будущего.",
-        "tags": [
-          "Graceful Style",
-          "Истории образов",
-          "Future Commerce"
-        ],
+        "tags": ["Graceful Style", "Истории образов", "Future Commerce"],
         "link": "/style/"
       }
     ]

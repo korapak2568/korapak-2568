@@ -1,0 +1,3271 @@
+{
+  "city-systems-density-and-comfort": {
+    "metadata": {
+      "title": "Density and Comfort | Smart City Systems",
+      "description": "Density itself is not inherently problematic. Cities become more livable when density is moderated by greenery, space, and predictable movement systems.",
+      "openGraphDescription": "A smart city does not eliminate crowding; it designs systems that keep shared space comfortable, green, and navigable even at higher density.",
+      "twitterDescription": "Well-coordinated urban systems allow dense cities to remain calm, green, and comfortable.",
+      "image": "/open_graph/smart-city/city-systems/density-and-comfort.png",
+      "imageAlt": "Comfortable Thai urban density with greenery, shaded sidewalks, and calm street rhythm",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Density and Comfort",
+      "paragraphs": [
+        "Density itself is not inherently problematic. Discomfort emerges when systems are poorly designed.",
+        "Cities become more livable when density is moderated by space, greenery, and predictable movement patterns.",
+        "A smart city does not seek to eliminate crowding; it establishes conditions in which shared space remains comfortable and navigable."
+      ],
+      "cta": {
+        "label": "Explore Efficiency and Rhythm",
+        "href": "/smart-city/city-systems-efficiency-and-rhythm"
+      },
+      "image": {
+        "src": "/assets/smart-city/city-systems/density-and-comfort.png",
+        "alt": "Comfortable Thai urban density with greenery, shaded sidewalks, and calm street rhythm",
+        "mobile": {
+          "src": "/assets/smart-city/city-systems/mobile/density-and-comfort.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/city-systems/thumbnail/density-and-comfort.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/city-systems/desktop/density-and-comfort.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/city-systems/open_graph/density-and-comfort.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "How Comfort Is Designed Into Density",
+      "paragraphs": [
+        "Comfort is not a decorative layer; it is the result of coordinated systems.",
+        "Elements such as shade, walkable edges, lighting, greenery, and public-space rhythm influence whether density feels stressful or supportive. When these systems operate coherently, dense environments can remain calm and functional."
+      ],
+      "image": {
+        "src": "/assets/smart-city/system-explainers/public-space-orchestration.png",
+        "alt": "Urban design systems supporting comfort through greenery and walkable space",
+        "mobile": {
+          "src": "/assets/smart-city/system-explainers/mobile/public-space-orchestration.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/system-explainers/thumbnail/public-space-orchestration.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/system-explainers/desktop/public-space-orchestration.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/system-explainers/open_graph/public-space-orchestration.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why Density and Comfort Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Comfort Reduces Tension",
+          "description": "When dense environments feel orderly and calm, people are more likely to share space cooperatively."
+        },
+        {
+          "title": "Livability Reduces Expansion Pressure",
+          "description": "Cities that accommodate density comfortably can limit the need for outward expansion."
+        },
+        {
+          "title": "Greenery Functions as Infrastructure",
+          "description": "Shade, trees, and softened edges are functional components that influence temperature regulation, movement patterns, and overall experience."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Public Space Orchestration",
+        "paragraphs": [
+          "Comfort is influenced by how sidewalks, lighting, and street activity are coordinated over time."
+        ],
+        "image": {
+          "src": "/assets/smart-city/system-explainers/public-space-orchestration.png",
+          "alt": "Public space orchestration supporting comfort and social rhythm",
+          "mobile": {
+            "src": "/assets/smart-city/system-explainers/mobile/public-space-orchestration.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/system-explainers/thumbnail/public-space-orchestration.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/system-explainers/desktop/public-space-orchestration.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/system-explainers/open_graph/public-space-orchestration.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/urban-signals-public-space-use"
+      },
+      {
+        "headline": "Mixed Mobility Is Becoming the Global Default",
+        "paragraphs": [
+          "Dense streets require coexistence. Mixed mobility reflects an emerging global condition rather than an optional design choice."
+        ],
+        "image": {
+          "src": "/assets/smart-city/global-patterns/mixed-mobility-coexistence.png",
+          "alt": "Mixed mobility supporting density through coexistence",
+          "mobile": {
+            "src": "/assets/smart-city/global-patterns/mobile/mixed-mobility-coexistence.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/global-patterns/thumbnail/mixed-mobility-coexistence.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/global-patterns/desktop/mixed-mobility-coexistence.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/global-patterns/open_graph/mixed-mobility-coexistence.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/global-patterns-mixed-mobility-coexistence"
+      }
+    ]
+  },
+  "city-systems-efficiency-and-rhythm": {
+    "metadata": {
+      "title": "Efficiency and Human Rhythm | Smart City Systems",
+      "description": "Cities function best when systems align with human rhythm—prioritizing predictability, coordinated movement, and reduced friction over maximum speed.",
+      "openGraphDescription": "Efficiency is not defined by speed alone, but by reduced friction. A predictable, well-coordinated city feels stable, reliable, and breathable.",
+      "twitterDescription": "True efficiency reduces friction and aligns infrastructure with everyday human rhythm.",
+      "image": "/open_graph/smart-city/city-systems/efficiency-and-rhythm.png",
+      "imageAlt": "Thai city infrastructure supporting smooth mobility and predictable daily rhythm",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Efficiency and Human Rhythm",
+      "paragraphs": [
+        "Efficiency becomes problematic when systems require people to move faster than everyday life reasonably allows.",
+        "Cities function best when systems align with human rhythm: predictable timing, coordinated movement, and unobtrusive logistics.",
+        "The objective is not maximum speed, but a city that feels stable, reliable, and breathable."
+      ],
+      "cta": {
+        "label": "Return to City Systems",
+        "href": "/smart-city/city-systems-movement-and-pause"
+      },
+      "image": {
+        "src": "/assets/smart-city/city-systems/efficiency-and-rhythm.png",
+        "alt": "Thai city infrastructure supporting smooth mobility and predictable daily rhythm",
+        "mobile": {
+          "src": "/assets/smart-city/city-systems/mobile/efficiency-and-rhythm.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/city-systems/thumbnail/efficiency-and-rhythm.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/city-systems/desktop/efficiency-and-rhythm.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/city-systems/open_graph/efficiency-and-rhythm.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "What Efficiency Really Means",
+      "paragraphs": [
+        "Efficiency is not defined by speed alone; it is defined by reduced friction.",
+        "When transport, crossings, logistics, and public services are coordinated in time, the city becomes predictable. People rely on the system rather than rushing within it, allowing the city to remain calm while continuously active."
+      ],
+      "image": {
+        "src": "/assets/smart-city/system-explainers/mobility-coordination.png",
+        "alt": "Mobility coordination aligning movement smoothly without forcing speed",
+        "mobile": {
+          "src": "/assets/smart-city/system-explainers/mobile/mobility-coordination.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/system-explainers/thumbnail/mobility-coordination.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/system-explainers/desktop/mobility-coordination.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/system-explainers/open_graph/mobility-coordination.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why Efficiency and Rhythm Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Predictability Reduces Anxiety",
+          "description": "People remain calmer when movement timing can be anticipated rather than constantly reacted to."
+        },
+        {
+          "title": "Speed Is Not Equivalent to Performance",
+          "description": "A city may operate quickly and still feel demanding. Effective performance is often experienced as stable and unobtrusive."
+        },
+        {
+          "title": "Logistics Should Remain Background Infrastructure",
+          "description": "Well-designed systems support daily life continuously without drawing attention or overwhelming public space."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Mobility Coordination",
+        "paragraphs": [
+          "When signals, vehicles, pedestrians, and transit align in time, movement feels effortless rather than tightly controlled."
+        ],
+        "image": {
+          "src": "/assets/smart-city/system-explainers/mobility-coordination.png",
+          "alt": "Mobility coordination systems supporting a smooth urban rhythm",
+          "mobile": {
+            "src": "/assets/smart-city/system-explainers/mobile/mobility-coordination.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/system-explainers/thumbnail/mobility-coordination.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/system-explainers/desktop/mobility-coordination.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/system-explainers/open_graph/mobility-coordination.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/system-explainers-mobility-coordination"
+      },
+      {
+        "headline": "Logistics Is Quietly Reshaping Urban Rhythm",
+        "paragraphs": [
+          "Efficient logistics influences the city less through visible speed and more through timing and low visibility."
+        ],
+        "image": {
+          "src": "/assets/smart-city/global-patterns/urban-logistics.png",
+          "alt": "Urban logistics operating quietly within a modern city street",
+          "mobile": {
+            "src": "/assets/smart-city/global-patterns/mobile/urban-logistics.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/global-patterns/thumbnail/urban-logistics.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/global-patterns/desktop/urban-logistics.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/global-patterns/open_graph/urban-logistics.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/global-patterns-urban-logistics"
+      }
+    ]
+  },
+  "city-systems-movement-and-pause": {
+    "metadata": {
+      "title": "Movement and Pause | Smart City Systems",
+      "description": "A city is not defined by how fast it moves, but by whether it allows people to stop without risk or pressure. Healthy streets balance flow and stillness.",
+      "openGraphDescription": "Healthy streets are shared environments where movement can slow naturally and pausing remains safe—supporting calmer and more human-centered daily life.",
+      "twitterDescription": "A smart city balances flow and stillness—allowing people to pause safely without pressure.",
+      "image": "/open_graph/smart-city/city-systems/movement-and-pause.png",
+      "imageAlt": "Thai urban street balancing pedestrian pause with calm mobility flow",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Movement and Pause",
+      "paragraphs": [
+        "A city is not defined by how fast it moves, but by whether it allows people to stop without risk or pressure.",
+        "Healthy streets are not designed as highways. They are shared environments where movement can slow naturally and pausing remains safe.",
+        "When a city balances flow and stillness, everyday life can become calmer, more social, and more human-centered."
+      ],
+      "cta": {
+        "label": "Explore Density and Comfort",
+        "href": "/smart-city/city-systems-density-and-comfort"
+      },
+      "image": {
+        "src": "/assets/smart-city/city-systems/movement-and-pause.png",
+        "alt": "Thai urban street balancing pedestrian pause with calm mobility flow",
+        "mobile": {
+          "src": "/assets/smart-city/city-systems/mobile/movement-and-pause.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/city-systems/thumbnail/movement-and-pause.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/city-systems/desktop/movement-and-pause.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/city-systems/open_graph/movement-and-pause.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "What Creates Balance on the Street",
+      "paragraphs": [
+        "Movement and pause are not opposites. They are complementary functions within the same street system.",
+        "Crossings, curb design, sidewalk rhythm, and traffic behavior influence whether people feel safe to slow down, observe, and interact. When the street is readable and predictable, social life can emerge without relying heavily on enforcement."
+      ],
+      "image": {
+        "src": "/assets/smart-city/urban-signals/public-space-orchestration.png",
+        "alt": "Public space design enabling safe pausing and shared urban life",
+        "mobile": {
+          "src": "/assets/smart-city/urban-signals/mobile/public-space-orchestration.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/urban-signals/thumbnail/public-space-orchestration.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/urban-signals/desktop/public-space-orchestration.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/urban-signals/open_graph/public-space-orchestration.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why Movement and Pause Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Pause Can Indicate Safety",
+          "description": "If people feel comfortable stopping, the street is likely functioning as a preventive environment."
+        },
+        {
+          "title": "Flow Without Pressure",
+          "description": "Predictable movement reduces conflict and allows slowing down to feel normal rather than risky."
+        },
+        {
+          "title": "Social Life Requires Stillness",
+          "description": "A city becomes more human-centered when streets support waiting, observing, meeting, and resting."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Public Space Used as Intended",
+        "paragraphs": [
+          "When people linger comfortably, it suggests the city has achieved a workable balance between movement and comfort."
+        ],
+        "image": {
+          "src": "/assets/smart-city/urban-signals/public-space-orchestration.png",
+          "alt": "Thai residents using public space naturally and comfortably",
+          "mobile": {
+            "src": "/assets/smart-city/urban-signals/mobile/public-space-orchestration.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/urban-signals/thumbnail/public-space-orchestration.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/urban-signals/desktop/public-space-orchestration.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/urban-signals/open_graph/public-space-orchestration.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/urban-signals-public-space-use"
+      },
+      {
+        "headline": "Predictable Street Behavior",
+        "paragraphs": [
+          "Predictability supports safe pausing. Without it, stopping can become a source of risk."
+        ],
+        "image": {
+          "src": "/assets/smart-city/signals/predictable-shared-street.png",
+          "alt": "Predictable shared street behavior supporting safe pedestrian movement",
+          "mobile": {
+            "src": "/assets/smart-city/signals/mobile/predictable-shared-street.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/signals/thumbnail/predictable-shared-street.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/signals/desktop/predictable-shared-street.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/signals/open_graph/predictable-shared-street.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/urban-signals-predictable-street"
+      }
+    ]
+  },
+  "editorial-human-first-observation": {
+    "metadata": {
+      "title": "Human-First Observation | Smart City Editorial",
+      "description": "Cities are most clearly understood through lived experience. Everyday human behavior reveals how urban systems truly function beyond dashboards and technical language.",
+      "openGraphDescription": "Everyday movement—walking, waiting, pausing, crossing—reveals the true condition of urban systems. Observation translates complexity into visible patterns.",
+      "twitterDescription": "Understanding cities begins with observing everyday human life, not technical dashboards.",
+      "image": "/open_graph/smart-city/editorial/human-first-observation.png",
+      "imageAlt": "Thai people moving calmly through a city street as a primary signal of urban systems",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Human-First Observation",
+      "paragraphs": [
+        "Cities are most clearly understood through lived experience rather than technical explanation alone.",
+        "Many reliable signals of city quality are not found in dashboards, but in how people walk, wait, pause, cross, and share space.",
+        "This platform begins with human life because everyday behavior reveals how urban systems actually function."
+      ],
+      "cta": {
+        "label": "Explore System Before Technology",
+        "href": "/smart-city/editorial-system-before-technology"
+      },
+      "image": {
+        "src": "/assets/smart-city/editorial/human-first-observation.png",
+        "alt": "Thai people moving calmly through a city street as a primary signal of urban systems",
+        "mobile": {
+          "src": "/assets/smart-city/editorial/mobile/human-first-observation.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/editorial/thumbnail/human-first-observation.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/editorial/desktop/human-first-observation.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/editorial/open_graph/human-first-observation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "Why Observation Comes First",
+      "paragraphs": [
+        "Many city narratives begin with technology, infrastructure, or policy. However, cities are not primarily experienced through those lenses.",
+        "People experience the city through friction, comfort, rhythm, and perceived safety. Observation helps translate complex systems into visible patterns without relying on technical language."
+      ],
+      "image": {
+        "src": "/assets/smart-city/urban-signals/public-space-orchestration.png",
+        "alt": "Public space showing human routines and comfort as primary system signals",
+        "mobile": {
+          "src": "/assets/smart-city/urban-signals/mobile/public-space-orchestration.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/urban-signals/thumbnail/public-space-orchestration.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/urban-signals/desktop/public-space-orchestration.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/urban-signals/open_graph/public-space-orchestration.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why Human-First Observation Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Behavior Reflects Real Conditions",
+          "description": "People adjust quickly to comfort and risk. Their everyday movement reflects actual urban conditions."
+        },
+        {
+          "title": "Understanding Scales Without Prediction",
+          "description": "Observation supports understanding without asserting certainty about future outcomes."
+        },
+        {
+          "title": "Systems Become Understandable Without Jargon",
+          "description": "A human-first perspective allows urban systems to be understood beyond technical or expert audiences."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Urban Signals You Notice Without Effort",
+        "paragraphs": [
+          "Small, everyday behaviors can reveal city quality without requiring formal measurement or explanation."
+        ],
+        "image": {
+          "src": "/assets/smart-city/urban-signals/predictable-shared-street.png",
+          "alt": "Predictable street behavior observed through everyday movement",
+          "mobile": {
+            "src": "/assets/smart-city/urban-signals/mobile/predictable-shared-street.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/urban-signals/thumbnail/predictable-shared-street.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/urban-signals/desktop/predictable-shared-street.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/urban-signals/open_graph/predictable-shared-street.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/urban-signals-predictable-street"
+      },
+      {
+        "headline": "Cities Are Experienced Through Daily Cycles",
+        "paragraphs": [
+          "Complex systems often become clearer when viewed through daily rhythms such as morning, midday, and evening."
+        ],
+        "image": {
+          "src": "/assets/smart-city/human-daily-flow/morning-flow/morning-reveals-city-wakes-up.png",
+          "alt": "Morning flow illustrating daily rhythm as a signal of system quality",
+          "mobile": {
+            "src": "/assets/smart-city/human-daily-flow/morning-flow/mobile/morning-reveals-city-wakes-up.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/human-daily-flow/morning-flow/thumbnail/morning-reveals-city-wakes-up.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/human-daily-flow/morning-flow/desktop/morning-reveals-city-wakes-up.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/human-daily-flow/morning-flow/open_graph/morning-reveals-city-wakes-up.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/human-daily-flow-morning"
+      }
+    ]
+  },
+  "editorial-local-as-global-prototype": {
+    "metadata": {
+      "title": "Local as Global Prototype | Smart City Editorial",
+      "description": "Mid-sized cities make urban systems easier to observe. Local streets reveal patterns that later appear across different cities and global urban contexts.",
+      "openGraphDescription": "Mid-sized cities reveal system pressure while remaining readable through everyday behavior. Local observation helps identify urban patterns that scale globally.",
+      "twitterDescription": "Local streets often reveal global urban patterns before they appear at metropolitan scale.",
+      "image": "/open_graph/smart-city/editorial/local-as-global-prototype.png",
+      "imageAlt": "Thai local street reflecting urban patterns found in many cities worldwide",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Local as Global Prototype",
+      "paragraphs": [
+        "Mid-sized cities often make urban systems easier to observe.",
+        "They are dense enough to reveal system pressure, while remaining readable through everyday human behavior.",
+        "Careful observation of local streets can help identify patterns that later appear across different urban contexts."
+      ],
+      "cta": {
+        "label": "Return to Smart City Overview",
+        "href": "/smart-city/when-human-life-shapes-the-city"
+      },
+      "image": {
+        "src": "/assets/smart-city/editorial/local-as-global-prototype.png",
+        "alt": "Thai local street reflecting urban patterns found in many cities worldwide",
+        "mobile": {
+          "src": "/assets/smart-city/editorial/mobile/local-as-global-prototype.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/editorial/thumbnail/local-as-global-prototype.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/editorial/desktop/local-as-global-prototype.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/editorial/open_graph/local-as-global-prototype.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "Why Mid-Sized Cities Reveal More",
+      "paragraphs": [
+        "Large metropolitan areas can obscure systems through scale. Mid-sized cities often make systems more visible through daily activity such as crossings, queues, deliveries, and street-level coordination.",
+        "These environments allow recurring patterns to be observed clearly before they appear in larger or more complex urban settings."
+      ],
+      "image": {
+        "src": "/assets/smart-city/local-to-global/local-street-daily-routine.png",
+        "alt": "Local street routine showing human behavior as an indicator of urban systems",
+        "mobile": {
+          "src": "/assets/smart-city/local-to-global/mobile/local-street-daily-routine.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/local-to-global/thumbnail/local-street-daily-routine.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/local-to-global/desktop/local-street-daily-routine.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/local-to-global/open_graph/local-street-daily-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why Local as Global Prototype Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Local Patterns Can Scale Organically",
+          "description": "When a routine functions well, it may be adopted elsewhere without formal coordination."
+        },
+        {
+          "title": "Visibility Supports Practical Learning",
+          "description": "Mid-sized cities allow urban systems to be understood through direct observation rather than abstraction."
+        },
+        {
+          "title": "Local Identity Can Coexist with Global Principles",
+          "description": "Cities can retain cultural specificity while expressing system behaviors that appear across multiple regions."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "From Local Life to Global Pattern",
+        "paragraphs": [
+          "When similar local scenes appear across different cities, they indicate shared system behaviors."
+        ],
+        "image": {
+          "src": "/assets/smart-city/local-to-global/global-urban-pattern.png",
+          "alt": "Comparison between local scenes revealing shared urban patterns",
+          "mobile": {
+            "src": "/assets/smart-city/local-to-global/mobile/global-urban-pattern.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/local-to-global/thumbnail/global-urban-pattern.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/local-to-global/desktop/global-urban-pattern.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/local-to-global/open_graph/global-urban-pattern.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/from-local-life-to-global-pattern"
+      },
+      {
+        "headline": "Global Patterns Emerging from Everyday Cities",
+        "paragraphs": [
+          "Predictability, mixed mobility, and low-visibility logistics are increasingly observed across different urban environments."
+        ],
+        "image": {
+          "src": "/assets/smart-city/global-patterns/predictable-shared-street.png",
+          "alt": "Predictable shared street patterns appearing across multiple cities",
+          "mobile": {
+            "src": "/assets/smart-city/global-patterns/mobile/predictable-shared-street.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/global-patterns/thumbnail/predictable-shared-street.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/global-patterns/desktop/predictable-shared-street.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/global-patterns/open_graph/predictable-shared-street.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/global-patterns-predictable-shared-street"
+      }
+    ]
+  },
+  "editorial-system-before-technology": {
+    "metadata": {
+      "title": "System Before Technology | Smart City Editorial",
+      "description": "Technology alone does not create a smart city. Cities become intelligent when systems quietly improve safety, comfort, rhythm, and everyday reliability.",
+      "openGraphDescription": "A smart city begins with outcomes—comfort, safety, rhythm, and access. Technology matters only when it supports real improvement in everyday life.",
+      "twitterDescription": "Smart cities begin with systems and outcomes—not with technology for its own sake.",
+      "image": "/open_graph/smart-city/editorial/system-before-technology.png",
+      "imageAlt": "Urban infrastructure operating quietly in the background of Thai daily life",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "System Before Technology",
+      "paragraphs": [
+        "Technology alone does not create a smart city.",
+        "Cities become more intelligent when systems shape everyday behavior quietly: safer crossings, predictable flow, smoother logistics, and public space that functions reliably.",
+        "Technology matters most when it improves human life in measurable ways. Without that connection, it provides limited value."
+      ],
+      "cta": {
+        "label": "Explore Local as Global Prototype",
+        "href": "/smart-city/editorial-local-as-global-prototype"
+      },
+      "image": {
+        "src": "/assets/smart-city/editorial/system-before-technology.png",
+        "alt": "Urban infrastructure operating quietly in the background of Thai daily life",
+        "mobile": {
+          "src": "/assets/smart-city/editorial/mobile/system-before-technology.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/editorial/thumbnail/system-before-technology.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/editorial/desktop/system-before-technology.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/editorial/open_graph/system-before-technology.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "What a System Lens Reveals",
+      "paragraphs": [
+        "A system lens begins with outcomes: comfort, safety, rhythm, and access.",
+        "Only after outcomes become visible do we ask what technology supports them. This helps cities avoid pursuing innovation that appears advanced but produces limited real-world impact."
+      ],
+      "image": {
+        "src": "/assets/smart-city/system-explainers/mobility-coordination.png",
+        "alt": "Mobility coordination system supporting daily movement without being visible",
+        "mobile": {
+          "src": "/assets/smart-city/system-explainers/mobile/mobility-coordination.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/system-explainers/thumbnail/mobility-coordination.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/system-explainers/desktop/mobility-coordination.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/system-explainers/open_graph/mobility-coordination.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why System Before Technology Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Outcomes Come First",
+          "description": "If comfort and safety do not improve, technology does not achieve its intended purpose."
+        },
+        {
+          "title": "Invisible Success Is the Goal",
+          "description": "Effective systems integrate into daily life. People experience improvement without needing to focus on the tool itself."
+        },
+        {
+          "title": "Prevention Supports Long-Term Stability",
+          "description": "A system approach reduces risk early, rather than addressing problems only after harm has occurred."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Mobility Coordination",
+        "paragraphs": [
+          "Systems coordinate time, flow, and behavior. Technology is only one part of the coordination layer."
+        ],
+        "image": {
+          "src": "/assets/smart-city/system-explainers/mobility-coordination.png",
+          "alt": "Mobility coordination supporting predictable movement",
+          "mobile": {
+            "src": "/assets/smart-city/system-explainers/mobile/mobility-coordination.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/system-explainers/thumbnail/mobility-coordination.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/system-explainers/desktop/mobility-coordination.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/system-explainers/open_graph/mobility-coordination.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/system-explainers-mobility-coordination"
+      },
+      {
+        "headline": "Efficiency and Human Rhythm",
+        "paragraphs": [
+          "Efficiency becomes meaningful when it supports human pace rather than overriding it."
+        ],
+        "image": {
+          "src": "/assets/smart-city/city-systems/efficiency-and-rhythm.png",
+          "alt": "City systems aligned with human rhythm and comfort",
+          "mobile": {
+            "src": "/assets/smart-city/city-systems/mobile/efficiency-and-rhythm.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/city-systems/thumbnail/efficiency-and-rhythm.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/city-systems/desktop/efficiency-and-rhythm.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/city-systems/open_graph/efficiency-and-rhythm.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/city-systems/efficiency-and-rhythm"
+      }
+    ]
+  },
+  "from-local-life-to-global-pattern": {
+    "metadata": {
+      "title": "From Local Life to Global Pattern | Smart City",
+      "description": "When similar everyday scenes appear across different cities, they reveal shared urban patterns. Comparison makes underlying systems visible without forecasting.",
+      "openGraphDescription": "By placing everyday urban moments side by side, recurring behaviors become recognizable signals of shared structural conditions across cities.",
+      "twitterDescription": "Everyday local routines can reveal global urban patterns when observed side by side.",
+      "image": "/open_graph/smart-city/local-to-global/global-urban-pattern.png",
+      "imageAlt": "Everyday street scenes suggesting shared mobility patterns across cities",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "From Local Life to Global Pattern",
+      "paragraphs": [
+        "Urban life often feels local, shaped by familiar streets, habits, and routines.",
+        "When similar scenes appear across different cities, cultures, and scales, they provide comparative evidence of how cities tend to function.",
+        "This is not forecasting. It is comparison — placing everyday moments side by side until underlying systems become visible."
+      ],
+      "cta": {
+        "label": "Explore Global Patterns",
+        "href": "/smart-city/global-patterns-predictable-shared-street"
+      },
+      "image": {
+        "src": "/assets/smart-city/local-to-global/global-urban-pattern.png",
+        "alt": "Everyday street scenes suggesting shared mobility patterns across cities",
+        "mobile": {
+          "src": "/assets/smart-city/local-to-global/mobile/global-urban-pattern.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/local-to-global/thumbnail/global-urban-pattern.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/local-to-global/desktop/global-urban-pattern.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/local-to-global/open_graph/global-urban-pattern.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "How a City Becomes Comparable",
+      "paragraphs": [
+        "Cities become comparable when similar types of moments are observed: crossings, queues, pauses, deliveries, and coexistence.",
+        "When local behavior repeats across locations, it shifts from individual preference to a recognizable signal, pointing toward shared structural conditions beneath daily life."
+      ],
+      "image": {
+        "src": "/assets/smart-city/editorial/local-as-global-prototype.png",
+        "alt": "A local street scene used as a reference to understand broader city systems",
+        "mobile": {
+          "src": "/assets/smart-city/editorial/mobile/local-as-global-prototype.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/editorial/thumbnail/local-as-global-prototype.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/editorial/desktop/local-as-global-prototype.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/editorial/open_graph/local-as-global-prototype.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why Local-to-Global Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Everyday Streets Reflect System Conditions",
+          "description": "A reliable way to understand city quality is to observe what happens on an ordinary street during an ordinary moment."
+        },
+        {
+          "title": "Patterns Can Emerge Without Coordination",
+          "description": "Shared street behaviors may appear across cities independently, shaped by comparable constraints and needs."
+        },
+        {
+          "title": "Understanding Supports Dialogue",
+          "description": "Observing patterns helps cities develop shared understanding without promoting specific solutions or ideologies."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Global Patterns Emerging from Everyday Cities",
+        "paragraphs": [
+          "When similar signals appear across different cultural contexts, they suggest convergence toward shared operational behaviors."
+        ],
+        "image": {
+          "src": "/assets/smart-city/global-patterns/predictable-shared-street.png",
+          "alt": "A calm shared street representing a pattern of predictable movement observed in multiple cities",
+          "mobile": {
+            "src": "/assets/smart-city/global-patterns/mobile/predictable-shared-street.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/global-patterns/thumbnail/predictable-shared-street.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/global-patterns/desktop/predictable-shared-street.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/global-patterns/open_graph/predictable-shared-street.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/global-patterns-predictable-shared-street"
+      },
+      {
+        "headline": "Local as Global Prototype",
+        "paragraphs": [
+          "Mid-sized cities often make recurring patterns easier to observe, as street behavior remains visible and readable."
+        ],
+        "image": {
+          "src": "/assets/smart-city/editorial/local-as-global-prototype.png",
+          "alt": "Local street life reflecting patterns observed in many cities worldwide",
+          "mobile": {
+            "src": "/assets/smart-city/editorial/mobile/local-as-global-prototype.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/editorial/thumbnail/local-as-global-prototype.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/editorial/desktop/local-as-global-prototype.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/editorial/open_graph/local-as-global-prototype.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/editorial-local-as-global-prototype"
+      }
+    ]
+  },
+  "global-patterns-mixed-mobility-coexistence": {
+    "metadata": {
+      "title": "Mixed Mobility Is Becoming the Global Default | Smart City",
+      "description": "Walking, cycling, scooters, small electric vehicles, and delivery robots are increasingly sharing urban streets. Mixed mobility coexistence is emerging as a global urban pattern.",
+      "openGraphDescription": "Across many cities, streets are evolving toward coexistence rather than strict separation. Well-designed shared mobility supports safety, calmness, and functional efficiency.",
+      "twitterDescription": "Urban streets worldwide are shifting toward mixed mobility environments where coexistence shapes daily activity.",
+      "image": "/open_graph/smart-city/global-patterns/mixed-mobility-coexistence.png",
+      "imageAlt": "Multiple mobility modes coexisting calmly on an urban street",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Mixed Mobility Is Becoming the Global Default",
+      "paragraphs": [
+        "Walking, cycling, scooters, small electric vehicles, and delivery robots are increasingly present in everyday urban movement.",
+        "Across many cities, streets are evolving toward mixed mobility environments where coexistence — rather than strict separation — shapes daily activity.",
+        "This reflects an observable shift in how urban space is used and shared."
+      ],
+      "cta": {
+        "label": "Explore Logistics Pattern",
+        "href": "/smart-city/global-patterns-urban-logistics"
+      },
+      "image": {
+        "src": "/assets/smart-city/global-patterns/mixed-mobility-coexistence.png",
+        "alt": "Multiple mobility modes coexisting calmly on an urban street",
+        "mobile": {
+          "src": "/assets/smart-city/global-patterns/mobile/mixed-mobility-coexistence.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/global-patterns/thumbnail/mixed-mobility-coexistence.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/global-patterns/desktop/mixed-mobility-coexistence.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/global-patterns/open_graph/mixed-mobility-coexistence.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "Why Coexistence Appears Across Cities",
+      "paragraphs": [
+        "Urban streets often lack sufficient space to fully separate every mode of movement. As density increases, shared use becomes more common.",
+        "The difference between conflict and comfort lies in system design: speed alignment, clear priority cues, readable crossings, and street environments that reduce friction without relying on constant control."
+      ],
+      "image": {
+        "src": "/assets/smart-city/system-explainers/public-space-orchestration.png",
+        "alt": "Public space orchestration enabling mixed mobility coexistence",
+        "mobile": {
+          "src": "/assets/smart-city/system-explainers/mobile/public-space-orchestration.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/system-explainers/thumbnail/public-space-orchestration.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/system-explainers/desktop/public-space-orchestration.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/system-explainers/open_graph/public-space-orchestration.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why This Global Pattern Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Coexistence Supports Capacity",
+          "description": "When streets accommodate multiple modes, movement can distribute more evenly rather than concentrating into a single system."
+        },
+        {
+          "title": "Balanced Use Improves Comfort",
+          "description": "When no single mode dominates the street, people tend to feel safer and public space becomes more usable."
+        },
+        {
+          "title": "Shared Streets Reflect Shared Use",
+          "description": "Mixed mobility is not only a transport condition, but also an expression of how space is collectively used."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Coexistence of Mixed Mobility",
+        "paragraphs": [
+          "The street is increasingly observed as a shared environment where walking, scooters, bicycles, robots, and electric vehicles operate together."
+        ],
+        "image": {
+          "src": "/assets/smart-city/mobility-focus/mixed-mobility-coexistence.png",
+          "alt": "Mixed mobility coexistence in a modern Thai street scene",
+          "mobile": {
+            "src": "/assets/smart-city/mobility-focus/mobile/mixed-mobility-coexistence.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/mobility-focus/thumbnail/mixed-mobility-coexistence.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/mobility-focus/desktop/mixed-mobility-coexistence.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/mobility-focus/open_graph/mixed-mobility-coexistence.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/mobility-focus-mixed-mobility"
+      },
+      {
+        "headline": "Density and Comfort",
+        "paragraphs": [
+          "Coexistence plays a role in maintaining comfort within dense environments. Without shared-use design, density can lead to friction."
+        ],
+        "image": {
+          "src": "/assets/smart-city/city-systems/density-and-comfort.png",
+          "alt": "Comfortable density supported by design and shared mobility",
+          "mobile": {
+            "src": "/assets/smart-city/city-systems/mobile/density-and-comfort.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/city-systems/thumbnail/density-and-comfort.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/city-systems/desktop/density-and-comfort.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/city-systems/open_graph/density-and-comfort.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/city-systems-density-and-comfort"
+      }
+    ]
+  },
+  "global-patterns-predictable-shared-street": {
+    "metadata": {
+      "title": "Predictable Streets Enable Spontaneous Life | Smart City",
+      "description": "Predictable streets reduce uncertainty and build trust in shared space. When movement rules are readable, public life becomes calmer, safer, and more spontaneous.",
+      "openGraphDescription": "Across cities worldwide, predictable street design creates similar outcomes: calmer movement, safer crossings, and spontaneous street life built on shared trust.",
+      "twitterDescription": "When streets are predictable, people move with ease and public life becomes more spontaneous.",
+      "image": "/open_graph/smart-city/global-patterns/predictable-shared-street.png",
+      "imageAlt": "Predictable shared street where pedestrians, cyclists, and vehicles move calmly",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Predictable Streets Enable Spontaneous Life",
+      "paragraphs": [
+        "Across cities with different cultures, predictable streets often produce a similar outcome: people feel more at ease in public space.",
+        "When movement rules are readable, pedestrians cross naturally, vehicles slow with less friction, and street life becomes more spontaneous.",
+        "This is a global pattern — shaped not by technology alone, but by trust in shared space."
+      ],
+      "cta": {
+        "label": "Explore Mixed Mobility Pattern",
+        "href": "/smart-city/global-patterns-mixed-mobility-coexistence"
+      },
+      "image": {
+        "src": "/assets/smart-city/global-patterns/predictable-shared-street.png",
+        "alt": "Predictable shared street where pedestrians, cyclists, and vehicles move calmly",
+        "mobile": {
+          "src": "/assets/smart-city/global-patterns/mobile/predictable-shared-street.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/global-patterns/thumbnail/predictable-shared-street.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/global-patterns/desktop/predictable-shared-street.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/global-patterns/open_graph/predictable-shared-street.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "Why Predictability Repeats Across Cities",
+      "paragraphs": [
+        "Predictability reduces uncertainty. That reduction is widely relevant across different contexts and income levels.",
+        "When streets communicate a clear rhythm through design, people spend less effort negotiating every step. The street becomes safe enough to support everyday spontaneity: pausing, meeting, crossing, and lingering."
+      ],
+      "image": {
+        "src": "/assets/smart-city/system-explainers/mobility-coordination.png",
+        "alt": "Mobility coordination systems supporting predictable movement",
+        "mobile": {
+          "src": "/assets/smart-city/system-explainers/mobile/mobility-coordination.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/system-explainers/thumbnail/mobility-coordination.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/system-explainers/desktop/mobility-coordination.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/system-explainers/open_graph/mobility-coordination.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why This Global Pattern Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Trust Is a Form of Infrastructure",
+          "description": "A predictable street supports trust without relying on constant enforcement or policing."
+        },
+        {
+          "title": "Safety Supports Public Life",
+          "description": "When crossing feels safe, people tend to stay outside longer and use the city more freely."
+        },
+        {
+          "title": "Design Reduces the Need for Control",
+          "description": "The most effective streets shape behavior through readability rather than punishment."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Predictable Street Behavior",
+        "paragraphs": [
+          "Predictability is not a feature — it is an everyday signal of a street that people can navigate with confidence."
+        ],
+        "image": {
+          "src": "/assets/smart-city/signals/predictable-shared-street.png",
+          "alt": "Predictable street behavior in a Thai urban environment",
+          "mobile": {
+            "src": "/assets/smart-city/signals/mobile/predictable-shared-street.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/signals/thumbnail/predictable-shared-street.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/signals/desktop/predictable-shared-street.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/signals/open_graph/predictable-shared-street.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/urban-signals-predictable-street"
+      },
+      {
+        "headline": "Movement and Pause",
+        "paragraphs": [
+          "Predictability is what allows pausing. Without it, stillness can feel unsafe."
+        ],
+        "image": {
+          "src": "/assets/smart-city/city-systems/movement-and-pause.png",
+          "alt": "Street balancing movement and pause as a system outcome",
+          "mobile": {
+            "src": "/assets/smart-city/city-systems/mobile/movement-and-pause.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/city-systems/thumbnail/movement-and-pause.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/city-systems/desktop/movement-and-pause.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/city-systems/open_graph/movement-and-pause.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/city-systems-movement-and-pause"
+      }
+    ]
+  },
+  "global-patterns-urban-logistics": {
+    "metadata": {
+      "title": "Logistics Is Quietly Reshaping Urban Rhythm | Smart City",
+      "description": "Across many cities, logistics is shifting toward quieter systems like micro EVs, delivery robots, drones, and timed distribution—reshaping urban rhythm without disruption.",
+      "openGraphDescription": "Well-integrated logistics influences the city through timing and rhythm rather than visible speed—reducing friction while keeping everyday streets calm and predictable.",
+      "twitterDescription": "Quiet logistics systems are reshaping urban rhythm through coordinated timing, low visibility, and reduced friction.",
+      "image": "/open_graph/smart-city/global-patterns/urban-logistics.png",
+      "imageAlt": "Urban logistics operating quietly through a modern city street",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Logistics Is Quietly Reshaping Urban Rhythm",
+      "paragraphs": [
+        "Goods move continuously through cities — often without drawing attention.",
+        "Across many regions, logistics is shifting from large, highly visible infrastructure toward smaller and quieter systems, such as micro electric vehicles, delivery robots, drones, and timed distribution.",
+        "In cities where logistics integrates smoothly, daily life tends to feel more comfortable even as movement increases."
+      ],
+      "cta": {
+        "label": "Return to Predictable Streets",
+        "href": "/smart-city/global-patterns-predictable-shared-street"
+      },
+      "image": {
+        "src": "/assets/smart-city/global-patterns/urban-logistics.png",
+        "alt": "Urban logistics operating quietly through a modern city street",
+        "mobile": {
+          "src": "/assets/smart-city/global-patterns/mobile/urban-logistics.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/global-patterns/thumbnail/urban-logistics.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/global-patterns/desktop/urban-logistics.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/global-patterns/open_graph/urban-logistics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "How Logistics Influences the City",
+      "paragraphs": [
+        "Logistics influences the city primarily through rhythm rather than speed.",
+        "When deliveries are timed, distributed, and coordinated, streets tend to feel less congested and everyday movement becomes smoother. Well-integrated logistics systems reduce friction without becoming the visual focus of the urban environment."
+      ],
+      "image": {
+        "src": "/assets/smart-city/system-explainers/urban-logistics.png",
+        "alt": "Small-scale logistics integrated into daily urban movement",
+        "mobile": {
+          "src": "/assets/smart-city/system-explainers/mobile/urban-logistics.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/system-explainers/thumbnail/urban-logistics.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/system-explainers/desktop/urban-logistics.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/system-explainers/open_graph/urban-logistics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why This Global Pattern Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Delivery Is a Constant Street Presence",
+          "description": "Goods move throughout the day. The key question is whether delivery activity disrupts the street or blends into it."
+        },
+        {
+          "title": "Quiet Integration Supports Comfort",
+          "description": "Operational efficiency should not introduce unnecessary noise, clutter, or conflict into public space."
+        },
+        {
+          "title": "Rhythm Supports Urban Stability",
+          "description": "When logistics is coordinated in time and space, the city tends to feel more predictable and easier to navigate."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Logistics Blending Into Daily Life",
+        "paragraphs": [
+          "When delivery robots and small-scale logistics operate without dominating attention, everyday urban scenes remain calm and readable."
+        ],
+        "image": {
+          "src": "/assets/smart-city/urban-signals/urban-logistics.png",
+          "alt": "Logistics integrated into everyday Thai street life",
+          "mobile": {
+            "src": "/assets/smart-city/urban-signals/mobile/urban-logistics.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/urban-signals/thumbnail/urban-logistics.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/urban-signals/desktop/urban-logistics.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/urban-signals/open_graph/urban-logistics.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/urban-signals-logistics-integration"
+      },
+      {
+        "headline": "Efficiency and Human Rhythm",
+        "paragraphs": [
+          "Urban efficiency becomes meaningful when system timing aligns with human routines rather than overriding them."
+        ],
+        "image": {
+          "src": "/assets/smart-city/city-systems/efficiency-and-rhythm.png",
+          "alt": "City infrastructure aligned with human rhythm and predictable timing",
+          "mobile": {
+            "src": "/assets/smart-city/city-systems/mobile/efficiency-and-rhythm.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/city-systems/thumbnail/efficiency-and-rhythm.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/city-systems/desktop/efficiency-and-rhythm.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/city-systems/open_graph/efficiency-and-rhythm.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/city-systems-efficiency-and-rhythm"
+      }
+    ]
+  },
+  "human-daily-flow-evening": {
+    "metadata": {
+      "title": "Evening Flow — Slowing Down and Recovery | Smart City",
+      "description": "Evening is not about speed, but recovery. A smart city is reflected in whether streets feel safe enough for people to relax, walk, meet, and remain present after sunset.",
+      "openGraphDescription": "Evening reveals whether the city supports comfort beyond daytime hours. Lighting, walkability, and predictable mobility determine whether public life remains calm and welcoming after sunset.",
+      "twitterDescription": "A city’s quality becomes visible when people slow down and feel safe enough to remain outside after sunset.",
+      "image": "/open_graph/smart-city/human-daily-flow/evening-flow/people-slow-down.png",
+      "imageAlt": "Early evening Thai city street with warm lights, pedestrians, calm scooters, and a safe atmosphere for social life",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Evening Flow — Slowing Down and Recovery",
+      "paragraphs": [
+        "Evening is not about speed. It is about recovery.",
+        "A city’s quality becomes visible when people slow down: walking home, meeting friends, shopping locally, or pausing in public space.",
+        "A smart city is reflected in whether streets feel safe enough for people to relax and remain present after sunset."
+      ],
+      "cta": {
+        "label": "Return to the Smart City Overview",
+        "href": "/smart-city/when-human-life-shapes-the-city"
+      },
+      "image": {
+        "src": "/assets/smart-city/human-daily-flow/evening-flow/people-slow-down.png",
+        "alt": "Early evening Thai city street with warm lights, pedestrians, calm scooters, and a safe atmosphere for social life",
+        "mobile": {
+          "src": "/assets/smart-city/human-daily-flow/evening-flow/mobile/people-slow-down.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/human-daily-flow/evening-flow/thumbnail/people-slow-down.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/human-daily-flow/evening-flow/desktop/people-slow-down.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/human-daily-flow/evening-flow/open_graph/people-slow-down.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "Evening Systems That Protect Comfort",
+      "paragraphs": [
+        "Evening reveals whether the city supports comfort or whether people feel pushed to retreat indoors.",
+        "Lighting, walkability, street activity, and predictable mobility allow public life to continue with less uncertainty. When these systems work together, the city remains usable and welcoming beyond daytime hours."
+      ],
+      "image": {
+        "src": "/assets/smart-city/system-explainers/public-space-orchestration.png",
+        "alt": "Public space orchestration with lighting and walkability supporting evening life",
+        "mobile": {
+          "src": "/assets/smart-city/system-explainers/mobile/public-space-orchestration.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/system-explainers/thumbnail/public-space-orchestration.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/system-explainers/desktop/public-space-orchestration.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/system-explainers/open_graph/public-space-orchestration.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why Evening Flow Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Comfort Is a System Outcome",
+          "description": "Evening comfort is not decoration. It is the result of safety, lighting, and predictable movement."
+        },
+        {
+          "title": "Public Space Becomes Social Infrastructure",
+          "description": "When people remain outside after sunset, public space supports stronger community interaction and everyday accessibility."
+        },
+        {
+          "title": "Safety Without Enforcement",
+          "description": "The most effective streets feel safe because they are designed to reduce risk, not to punish behavior."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Public Space Used as Intended",
+        "paragraphs": [
+          "Evening reveals whether people feel safe enough to linger. That lingering is a clear signal of comfort."
+        ],
+        "image": {
+          "src": "/assets/smart-city/urban-signals/public-space-orchestration.png",
+          "alt": "Thai residents sitting and walking comfortably in a well-lit public space",
+          "mobile": {
+            "src": "/assets/smart-city/urban-signals/mobile/public-space-orchestration.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/urban-signals/thumbnail/public-space-orchestration.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/urban-signals/desktop/public-space-orchestration.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/urban-signals/open_graph/public-space-orchestration.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/urban-signals-public-space-use"
+      },
+      {
+        "headline": "Density and Comfort",
+        "paragraphs": [
+          "Evening comfort shows whether density feels livable or exhausting."
+        ],
+        "image": {
+          "src": "/assets/smart-city/city-systems/density-and-comfort.png",
+          "alt": "Urban density softened by greenery and calm evening activity",
+          "mobile": {
+            "src": "/assets/smart-city/city-systems/mobile/density-and-comfort.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/city-systems/thumbnail/density-and-comfort.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/city-systems/desktop/density-and-comfort.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/city-systems/open_graph/density-and-comfort.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/city-systems-density-and-comfort"
+      }
+    ]
+  },
+  "human-daily-flow-midday": {
+    "metadata": {
+      "title": "Midday Flow — Density and Coordination | Smart City",
+      "description": "Midday reveals whether density feels chaotic or coordinated. A smart city supports overlapping people, goods, and mobility systems without creating stress.",
+      "openGraphDescription": "At peak intensity, logistics, pedestrians, vehicles, and shared space must coordinate quietly. When systems align, density feels calm rather than chaotic.",
+      "twitterDescription": "Midday tests whether urban systems can coordinate density without creating tension.",
+      "image": "/open_graph/smart-city/human-daily-flow/midday-flow/city-operates-at-peak-intensity.png",
+      "imageAlt": "Busy midday Thai city street with pedestrians, scooters, cyclists, delivery robots, and an autonomous electric shuttle moving together",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Midday Flow — Density and Coordination",
+      "paragraphs": [
+        "Midday is when a city’s complexity becomes most visible.",
+        "People, goods, deliveries, services, and mobility overlap at the same time. The street becomes crowded, but daily life still needs to feel calm.",
+        "A smart city is not defined by eliminating density. It is reflected in whether density feels coordinated."
+      ],
+      "cta": {
+        "label": "See Evening Flow",
+        "href": "/smart-city/human-daily-flow-evening"
+      },
+      "image": {
+        "src": "/assets/smart-city/human-daily-flow/midday-flow/city-operates-at-peak-intensity.png",
+        "alt": "Busy midday Thai city street with pedestrians, scooters, cyclists, delivery robots, and an autonomous electric shuttle moving together",
+        "mobile": {
+          "src": "/assets/smart-city/human-daily-flow/midday-flow/mobile/city-operates-at-peak-intensity.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/human-daily-flow/midday-flow/thumbnail/city-operates-at-peak-intensity.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/human-daily-flow/midday-flow/desktop/city-operates-at-peak-intensity.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/human-daily-flow/midday-flow/open_graph/city-operates-at-peak-intensity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "The Midday Systems People Don’t See",
+      "paragraphs": [
+        "At peak density, a city coordinates multiple layers: logistics timing, street signals, pedestrian movement, delivery routes, and shared public space.",
+        "When these systems work well, they require little attention. People simply experience movement as more predictable and less tense."
+      ],
+      "image": {
+        "src": "/assets/smart-city/system-explainers/urban-logistics.png",
+        "alt": "Urban logistics operating quietly alongside daily life",
+        "mobile": {
+          "src": "/assets/smart-city/system-explainers/mobile/urban-logistics.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/system-explainers/thumbnail/urban-logistics.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/system-explainers/desktop/urban-logistics.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/system-explainers/open_graph/urban-logistics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why Midday Flow Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Density Tests System Intelligence",
+          "description": "Midday is where coordination matters most: when many activities overlap, systems need to remain quiet and reliable."
+        },
+        {
+          "title": "Logistics Must Be Quietly Integrated",
+          "description": "Deliveries should not dominate the street. They should blend into daily life without disrupting comfort."
+        },
+        {
+          "title": "Coexistence Is the New Default",
+          "description": "Scooters, pedestrians, bikes, robots, and vehicles need to coexist naturally instead of competing for dominance."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Logistics Blending Into Daily Life",
+        "paragraphs": [
+          "When deliveries operate without dominating attention, the city can feel calm even at peak intensity."
+        ],
+        "image": {
+          "src": "/assets/smart-city/urban-signals/urban-logistics.png",
+          "alt": "Delivery robots and small EV logistics blending into a Thai street environment",
+          "mobile": {
+            "src": "/assets/smart-city/urban-signals/mobile/urban-logistics.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/urban-signals/thumbnail/urban-logistics.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/urban-signals/desktop/urban-logistics.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/urban-signals/open_graph/urban-logistics.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/urban-signals-logistics-integration"
+      },
+      {
+        "headline": "Mixed Mobility Is Becoming the Default",
+        "paragraphs": [
+          "Midday reveals whether mixed mobility is intentionally supported or left to chance. The difference is comfort."
+        ],
+        "image": {
+          "src": "/assets/smart-city/global-patterns/mixed-mobility-coexistence.png",
+          "alt": "Multiple mobility modes coexisting on a modern urban street",
+          "mobile": {
+            "src": "/assets/smart-city/global-patterns/mobile/mixed-mobility-coexistence.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/global-patterns/thumbnail/mixed-mobility-coexistence.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/global-patterns/desktop/mixed-mobility-coexistence.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/global-patterns/open_graph/mixed-mobility-coexistence.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/global-patterns-mixed-mobility-coexistence"
+      }
+    ]
+  },
+  "human-daily-flow-morning": {
+    "metadata": {
+      "title": "Morning Flow — Beginning the Day | Smart City",
+      "description": "Morning reveals whether a city supports daily rhythm. Early crossings, commutes, and first movements show if mobility systems reduce friction and build trust.",
+      "openGraphDescription": "Morning is an early stress test for urban systems. A reliable city is defined by readability—where pedestrians, scooters, cyclists, and vehicles coordinate calmly with minimal conflict.",
+      "twitterDescription": "Morning flow shows whether a city is readable, predictable, and prepared for daily life.",
+      "image": "/open_graph/smart-city/human-daily-flow/morning-flow/morning-reveals-city-wakes-up.png",
+      "imageAlt": "Early morning Thai city street with commuters walking, scooters moving calmly, and a quiet autonomous shuttle in the background",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Morning Flow — Beginning the Day",
+      "paragraphs": [
+        "Morning reveals whether a city is prepared as daily life begins.",
+        "Commutes, school runs, small errands, and early deliveries reveal whether mobility systems support daily rhythm or create friction for everyday movement.",
+        "A smart city becomes visible here — in early crossings, initial signals, and the first shared movements of the day."
+      ],
+      "cta": {
+        "label": "See Midday Flow",
+        "href": "/smart-city/human-daily-flow-midday"
+      },
+      "image": {
+        "src": "/assets/smart-city/human-daily-flow/morning-flow/morning-reveals-city-wakes-up.png",
+        "alt": "Early morning Thai city street with commuters walking, scooters moving calmly, and a quiet autonomous shuttle in the background",
+        "mobile": {
+          "src": "/assets/smart-city/human-daily-flow/morning-flow/mobile/morning-reveals-city-wakes-up.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/human-daily-flow/morning-flow/thumbnail/morning-reveals-city-wakes-up.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/human-daily-flow/morning-flow/desktop/morning-reveals-city-wakes-up.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/human-daily-flow/morning-flow/open_graph/morning-reveals-city-wakes-up.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "What Morning Reveals About a City",
+      "paragraphs": [
+        "Morning acts as an early stress test for urban systems. When crossings are unclear, sidewalks feel unsafe, or traffic becomes unpredictable, people adjust their behavior immediately.",
+        "Reliable cities are not defined by speed. They are defined by readability — where pedestrians, scooters, cyclists, and vehicles coordinate with minimal conflict."
+      ],
+      "image": {
+        "src": "/assets/smart-city/system-explainers/mobility-coordination.png",
+        "alt": "Urban mobility coordination with predictable crossings and calm morning movement",
+        "mobile": {
+          "src": "/assets/smart-city/system-explainers/mobile/mobility-coordination.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/system-explainers/thumbnail/mobility-coordination.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/system-explainers/desktop/mobility-coordination.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/system-explainers/open_graph/mobility-coordination.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why Morning Flow Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Trust Begins at the First Crossing",
+          "description": "When people feel safe crossing naturally, the city communicates reliability without instruction."
+        },
+        {
+          "title": "Rhythm Matters More Than Speed",
+          "description": "Morning flow works best when streets support predictable timing rather than maximum throughput."
+        },
+        {
+          "title": "Everyday Safety Is Preventive Design",
+          "description": "A calm morning commute reduces risk, congestion, and friction before they emerge."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Predictable Street Behavior",
+        "paragraphs": [
+          "Morning functions smoothly only when people can move without hesitation. Predictability is the foundation of trust."
+        ],
+        "image": {
+          "src": "/assets/smart-city/signals/predictable-shared-street.png",
+          "alt": "Thai pedestrians and cyclists moving predictably on a shared street with calm traffic",
+          "mobile": {
+            "src": "/assets/smart-city/signals/mobile/predictable-shared-street.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/signals/thumbnail/predictable-shared-street.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/signals/desktop/predictable-shared-street.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/signals/open_graph/predictable-shared-street.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/urban-signals-predictable-street"
+      },
+      {
+        "headline": "Movement and Pause",
+        "paragraphs": [
+          "A city wakes up smoothly when movement can slow naturally without fear or danger."
+        ],
+        "image": {
+          "src": "/assets/smart-city/city-systems/movement-and-pause.png",
+          "alt": "Street design balancing morning movement with safe pauses for pedestrians",
+          "mobile": {
+            "src": "/assets/smart-city/city-systems/mobile/movement-and-pause.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/city-systems/thumbnail/movement-and-pause.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/city-systems/desktop/movement-and-pause.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/city-systems/open_graph/movement-and-pause.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/city-systems-movement-and-pause"
+      }
+    ]
+  },
+  "mobility-focus-mixed-mobility": {
+    "metadata": {
+      "title": "Coexistence of Mixed Mobility | Smart City Mobility",
+      "description": "Modern streets are no longer built around a single mode of transport. Mixed mobility enables pedestrians, scooters, bicycles, robots, and autonomous vehicles to coexist naturally and safely.",
+      "openGraphDescription": "A smart city is not defined by strict separation, but by making coexistence between mobility modes feel legible, calm, and safe.",
+      "twitterDescription": "Mixed mobility reflects a shift toward shared streets where diverse movement modes coexist comfortably.",
+      "image": "/open_graph/smart-city/mobility-focus/mixed-mobility-coexistence.png",
+      "imageAlt": "Thai street showing pedestrians, scooters, cyclists, and an autonomous shuttle coexisting naturally",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Coexistence of Mixed Mobility",
+      "paragraphs": [
+        "Modern streets are no longer built around a single mode of transport.",
+        "Scooters, bicycles, pedestrians, delivery robots, and autonomous vehicles are increasingly becoming part of everyday street life.",
+        "A smart city is not defined by separating everything. It is defined by making coexistence feel natural and safe."
+      ],
+      "cta": {
+        "label": "Return to Mobility Focus",
+        "href": "/smart-city/mobility-focus-mixed-mobility"
+      },
+      "image": {
+        "src": "/assets/smart-city/mobility-focus/mixed-mobility-coexistence.png",
+        "alt": "Thai street showing pedestrians, scooters, cyclists, and an autonomous shuttle coexisting naturally",
+        "mobile": {
+          "src": "/assets/smart-city/mobility-focus/mobile/mixed-mobility-coexistence.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/mobility-focus/thumbnail/mixed-mobility-coexistence.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/mobility-focus/desktop/mixed-mobility-coexistence.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/mobility-focus/open_graph/mixed-mobility-coexistence.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "What Makes Coexistence Work",
+      "paragraphs": [
+        "Mixed mobility works when no single mode dominates attention. Streets become legible through consistent design: speed harmony, clear priority cues, and space that adapts across time.",
+        "When designed well, coexistence feels effortless — people stop thinking about systems and simply move."
+      ],
+      "image": {
+        "src": "/assets/smart-city/global-patterns/mixed-mobility-coexistence.png",
+        "alt": "Multiple mobility modes coexisting calmly on a modern street",
+        "mobile": {
+          "src": "/assets/smart-city/global-patterns/mobile/mixed-mobility-coexistence.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/global-patterns/thumbnail/mixed-mobility-coexistence.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/global-patterns/desktop/mixed-mobility-coexistence.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/global-patterns/open_graph/mixed-mobility-coexistence.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why Mixed Mobility Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Mobility Diversity Is Resilience",
+          "description": "When one mode slows down, others can maintain the city’s rhythm. Coexistence creates redundancy."
+        },
+        {
+          "title": "Less Dominance, More Comfort",
+          "description": "Streets can feel calmer when no single vehicle type controls the space."
+        },
+        {
+          "title": "This Shift Is Already Visible",
+          "description": "Mixed mobility is increasingly reflected in everyday street behavior across cities worldwide."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Mixed Mobility Is Becoming the Global Default",
+        "paragraphs": [
+          "Across cultures, streets are converging toward shared coexistence patterns rather than strict segregation."
+        ],
+        "image": {
+          "src": "/assets/smart-city/global-patterns/mixed-mobility-coexistence.png",
+          "alt": "Global mixed mobility pattern emerging across cities",
+          "mobile": {
+            "src": "/assets/smart-city/global-patterns/mobile/mixed-mobility-coexistence.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/global-patterns/thumbnail/mixed-mobility-coexistence.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/global-patterns/desktop/mixed-mobility-coexistence.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/global-patterns/open_graph/mixed-mobility-coexistence.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/global-patterns-mixed-mobility-coexistence"
+      },
+      {
+        "headline": "Logistics Blending Into Daily Life",
+        "paragraphs": [
+          "Coexistence includes delivery systems. Well-integrated cities support logistics without disrupting public space."
+        ],
+        "image": {
+          "src": "/assets/smart-city/urban-signals/urban-logistics.png",
+          "alt": "Delivery robots and small EV logistics blending into daily urban life",
+          "mobile": {
+            "src": "/assets/smart-city/urban-signals/mobile/urban-logistics.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/urban-signals/thumbnail/urban-logistics.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/urban-signals/desktop/urban-logistics.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/urban-signals/open_graph/urban-logistics.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/urban-signals-logistics-integration"
+      }
+    ]
+  },
+  "mobility-focus-predictable-movement": {
+    "metadata": {
+      "title": "Predictable Movement in Shared Streets | Smart City Mobility",
+      "description": "Mobility is experienced as confidence. When crossings are clear and vehicles slow naturally, predictable movement creates everyday safety without strict control.",
+      "openGraphDescription": "Predictability reduces uncertainty. Clear crossings, readable signals, and synchronized flow allow pedestrians, cyclists, and vehicles to coexist calmly.",
+      "twitterDescription": "Predictable movement builds trust, reduces stress, and enables safe coexistence in shared streets.",
+      "image": "/open_graph/smart-city/mobility-focus/predictable-shared-street.png",
+      "imageAlt": "Thai pedestrians and cyclists moving calmly in a predictable shared street with an autonomous shuttle in the background",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Predictable Movement in Shared Streets",
+      "paragraphs": [
+        "Mobility is not experienced primarily as technology. It is experienced as confidence.",
+        "When people can cross without hesitation, vehicles slow naturally, and cyclists flow with minimal conflict, the street becomes readable.",
+        "Predictability is not control. It is a practical foundation for everyday safety."
+      ],
+      "cta": {
+        "label": "Explore Mixed Mobility",
+        "href": "/smart-city/mobility-focus-mixed-mobility"
+      },
+      "image": {
+        "src": "/assets/smart-city/mobility-focus/predictable-shared-street.png",
+        "alt": "Thai pedestrians and cyclists moving calmly in a predictable shared street with an autonomous shuttle in the background",
+        "mobile": {
+          "src": "/assets/smart-city/mobility-focus/mobile/predictable-shared-street.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/mobility-focus/thumbnail/predictable-shared-street.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/mobility-focus/desktop/predictable-shared-street.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/mobility-focus/open_graph/predictable-shared-street.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "What Makes Movement Predictable",
+      "paragraphs": [
+        "Predictability comes from design that reduces uncertainty: clear crossings, consistent lane logic, readable signals, and streets that encourage slowing without forcing it.",
+        "Well-designed streets feel safe not because people are monitored, but because movement becomes naturally synchronized."
+      ],
+      "image": {
+        "src": "/assets/smart-city/system-explainers/mobility-coordination.png",
+        "alt": "Urban mobility coordination supporting predictable street behavior",
+        "mobile": {
+          "src": "/assets/smart-city/system-explainers/mobile/mobility-coordination.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/system-explainers/thumbnail/mobility-coordination.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/system-explainers/desktop/mobility-coordination.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/system-explainers/open_graph/mobility-coordination.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why Predictability Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Safety Without Enforcement",
+          "description": "When movement feels readable, people self-regulate naturally. Streets can remain calm without relying on strict control."
+        },
+        {
+          "title": "Confidence Is a Practical Indicator",
+          "description": "A key signal of mobility performance is whether people can move without hesitation."
+        },
+        {
+          "title": "Shared Streets Need Shared Trust",
+          "description": "Predictability enables pedestrians, scooters, cyclists, and vehicles to coexist without constant negotiation."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Predictable Street Behavior",
+        "paragraphs": [
+          "When movement feels calm and consistent, it indicates that the street supports trust in daily use."
+        ],
+        "image": {
+          "src": "/assets/smart-city/signals/predictable-shared-street.png",
+          "alt": "Predictable shared street behavior in a Thai city environment",
+          "mobile": {
+            "src": "/assets/smart-city/signals/mobile/predictable-shared-street.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/signals/thumbnail/predictable-shared-street.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/signals/desktop/predictable-shared-street.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/signals/open_graph/predictable-shared-street.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/urban-signals-predictable-street"
+      },
+      {
+        "headline": "Movement and Pause",
+        "paragraphs": [
+          "A street that supports safe pausing is often the same street that enables predictable movement."
+        ],
+        "image": {
+          "src": "/assets/smart-city/city-systems/movement-and-pause.png",
+          "alt": "Urban street balancing mobility flow with safe pedestrian pause",
+          "mobile": {
+            "src": "/assets/smart-city/city-systems/mobile/movement-and-pause.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/city-systems/thumbnail/movement-and-pause.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/city-systems/desktop/movement-and-pause.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/city-systems/open_graph/movement-and-pause.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/city-systems-movement-and-pause"
+      }
+    ]
+  },
+  "urban-signals-logistics-integration": {
+    "metadata": {
+      "title": "Logistics Blending Into Daily Life | Urban Signals",
+      "description": "Well-integrated logistics is often barely noticed. When delivery robots and small EVs operate without disrupting street life, it signals system maturity and calm urban rhythm.",
+      "openGraphDescription": "A smart city is not defined by how visible delivery systems are, but by whether logistics fits into daily rhythm without disrupting human comfort or street life.",
+      "twitterDescription": "When delivery systems blend into daily life instead of dominating it, logistics becomes a signal of calm and mature city systems.",
+      "image": "/open_graph/smart-city/urban-signals/urban-logistics.png",
+      "imageAlt": "Thai city street where delivery robots and small EV logistics blend into daily life",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Logistics Blending Into Daily Life",
+      "paragraphs": [
+        "Logistics is a foundational city system, and well-integrated logistics is often barely noticed.",
+        "When delivery robots, couriers, and small electric vehicles operate without dominating attention, it suggests that logistics is integrated rather than imposed.",
+        "A smart city is not defined by how visible delivery systems are. It is defined by whether logistics fits into daily rhythm without disrupting street life."
+      ],
+      "cta": {
+        "label": "Explore Public Space Use",
+        "href": "/smart-city/urban-signals-public-space-use"
+      },
+      "image": {
+        "src": "/assets/smart-city/urban-signals/urban-logistics.png",
+        "alt": "Thai city street where delivery robots and small EV logistics blend into daily life",
+        "mobile": {
+          "src": "/assets/smart-city/urban-signals/mobile/urban-logistics.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/urban-signals/thumbnail/urban-logistics.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/urban-signals/desktop/urban-logistics.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/urban-signals/open_graph/urban-logistics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "What Logistics Integration Signals",
+      "paragraphs": [
+        "Integrated logistics means goods can move continuously without disrupting human comfort.",
+        "This depends on timing, routing, and coordination. Streets should remain readable for pedestrians while logistics systems operate quietly at the edges."
+      ],
+      "image": {
+        "src": "/assets/smart-city/system-explainers/urban-logistics.png",
+        "alt": "Urban logistics system operating quietly behind everyday movement",
+        "mobile": {
+          "src": "/assets/smart-city/system-explainers/mobile/urban-logistics.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/system-explainers/thumbnail/urban-logistics.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/system-explainers/desktop/urban-logistics.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/system-explainers/open_graph/urban-logistics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why This Signal Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Efficiency Without Noise",
+          "description": "Well-integrated logistics reduces friction while preserving calm public space."
+        },
+        {
+          "title": "The Street Stays Human",
+          "description": "When logistics blends in, pedestrians and social life can remain the primary street identity."
+        },
+        {
+          "title": "Timing Supports Preventive Design",
+          "description": "Coordinated delivery rhythm can reduce congestion spikes before they appear."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Logistics Is Quietly Reshaping Urban Rhythm",
+        "paragraphs": [
+          "Across cities worldwide, logistics is shifting into smaller, quieter systems that influence daily movement."
+        ],
+        "image": {
+          "src": "/assets/smart-city/global-patterns/urban-logistics.png",
+          "alt": "Global pattern of urban logistics reshaping daily rhythm",
+          "mobile": {
+            "src": "/assets/smart-city/global-patterns/mobile/urban-logistics.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/global-patterns/thumbnail/urban-logistics.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/global-patterns/desktop/urban-logistics.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/global-patterns/open_graph/urban-logistics.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/global-patterns-urban-logistics"
+      },
+      {
+        "headline": "Efficiency and Human Rhythm",
+        "paragraphs": [
+          "Logistics integration works best when city systems align with human rhythm instead of prioritizing speed."
+        ],
+        "image": {
+          "src": "/assets/smart-city/city-systems/efficiency-and-rhythm.png",
+          "alt": "Efficiency aligned with human rhythm in a modern city system",
+          "mobile": {
+            "src": "/assets/smart-city/city-systems/mobile/efficiency-and-rhythm.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/city-systems/thumbnail/efficiency-and-rhythm.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/city-systems/desktop/efficiency-and-rhythm.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/city-systems/open_graph/efficiency-and-rhythm.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/city-systems-efficiency-and-rhythm"
+      }
+    ]
+  },
+  "urban-signals-predictable-street": {
+    "metadata": {
+      "title": "Predictable Street Behavior | Urban Signals",
+      "description": "When pedestrians cross confidently and vehicles move with quiet coordination, the street reveals reliability. Predictability is one of the clearest visible signals of urban trust.",
+      "openGraphDescription": "Predictable movement signals trust. Readable crossings, consistent lane rhythm, and speed harmony allow streets to feel safe without visible enforcement.",
+      "twitterDescription": "Predictability is a visible indicator of trust, safety, and shared understanding in everyday street life.",
+      "image": "/open_graph/smart-city/mobility-focus/predictable-shared-street.png",
+      "imageAlt": "Thai pedestrians and cyclists moving smoothly in a predictable shared street environment",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Predictable Street Behavior",
+      "paragraphs": [
+        "Cities communicate through behavior before they communicate through policy.",
+        "When pedestrians cross without hesitation, scooters slow naturally, and vehicles move with quiet confidence, the street reveals something important: people experience the system as reliable.",
+        "Predictability is one of the clearest urban signals, because it is visible without measurement."
+      ],
+      "cta": {
+        "label": "Explore Logistics Integration",
+        "href": "/smart-city/urban-signals-logistics-integration"
+      },
+      "image": {
+        "src": "/assets/smart-city/urban-signals/predictable-shared-street.png",
+        "alt": "Thai pedestrians and cyclists moving smoothly in a predictable shared street environment",
+        "mobile": {
+          "src": "/assets/smart-city/urban-signals/mobile/predictable-shared-street.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/urban-signals/thumbnail/predictable-shared-street.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/urban-signals/desktop/predictable-shared-street.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/urban-signals/open_graph/predictable-shared-street.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "What Predictability Signals",
+      "paragraphs": [
+        "Predictable behavior does not happen by accident. It is the result of street design that reduces uncertainty: readable crossings, consistent lane rhythm, clear visual cues, and speed harmony.",
+        "When these systems work together, people stop negotiating every step. The city feels safe without relying on visible control."
+      ],
+      "image": {
+        "src": "/assets/smart-city/system-explainers/mobility-coordination.png",
+        "alt": "Mobility coordination supporting predictable street behavior",
+        "mobile": {
+          "src": "/assets/smart-city/system-explainers/mobile/mobility-coordination.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/system-explainers/thumbnail/mobility-coordination.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/system-explainers/desktop/mobility-coordination.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/system-explainers/open_graph/mobility-coordination.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why This Signal Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Trust Is Observable",
+          "description": "When people move confidently, it suggests that they expect the street to behave consistently."
+        },
+        {
+          "title": "Safety Feels Normal",
+          "description": "A predictable street reduces risk without making safety feel enforced."
+        },
+        {
+          "title": "Comfort Enables City Life",
+          "description": "Spontaneous public life depends on movement rules that feel readable and shared."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Predictable Streets Enable Spontaneous Life",
+        "paragraphs": [
+          "Across cities worldwide, predictable streets consistently support calmer movement and everyday social life."
+        ],
+        "image": {
+          "src": "/assets/smart-city/global-patterns/predictable-shared-street.png",
+          "alt": "Global pattern of predictable shared streets",
+          "mobile": {
+            "src": "/assets/smart-city/global-patterns/mobile/predictable-shared-street.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/global-patterns/thumbnail/predictable-shared-street.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/global-patterns/desktop/predictable-shared-street.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/global-patterns/open_graph/predictable-shared-street.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/global-patterns-predictable-shared-street"
+      },
+      {
+        "headline": "Movement and Pause",
+        "paragraphs": [
+          "Predictability is what allows pausing. Without it, stopping can become unsafe."
+        ],
+        "image": {
+          "src": "/assets/smart-city/city-systems/movement-and-pause.png",
+          "alt": "Street system balancing flow and pause",
+          "mobile": {
+            "src": "/assets/smart-city/city-systems/mobile/movement-and-pause.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/city-systems/thumbnail/movement-and-pause.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/city-systems/desktop/movement-and-pause.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/city-systems/open_graph/movement-and-pause.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/city-systems-movement-and-pause"
+      }
+    ]
+  },
+  "urban-signals-public-space-use": {
+    "metadata": {
+      "title": "Public Space Used as Intended | Urban Signals",
+      "description": "When people sit, pause, and linger naturally, it signals balance between movement and comfort. Everyday public space use reveals true city quality.",
+      "openGraphDescription": "Public space is a system outcome. When safety, shade, lighting, and walkability align, people remain naturally—revealing a socially active and comfortable city.",
+      "twitterDescription": "Everyday lingering and social interaction signal that a city’s systems are working quietly and effectively.",
+      "image": "/open_graph/smart-city/urban-signals/public-space-orchestration.png",
+      "imageAlt": "Thai residents sitting and walking comfortably in a well-designed public space",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "Public Space Used as Intended",
+      "paragraphs": [
+        "Public space reveals city quality through everyday use.",
+        "When people sit, pause, talk, and linger naturally, it indicates that the city has achieved balance between movement and comfort, efficiency and social life.",
+        "One of the clearest signs of a functioning city is not speed, but whether people feel comfortable enough to stay."
+      ],
+      "cta": {
+        "label": "Return to Predictable Streets",
+        "href": "/smart-city/urban-signals-predictable-street"
+      },
+      "image": {
+        "src": "/assets/smart-city/urban-signals/public-space-orchestration.png",
+        "alt": "Thai residents sitting and walking comfortably in a well-designed public space",
+        "mobile": {
+          "src": "/assets/smart-city/urban-signals/mobile/public-space-orchestration.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/urban-signals/thumbnail/public-space-orchestration.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/urban-signals/desktop/public-space-orchestration.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/urban-signals/open_graph/public-space-orchestration.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "What Public Space Use Signals",
+      "paragraphs": [
+        "People do not linger in uncomfortable places. They remain only where the city provides safety, shade, lighting, walkability, and a calm street rhythm.",
+        "Public space is not a decorative layer. It is a system outcome. When it functions well, the city becomes socially active without being staged or programmed."
+      ],
+      "image": {
+        "src": "/assets/smart-city/system-explainers/public-space-orchestration.png",
+        "alt": "Public space orchestration through lighting, sidewalks, and walkability",
+        "mobile": {
+          "src": "/assets/smart-city/system-explainers/mobile/public-space-orchestration.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/system-explainers/thumbnail/public-space-orchestration.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/system-explainers/desktop/public-space-orchestration.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/system-explainers/open_graph/public-space-orchestration.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "whyItMatters": {
+      "headline": "Why This Signal Matters",
+      "paragraphs": [],
+      "points": [
+        {
+          "title": "Comfort Is Evidence",
+          "description": "Everyday use of public space indicates that systems are working beyond policy statements."
+        },
+        {
+          "title": "Social Life Is Infrastructure",
+          "description": "Casual gathering strengthens connection and resilience within the city."
+        },
+        {
+          "title": "Safety Is Experienced",
+          "description": "Well-functioning streets feel safe without relying on visible control or enforcement."
+        }
+      ]
+    },
+    "relatedSignals": [
+      {
+        "headline": "Movement and Pause",
+        "paragraphs": [
+          "Public space becomes usable only when movement allows stillness. Pause is a core system signal."
+        ],
+        "image": {
+          "src": "/assets/smart-city/city-systems/movement-and-pause.png",
+          "alt": "Movement and pause balanced in a human-centered street system",
+          "mobile": {
+            "src": "/assets/smart-city/city-systems/mobile/movement-and-pause.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/city-systems/thumbnail/movement-and-pause.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/city-systems/desktop/movement-and-pause.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/city-systems/open_graph/movement-and-pause.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/city-systems-movement-and-pause"
+      },
+      {
+        "headline": "Density and Comfort",
+        "paragraphs": [
+          "When density remains comfortable, people stay outside longer. Comfort is the underlying strategy for livable density."
+        ],
+        "image": {
+          "src": "/assets/smart-city/city-systems/density-and-comfort.png",
+          "alt": "Urban density softened by greenery and shared space comfort",
+          "mobile": {
+            "src": "/assets/smart-city/city-systems/mobile/density-and-comfort.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/city-systems/thumbnail/density-and-comfort.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/city-systems/desktop/density-and-comfort.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/city-systems/open_graph/density-and-comfort.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/city-systems-density-and-comfort"
+      }
+    ]
+  },
+  "when-human-life-shapes-the-city": {
+    "metadata": {
+      "title": "When Human Life Shapes the City",
+      "description": "Cities are not defined by technology alone, but by how people move, pause, and interact each day.",
+      "openGraphDescription": "Cities are not defined by technology alone, but by how people move, pause, and interact each day.",
+      "twitterDescription": "Cities are not defined by technology alone, but by how people move, pause, and interact each day.",
+      "image": "/open_graph/smart-city/hero/when-human-life-shapes-the-city.png",
+      "imageAlt": "Everyday human life shaping a calm smart city street",
+      "type": "website"
+    },
+    "heroObservation": {
+      "headline": "When Human Life Shapes the City",
+      "paragraphs": [
+        "Cities are not defined by technology alone, but by how people move, pause, and interact each day.",
+        "By observing local routines, we can identify urban patterns that appear across different cities and contexts."
+      ],
+      "cta": {
+        "label": "Explore the Patterns",
+        "href": "/smart-city/from-local-life-to-global-pattern"
+      },
+      "image": {
+        "src": "/assets/smart-city/hero/when-human-life-shapes-the-city.png",
+        "alt": "Everyday human life shaping a calm smart city street",
+        "mobile": {
+          "src": "/assets/smart-city/hero/mobile/when-human-life-shapes-the-city.webp",
+          "width": 768,
+          "height": 512,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/assets/smart-city/hero/thumbnail/when-human-life-shapes-the-city.webp",
+          "width": 480,
+          "height": 320,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/assets/smart-city/hero/desktop/when-human-life-shapes-the-city.webp",
+          "width": 1200,
+          "height": 800,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/open_graph/smart-city/hero/open_graph/when-human-life-shapes-the-city.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    "systemExplanation": {
+      "headline": "Systems Beneath Everyday Life",
+      "paragraphs": [
+        "Urban systems coordinate movement, access, and safety through everyday design decisions.",
+        "When designed well, these systems operate quietly while remaining essential."
+      ]
+    },
+    "whyItMatters": {
+      "headline": "Why This Matters",
+      "paragraphs": [
+        "Cities that align with human rhythm tend to scale more sustainably and maintain long-term stability."
+      ],
+      "points": []
+    },
+    "relatedSignals": [
+      {
+        "headline": "Predictable Shared Streets",
+        "paragraphs": [
+          "Streets designed for predictability reduce friction and support shared trust."
+        ],
+        "image": {
+          "src": "/assets/smart-city/signals/predictable-shared-street.png",
+          "alt": "Predictable shared street",
+          "mobile": {
+            "src": "/assets/smart-city/signals/mobile/predictable-shared-street.webp",
+            "width": 768,
+            "height": 512,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/assets/smart-city/signals/thumbnail/predictable-shared-street.webp",
+            "width": 480,
+            "height": 320,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/assets/smart-city/signals/desktop/predictable-shared-street.webp",
+            "width": 1200,
+            "height": 800,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/open_graph/smart-city/signals/open_graph/predictable-shared-street.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        },
+        "landingUrl": "/smart-city/urban-signals-predictable-street"
+      }
+    ]
+  }
+}

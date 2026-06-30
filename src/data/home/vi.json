@@ -47,10 +47,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "Ẩm thực",
-              "Nền tảng"
-            ],
+            "tags": ["Ẩm thực", "Nền tảng"],
             "cta": "Khám phá Smart Food",
             "href": "/smart-food/"
           },
@@ -84,10 +81,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "Luxury",
-              "Dự án"
-            ],
+            "tags": ["Luxury", "Dự án"],
             "cta": "Xem Luxury",
             "href": "/luxury/"
           },
@@ -121,10 +115,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "AI",
-              "Kỹ thuật"
-            ],
+            "tags": ["AI", "Kỹ thuật"],
             "cta": "Xem công nghệ",
             "href": "/technology/"
           },
@@ -133,35 +124,32 @@
             "title": "Định hướng thời trang, quần áo và trang phục",
             "description": "Một kênh lifestyle nhẹ nhàng cho bản sắc thị giác, ý tưởng trang phục và câu chuyện commerce tương lai.",
             "image": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+              "src": "/assets/styles/09-coastal-mts-traveler.png",
               "alt": "Hình ảnh style và trang phục",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.style",
               "mobile": {
-                "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/mobile/09-coastal-mts-traveler.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/thumbnail/09-coastal-mts-traveler.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/desktop/09-coastal-mts-traveler.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Style",
-              "Lifestyle"
-            ],
+            "tags": ["Style", "Lifestyle"],
             "cta": "Xem Style",
             "href": "/style/"
           }
@@ -178,35 +166,32 @@
             "title": "Trang phục nữ",
             "description": "Những diện mạo văn minh thanh lịch cho các bối cảnh lifestyle cao cấp.",
             "image": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+              "src": "/assets/styles/05-lotus-lanna-ceremony.png",
               "alt": "Ý tưởng trang phục nữ",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.lady",
               "mobile": {
-                "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/mobile/05-lotus-lanna-ceremony.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/thumbnail/05-lotus-lanna-ceremony.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/desktop/05-lotus-lanna-ceremony.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Nữ",
-              "Luxury"
-            ],
+            "tags": ["Nữ", "Luxury"],
             "cta": "Xem bộ sưu tập",
             "href": "/style/"
           },
@@ -215,35 +200,32 @@
             "title": "Trang phục nam",
             "description": "Phom dáng tinh tế cho bối cảnh du lịch, đô thị và resort.",
             "image": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman.png",
               "alt": "Ý tưởng trang phục nam",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.gentleman",
               "mobile": {
-                "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/mobile/06-mountain-hydrangea-gentleman.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/desktop/06-mountain-hydrangea-gentleman.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Nam",
-              "Du lịch"
-            ],
+            "tags": ["Nam", "Du lịch"],
             "cta": "Xem bộ sưu tập",
             "href": "/style/"
           },
@@ -252,35 +234,32 @@
             "title": "Trang phục văn minh",
             "description": "Câu chuyện trang phục kết nối với các khu vực, nghi lễ và commerce tương lai.",
             "image": {
-              "src": "/images-platform/styles/02-coastal-resort-floral.png",
+              "src": "/assets/styles/02-coastal-resort-floral.png",
               "alt": "Ý tưởng trang phục văn minh",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.civilization",
               "mobile": {
-                "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/mobile/02-coastal-resort-floral.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/thumbnail/02-coastal-resort-floral.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/desktop/02-coastal-resort-floral.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Khu vực",
-              "Chorn DNA"
-            ],
+            "tags": ["Khu vực", "Chorn DNA"],
             "cta": "Mở kênh",
             "href": "/style/"
           },
@@ -314,10 +293,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "Lanna",
-              "Tương lai"
-            ],
+            "tags": ["Lanna", "Tương lai"],
             "cta": "Khám phá look",
             "href": "/smart-mobility/"
           }
@@ -332,26 +308,26 @@
         {
           "title": "Thư giãn trên sofa ngả",
           "image": {
-            "src": "/images-platform/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
+            "src": "/assets/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
             "alt": "Một cặp đôi thư giãn bên cửa sổ lớn nhìn ra núi.",
             "width": 1024,
             "height": 1536,
             "aspectRatio": "2:3",
             "positionKey": "home.circular.sofa",
             "mobile": {
-              "src": "/images-platform/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
               "width": 720,
               "height": 1080,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
               "width": 480,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
               "width": 1024,
               "height": 1536,
               "quality": 82
@@ -362,26 +338,26 @@
         {
           "title": "Ga MTS Lavender Valley",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-valley2-lavender-valley.png",
+            "src": "/assets/smart-mobility/mts-valley2-lavender-valley.png",
             "alt": "Ga MTS Lavender Valley",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.valley",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -392,26 +368,26 @@
         {
           "title": "Ga MTS Coral Bay Marina",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-coastal2-coral-bay-marina.png",
+            "src": "/assets/smart-mobility/mts-coastal2-coral-bay-marina.png",
             "alt": "Ga MTS Coral Bay Marina",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.coastal-marina",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -422,26 +398,26 @@
         {
           "title": "Ga MTS Sunrise Ocean Deck",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
+            "src": "/assets/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
             "alt": "Ga MTS Sunrise Ocean Deck",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.coastal-sunrise",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -499,11 +475,7 @@
       {
         "title": "AI Smart Mobility",
         "body": "AI Smart Mobility khám phá giao thông thông minh, hạ tầng kết nối và trải nghiệm di chuyển tương lai thông qua Chorn Planet MTS Network. Nó hoạt động như hệ tuần hoàn kết nối điểm đến, du lịch, môi trường lifestyle và các khái niệm văn minh sẵn sàng cho tương lai.",
-        "tags": [
-          "MTS Network",
-          "Hạ tầng thông minh",
-          "Di chuyển tương lai"
-        ],
+        "tags": ["MTS Network", "Hạ tầng thông minh", "Di chuyển tương lai"],
         "link": "/smart-mobility/"
       },
       {

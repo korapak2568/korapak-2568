@@ -39,11 +39,7 @@
       "category": "Space",
       "description": "달 극지 인근에서 물 얼음 추출이 시작되어 지속적인 달 운영에 필요한 산소, 물, 방사선 차폐, 로켓 추진제를 공급합니다.",
       "layerId": "civilization",
-      "domains": [
-        "space",
-        "resource-extraction",
-        "lunar-infrastructure"
-      ],
+      "domains": ["space", "resource-extraction", "lunar-infrastructure"],
       "maturity": "early-industrial-deployment",
       "timeframe": {
         "startYear": 2045,
@@ -69,30 +65,30 @@
           "Close-up operational scene of lunar Ice Mining Begins, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring lunar Ice Mining Begins, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-lunar-ice-mining-begins.png",
+        "src": "/assets/future-roadmap/era-02/era-02-lunar-ice-mining-begins.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-lunar-ice-mining-begins.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-lunar-ice-mining-begins.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-lunar-ice-mining-begins.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-lunar-ice-mining-begins.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-lunar-ice-mining-begins.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-lunar-ice-mining-begins.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-lunar-ice-mining-begins.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-lunar-ice-mining-begins.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -108,11 +104,7 @@
       "category": "Biology & Medicine",
       "description": "소형 달 의료 시설이 우주비행사와 초기 정착민을 위해 외상 치료, 방사선 모니터링, 원격진료, 수술 지원, 응급 안정화를 제공합니다.",
       "layerId": "civilization",
-      "domains": [
-        "space",
-        "healthcare",
-        "emergency-systems"
-      ],
+      "domains": ["space", "healthcare", "emergency-systems"],
       "maturity": "operational-outpost",
       "timeframe": {
         "startYear": 2045,
@@ -138,30 +130,30 @@
           "Close-up operational scene of first Lunar Emergency Hospital Becomes Operational, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring first Lunar Emergency Hospital Becomes Operational, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-first-lunar-emergency-hospital-becomes-operational.png",
+        "src": "/assets/future-roadmap/era-02/era-02-first-lunar-emergency-hospital-becomes-operational.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-first-lunar-emergency-hospital-becomes-operational.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-first-lunar-emergency-hospital-becomes-operational.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-first-lunar-emergency-hospital-becomes-operational.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-first-lunar-emergency-hospital-becomes-operational.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-first-lunar-emergency-hospital-becomes-operational.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-first-lunar-emergency-hospital-becomes-operational.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-lunar-emergency-hospital-becomes-operational.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-first-lunar-emergency-hospital-becomes-operational.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -177,11 +169,7 @@
       "category": "AI & Computing",
       "description": "자율 망원경, 탐사선, AI 모델이 협력하여 과학, 자원 계획, 행성 방어를 위해 소행성을 탐지, 분류, 추적합니다.",
       "layerId": "technology",
-      "domains": [
-        "space",
-        "artificial-intelligence",
-        "astronomy"
-      ],
+      "domains": ["space", "artificial-intelligence", "astronomy"],
       "maturity": "operational-network",
       "timeframe": {
         "startYear": 2045,
@@ -207,30 +195,30 @@
           "Close-up operational scene of aI-Operated Asteroid Survey Network Launches, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring aI-Operated Asteroid Survey Network Launches, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-ai-operated-asteroid-survey-network-launches.png",
+        "src": "/assets/future-roadmap/era-02/era-02-ai-operated-asteroid-survey-network-launches.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-ai-operated-asteroid-survey-network-launches.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-ai-operated-asteroid-survey-network-launches.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-ai-operated-asteroid-survey-network-launches.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-ai-operated-asteroid-survey-network-launches.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-ai-operated-asteroid-survey-network-launches.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-ai-operated-asteroid-survey-network-launches.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-ai-operated-asteroid-survey-network-launches.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-ai-operated-asteroid-survey-network-launches.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -246,11 +234,7 @@
       "category": "Energy",
       "description": "궤도 태양광 플랫폼이 지속적인 햇빛을 수집하고 통제된 양의 에너지를 지구의 수신 시설로 전송합니다.",
       "layerId": "technology",
-      "domains": [
-        "space",
-        "energy",
-        "infrastructure"
-      ],
+      "domains": ["space", "energy", "infrastructure"],
       "maturity": "pilot-demonstration",
       "timeframe": {
         "startYear": 2046,
@@ -276,30 +260,30 @@
           "Close-up operational scene of space-Based Solar Power Pilot Sends Energy to Earth, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring space-Based Solar Power Pilot Sends Energy to Earth, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-space-based-solar-power-pilot-sends-energy-to-earth.png",
+        "src": "/assets/future-roadmap/era-02/era-02-space-based-solar-power-pilot-sends-energy-to-earth.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-space-based-solar-power-pilot-sends-energy-to-earth.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-space-based-solar-power-pilot-sends-energy-to-earth.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-space-based-solar-power-pilot-sends-energy-to-earth.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-space-based-solar-power-pilot-sends-energy-to-earth.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-space-based-solar-power-pilot-sends-energy-to-earth.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-space-based-solar-power-pilot-sends-energy-to-earth.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-space-based-solar-power-pilot-sends-energy-to-earth.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-space-based-solar-power-pilot-sends-energy-to-earth.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -315,11 +299,7 @@
       "category": "Space",
       "description": "민간이 운영하는 궤도 호텔이 부유한 민간인과 기업 고객에게 단기 체류, 연구 체험, 지구 조망 관광을 제공합니다.",
       "layerId": "society",
-      "domains": [
-        "space",
-        "tourism",
-        "commercial-infrastructure"
-      ],
+      "domains": ["space", "tourism", "commercial-infrastructure"],
       "maturity": "commercial-opening",
       "timeframe": {
         "startYear": 2046,
@@ -345,30 +325,30 @@
           "Close-up operational scene of first Commercial Orbital Hotel Opens, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring first Commercial Orbital Hotel Opens, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-first-commercial-orbital-hotel-opens.png",
+        "src": "/assets/future-roadmap/era-02/era-02-first-commercial-orbital-hotel-opens.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-first-commercial-orbital-hotel-opens.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-first-commercial-orbital-hotel-opens.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-first-commercial-orbital-hotel-opens.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-first-commercial-orbital-hotel-opens.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-first-commercial-orbital-hotel-opens.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-first-commercial-orbital-hotel-opens.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-commercial-orbital-hotel-opens.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-first-commercial-orbital-hotel-opens.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -384,11 +364,7 @@
       "category": "Robotics",
       "description": "달의 자율 공장이 레골리스를 벽돌, 패널, 보호 구조물로 가공해 거주지, 도로, 착륙장, 저장 시설에 활용합니다.",
       "layerId": "civilization",
-      "domains": [
-        "space",
-        "robotics",
-        "construction"
-      ],
+      "domains": ["space", "robotics", "construction"],
       "maturity": "industrial-prototype",
       "timeframe": {
         "startYear": 2046,
@@ -414,30 +390,30 @@
           "Close-up operational scene of autonomous Lunar Construction Factory Produces Bricks from Regolith, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring autonomous Lunar Construction Factory Produces Bricks from Regolith, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.png",
+        "src": "/assets/future-roadmap/era-02/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -453,11 +429,7 @@
       "category": "Space",
       "description": "화성으로 가는 화물 임무가 예측 가능하고 일정화되며 부분적으로 자율화되어 장비, 식량, 예비 부품, 로봇, 과학 탑재체를 운송합니다.",
       "layerId": "civilization",
-      "domains": [
-        "space",
-        "logistics",
-        "mars"
-      ],
+      "domains": ["space", "logistics", "mars"],
       "maturity": "routine-cadence",
       "timeframe": {
         "startYear": 2047,
@@ -483,30 +455,30 @@
           "Close-up operational scene of mars Cargo Supply Chain Becomes Routine, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring mars Cargo Supply Chain Becomes Routine, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-mars-cargo-supply-chain-becomes-routine.png",
+        "src": "/assets/future-roadmap/era-02/era-02-mars-cargo-supply-chain-becomes-routine.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-mars-cargo-supply-chain-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-mars-cargo-supply-chain-becomes-routine.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-mars-cargo-supply-chain-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-mars-cargo-supply-chain-becomes-routine.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-mars-cargo-supply-chain-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-mars-cargo-supply-chain-becomes-routine.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-mars-cargo-supply-chain-becomes-routine.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-mars-cargo-supply-chain-becomes-routine.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -522,11 +494,7 @@
       "category": "Biology & Medicine",
       "description": "엄격하게 통제된 의료, 윤리, 법적 감독 아래 저지구 궤도에서 최초의 아기가 태어납니다.",
       "layerId": "society",
-      "domains": [
-        "space",
-        "healthcare",
-        "human-settlement"
-      ],
+      "domains": ["space", "healthcare", "human-settlement"],
       "maturity": "historic-first",
       "timeframe": {
         "startYear": 2047,
@@ -552,30 +520,30 @@
           "Close-up operational scene of first Baby Born in Low-Earth Orbit, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring first Baby Born in Low-Earth Orbit, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-first-baby-born-in-low-earth-orbit.png",
+        "src": "/assets/future-roadmap/era-02/era-02-first-baby-born-in-low-earth-orbit.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-first-baby-born-in-low-earth-orbit.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-first-baby-born-in-low-earth-orbit.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-first-baby-born-in-low-earth-orbit.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-first-baby-born-in-low-earth-orbit.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-first-baby-born-in-low-earth-orbit.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-first-baby-born-in-low-earth-orbit.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-baby-born-in-low-earth-orbit.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-first-baby-born-in-low-earth-orbit.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -591,11 +559,7 @@
       "category": "Environment",
       "description": "자율 위성과 로봇 수거 시스템이 지구 주변 핵심 교통로에서 위험한 궤도 잔해를 제거하기 시작합니다.",
       "layerId": "civilization",
-      "domains": [
-        "space",
-        "robotics",
-        "public-safety"
-      ],
+      "domains": ["space", "robotics", "public-safety"],
       "maturity": "operational-network",
       "timeframe": {
         "startYear": 2047,
@@ -621,30 +585,30 @@
           "Close-up operational scene of orbital Debris Cleanup Network Becomes Operational, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring orbital Debris Cleanup Network Becomes Operational, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-orbital-debris-cleanup-network-becomes-operational.png",
+        "src": "/assets/future-roadmap/era-02/era-02-orbital-debris-cleanup-network-becomes-operational.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-orbital-debris-cleanup-network-becomes-operational.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-orbital-debris-cleanup-network-becomes-operational.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-orbital-debris-cleanup-network-becomes-operational.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-orbital-debris-cleanup-network-becomes-operational.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-orbital-debris-cleanup-network-becomes-operational.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-orbital-debris-cleanup-network-becomes-operational.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-orbital-debris-cleanup-network-becomes-operational.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-orbital-debris-cleanup-network-becomes-operational.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -660,11 +624,7 @@
       "category": "Space",
       "description": "시제품 발사기가 저에너지 발사 인프라를 사용해 달에서 지구 궤도 또는 통제된 재진입 경로로 화물을 보냅니다.",
       "layerId": "technology",
-      "domains": [
-        "space",
-        "lunar-infrastructure",
-        "logistics"
-      ],
+      "domains": ["space", "lunar-infrastructure", "logistics"],
       "maturity": "system-test",
       "timeframe": {
         "startYear": 2048,
@@ -690,30 +650,30 @@
           "Close-up operational scene of moon-to-Earth Cargo Launcher Tested, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring moon-to-Earth Cargo Launcher Tested, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-moon-to-earth-cargo-launcher-tested.png",
+        "src": "/assets/future-roadmap/era-02/era-02-moon-to-earth-cargo-launcher-tested.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-moon-to-earth-cargo-launcher-tested.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-moon-to-earth-cargo-launcher-tested.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-moon-to-earth-cargo-launcher-tested.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-moon-to-earth-cargo-launcher-tested.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-moon-to-earth-cargo-launcher-tested.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-moon-to-earth-cargo-launcher-tested.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-moon-to-earth-cargo-launcher-tested.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-moon-to-earth-cargo-launcher-tested.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -729,11 +689,7 @@
       "category": "Biology & Medicine",
       "description": "달 농업 연구소가 통제 환경, 재활용 시스템, 인공조명, 현지 적응 작물 방식을 활용해 완전한 식량 순환을 완성합니다.",
       "layerId": "civilization",
-      "domains": [
-        "space",
-        "agriculture",
-        "life-support"
-      ],
+      "domains": ["space", "agriculture", "life-support"],
       "maturity": "closed-loop-demonstration",
       "timeframe": {
         "startYear": 2048,
@@ -759,30 +715,30 @@
           "Close-up operational scene of lunar Agriculture Research Station Produces Full Food Cycles, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring lunar Agriculture Research Station Produces Full Food Cycles, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-lunar-agriculture-research-station-produces-full-food-cycles.png",
+        "src": "/assets/future-roadmap/era-02/era-02-lunar-agriculture-research-station-produces-full-food-cycles.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-lunar-agriculture-research-station-produces-full-food-cycles.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-lunar-agriculture-research-station-produces-full-food-cycles.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-lunar-agriculture-research-station-produces-full-food-cycles.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-lunar-agriculture-research-station-produces-full-food-cycles.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-lunar-agriculture-research-station-produces-full-food-cycles.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-lunar-agriculture-research-station-produces-full-food-cycles.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-lunar-agriculture-research-station-produces-full-food-cycles.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-lunar-agriculture-research-station-produces-full-food-cycles.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -798,11 +754,7 @@
       "category": "Society & Economy",
       "description": "달 재산권, 궤도 계약, 우주 사고, 지구 밖 시민권 청구와 관련된 분쟁을 해결하기 위한 상설 법적 기구가 설립됩니다.",
       "layerId": "society",
-      "domains": [
-        "space",
-        "law",
-        "governance"
-      ],
+      "domains": ["space", "law", "governance"],
       "maturity": "institutional-formation",
       "timeframe": {
         "startYear": 2048,
@@ -828,30 +780,30 @@
           "Close-up operational scene of first Permanent Space Law Court Established, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring first Permanent Space Law Court Established, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-first-permanent-space-law-court-established.png",
+        "src": "/assets/future-roadmap/era-02/era-02-first-permanent-space-law-court-established.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-first-permanent-space-law-court-established.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-first-permanent-space-law-court-established.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-first-permanent-space-law-court-established.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-first-permanent-space-law-court-established.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-first-permanent-space-law-court-established.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-first-permanent-space-law-court-established.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-permanent-space-law-court-established.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-first-permanent-space-law-court-established.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -867,11 +819,7 @@
       "category": "AI & Computing",
       "description": "AI 임무 지휘관이 우주선, 거주지, 로봇, 화물 경로의 함대를 조율하고 인간은 전략, 윤리, 예외 상황을 감독합니다.",
       "layerId": "technology",
-      "domains": [
-        "space",
-        "artificial-intelligence",
-        "logistics"
-      ],
+      "domains": ["space", "artificial-intelligence", "logistics"],
       "maturity": "supervisory-deployment",
       "timeframe": {
         "startYear": 2049,
@@ -897,30 +845,30 @@
           "Close-up operational scene of aI Mission Commanders Supervise Deep-Space Logistics, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring aI Mission Commanders Supervise Deep-Space Logistics, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-ai-mission-commanders-supervise-deep-space-logistics.png",
+        "src": "/assets/future-roadmap/era-02/era-02-ai-mission-commanders-supervise-deep-space-logistics.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-ai-mission-commanders-supervise-deep-space-logistics.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-ai-mission-commanders-supervise-deep-space-logistics.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-ai-mission-commanders-supervise-deep-space-logistics.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-ai-mission-commanders-supervise-deep-space-logistics.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-ai-mission-commanders-supervise-deep-space-logistics.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-ai-mission-commanders-supervise-deep-space-logistics.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-ai-mission-commanders-supervise-deep-space-logistics.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-ai-mission-commanders-supervise-deep-space-logistics.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -936,11 +884,7 @@
       "category": "Space",
       "description": "민간 연구 정거장이 화성 궤도에서 운영되며 과학, 통신, 원격 조작, 미래 표면 임무의 준비 기지를 지원합니다.",
       "layerId": "civilization",
-      "domains": [
-        "space",
-        "research",
-        "mars"
-      ],
+      "domains": ["space", "research", "mars"],
       "maturity": "research-outpost",
       "timeframe": {
         "startYear": 2049,
@@ -966,30 +910,30 @@
           "Close-up operational scene of first Private Research Station Around Mars Orbit, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring first Private Research Station Around Mars Orbit, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-first-private-research-station-around-mars-orbit.png",
+        "src": "/assets/future-roadmap/era-02/era-02-first-private-research-station-around-mars-orbit.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-first-private-research-station-around-mars-orbit.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-first-private-research-station-around-mars-orbit.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-first-private-research-station-around-mars-orbit.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-first-private-research-station-around-mars-orbit.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-first-private-research-station-around-mars-orbit.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-first-private-research-station-around-mars-orbit.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-private-research-station-around-mars-orbit.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-first-private-research-station-around-mars-orbit.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1005,11 +949,7 @@
       "category": "Society & Economy",
       "description": "궤도 여행 가격이 낮아져 상위 중산층 시민도 저축, 금융 상품, 추첨을 통해 짧은 우주 관광 경험에 접근할 수 있게 됩니다.",
       "layerId": "society",
-      "domains": [
-        "space",
-        "tourism",
-        "mobility"
-      ],
+      "domains": ["space", "tourism", "mobility"],
       "maturity": "early-mainstream",
       "timeframe": {
         "startYear": 2049,
@@ -1035,30 +975,30 @@
           "Close-up operational scene of space Tourism Becomes Accessible to Upper-Middle-Class Citizens, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring space Tourism Becomes Accessible to Upper-Middle-Class Citizens, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.png",
+        "src": "/assets/future-roadmap/era-02/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1074,11 +1014,7 @@
       "category": "Biology & Medicine",
       "description": "달 온실은 저압 환경과 공학적으로 설계된 작물을 사용해 에너지 요구를 줄이면서 달 특유의 제약 아래 식량을 생산합니다.",
       "layerId": "technology",
-      "domains": [
-        "space",
-        "agriculture",
-        "biotechnology"
-      ],
+      "domains": ["space", "agriculture", "biotechnology"],
       "maturity": "controlled-deployment",
       "timeframe": {
         "startYear": 2050,
@@ -1104,30 +1040,30 @@
           "Close-up operational scene of low-Pressure Lunar GMO Greenhouses Go Operational, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring low-Pressure Lunar GMO Greenhouses Go Operational, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.png",
+        "src": "/assets/future-roadmap/era-02/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1143,11 +1079,7 @@
       "category": "Robotics",
       "description": "대규모 인간 승무원이 도착하기 전에 자율 건설 로봇이 화성에서 도로, 착륙장, 대피 시설, 유틸리티 통로를 짓기 시작합니다.",
       "layerId": "civilization",
-      "domains": [
-        "space",
-        "robotics",
-        "construction"
-      ],
+      "domains": ["space", "robotics", "construction"],
       "maturity": "early-surface-deployment",
       "timeframe": {
         "startYear": 2050,
@@ -1173,30 +1105,30 @@
           "Close-up operational scene of autonomous Construction Robots Begin Building on Mars, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring autonomous Construction Robots Begin Building on Mars, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-autonomous-construction-robots-begin-building-on-mars.png",
+        "src": "/assets/future-roadmap/era-02/era-02-autonomous-construction-robots-begin-building-on-mars.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-autonomous-construction-robots-begin-building-on-mars.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-autonomous-construction-robots-begin-building-on-mars.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-autonomous-construction-robots-begin-building-on-mars.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-autonomous-construction-robots-begin-building-on-mars.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-autonomous-construction-robots-begin-building-on-mars.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-autonomous-construction-robots-begin-building-on-mars.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-autonomous-construction-robots-begin-building-on-mars.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-autonomous-construction-robots-begin-building-on-mars.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1212,11 +1144,7 @@
       "category": "Physics",
       "description": "궤도 기상 제어 정거장이 극한 기상 위험을 줄이거나 대기 에너지를 전환하거나 취약 지역을 보호하기 위한 통제 실험을 시작합니다.",
       "layerId": "civilization",
-      "domains": [
-        "space",
-        "climate",
-        "planetary-systems"
-      ],
+      "domains": ["space", "climate", "planetary-systems"],
       "maturity": "early-operation",
       "timeframe": {
         "startYear": 2050,
@@ -1242,30 +1170,30 @@
           "Close-up operational scene of first Orbital Weather Control Station Becomes Operational, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring first Orbital Weather Control Station Becomes Operational, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-first-orbital-weather-control-station-becomes-operational.png",
+        "src": "/assets/future-roadmap/era-02/era-02-first-orbital-weather-control-station-becomes-operational.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-first-orbital-weather-control-station-becomes-operational.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-first-orbital-weather-control-station-becomes-operational.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-first-orbital-weather-control-station-becomes-operational.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-first-orbital-weather-control-station-becomes-operational.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-first-orbital-weather-control-station-becomes-operational.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-first-orbital-weather-control-station-becomes-operational.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-orbital-weather-control-station-becomes-operational.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-first-orbital-weather-control-station-becomes-operational.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1281,11 +1209,7 @@
       "category": "Energy",
       "description": "핵융합 보조 자율 화물선이 지구 궤도, 달, 화성, 산업 정거장 사이에서 대형 보급품을 운송하기 시작합니다.",
       "layerId": "technology",
-      "domains": [
-        "space",
-        "fusion",
-        "logistics"
-      ],
+      "domains": ["space", "fusion", "logistics"],
       "maturity": "advanced-prototype",
       "timeframe": {
         "startYear": 2051,
@@ -1311,30 +1235,30 @@
           "Close-up operational scene of fusion-Assisted Autonomous Cargo Ships Begin Interplanetary Supply Runs, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring fusion-Assisted Autonomous Cargo Ships Begin Interplanetary Supply Runs, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.png",
+        "src": "/assets/future-roadmap/era-02/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1350,11 +1274,7 @@
       "category": "Energy",
       "description": "개방형 핵융합 점화 시스템이 대형 우주 인프라 실험, 건설 야드, 에너지 집약적 궤도 운영에 확장 가능한 전력을 제공합니다.",
       "layerId": "technology",
-      "domains": [
-        "space",
-        "fusion",
-        "infrastructure"
-      ],
+      "domains": ["space", "fusion", "infrastructure"],
       "maturity": "breakthrough-demonstration",
       "timeframe": {
         "startYear": 2051,
@@ -1380,30 +1300,30 @@
           "Close-up operational scene of open-Air Fusion Ignition Enables Large-Scale Space Infrastructure Energy, engineers and autonomous systems working together, grounded near-future realism, 16:9",
           "Command center or habitat view monitoring open-Air Fusion Ignition Enables Large-Scale Space Infrastructure Energy, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.png",
+        "src": "/assets/future-roadmap/era-02/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1419,11 +1339,7 @@
       "category": "AI & Computing",
       "description": "AI 우주 교통 관제 시스템이 지능형 시스템을 우주 운영, 교통 관제, 임무 지휘, 소행성 조사, 폐쇄형 지구 밖 인프라로 확장합니다.",
       "layerId": "ai-computing",
-      "domains": [
-        "artificial-intelligence",
-        "automation",
-        "digital-systems"
-      ],
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
       "maturity": "early-space-deployment",
       "timeframe": {
         "startYear": 2055,
@@ -1449,30 +1365,30 @@
           "Human-centered scene of aI Space Traffic Control System Coordinates Earth-Moon Routes, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating aI Space Traffic Control System Coordinates Earth-Moon Routes, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.png",
+        "src": "/assets/future-roadmap/era-02/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1488,11 +1404,7 @@
       "category": "AI & Computing",
       "description": "자율 AI 과학자가 폐쇄형 생명유지 시스템을 최적화하며 지능형 시스템을 우주 운영, 교통 관제, 임무 지휘, 소행성 조사, 폐쇄형 지구 밖 인프라로 확장합니다.",
       "layerId": "ai-computing",
-      "domains": [
-        "artificial-intelligence",
-        "automation",
-        "digital-systems"
-      ],
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
       "maturity": "early-space-deployment",
       "timeframe": {
         "startYear": 2055,
@@ -1518,30 +1430,30 @@
           "Human-centered scene of autonomous AI Scientists Optimize Closed-Loop Life Support Systems, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating autonomous AI Scientists Optimize Closed-Loop Life Support Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.png",
+        "src": "/assets/future-roadmap/era-02/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1557,11 +1469,7 @@
       "category": "AI & Computing",
       "description": "행성 간 양자 통신 네트워크 파일럿이 가동되며 지능형 시스템을 우주 운영, 교통 관제, 임무 지휘, 소행성 조사, 폐쇄형 지구 밖 인프라로 확장합니다.",
       "layerId": "ai-computing",
-      "domains": [
-        "artificial-intelligence",
-        "automation",
-        "digital-systems"
-      ],
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
       "maturity": "early-space-deployment",
       "timeframe": {
         "startYear": 2056,
@@ -1587,30 +1495,30 @@
           "Human-centered scene of interplanetary Quantum Communication Network Pilot Goes Live, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating interplanetary Quantum Communication Network Pilot Goes Live, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-interplanetary-quantum-communication-network-pilot-goes-live.png",
+        "src": "/assets/future-roadmap/era-02/era-02-interplanetary-quantum-communication-network-pilot-goes-live.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-interplanetary-quantum-communication-network-pilot-goes-live.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-interplanetary-quantum-communication-network-pilot-goes-live.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-interplanetary-quantum-communication-network-pilot-goes-live.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-interplanetary-quantum-communication-network-pilot-goes-live.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-interplanetary-quantum-communication-network-pilot-goes-live.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-interplanetary-quantum-communication-network-pilot-goes-live.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-interplanetary-quantum-communication-network-pilot-goes-live.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-interplanetary-quantum-communication-network-pilot-goes-live.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1626,11 +1534,7 @@
       "category": "Robotics",
       "description": "궤도 유지보수 로봇이 상업 우주정거장을 서비스하며 자율 기계를 달, 궤도, 화성, 심우주 건설·유지보수·채굴·수리의 중심에 둡니다.",
       "layerId": "robotics",
-      "domains": [
-        "autonomous-robotics",
-        "service-robots",
-        "robot-swarms"
-      ],
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
       "maturity": "early-space-deployment",
       "timeframe": {
         "startYear": 2056,
@@ -1656,30 +1560,30 @@
           "Human-centered scene of orbital Maintenance Robots Service Commercial Space Stations, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating orbital Maintenance Robots Service Commercial Space Stations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-orbital-maintenance-robots-service-commercial-space-stations.png",
+        "src": "/assets/future-roadmap/era-02/era-02-orbital-maintenance-robots-service-commercial-space-stations.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-orbital-maintenance-robots-service-commercial-space-stations.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-orbital-maintenance-robots-service-commercial-space-stations.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-orbital-maintenance-robots-service-commercial-space-stations.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-orbital-maintenance-robots-service-commercial-space-stations.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-orbital-maintenance-robots-service-commercial-space-stations.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-orbital-maintenance-robots-service-commercial-space-stations.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-orbital-maintenance-robots-service-commercial-space-stations.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-orbital-maintenance-robots-service-commercial-space-stations.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1695,11 +1599,7 @@
       "category": "Robotics",
       "description": "자율 달 채굴 로봇이 연속 운영에 도달하며 자율 기계를 달, 궤도, 화성, 심우주 건설·유지보수·채굴·수리의 중심에 둡니다.",
       "layerId": "robotics",
-      "domains": [
-        "autonomous-robotics",
-        "service-robots",
-        "robot-swarms"
-      ],
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
       "maturity": "early-space-deployment",
       "timeframe": {
         "startYear": 2057,
@@ -1725,30 +1625,30 @@
           "Human-centered scene of autonomous Lunar Mining Robots Reach Continuous Operation, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating autonomous Lunar Mining Robots Reach Continuous Operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.png",
+        "src": "/assets/future-roadmap/era-02/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1764,11 +1664,7 @@
       "category": "Robotics",
       "description": "심우주 수리 로봇이 행성 간 임무의 표준이 되며 자율 기계를 달, 궤도, 화성, 심우주 건설·유지보수·채굴·수리의 중심에 둡니다.",
       "layerId": "robotics",
-      "domains": [
-        "autonomous-robotics",
-        "service-robots",
-        "robot-swarms"
-      ],
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2057,
@@ -1794,30 +1690,30 @@
           "Human-centered scene of deep-Space Repair Robots Become Standard for Interplanetary Missions, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating deep-Space Repair Robots Become Standard for Interplanetary Missions, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.png",
+        "src": "/assets/future-roadmap/era-02/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1833,11 +1729,7 @@
       "category": "Energy",
       "description": "달 헬륨-3 처리 실증 플랜트가 고도 에너지를 초기 우주 문명의 기반으로 전환하며 궤도 정거장, 달 산업, 행성 간 화물, 에너지 전송을 지원합니다.",
       "layerId": "energy",
-      "domains": [
-        "fusion-energy",
-        "electric-infrastructure",
-        "clean-energy"
-      ],
+      "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2058,
@@ -1863,30 +1755,30 @@
           "Human-centered scene of lunar Helium-3 Processing Demonstration Plant Opens, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating lunar Helium-3 Processing Demonstration Plant Opens, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-lunar-helium-3-processing-demonstration-plant-opens.png",
+        "src": "/assets/future-roadmap/era-02/era-02-lunar-helium-3-processing-demonstration-plant-opens.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-lunar-helium-3-processing-demonstration-plant-opens.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-lunar-helium-3-processing-demonstration-plant-opens.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-lunar-helium-3-processing-demonstration-plant-opens.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-lunar-helium-3-processing-demonstration-plant-opens.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-lunar-helium-3-processing-demonstration-plant-opens.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-lunar-helium-3-processing-demonstration-plant-opens.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-lunar-helium-3-processing-demonstration-plant-opens.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-lunar-helium-3-processing-demonstration-plant-opens.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1902,11 +1794,7 @@
       "category": "Energy",
       "description": "궤도 정거장 간 무선 에너지 전송이 신뢰 가능해지며 고도 에너지를 초기 우주 문명의 기반으로 전환해 궤도 정거장, 달 산업, 행성 간 화물, 에너지 전송을 지원합니다.",
       "layerId": "energy",
-      "domains": [
-        "fusion-energy",
-        "electric-infrastructure",
-        "clean-energy"
-      ],
+      "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2058,
@@ -1932,30 +1820,30 @@
           "Human-centered scene of wireless Energy Transmission Between Orbital Stations Becomes Reliable, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating wireless Energy Transmission Between Orbital Stations Becomes Reliable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.png",
+        "src": "/assets/future-roadmap/era-02/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1971,11 +1859,7 @@
       "category": "Biology & Medicine",
       "description": "인공 자궁 연구가 장기 우주 임무를 지원하며 의학, 생식, 농업, 생명유지를 지구 밖의 영구적 인간 활동에 맞게 조정합니다.",
       "layerId": "biology-medicine",
-      "domains": [
-        "medicine",
-        "biotechnology",
-        "human-health"
-      ],
+      "domains": ["medicine", "biotechnology", "human-health"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2059,
@@ -2001,30 +1885,30 @@
           "Human-centered scene of artificial Womb Research Supports Long-Duration Space Missions, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating artificial Womb Research Supports Long-Duration Space Missions, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-artificial-womb-research-supports-long-duration-space-missions.png",
+        "src": "/assets/future-roadmap/era-02/era-02-artificial-womb-research-supports-long-duration-space-missions.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-artificial-womb-research-supports-long-duration-space-missions.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-artificial-womb-research-supports-long-duration-space-missions.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-artificial-womb-research-supports-long-duration-space-missions.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-artificial-womb-research-supports-long-duration-space-missions.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-artificial-womb-research-supports-long-duration-space-missions.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-artificial-womb-research-supports-long-duration-space-missions.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-artificial-womb-research-supports-long-duration-space-missions.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-artificial-womb-research-supports-long-duration-space-missions.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2040,11 +1924,7 @@
       "category": "Physics",
       "description": "인공 중력 거주지 시제품이 1년 시험을 완료하며 인공 중력, 방사선 보호, 양자 시간 측정, 항법, 심우주 관측에 고급 물리학을 적용합니다.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2059,
@@ -2070,30 +1950,30 @@
           "Human-centered scene of artificial Gravity Habitat Prototype Completes One-Year Trial, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating artificial Gravity Habitat Prototype Completes One-Year Trial, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.png",
+        "src": "/assets/future-roadmap/era-02/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2109,11 +1989,7 @@
       "category": "Physics",
       "description": "자기장을 이용한 방사선 차폐 시연은 인공 중력, 방사선 보호, 양자 시간 측정, 항법, 심우주 관측에 고급 물리학을 적용합니다.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2060,
@@ -2139,30 +2015,30 @@
           "Human-centered scene of radiation Shielding Using Magnetic Fields Demonstrated, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating radiation Shielding Using Magnetic Fields Demonstrated, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-radiation-shielding-using-magnetic-fields-demonstrated.png",
+        "src": "/assets/future-roadmap/era-02/era-02-radiation-shielding-using-magnetic-fields-demonstrated.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-radiation-shielding-using-magnetic-fields-demonstrated.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-radiation-shielding-using-magnetic-fields-demonstrated.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-radiation-shielding-using-magnetic-fields-demonstrated.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-radiation-shielding-using-magnetic-fields-demonstrated.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-radiation-shielding-using-magnetic-fields-demonstrated.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-radiation-shielding-using-magnetic-fields-demonstrated.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-radiation-shielding-using-magnetic-fields-demonstrated.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-radiation-shielding-using-magnetic-fields-demonstrated.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2178,11 +2054,7 @@
       "category": "Physics",
       "description": "우주 기반 양자 시계 네트워크가 항법 정밀도를 향상하며 인공 중력, 방사선 보호, 양자 시간 측정, 항법, 심우주 관측에 고급 물리학을 적용합니다.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2060,
@@ -2208,30 +2080,30 @@
           "Human-centered scene of space-Based Quantum Clock Network Improves Navigation Precision, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating space-Based Quantum Clock Network Improves Navigation Precision, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-space-based-quantum-clock-network-improves-navigation-precision.png",
+        "src": "/assets/future-roadmap/era-02/era-02-space-based-quantum-clock-network-improves-navigation-precision.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-space-based-quantum-clock-network-improves-navigation-precision.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-space-based-quantum-clock-network-improves-navigation-precision.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-space-based-quantum-clock-network-improves-navigation-precision.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-space-based-quantum-clock-network-improves-navigation-precision.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-space-based-quantum-clock-network-improves-navigation-precision.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-space-based-quantum-clock-network-improves-navigation-precision.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-space-based-quantum-clock-network-improves-navigation-precision.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-space-based-quantum-clock-network-improves-navigation-precision.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2247,11 +2119,7 @@
       "category": "Physics",
       "description": "심우주 중성미자 관측소의 운영 시작은 인공 중력, 방사선 보호, 양자 시간 측정, 항법, 심우주 관측에 고급 물리학을 적용합니다.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2061,
@@ -2277,30 +2145,30 @@
           "Human-centered scene of deep-Space Neutrino Observatory Begins Operation, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating deep-Space Neutrino Observatory Begins Operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-deep-space-neutrino-observatory-begins-operation.png",
+        "src": "/assets/future-roadmap/era-02/era-02-deep-space-neutrino-observatory-begins-operation.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-deep-space-neutrino-observatory-begins-operation.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-deep-space-neutrino-observatory-begins-operation.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-deep-space-neutrino-observatory-begins-operation.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-deep-space-neutrino-observatory-begins-operation.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-deep-space-neutrino-observatory-begins-operation.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-deep-space-neutrino-observatory-begins-operation.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-deep-space-neutrino-observatory-begins-operation.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-deep-space-neutrino-observatory-begins-operation.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2316,11 +2184,7 @@
       "category": "Materials & Manufacturing",
       "description": "레골리스 기반 3D 프린팅 재료가 달의 표준이 되며 궤도, 달, 시스루나 공간에서 건설, 수리, 제조를 위한 산업 기반을 만듭니다.",
       "layerId": "materials-manufacturing",
-      "domains": [
-        "advanced-materials",
-        "manufacturing",
-        "construction"
-      ],
+      "domains": ["advanced-materials", "manufacturing", "construction"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2061,
@@ -2346,30 +2210,30 @@
           "Human-centered scene of regolith-Based 3D Printing Materials Become Standard on the Moon, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating regolith-Based 3D Printing Materials Become Standard on the Moon, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.png",
+        "src": "/assets/future-roadmap/era-02/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2385,11 +2249,7 @@
       "category": "Materials & Manufacturing",
       "description": "자가치유 우주선 선체 재료가 서비스에 도입되며 궤도, 달, 시스루나 공간에서 건설, 수리, 제조를 위한 산업 기반을 만듭니다.",
       "layerId": "materials-manufacturing",
-      "domains": [
-        "advanced-materials",
-        "manufacturing",
-        "construction"
-      ],
+      "domains": ["advanced-materials", "manufacturing", "construction"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2062,
@@ -2415,30 +2275,30 @@
           "Human-centered scene of self-Healing Spacecraft Hull Materials Enter Service, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating self-Healing Spacecraft Hull Materials Enter Service, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-self-healing-spacecraft-hull-materials-enter-service.png",
+        "src": "/assets/future-roadmap/era-02/era-02-self-healing-spacecraft-hull-materials-enter-service.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-self-healing-spacecraft-hull-materials-enter-service.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-self-healing-spacecraft-hull-materials-enter-service.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-self-healing-spacecraft-hull-materials-enter-service.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-self-healing-spacecraft-hull-materials-enter-service.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-self-healing-spacecraft-hull-materials-enter-service.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-self-healing-spacecraft-hull-materials-enter-service.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-self-healing-spacecraft-hull-materials-enter-service.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-self-healing-spacecraft-hull-materials-enter-service.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2454,11 +2314,7 @@
       "category": "Materials & Manufacturing",
       "description": "탄소 나노튜브 우주 케이블이 산업 규모에 도달하며 궤도, 달, 시스루나 공간에서 건설, 수리, 제조를 위한 산업 기반을 만듭니다.",
       "layerId": "materials-manufacturing",
-      "domains": [
-        "advanced-materials",
-        "manufacturing",
-        "construction"
-      ],
+      "domains": ["advanced-materials", "manufacturing", "construction"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2062,
@@ -2484,30 +2340,30 @@
           "Human-centered scene of carbon Nanotube Space Cables Reach Industrial Scale, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating carbon Nanotube Space Cables Reach Industrial Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-carbon-nanotube-space-cables-reach-industrial-scale.png",
+        "src": "/assets/future-roadmap/era-02/era-02-carbon-nanotube-space-cables-reach-industrial-scale.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-carbon-nanotube-space-cables-reach-industrial-scale.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-carbon-nanotube-space-cables-reach-industrial-scale.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-carbon-nanotube-space-cables-reach-industrial-scale.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-carbon-nanotube-space-cables-reach-industrial-scale.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-carbon-nanotube-space-cables-reach-industrial-scale.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-carbon-nanotube-space-cables-reach-industrial-scale.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-carbon-nanotube-space-cables-reach-industrial-scale.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-carbon-nanotube-space-cables-reach-industrial-scale.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2523,11 +2379,7 @@
       "category": "Materials & Manufacturing",
       "description": "진공 제조가 초고순도 반도체를 생산하며 궤도, 달, 시스루나 공간에서 건설, 수리, 제조를 위한 산업 기반을 만듭니다.",
       "layerId": "materials-manufacturing",
-      "domains": [
-        "advanced-materials",
-        "manufacturing",
-        "construction"
-      ],
+      "domains": ["advanced-materials", "manufacturing", "construction"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2063,
@@ -2553,30 +2405,30 @@
           "Human-centered scene of vacuum Manufacturing Produces Ultra-Pure Semiconductors, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating vacuum Manufacturing Produces Ultra-Pure Semiconductors, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.png",
+        "src": "/assets/future-roadmap/era-02/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2592,11 +2444,7 @@
       "category": "Materials & Manufacturing",
       "description": "궤도 내 적층 제조 시설이 상업화되며 궤도, 달, 시스루나 공간에서 건설, 수리, 제조를 위한 산업 기반을 만듭니다.",
       "layerId": "materials-manufacturing",
-      "domains": [
-        "advanced-materials",
-        "manufacturing",
-        "construction"
-      ],
+      "domains": ["advanced-materials", "manufacturing", "construction"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2063,
@@ -2622,30 +2470,30 @@
           "Human-centered scene of in-Orbit Additive Manufacturing Facilities Become Commercial, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating in-Orbit Additive Manufacturing Facilities Become Commercial, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.png",
+        "src": "/assets/future-roadmap/era-02/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2661,11 +2509,7 @@
       "category": "Environment",
       "description": "우주 방사선 모니터링 그리드가 지구-달 공간을 포괄하며 탄소 포집, 물 재활용, 방사선 모니터링, 생태계 회복을 통해 지구 시스템을 개선하면서 환경 관리를 우주로 확장합니다.",
       "layerId": "environment",
-      "domains": [
-        "climate",
-        "ecosystem-restoration",
-        "water-systems"
-      ],
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2064,
@@ -2691,30 +2535,30 @@
           "Human-centered scene of space Radiation Monitoring Grid Covers Earth-Moon Space, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating space Radiation Monitoring Grid Covers Earth-Moon Space, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.png",
+        "src": "/assets/future-roadmap/era-02/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2730,11 +2574,7 @@
       "category": "Environment",
       "description": "폐쇄형 물 재활용이 거의 완전한 효율에 도달하며 탄소 포집, 물 재활용, 방사선 모니터링, 생태계 회복을 통해 지구 시스템을 개선하면서 환경 관리를 우주로 확장합니다.",
       "layerId": "environment",
-      "domains": [
-        "climate",
-        "ecosystem-restoration",
-        "water-systems"
-      ],
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2064,
@@ -2760,30 +2600,30 @@
           "Human-centered scene of closed-Loop Water Recycling Achieves Near-Perfect Efficiency, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating closed-Loop Water Recycling Achieves Near-Perfect Efficiency, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.png",
+        "src": "/assets/future-roadmap/era-02/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2799,11 +2639,7 @@
       "category": "Environment",
       "description": "탄소 포집 메가프로젝트가 대기 CO₂ 증가를 되돌리며 탄소 포집, 물 재활용, 방사선 모니터링, 생태계 회복을 통해 지구 시스템을 개선하면서 환경 관리를 우주로 확장합니다.",
       "layerId": "environment",
-      "domains": [
-        "climate",
-        "ecosystem-restoration",
-        "water-systems"
-      ],
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2065,
@@ -2829,30 +2665,30 @@
           "Human-centered scene of carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.png",
+        "src": "/assets/future-roadmap/era-02/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2868,11 +2704,7 @@
       "category": "Environment",
       "description": "해양 생태계 회복 프로그램이 주요 산호 지역을 복원하며 탄소 포집, 물 재활용, 방사선 모니터링, 생태계 회복을 통해 지구 시스템을 개선하면서 환경 관리를 우주로 확장합니다.",
       "layerId": "environment",
-      "domains": [
-        "climate",
-        "ecosystem-restoration",
-        "water-systems"
-      ],
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2065,
@@ -2898,30 +2730,30 @@
           "Human-centered scene of ocean Ecosystem Recovery Programs Restore Major Coral Regions, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating ocean Ecosystem Recovery Programs Restore Major Coral Regions, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.png",
+        "src": "/assets/future-roadmap/era-02/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2937,11 +2769,7 @@
       "category": "Society & Economy",
       "description": "달 재산권 프레임워크가 국제적 인정을 받으며 지구-달 경제 활동에 필요한 최초의 법률, 금융, 문화, 보험 시스템을 구축합니다.",
       "layerId": "society-economy",
-      "domains": [
-        "social-systems",
-        "economy",
-        "public-services"
-      ],
+      "domains": ["social-systems", "economy", "public-services"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2066,
@@ -2967,30 +2795,30 @@
           "Human-centered scene of lunar Property Rights Framework Receives International Recognition, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating lunar Property Rights Framework Receives International Recognition, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-lunar-property-rights-framework-receives-international-recognition.png",
+        "src": "/assets/future-roadmap/era-02/era-02-lunar-property-rights-framework-receives-international-recognition.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-lunar-property-rights-framework-receives-international-recognition.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-lunar-property-rights-framework-receives-international-recognition.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-lunar-property-rights-framework-receives-international-recognition.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-lunar-property-rights-framework-receives-international-recognition.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-lunar-property-rights-framework-receives-international-recognition.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-lunar-property-rights-framework-receives-international-recognition.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-lunar-property-rights-framework-receives-international-recognition.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-lunar-property-rights-framework-receives-international-recognition.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3006,11 +2834,7 @@
       "category": "Society & Economy",
       "description": "최초의 행성 간 보험 산업이 등장하며 지구-달 경제 활동에 필요한 최초의 법률, 금융, 문화, 보험 시스템을 구축합니다.",
       "layerId": "society-economy",
-      "domains": [
-        "social-systems",
-        "economy",
-        "public-services"
-      ],
+      "domains": ["social-systems", "economy", "public-services"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2066,
@@ -3036,30 +2860,30 @@
           "Human-centered scene of first Interplanetary Insurance Industry Emerges, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating first Interplanetary Insurance Industry Emerges, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-first-interplanetary-insurance-industry-emerges.png",
+        "src": "/assets/future-roadmap/era-02/era-02-first-interplanetary-insurance-industry-emerges.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-first-interplanetary-insurance-industry-emerges.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-first-interplanetary-insurance-industry-emerges.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-first-interplanetary-insurance-industry-emerges.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-first-interplanetary-insurance-industry-emerges.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-first-interplanetary-insurance-industry-emerges.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-first-interplanetary-insurance-industry-emerges.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-interplanetary-insurance-industry-emerges.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-first-interplanetary-insurance-industry-emerges.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3075,11 +2899,7 @@
       "category": "Society & Economy",
       "description": "지구-달 디지털 통화 표준이 채택되며 지구-달 경제 활동에 필요한 최초의 법률, 금융, 문화, 보험 시스템을 구축합니다.",
       "layerId": "society-economy",
-      "domains": [
-        "social-systems",
-        "economy",
-        "public-services"
-      ],
+      "domains": ["social-systems", "economy", "public-services"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2067,
@@ -3105,30 +2925,30 @@
           "Human-centered scene of earth-Moon Digital Currency Standard Gains Adoption, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating earth-Moon Digital Currency Standard Gains Adoption, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-earth-moon-digital-currency-standard-gains-adoption.png",
+        "src": "/assets/future-roadmap/era-02/era-02-earth-moon-digital-currency-standard-gains-adoption.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-earth-moon-digital-currency-standard-gains-adoption.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-earth-moon-digital-currency-standard-gains-adoption.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-earth-moon-digital-currency-standard-gains-adoption.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-earth-moon-digital-currency-standard-gains-adoption.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-earth-moon-digital-currency-standard-gains-adoption.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-earth-moon-digital-currency-standard-gains-adoption.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-earth-moon-digital-currency-standard-gains-adoption.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-earth-moon-digital-currency-standard-gains-adoption.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3144,11 +2964,7 @@
       "category": "Civilization",
       "description": "최초의 영구 달 정착지가 주민 1,000명에 도달하며 지구 밖 문명의 첫 제도, 정착지, 문화, 응급 시스템을 뚜렷하게 보여줍니다.",
       "layerId": "civilization",
-      "domains": [
-        "future-civilization",
-        "governance",
-        "institutions"
-      ],
+      "domains": ["future-civilization", "governance", "institutions"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2067,
@@ -3174,30 +2990,30 @@
           "Human-centered scene of first Permanent Lunar Settlement Reaches 1,000 Residents, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating first Permanent Lunar Settlement Reaches 1,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.png",
+        "src": "/assets/future-roadmap/era-02/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3213,11 +3029,7 @@
       "category": "Civilization",
       "description": "지구-달 무역 규모가 1조 달러를 초과하며 지구 밖 문명의 첫 제도, 정착지, 문화, 응급 시스템을 뚜렷하게 보여줍니다.",
       "layerId": "civilization",
-      "domains": [
-        "future-civilization",
-        "governance",
-        "institutions"
-      ],
+      "domains": ["future-civilization", "governance", "institutions"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2068,
@@ -3243,30 +3055,30 @@
           "Human-centered scene of earth-Moon Trade Volume Exceeds One Trillion Dollars, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating earth-Moon Trade Volume Exceeds One Trillion Dollars, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.png",
+        "src": "/assets/future-roadmap/era-02/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3282,11 +3094,7 @@
       "category": "Civilization",
       "description": "최초의 우주 대학이 달에 개교하며 지구 밖 문명의 첫 제도, 정착지, 문화, 응급 시스템을 뚜렷하게 보여줍니다.",
       "layerId": "civilization",
-      "domains": [
-        "future-civilization",
-        "governance",
-        "institutions"
-      ],
+      "domains": ["future-civilization", "governance", "institutions"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2068,
@@ -3312,30 +3120,30 @@
           "Human-centered scene of first Space University Opens on the Moon, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating first Space University Opens on the Moon, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-first-space-university-opens-on-the-moon.png",
+        "src": "/assets/future-roadmap/era-02/era-02-first-space-university-opens-on-the-moon.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-first-space-university-opens-on-the-moon.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-first-space-university-opens-on-the-moon.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-first-space-university-opens-on-the-moon.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-first-space-university-opens-on-the-moon.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-first-space-university-opens-on-the-moon.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-first-space-university-opens-on-the-moon.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-space-university-opens-on-the-moon.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-first-space-university-opens-on-the-moon.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3351,11 +3159,7 @@
       "category": "Civilization",
       "description": "행성 간 비상 대응 연합이 설립되며 지구 밖 문명의 첫 제도, 정착지, 문화, 응급 시스템을 뚜렷하게 보여줍니다.",
       "layerId": "civilization",
-      "domains": [
-        "future-civilization",
-        "governance",
-        "institutions"
-      ],
+      "domains": ["future-civilization", "governance", "institutions"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2069,
@@ -3381,30 +3185,30 @@
           "Human-centered scene of interplanetary Emergency Response Alliance Is Established, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating interplanetary Emergency Response Alliance Is Established, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-interplanetary-emergency-response-alliance-is-established.png",
+        "src": "/assets/future-roadmap/era-02/era-02-interplanetary-emergency-response-alliance-is-established.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-interplanetary-emergency-response-alliance-is-established.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-interplanetary-emergency-response-alliance-is-established.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-interplanetary-emergency-response-alliance-is-established.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-interplanetary-emergency-response-alliance-is-established.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-interplanetary-emergency-response-alliance-is-established.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-interplanetary-emergency-response-alliance-is-established.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-interplanetary-emergency-response-alliance-is-established.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-interplanetary-emergency-response-alliance-is-established.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3420,11 +3224,7 @@
       "category": "Civilization",
       "description": "연례 지구-달 문화 축제가 전통이 되며 지구 밖 문명의 첫 제도, 정착지, 문화, 응급 시스템을 뚜렷하게 보여줍니다.",
       "layerId": "civilization",
-      "domains": [
-        "future-civilization",
-        "governance",
-        "institutions"
-      ],
+      "domains": ["future-civilization", "governance", "institutions"],
       "maturity": "cislunar-adoption",
       "timeframe": {
         "startYear": 2069,
@@ -3450,30 +3250,30 @@
           "Human-centered scene of annual Earth-Moon Cultural Festival Becomes Tradition, practical advanced technology, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating annual Earth-Moon Cultural Festival Becomes Tradition, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-02/era-02-annual-earth-moon-cultural-festival-becomes-tradition.png",
+        "src": "/assets/future-roadmap/era-02/era-02-annual-earth-moon-cultural-festival-becomes-tradition.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-02/mobile/era-02-annual-earth-moon-cultural-festival-becomes-tradition.webp",
+          "src": "/assets/future-roadmap/era-02/mobile/era-02-annual-earth-moon-cultural-festival-becomes-tradition.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-02/thumbnail/era-02-annual-earth-moon-cultural-festival-becomes-tradition.webp",
+          "src": "/assets/future-roadmap/era-02/thumbnail/era-02-annual-earth-moon-cultural-festival-becomes-tradition.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-02/desktop/era-02-annual-earth-moon-cultural-festival-becomes-tradition.webp",
+          "src": "/assets/future-roadmap/era-02/desktop/era-02-annual-earth-moon-cultural-festival-becomes-tradition.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-annual-earth-moon-cultural-festival-becomes-tradition.png",
+          "src": "/open_graph/future-roadmap/era-02/open_graph/era-02-annual-earth-moon-cultural-festival-becomes-tradition.png",
           "width": 1200,
           "height": 630,
           "quality": 82

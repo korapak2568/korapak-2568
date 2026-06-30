@@ -47,10 +47,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "Food",
-              "Plattform"
-            ],
+            "tags": ["Food", "Plattform"],
             "cta": "Smart Food entdecken",
             "href": "/smart-food/"
           },
@@ -84,10 +81,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "Luxus",
-              "Projekte"
-            ],
+            "tags": ["Luxus", "Projekte"],
             "cta": "Luxury ansehen",
             "href": "/luxury/"
           },
@@ -121,10 +115,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "AI",
-              "Engineering"
-            ],
+            "tags": ["AI", "Engineering"],
             "cta": "Technologie ansehen",
             "href": "/technology/"
           },
@@ -133,35 +124,32 @@
             "title": "Fashion-, Clothing- und Outfit-Richtung",
             "description": "Ein leichtgewichtiger Lifestyle-Kanal für visuelle Identität, Outfit-Konzepte und Geschichten des zukünftigen Commerce.",
             "image": {
-              "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+              "src": "/assets/styles/09-coastal-mts-traveler.png",
               "alt": "Style- und Outfit-Visual",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.style",
               "mobile": {
-                "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/mobile/09-coastal-mts-traveler.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/thumbnail/09-coastal-mts-traveler.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+                "src": "/assets/styles/desktop/09-coastal-mts-traveler.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Style",
-              "Lifestyle"
-            ],
+            "tags": ["Style", "Lifestyle"],
             "cta": "Style ansehen",
             "href": "/style/"
           }
@@ -178,35 +166,32 @@
             "title": "Damen-Outfit",
             "description": "Elegante Civilization-Looks für Premium-Lifestyle-Szenen.",
             "image": {
-              "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+              "src": "/assets/styles/05-lotus-lanna-ceremony.png",
               "alt": "Damen-Outfit-Konzept",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.lady",
               "mobile": {
-                "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/mobile/05-lotus-lanna-ceremony.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/thumbnail/05-lotus-lanna-ceremony.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+                "src": "/assets/styles/desktop/05-lotus-lanna-ceremony.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Damen",
-              "Luxus"
-            ],
+            "tags": ["Damen", "Luxus"],
             "cta": "Kollektion ansehen",
             "href": "/style/"
           },
@@ -215,35 +200,32 @@
             "title": "Herren-Outfit",
             "description": "Raffinierte Silhouetten für Reise-, Stadt- und Resort-Kontexte.",
             "image": {
-              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+              "src": "/assets/styles/06-mountain-hydrangea-gentleman.png",
               "alt": "Herren-Outfit-Konzept",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.gentleman",
               "mobile": {
-                "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/mobile/06-mountain-hydrangea-gentleman.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+                "src": "/assets/styles/desktop/06-mountain-hydrangea-gentleman.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Herren",
-              "Reisen"
-            ],
+            "tags": ["Herren", "Reisen"],
             "cta": "Kollektion ansehen",
             "href": "/style/"
           },
@@ -252,35 +234,32 @@
             "title": "Zivilisationskleidung",
             "description": "Kleidungsstories, die mit Zonen, Ritualen und zukünftigem Commerce verbunden sind.",
             "image": {
-              "src": "/images-platform/styles/02-coastal-resort-floral.png",
+              "src": "/assets/styles/02-coastal-resort-floral.png",
               "alt": "Konzept für Zivilisationskleidung",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.outfit.civilization",
               "mobile": {
-                "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/mobile/02-coastal-resort-floral.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/thumbnail/02-coastal-resort-floral.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+                "src": "/assets/styles/desktop/02-coastal-resort-floral.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
               }
             },
-            "tags": [
-              "Zone",
-              "Chorn DNA"
-            ],
+            "tags": ["Zone", "Chorn DNA"],
             "cta": "Kanal öffnen",
             "href": "/style/"
           },
@@ -314,10 +293,7 @@
                 "quality": 82
               }
             },
-            "tags": [
-              "Lanna",
-              "Zukunft"
-            ],
+            "tags": ["Lanna", "Zukunft"],
             "cta": "Look entdecken",
             "href": "/smart-mobility/"
           }
@@ -332,26 +308,26 @@
         {
           "title": "Entspannen auf dem Liegesofa",
           "image": {
-            "src": "/images-platform/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
+            "src": "/assets/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
             "alt": "Ein Paar entspannt an einem großen Fenster mit Bergblick.",
             "width": 1024,
             "height": 1536,
             "aspectRatio": "2:3",
             "positionKey": "home.circular.sofa",
             "mobile": {
-              "src": "/images-platform/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
               "width": 720,
               "height": 1080,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
               "width": 480,
               "height": 720,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
+              "src": "/assets/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
               "width": 1024,
               "height": 1536,
               "quality": 82
@@ -362,26 +338,26 @@
         {
           "title": "MTS Lavender Valley Station",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-valley2-lavender-valley.png",
+            "src": "/assets/smart-mobility/mts-valley2-lavender-valley.png",
             "alt": "MTS Lavender Valley Station",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.valley",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
+              "src": "/assets/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -392,26 +368,26 @@
         {
           "title": "MTS Coral Bay Marina Station",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-coastal2-coral-bay-marina.png",
+            "src": "/assets/smart-mobility/mts-coastal2-coral-bay-marina.png",
             "alt": "MTS Coral Bay Marina Station",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.coastal-marina",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
+              "src": "/assets/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -422,26 +398,26 @@
         {
           "title": "MTS Sunrise Ocean Deck Station",
           "image": {
-            "src": "/images-platform/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
+            "src": "/assets/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
             "alt": "MTS Sunrise Ocean Deck Station",
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
             "positionKey": "home.circular.coastal-sunrise",
             "mobile": {
-              "src": "/images-platform/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 768,
               "height": 512,
               "quality": 78
             },
             "thumbnail": {
-              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 480,
               "height": 320,
               "quality": 72
             },
             "desktop": {
-              "src": "/images-platform/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
+              "src": "/assets/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
               "width": 1200,
               "height": 800,
               "quality": 82
@@ -499,11 +475,7 @@
       {
         "title": "AI Smart Mobility",
         "body": "AI Smart Mobility erforscht intelligente Mobilität, vernetzte Infrastruktur und zukünftige Mobilitätserlebnisse über das Chorn Planet MTS Network. Es wirkt als Kreislaufsystem, das Destinationen, Tourismus, Lifestyle-Umgebungen und zukunftsfähige Zivilisationskonzepte verbindet.",
-        "tags": [
-          "MTS Network",
-          "Smart Infrastructure",
-          "Future Mobility"
-        ],
+        "tags": ["MTS Network", "Smart Infrastructure", "Future Mobility"],
         "link": "/smart-mobility/"
       },
       {
@@ -519,31 +491,19 @@
       {
         "title": "AI Smart Food",
         "body": "Smart Food ist die praktische Alltagsebene. Sie gibt Chorn Planet einen nützlichen Ausgangspunkt rund um Food Discovery, Menüinformationen, Kundenerlebnis, Bestellkonzepte und zukünftige AI-gestützte Food-Service-Flows.",
-        "tags": [
-          "Food Experience",
-          "Bestellkonzepte",
-          "Alltagsnutzen"
-        ],
+        "tags": ["Food Experience", "Bestellkonzepte", "Alltagsnutzen"],
         "link": "/smart-food/"
       },
       {
         "title": "AI Luxury",
         "body": "AI Luxury ist die Premium-Projektebene für Immobilien-, Destinations- und Lifestyle-Erzählungen. Sie hilft, hochwertige Projekte in klarere Geschichten, stärkere visuelle Systeme und investorengerechte Plattforminhalte zu verwandeln.",
-        "tags": [
-          "Premium-Projekte",
-          "Destination Stories",
-          "Investor Ready"
-        ],
+        "tags": ["Premium-Projekte", "Destination Stories", "Investor Ready"],
         "link": "/luxury/"
       },
       {
         "title": "Style- und Outfit-Richtung",
         "body": "Style gibt der Plattform eine visuelle Lifestyle-Ebene. Outfit-Konzepte werden zu Szenen, Geschichten und Produktrichtungen über Reisen, Kultur, Soft Luxury und zukünftigen Commerce hinweg.",
-        "tags": [
-          "Graceful Style",
-          "Outfit Stories",
-          "Future Commerce"
-        ],
+        "tags": ["Graceful Style", "Outfit Stories", "Future Commerce"],
         "link": "/style/"
       }
     ]

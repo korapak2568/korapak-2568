@@ -1,23 +1,19 @@
 import React from "react";
 import Image from "next/image";
-import SidebarDevOps from "@/components/Services/SidebarDevOps";
 import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 import SidebarFullStack from "@/components/Services/SidebarFullStack";
 import {IFrontEndStack} from "@/lib/model/IFrontEnd";
 import FrontEndServiceFaq from "@/components/Services/frontend-development/FrontEndServiceFaq";
 import {IFrontEnd} from "@/lib/model/IFrontEnd";
 import {IFullStack} from "@/lib/model/IFullStack";
-import {IDevOps} from "@/lib/model/IDevOps";
 import TechnicalExpertiseHero from "@/components/Services/TechnicalExpertiseHero";
 
 export default function FrontEndServiceDetails(
-    {lang, stack, image, frontEnd, fullStack, devOps}: {
+    {lang, stack, frontEnd, fullStack}: {
         lang: string,
         stack: IFrontEndStack,
-        image: string,
         frontEnd: IFrontEnd,
         fullStack: IFullStack,
-        devOps: IDevOps,
     }
 ) {
     return (
@@ -29,8 +25,8 @@ export default function FrontEndServiceDetails(
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={image}
-                                            alt="image"
+                                            src={stack.detailImage}
+                                            alt={stack.alt}
                                             width={500}
                                             height={500}
                                         />
@@ -68,7 +64,6 @@ export default function FrontEndServiceDetails(
                         <div className="services-details-sidebar">
                             <SidebarFrontEnd lang={lang} frontEnd={frontEnd}/>
                             <SidebarFullStack lang={lang} fullStack={fullStack}/>
-                            <SidebarDevOps lang={lang} devOps={devOps}/>
                         </div>
                     </div>
             </div>

@@ -98,7 +98,7 @@ export default function HeroSection({lang, data}: { lang: string; data: IHeroSec
                         <Link className="smart-hero__cta-primary" href={`/${lang}` + landingUrl}>
                             {ui.primaryAction}
                         </Link>
-                        <Link className="smart-hero__cta-secondary" href="#smart-food-ai-highlight">
+                        <Link className="smart-hero__cta-secondary" href={`/${lang}/smart-food`}>
                             {ui.secondaryAction}
                         </Link>
                     </div>

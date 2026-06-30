@@ -1,20 +1,16 @@
 import React from "react";
-import {ImageUrl} from "@/image/ImageUrl";
 import {IFrontEndStack} from "@/lib/model/IFrontEnd";
 import {IFrontEnd} from "@/lib/model/IFrontEnd";
 import {IFullStack} from "@/lib/model/IFullStack";
-import {IDevOps} from "@/lib/model/IDevOps";
 import FrontEndServiceDetails from "@/components/Services/frontend-development/FrontEndServiceDetails";
 
-export default function ServicesDetailsNextJS({lang, stack, frontEnd, fullStack, devOps}: { lang: string, stack: IFrontEndStack, frontEnd: IFrontEnd, fullStack: IFullStack, devOps: IDevOps }) {
+export default function ServicesDetailsNextJS({lang, stack, frontEnd, fullStack}: { lang: string, stack: IFrontEndStack, frontEnd: IFrontEnd, fullStack: IFullStack }) {
     return (
         <FrontEndServiceDetails
             lang={lang}
             stack={stack}
-            image={ImageUrl.frontend.frameworks.nextjs.image1200}
         frontEnd={frontEnd}
             fullStack={fullStack}
-            devOps={devOps}
         />
     );
 }

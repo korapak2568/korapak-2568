@@ -1,16 +1,16 @@
 import React from "react";
-import {ImageUrl} from "@/image/ImageUrl";
 import Image from "next/image";
+import type { IFrontEnd } from "@/lib/model/IFrontEnd";
 
-const FrontEndLeftContent: React.FC<{ lang: string }> = ({lang}) => {
+const FrontEndRightImages: React.FC<{ lang: string; frontEnd: IFrontEnd }> = ({frontEnd}) => {
     return (
         <div className="col-lg-6 frontend-images-side-container">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                {ImageUrl.frontend.side.slice(0, 6).map((image, index) => (
+                {frontEnd.sideImages.slice(0, 6).map((image, index) => (
                     <Image
                         key={index}
-                        src={image.image750}
-                        alt={image.title}
+                        src={image.src}
+                        alt={image.alt}
                         width={1200}
                         height={900}
                         sizes="(max-width: 600px) 100vw, (max-width: 1024px) 50vw), 400px)"
@@ -25,4 +25,4 @@ const FrontEndLeftContent: React.FC<{ lang: string }> = ({lang}) => {
     )
 }
 
-export default FrontEndLeftContent
+export default FrontEndRightImages

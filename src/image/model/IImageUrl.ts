@@ -3,47 +3,6 @@ import {IImageLink} from "@/image/model/IImageLink";
 import {IImageResponsiveUnit} from "@/image/model/IImageResponsiveUnit";
 
 export interface IImageUrl {
-    frontend: {
-        side: IImageResponsiveUnit[],
-        frameworks: {
-            angular: IImageResponsiveUnit,
-            css3: IImageResponsiveUnit,
-            html5: IImageResponsiveUnit,
-            nextjs: IImageResponsiveUnit,
-            react: IImageResponsiveUnit,
-            typescript: IImageResponsiveUnit,
-            vue: IImageResponsiveUnit,
-            javascript: IImageResponsiveUnit,
-        },
-    },
-    backend: {
-        side: IImageResponsiveUnit[],
-        frameworks: {
-            dotnetcore: IImageResponsiveUnit,
-            go: IImageResponsiveUnit,
-            java: IImageResponsiveUnit,
-            nodejs: IImageResponsiveUnit,
-            php: IImageResponsiveUnit,
-            python: IImageResponsiveUnit,
-        },
-    },
-    devops: {
-        side: IImageResponsiveUnit[],
-        frameworks: {
-            appium: IImageResponsiveUnit,
-            docker: IImageResponsiveUnit,
-            github: IImageResponsiveUnit,
-            gitlab: IImageResponsiveUnit,
-            jenkins: IImageResponsiveUnit,
-            kube: IImageResponsiveUnit,
-            postman: IImageResponsiveUnit,
-            selenium: IImageResponsiveUnit,
-            soapui: IImageResponsiveUnit,
-        },
-    },
-    web3: {
-        side: IImageResponsiveUnit[]
-    },
     ai: {
         fah: IImageResponsiveUnit,
         aom: IImageResponsiveUnit,

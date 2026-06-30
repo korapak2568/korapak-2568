@@ -5,7 +5,7 @@
     "openGraphTitle": "부동산, 호스피탈리티 및 벤처를 위한 AI Luxury 개발"
   },
   "heroImage": {
-    "src": "/luxury/hero-ai-luxury-real-estate-platform.png",
+    "src": "/assets/luxury/hero-ai-luxury-real-estate-platform.png",
     "alt": "프리미엄 부동산과 호스피탈리티 비즈니스를 위한 AI 럭셔리 플랫폼 콘셉트",
     "width": 1792,
     "height": 1024,
@@ -15,25 +15,25 @@
     "lead": "AI Luxury를 개발하여 프리미엄 비즈니스 생태계, 장소, 서비스, 브랜드를 시뮬레이션합니다.",
     "support": "웹사이트, 캠페인, 디지털 카탈로그 그 이상이 필요한 부동산 회사, 호스피탈리티 비즈니스, 관광 목적지, 복합 프로젝트, 프리미엄 서비스 벤처를 위해 구축되었습니다.",
     "mobile": {
-      "src": "/luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
+      "src": "/assets/luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
       "width": 960,
       "height": 540,
       "quality": 78
     },
     "thumbnail": {
-      "src": "/luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
+      "src": "/assets/luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
       "width": 640,
       "height": 360,
       "quality": 72
     },
     "desktop": {
-      "src": "/luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
+      "src": "/assets/luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
       "width": 1920,
       "height": 1080,
       "quality": 82
     },
     "open_graph": {
-      "src": "/images-opengraph/luxury/open_graph/hero-ai-luxury-real-estate-platform.png",
+      "src": "/open_graph/luxury/open_graph/hero-ai-luxury-real-estate-platform.png",
       "width": 1200,
       "height": 630,
       "quality": 82
@@ -54,69 +54,65 @@
       }
     ],
     "signalsLabel": "AI Luxury 역량 신호",
-    "signals": [
-      "프리미엄 부동산",
-      "호스피탈리티 생태계",
-      "목적지 경험"
-    ]
+    "signals": ["프리미엄 부동산", "호스피탈리티 생태계", "목적지 경험"]
   },
   "readinessImage": {
-    "src": "/luxury/ai-luxury-strategic-readiness.png",
+    "src": "/assets/luxury/ai-luxury-strategic-readiness.png",
     "alt": "프리미엄 디스플레이에 표시된 미래 럭셔리 도시 건축 플랫폼, 계획 시각화와 AI 준비도 포함",
     "width": 1792,
     "height": 1024,
     "sizes": "(max-width: 1399px) 100vw, 1320px",
     "mobile": {
-      "src": "/luxury/mobile/ai-luxury-strategic-readiness.webp",
+      "src": "/assets/luxury/mobile/ai-luxury-strategic-readiness.webp",
       "width": 960,
       "height": 540,
       "quality": 78
     },
     "thumbnail": {
-      "src": "/luxury/thumbnail/ai-luxury-strategic-readiness.webp",
+      "src": "/assets/luxury/thumbnail/ai-luxury-strategic-readiness.webp",
       "width": 640,
       "height": 360,
       "quality": 72
     },
     "desktop": {
-      "src": "/luxury/desktop/ai-luxury-strategic-readiness.webp",
+      "src": "/assets/luxury/desktop/ai-luxury-strategic-readiness.webp",
       "width": 1920,
       "height": 1080,
       "quality": 82
     },
     "open_graph": {
-      "src": "/images-opengraph/luxury/open_graph/ai-luxury-strategic-readiness.png",
+      "src": "/open_graph/luxury/open_graph/ai-luxury-strategic-readiness.png",
       "width": 1200,
       "height": 630,
       "quality": 82
     }
   },
   "ventureImage": {
-    "src": "/luxury/venture-ready-business-signal.png",
+    "src": "/assets/luxury/venture-ready-business-signal.png",
     "alt": "프리미엄 파트너를 위한 AI Luxury 비즈니스 플랫폼 준비 신호",
     "width": 1792,
     "height": 1024,
     "sizes": "(max-width: 991px) 100vw, 58vw",
     "mobile": {
-      "src": "/luxury/mobile/venture-ready-business-signal.webp",
+      "src": "/assets/luxury/mobile/venture-ready-business-signal.webp",
       "width": 960,
       "height": 540,
       "quality": 78
     },
     "thumbnail": {
-      "src": "/luxury/thumbnail/venture-ready-business-signal.webp",
+      "src": "/assets/luxury/thumbnail/venture-ready-business-signal.webp",
       "width": 640,
       "height": 360,
       "quality": 72
     },
     "desktop": {
-      "src": "/luxury/desktop/venture-ready-business-signal.webp",
+      "src": "/assets/luxury/desktop/venture-ready-business-signal.webp",
       "width": 1920,
       "height": 1080,
       "quality": 82
     },
     "open_graph": {
-      "src": "/images-opengraph/luxury/open_graph/venture-ready-business-signal.png",
+      "src": "/open_graph/luxury/open_graph/venture-ready-business-signal.png",
       "width": 1200,
       "height": 630,
       "quality": 82
@@ -149,31 +145,31 @@
       "title": "부동산 및 복합 용도 프로젝트",
       "text": "더 강력한 디지털 생태계 레이어가 필요한 주거, 상업, 관광, 라이프스타일 프로젝트를 위한 지능형 목적지 플랫폼을 구축합니다.",
       "image": {
-        "src": "/luxury/segment-real-estate-mixed-use.png",
+        "src": "/assets/luxury/segment-real-estate-mixed-use.png",
         "alt": "AI 플랫폼 준비도를 갖춘 프리미엄 복합 용도 부동산 목적지",
         "width": 1200,
         "height": 900,
         "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
         "mobile": {
-          "src": "/luxury/mobile/segment-real-estate-mixed-use.webp",
+          "src": "/assets/luxury/mobile/segment-real-estate-mixed-use.webp",
           "width": 768,
           "height": 576,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/luxury/thumbnail/segment-real-estate-mixed-use.webp",
+          "src": "/assets/luxury/thumbnail/segment-real-estate-mixed-use.webp",
           "width": 480,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/luxury/desktop/segment-real-estate-mixed-use.webp",
+          "src": "/assets/luxury/desktop/segment-real-estate-mixed-use.webp",
           "width": 1200,
           "height": 900,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/luxury/open_graph/segment-real-estate-mixed-use.png",
+          "src": "/open_graph/luxury/open_graph/segment-real-estate-mixed-use.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -184,31 +180,31 @@
       "title": "호텔 및 리조트 경험",
       "text": "고객 여정, 서비스 워크플로, 콘텐츠, 예약, 커머스, AI 지원 운영을 하나의 프리미엄 호스피탈리티 경험으로 연결합니다.",
       "image": {
-        "src": "/luxury/segment-hospitality-resort.png",
+        "src": "/assets/luxury/segment-hospitality-resort.png",
         "alt": "AI 서비스 워크플로가 지원하는 럭셔리 리조트 경험",
         "width": 1200,
         "height": 900,
         "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
         "mobile": {
-          "src": "/luxury/mobile/segment-hospitality-resort.webp",
+          "src": "/assets/luxury/mobile/segment-hospitality-resort.webp",
           "width": 768,
           "height": 576,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/luxury/thumbnail/segment-hospitality-resort.webp",
+          "src": "/assets/luxury/thumbnail/segment-hospitality-resort.webp",
           "width": 480,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/luxury/desktop/segment-hospitality-resort.webp",
+          "src": "/assets/luxury/desktop/segment-hospitality-resort.webp",
           "width": 1200,
           "height": 900,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/luxury/open_graph/segment-hospitality-resort.png",
+          "src": "/open_graph/luxury/open_graph/segment-hospitality-resort.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -219,31 +215,31 @@
       "title": "관광 및 목적지 브랜딩",
       "text": "미디어와 고객 접점을 통해 프리미엄 장소를 더 쉽게 발견하고 경험하며 운영하고 확장할 수 있는 디지털 목적지 레이어를 구축합니다.",
       "image": {
-        "src": "/luxury/segment-tourism-destination.png",
+        "src": "/assets/luxury/segment-tourism-destination.png",
         "alt": "AI 스토리텔링과 서비스 준비도를 갖춘 프리미엄 관광 목적지 플랫폼",
         "width": 1200,
         "height": 900,
         "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
         "mobile": {
-          "src": "/luxury/mobile/segment-tourism-destination.webp",
+          "src": "/assets/luxury/mobile/segment-tourism-destination.webp",
           "width": 768,
           "height": 576,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/luxury/thumbnail/segment-tourism-destination.webp",
+          "src": "/assets/luxury/thumbnail/segment-tourism-destination.webp",
           "width": 480,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/luxury/desktop/segment-tourism-destination.webp",
+          "src": "/assets/luxury/desktop/segment-tourism-destination.webp",
           "width": 1200,
           "height": 900,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/luxury/open_graph/segment-tourism-destination.png",
+          "src": "/open_graph/luxury/open_graph/segment-tourism-destination.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -254,31 +250,31 @@
       "title": "럭셔리 라이프스타일 커머스",
       "text": "프리미엄 제품, 서비스, 스토리, 수요 신호를 라이프스타일 비즈니스를 위한 더 스마트한 커머스 경험으로 전환합니다.",
       "image": {
-        "src": "/luxury/segment-luxury-commerce.png",
+        "src": "/assets/luxury/segment-luxury-commerce.png",
         "alt": "고객 경험과 연결된 럭셔리 라이프스타일 커머스 레이어",
         "width": 1200,
         "height": 900,
         "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
         "mobile": {
-          "src": "/luxury/mobile/segment-luxury-commerce.webp",
+          "src": "/assets/luxury/mobile/segment-luxury-commerce.webp",
           "width": 768,
           "height": 576,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/luxury/thumbnail/segment-luxury-commerce.webp",
+          "src": "/assets/luxury/thumbnail/segment-luxury-commerce.webp",
           "width": 480,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/luxury/desktop/segment-luxury-commerce.webp",
+          "src": "/assets/luxury/desktop/segment-luxury-commerce.webp",
           "width": 1200,
           "height": 900,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/luxury/open_graph/segment-luxury-commerce.png",
+          "src": "/open_graph/luxury/open_graph/segment-luxury-commerce.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -291,25 +287,25 @@
       "title": "AI 브랜드 스토리텔링",
       "text": "고객이 체감할 수 있는 프로젝트, 목적지, 제품, 캠페인, 브랜드 경험을 위한 프리미엄 콘텐츠 시스템을 만듭니다.",
       "image": {
-        "src": "/luxury/layer-brand-storytelling.png",
+        "src": "/assets/luxury/layer-brand-storytelling.png",
         "alt": "럭셔리 부동산 및 호스피탈리티 플랫폼을 위한 AI 브랜드 스토리텔링 레이어",
         "width": 1200,
         "height": 750,
         "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
         "mobile": {
-          "src": "/luxury/mobile/layer-brand-storytelling.webp",
+          "src": "/assets/luxury/mobile/layer-brand-storytelling.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/luxury/thumbnail/layer-brand-storytelling.webp",
+          "src": "/assets/luxury/thumbnail/layer-brand-storytelling.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/luxury/desktop/layer-brand-storytelling.webp",
+          "src": "/assets/luxury/desktop/layer-brand-storytelling.webp",
           "width": 1600,
           "height": 1000,
           "quality": 82
@@ -320,31 +316,31 @@
       "title": "고객 여정 인텔리전스",
       "text": "발견, 문의, 예약, 주문, 방문, 구매, 재방문까지 AI 지원 여정을 설계합니다.",
       "image": {
-        "src": "/luxury/layer-customer-journey.png",
+        "src": "/assets/luxury/layer-customer-journey.png",
         "alt": "프리미엄 목적지와 럭셔리 서비스 경험을 위한 고객 여정 인텔리전스",
         "width": 1200,
         "height": 750,
         "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
         "mobile": {
-          "src": "/luxury/mobile/layer-customer-journey.webp",
+          "src": "/assets/luxury/mobile/layer-customer-journey.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/luxury/thumbnail/layer-customer-journey.webp",
+          "src": "/assets/luxury/thumbnail/layer-customer-journey.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/luxury/desktop/layer-customer-journey.webp",
+          "src": "/assets/luxury/desktop/layer-customer-journey.webp",
           "width": 1600,
           "height": 1000,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/luxury/open_graph/layer-customer-journey.png",
+          "src": "/open_graph/luxury/open_graph/layer-customer-journey.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -355,31 +351,31 @@
       "title": "서비스 워크플로 플랫폼",
       "text": "문의, 예약, 컨시어지 서비스, 주문, 배송, 서비스 추적 등 실제 비즈니스 운영을 지원합니다.",
       "image": {
-        "src": "/luxury/layer-service-workflow.png",
+        "src": "/assets/luxury/layer-service-workflow.png",
         "alt": "호스피탈리티 비즈니스와 프리미엄 운영을 위한 서비스 워크플로 플랫폼",
         "width": 1200,
         "height": 750,
         "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
         "mobile": {
-          "src": "/luxury/mobile/layer-service-workflow.webp",
+          "src": "/assets/luxury/mobile/layer-service-workflow.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/luxury/thumbnail/layer-service-workflow.webp",
+          "src": "/assets/luxury/thumbnail/layer-service-workflow.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/luxury/desktop/layer-service-workflow.webp",
+          "src": "/assets/luxury/desktop/layer-service-workflow.webp",
           "width": 1600,
           "height": 1000,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/luxury/open_graph/layer-service-workflow.png",
+          "src": "/open_graph/luxury/open_graph/layer-service-workflow.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -390,31 +386,31 @@
       "title": "럭셔리 커머스 인텔리전스",
       "text": "제품, 서비스, 미디어, 프리미엄 고객 수요를 확장 가능한 커머스 기반으로 연결합니다.",
       "image": {
-        "src": "/luxury/layer-commerce-intelligence.png",
+        "src": "/assets/luxury/layer-commerce-intelligence.png",
         "alt": "제품과 프리미엄 고객 수요를 연결하는 럭셔리 커머스 인텔리전스 레이어",
         "width": 1200,
         "height": 750,
         "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
         "mobile": {
-          "src": "/luxury/mobile/layer-commerce-intelligence.webp",
+          "src": "/assets/luxury/mobile/layer-commerce-intelligence.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/luxury/thumbnail/layer-commerce-intelligence.webp",
+          "src": "/assets/luxury/thumbnail/layer-commerce-intelligence.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/luxury/desktop/layer-commerce-intelligence.webp",
+          "src": "/assets/luxury/desktop/layer-commerce-intelligence.webp",
           "width": 1600,
           "height": 1000,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/luxury/open_graph/layer-commerce-intelligence.png",
+          "src": "/open_graph/luxury/open_graph/layer-commerce-intelligence.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -425,31 +421,31 @@
       "title": "벤처 확장 준비 기반",
       "text": "SaaS, 목적지 시스템, 호스피탈리티 도구, 분석, 스마트시티 경험으로 성장할 수 있는 플랫폼 기반을 구축합니다.",
       "image": {
-        "src": "/luxury/layer-venture-readiness.png",
+        "src": "/assets/luxury/layer-venture-readiness.png",
         "alt": "미래 벤처 확장을 준비한 AI Luxury 플랫폼 기반",
         "width": 1200,
         "height": 750,
         "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
         "mobile": {
-          "src": "/luxury/mobile/layer-venture-readiness.webp",
+          "src": "/assets/luxury/mobile/layer-venture-readiness.webp",
           "width": 800,
           "height": 500,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/luxury/thumbnail/layer-venture-readiness.webp",
+          "src": "/assets/luxury/thumbnail/layer-venture-readiness.webp",
           "width": 640,
           "height": 400,
           "quality": 72
         },
         "desktop": {
-          "src": "/luxury/desktop/layer-venture-readiness.webp",
+          "src": "/assets/luxury/desktop/layer-venture-readiness.webp",
           "width": 1600,
           "height": 1000,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/luxury/open_graph/layer-venture-readiness.png",
+          "src": "/open_graph/luxury/open_graph/layer-venture-readiness.png",
           "width": 1200,
           "height": 630,
           "quality": 82

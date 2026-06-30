@@ -82,9 +82,9 @@ export default function HumanDailyFlow({lang, data}: { lang: string; data: IHuma
                 name: flow.title,
                 description: flow.paragraph,
                 url: `https://www.chornplanet.com${href}`,
-                image: flow.image.url.startsWith("http")
-                    ? flow.image.url
-                    : `https://www.chornplanet.com${flow.image.url}`,
+                image: getPlatformImageSrc(flow.image, "desktop").startsWith("http")
+                    ? getPlatformImageSrc(flow.image, "desktop")
+                    : `https://www.chornplanet.com${getPlatformImageSrc(flow.image, "desktop")}`,
             };
         }),
     };

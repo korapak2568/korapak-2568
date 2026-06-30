@@ -39,11 +39,7 @@
       "category": "Society & Economy",
       "description": "식량, 주거 지원, 의료, 교육, 교통, 연결성, 필수 공공요금이 점차 분절된 복지 프로그램이 아니라 보장된 공공 인프라가 된다.",
       "layerId": "society",
-      "domains": [
-        "post-scarcity",
-        "public-services",
-        "social-systems"
-      ],
+      "domains": ["post-scarcity", "public-services", "social-systems"],
       "maturity": "policy-transition",
       "timeframe": {
         "startYear": 2060,
@@ -69,30 +65,30 @@
           "AI-assisted public services dashboard coordinating housing, food, healthcare, and transport access across a modern city, realistic civic technology, 16:9",
           "Families using seamless essential services through a welcoming civic center, warm hopeful atmosphere, near-future documentary style, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-universal-basic-services-replace-traditional-welfare.png",
+        "src": "/assets/future-roadmap/era-03/era-03-universal-basic-services-replace-traditional-welfare.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-universal-basic-services-replace-traditional-welfare.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-universal-basic-services-replace-traditional-welfare.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-universal-basic-services-replace-traditional-welfare.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-universal-basic-services-replace-traditional-welfare.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-universal-basic-services-replace-traditional-welfare.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -108,11 +104,7 @@
       "category": "AI & Computing",
       "description": "AI 관리 공급망이 수요를 예측하고 잉여 식품을 배분하며 저장을 최적화하고 지역 유통을 조율하여 대부분의 먹을 수 있는 식품이 더 이상 폐기되지 않게 한다.",
       "layerId": "technology",
-      "domains": [
-        "artificial-intelligence",
-        "food-systems",
-        "logistics"
-      ],
+      "domains": ["artificial-intelligence", "food-systems", "logistics"],
       "maturity": "global-optimization",
       "timeframe": {
         "startYear": 2058,
@@ -138,30 +130,30 @@
           "Warehouse robots sorting produce to prevent spoilage, transparent AI dashboards showing waste reduction, realistic near future, 16:9",
           "Community food hub receiving perfectly timed deliveries from AI-optimized supply chains, hopeful post-scarcity society, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-ai-managed-food-logistics-eliminates-most-food-waste.png",
+        "src": "/assets/future-roadmap/era-03/era-03-ai-managed-food-logistics-eliminates-most-food-waste.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-managed-food-logistics-eliminates-most-food-waste.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-ai-managed-food-logistics-eliminates-most-food-waste.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -177,11 +169,7 @@
       "category": "Environment",
       "description": "첨단 정화, 담수화, 누수 감지, 스마트 배분, 저비용 지역 처리 시스템이 거의 모든 공동체에 안전한 물 접근을 제공한다.",
       "layerId": "civilization",
-      "domains": [
-        "water",
-        "public-health",
-        "infrastructure"
-      ],
+      "domains": ["water", "public-health", "infrastructure"],
       "maturity": "near-universal-access",
       "timeframe": {
         "startYear": 2058,
@@ -207,30 +195,30 @@
           "Children and families using a beautiful public clean water station in a restored village, optimistic post-scarcity future, 16:9",
           "Advanced water purification plant beside a river with transparent tanks and environmental sensors, realistic infrastructure scene, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-clean-water-access-reaches-nearly-all-humans.png",
+        "src": "/assets/future-roadmap/era-03/era-03-clean-water-access-reaches-nearly-all-humans.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-clean-water-access-reaches-nearly-all-humans.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-clean-water-access-reaches-nearly-all-humans.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-clean-water-access-reaches-nearly-all-humans.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-clean-water-access-reaches-nearly-all-humans.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-clean-water-access-reaches-nearly-all-humans.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -246,11 +234,7 @@
       "category": "Energy",
       "description": "핵융합 에너지가 대규모 담수화 회랑을 가능하게 하여 배출을 최소화하고 강과 대수층의 압력을 줄이면서 풍부한 담수를 생산한다.",
       "layerId": "technology",
-      "domains": [
-        "fusion-energy",
-        "water",
-        "climate-adaptation"
-      ],
+      "domains": ["fusion-energy", "water", "climate-adaptation"],
       "maturity": "network-launch",
       "timeframe": {
         "startYear": 2062,
@@ -276,30 +260,30 @@
           "Coastal fusion plant beside advanced desalination towers with clean water reservoirs and restored desert agriculture beyond, 16:9",
           "Engineers monitoring eco-safe desalination and brine processing systems near a blue ocean, realistic climate-adaptation technology, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-global-desalination-network-powered-by-fusion-begins-operation.png",
+        "src": "/assets/future-roadmap/era-03/era-03-global-desalination-network-powered-by-fusion-begins-operation.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-desalination-network-powered-by-fusion-begins-operation.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-global-desalination-network-powered-by-fusion-begins-operation.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -315,11 +299,7 @@
       "category": "Society & Economy",
       "description": "AI 튜터, 적응형 커리큘럼, 몰입형 시뮬레이션, 공공 학습 네트워크가 모든 연령의 누구에게나 고품질 교육을 제공한다.",
       "layerId": "society",
-      "domains": [
-        "education",
-        "artificial-intelligence",
-        "public-services"
-      ],
+      "domains": ["education", "artificial-intelligence", "public-services"],
       "maturity": "mainstream-public-access",
       "timeframe": {
         "startYear": 2055,
@@ -345,30 +325,30 @@
           "Global public education platform connecting learners from many countries through translation and immersive classrooms, clean futuristic style, 16:9",
           "Elderly learner and young student studying together with personalized AI guidance, lifelong learning society, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-education-becomes-fully-personalized-and-free.png",
+        "src": "/assets/future-roadmap/era-03/era-03-education-becomes-fully-personalized-and-free.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-education-becomes-fully-personalized-and-free.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-education-becomes-fully-personalized-and-free.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-education-becomes-fully-personalized-and-free.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-education-becomes-fully-personalized-and-free.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-education-becomes-fully-personalized-and-free.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-education-becomes-fully-personalized-and-free.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-education-becomes-fully-personalized-and-free.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-education-becomes-fully-personalized-and-free.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -384,11 +364,7 @@
       "category": "AI & Computing",
       "description": "개인 AI 금융 시스템이 위험을 조기에 감지하고 청구서를 협상하며 상환 계획을 최적화하고, 가계가 부채 악순환에 빠지기 전에 방향을 안내한다.",
       "layerId": "society",
-      "domains": [
-        "artificial-intelligence",
-        "finance",
-        "consumer-protection"
-      ],
+      "domains": ["artificial-intelligence", "finance", "consumer-protection"],
       "maturity": "regulated-mainstream",
       "timeframe": {
         "startYear": 2058,
@@ -414,30 +390,30 @@
           "Community financial clinic using regulated AI advisors to protect households from debt spirals, optimistic post-scarcity society, 16:9",
           "Close-up of privacy-preserving AI budget system warning a household before debt risk becomes severe, clean interface, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.png",
+        "src": "/assets/future-roadmap/era-03/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -453,11 +429,7 @@
       "category": "Robotics",
       "description": "보조 로봇, 가정 센서, 원격의료, AI 돌봄 조율이 노년층의 이동, 복약, 동반감, 긴급 대응을 지원한다.",
       "layerId": "society",
-      "domains": [
-        "robotics",
-        "healthcare",
-        "eldercare"
-      ],
+      "domains": ["robotics", "healthcare", "eldercare"],
       "maturity": "wide-adoption",
       "timeframe": {
         "startYear": 2056,
@@ -483,30 +455,30 @@
           "Community eldercare center where robots support mobility, meals, and companionship under human supervision, optimistic society, 16:9",
           "Close-up of eldercare robot offering a glass of water while health sensors quietly monitor safety, respectful human-centered scene, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-robotic-eldercare-becomes-widely-available.png",
+        "src": "/assets/future-roadmap/era-03/era-03-robotic-eldercare-becomes-widely-available.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-robotic-eldercare-becomes-widely-available.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-robotic-eldercare-becomes-widely-available.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-robotic-eldercare-becomes-widely-available.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-robotic-eldercare-becomes-widely-available.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-robotic-eldercare-becomes-widely-available.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -522,11 +494,7 @@
       "category": "Materials & Manufacturing",
       "description": "로봇 공학, 모듈형 제조, 첨단 소재, AI 설계, 간소화된 인허가가 안전한 주택을 짓는 비용과 시간을 크게 줄인다.",
       "layerId": "civilization",
-      "domains": [
-        "housing",
-        "construction",
-        "automation"
-      ],
+      "domains": ["housing", "construction", "automation"],
       "maturity": "mass-deployment",
       "timeframe": {
         "startYear": 2060,
@@ -552,30 +520,30 @@
           "AI-designed housing district with efficient materials, green spaces, and rapid robotic construction, bright post-scarcity city, 16:9",
           "Public housing project completed by autonomous builders with welcoming community spaces, human-centered future, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-construction-cost-of-housing-falls-by-80.png",
+        "src": "/assets/future-roadmap/era-03/era-03-construction-cost-of-housing-falls-by-80.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-construction-cost-of-housing-falls-by-80.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-construction-cost-of-housing-falls-by-80.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-construction-cost-of-housing-falls-by-80.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-construction-cost-of-housing-falls-by-80.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-construction-cost-of-housing-falls-by-80.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -591,11 +559,7 @@
       "category": "AI & Computing",
       "description": "승인된 AI 분쟁 시스템이 소액 청구, 과태료, 계약, 일상적 민사 갈등을 신속히 해결하며, 복잡하거나 다투어지는 사건에는 인간 항소 절차가 제공된다.",
       "layerId": "society",
-      "domains": [
-        "law",
-        "artificial-intelligence",
-        "public-services"
-      ],
+      "domains": ["law", "artificial-intelligence", "public-services"],
       "maturity": "regulated-automation",
       "timeframe": {
         "startYear": 2062,
@@ -621,30 +585,30 @@
           "People reviewing a clear AI dispute-resolution decision in a public service center, calm and accessible legal future, 16:9",
           "Transparent legal AI dashboard comparing evidence, rights, and settlement options for minor civil dispute, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-ai-courts-resolve-minor-legal-disputes-instantly.png",
+        "src": "/assets/future-roadmap/era-03/era-03-ai-courts-resolve-minor-legal-disputes-instantly.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-courts-resolve-minor-legal-disputes-instantly.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-ai-courts-resolve-minor-legal-disputes-instantly.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -660,11 +624,7 @@
       "category": "Environment",
       "description": "국제 시스템이 기후 영향으로 이주한 사람들을 위해 주거, 법적 지위, 교육, 일자리, 인프라 지원을 조율한다.",
       "layerId": "civilization",
-      "domains": [
-        "climate-adaptation",
-        "migration",
-        "governance"
-      ],
+      "domains": ["climate-adaptation", "migration", "governance"],
       "maturity": "global-coordination",
       "timeframe": {
         "startYear": 2060,
@@ -690,30 +650,30 @@
           "New climate-adaptive neighborhood welcoming resettled families with schools, clinics, and transit, optimistic civilization scene, 16:9",
           "International coordination room managing climate refugee support with maps, infrastructure plans, and humanitarian teams, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.png",
+        "src": "/assets/future-roadmap/era-03/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -729,11 +689,7 @@
       "category": "Energy",
       "description": "핵융합으로 구동되는 고에너지 재활용 공장이 소재를 대규모로 분류, 분리, 용융, 재구성하여 신규 채굴 수요를 줄인다.",
       "layerId": "technology",
-      "domains": [
-        "fusion-energy",
-        "recycling",
-        "circular-economy"
-      ],
+      "domains": ["fusion-energy", "recycling", "circular-economy"],
       "maturity": "industrial-scale",
       "timeframe": {
         "startYear": 2065,
@@ -759,30 +715,30 @@
           "City waste flowing into a fusion recycling facility and emerging as standardized material blocks, optimistic post-scarcity future, 16:9",
           "Engineers monitoring near-total material reuse in an advanced recycling control room, transparent dashboards, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.png",
+        "src": "/assets/future-roadmap/era-03/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -798,11 +754,7 @@
       "category": "Materials & Manufacturing",
       "description": "비료 생산이 청정 에너지, 포집 탄소 원료, 생물학적 질소 시스템, 저배출 화학으로 전환되어 배출보다 더 많은 탄소를 제거한다.",
       "layerId": "technology",
-      "domains": [
-        "agriculture",
-        "climate-technology",
-        "chemistry"
-      ],
+      "domains": ["agriculture", "climate-technology", "chemistry"],
       "maturity": "industrial-transition",
       "timeframe": {
         "startYear": 2060,
@@ -828,30 +780,30 @@
           "Chemical engineers monitoring clean ammonia and carbon capture systems for fertilizer production, modern industrial lab, 16:9",
           "Farmers receiving sustainable fertilizer from a clean-energy manufacturing hub, resilient food future, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-synthetic-fertilizer-production-becomes-carbon-negative.png",
+        "src": "/assets/future-roadmap/era-03/era-03-synthetic-fertilizer-production-becomes-carbon-negative.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-synthetic-fertilizer-production-becomes-carbon-negative.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-synthetic-fertilizer-production-becomes-carbon-negative.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -897,30 +849,30 @@
           "City operations center coordinating autonomous infrastructure across a self-running district, transparent dashboards, 16:9",
           "Night view of an autonomous city district with quiet transport pods, clean energy systems, and responsive public services, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-first-fully-autonomous-city-district-opens.png",
+        "src": "/assets/future-roadmap/era-03/era-03-first-fully-autonomous-city-district-opens.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-first-fully-autonomous-city-district-opens.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-first-fully-autonomous-city-district-opens.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-first-fully-autonomous-city-district-opens.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-first-fully-autonomous-city-district-opens.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-first-fully-autonomous-city-district-opens.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-first-fully-autonomous-city-district-opens.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-fully-autonomous-city-district-opens.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-first-fully-autonomous-city-district-opens.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -936,11 +888,7 @@
       "category": "AI & Computing",
       "description": "센서, 진료소, 유전체 모니터링, 환경 데이터, AI 모델로 구성된 글로벌 네트워크가 대부분의 팬데믹을 예방할 만큼 조기에 발생 위험을 감지한다.",
       "layerId": "technology",
-      "domains": [
-        "healthcare",
-        "public-health",
-        "artificial-intelligence"
-      ],
+      "domains": ["healthcare", "public-health", "artificial-intelligence"],
       "maturity": "global-operational-network",
       "timeframe": {
         "startYear": 2058,
@@ -966,30 +914,30 @@
           "Scientists monitoring wastewater, wildlife, and hospital data for outbreak prevention, realistic future public health scene, 16:9",
           "International health coordination center responding early to disease signals before pandemic spread, calm high-tech atmosphere, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.png",
+        "src": "/assets/future-roadmap/era-03/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1005,11 +953,7 @@
       "category": "Biology & Medicine",
       "description": "검증된 의약품 설계, 제조 프로토콜, 안전 데이터, 치료 지식이 승인된 지역 생산을 위해 글로벌 오픈 라이브러리로 공유된다.",
       "layerId": "society",
-      "domains": [
-        "medicine",
-        "biotechnology",
-        "knowledge-access"
-      ],
+      "domains": ["medicine", "biotechnology", "knowledge-access"],
       "maturity": "global-knowledge-network",
       "timeframe": {
         "startYear": 2060,
@@ -1035,30 +979,30 @@
           "Global map of open-source medicine access with clinics downloading verified therapies, clean healthcare technology, 16:9",
           "Scientists contributing medicine designs to a shared public health library, transparent data screens, human-centered future, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-open-source-medicine-libraries-become-available-worldwide.png",
+        "src": "/assets/future-roadmap/era-03/era-03-open-source-medicine-libraries-become-available-worldwide.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-open-source-medicine-libraries-become-available-worldwide.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-open-source-medicine-libraries-become-available-worldwide.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1074,11 +1018,7 @@
       "category": "Biology & Medicine",
       "description": "재생의학, 복제 조직, 혈관 스캐폴드, 신경 통합, 재활 로봇이 중증 손상에 대한 생물학적 팔다리 대체를 일상 진료로 만든다.",
       "layerId": "technology",
-      "domains": [
-        "regenerative-medicine",
-        "biotechnology",
-        "healthcare"
-      ],
+      "domains": ["regenerative-medicine", "biotechnology", "healthcare"],
       "maturity": "routine-clinical-care",
       "timeframe": {
         "startYear": 2065,
@@ -1104,30 +1044,30 @@
           "Surgeons and AI systems integrating nerves and blood vessels for cloned limb replacement, clean future medicine, 16:9",
           "Regenerative tissue lab with vascular scaffolds and cloned limb structures under careful monitoring, realistic biotech atmosphere, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.png",
+        "src": "/assets/future-roadmap/era-03/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1143,11 +1083,7 @@
       "category": "Biology & Medicine",
       "description": "안전한 유전자 치료와 조기 선별검사가 대부분의 유전성 질환을 평생 피해가 발생하기 전에 제거하거나 예방한다.",
       "layerId": "technology",
-      "domains": [
-        "gene-therapy",
-        "medicine",
-        "biotechnology"
-      ],
+      "domains": ["gene-therapy", "medicine", "biotechnology"],
       "maturity": "preventive-standard",
       "timeframe": {
         "startYear": 2060,
@@ -1173,30 +1109,30 @@
           "AI-assisted genomic screening dashboard identifying treatable hereditary risks, respectful healthcare scene, 16:9",
           "Public health center offering preventive gene therapy under strict ethical oversight, optimistic medical civilization, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.png",
+        "src": "/assets/future-roadmap/era-03/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1212,11 +1148,7 @@
       "category": "Energy",
       "description": "핵융합 발전이 신뢰할 수 있는 상업 운영에 도달하여 도시, 산업, 물 시스템, 첨단 제조에 풍부한 청정 에너지를 제공한다.",
       "layerId": "technology",
-      "domains": [
-        "fusion-energy",
-        "infrastructure",
-        "climate-technology"
-      ],
+      "domains": ["fusion-energy", "infrastructure", "climate-technology"],
       "maturity": "commercial-stability",
       "timeframe": {
         "startYear": 2058,
@@ -1242,30 +1174,30 @@
           "City skyline powered by a modern fusion plant with clean water and transport systems nearby, post-scarcity foundation, 16:9",
           "Industrial district using abundant fusion energy for clean manufacturing, bright realistic future, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.png",
+        "src": "/assets/future-roadmap/era-03/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1281,11 +1213,7 @@
       "category": "Civilization",
       "description": "세계 지도자, 과학자, 중재자, 시민사회가 문화와 갈등을 넘어 서로의 경험을 이해하도록 돕는 공감 인터페이스의 윤리 규칙을 수립한다.",
       "layerId": "society",
-      "domains": [
-        "governance",
-        "neurotechnology",
-        "peacebuilding"
-      ],
+      "domains": ["governance", "neurotechnology", "peacebuilding"],
       "maturity": "global-framework",
       "timeframe": {
         "startYear": 2068,
@@ -1311,30 +1239,30 @@
           "International neuroethics council reviewing emotional privacy and empathy technology safeguards, clean governance scene, 16:9",
           "Symbolic gathering of diverse communities connected through transparent empathy interface visualization, optimistic human civilization, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.png",
+        "src": "/assets/future-roadmap/era-03/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1380,30 +1308,30 @@
           "Atmospheric engineering control room monitoring carbon removal and air quality across continents, realistic future infrastructure, 16:9",
           "Massive but elegant air-cleaning structures in a restored industrial zone, bright hopeful climate technology, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.png",
+        "src": "/assets/future-roadmap/era-03/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1449,30 +1377,30 @@
           "Human-centered scene of aI Personal Life Managers Coordinate Daily Human Activities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating aI Personal Life Managers Coordinate Daily Human Activities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-ai-personal-life-managers-coordinate-daily-human-activities.png",
+        "src": "/assets/future-roadmap/era-03/era-03-ai-personal-life-managers-coordinate-daily-human-activities.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-personal-life-managers-coordinate-daily-human-activities.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-ai-personal-life-managers-coordinate-daily-human-activities.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1518,30 +1446,30 @@
           "Human-centered scene of fully Autonomous Agriculture Complexes Become Common, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating fully Autonomous Agriculture Complexes Become Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-fully-autonomous-agriculture-complexes-become-common.png",
+        "src": "/assets/future-roadmap/era-03/era-03-fully-autonomous-agriculture-complexes-become-common.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fully-autonomous-agriculture-complexes-become-common.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-fully-autonomous-agriculture-complexes-become-common.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1587,30 +1515,30 @@
           "Human-centered scene of household Service Robots Handle Most Domestic Tasks, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating household Service Robots Handle Most Domestic Tasks, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-household-service-robots-handle-most-domestic-tasks.png",
+        "src": "/assets/future-roadmap/era-03/era-03-household-service-robots-handle-most-domestic-tasks.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-household-service-robots-handle-most-domestic-tasks.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-household-service-robots-handle-most-domestic-tasks.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-household-service-robots-handle-most-domestic-tasks.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-household-service-robots-handle-most-domestic-tasks.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-household-service-robots-handle-most-domestic-tasks.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1656,30 +1584,30 @@
           "Human-centered scene of autonomous Infrastructure Repair Robots Maintain Cities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating autonomous Infrastructure Repair Robots Maintain Cities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-autonomous-infrastructure-repair-robots-maintain-cities.png",
+        "src": "/assets/future-roadmap/era-03/era-03-autonomous-infrastructure-repair-robots-maintain-cities.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-autonomous-infrastructure-repair-robots-maintain-cities.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-autonomous-infrastructure-repair-robots-maintain-cities.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1725,30 +1653,30 @@
           "Human-centered scene of ocean Cleanup Robot Fleets Restore Marine Ecosystems, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating ocean Cleanup Robot Fleets Restore Marine Ecosystems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.png",
+        "src": "/assets/future-roadmap/era-03/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1764,11 +1692,7 @@
       "category": "Energy",
       "description": "전 세계적으로 핵융합 에너지 비용이 화석연료보다 낮아지면서 물, 재활용, 식량, 대기 복구, 탈희소성 사회의 초기 기반을 위한 풍부한 청정 에너지가 실용화된다.",
       "layerId": "energy",
-      "domains": [
-        "fusion-energy",
-        "clean-energy",
-        "abundance-infrastructure"
-      ],
+      "domains": ["fusion-energy", "clean-energy", "abundance-infrastructure"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2070,
@@ -1794,30 +1718,30 @@
           "Human-centered scene of fusion Energy Cost Falls Below Fossil Fuels Worldwide, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating fusion Energy Cost Falls Below Fossil Fuels Worldwide, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.png",
+        "src": "/assets/future-roadmap/era-03/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1833,11 +1757,7 @@
       "category": "Space",
       "description": "영구 달 도시가 주민 10,000명에 도달하면서 외계 개발은 초기 전초기지에서 달 도시, 화성 정착지, 소행성 산업, 인공중력 거주지, 정기적 지구-달 운송으로 나아간다.",
       "layerId": "space",
-      "domains": [
-        "space-settlement",
-        "lunar-mars-systems",
-        "orbital-habitats"
-      ],
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2070,
@@ -1863,30 +1783,30 @@
           "Human-centered scene of permanent Lunar City Reaches 10,000 Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating permanent Lunar City Reaches 10,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-permanent-lunar-city-reaches-10-000-residents.png",
+        "src": "/assets/future-roadmap/era-03/era-03-permanent-lunar-city-reaches-10-000-residents.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-permanent-lunar-city-reaches-10-000-residents.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-permanent-lunar-city-reaches-10-000-residents.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1902,11 +1822,7 @@
       "category": "Space",
       "description": "첫 자급형 화성 정착지가 지구 보급으로부터 독립하면서 외계 개발은 초기 전초기지에서 달 도시, 화성 정착지, 소행성 산업, 인공중력 거주지, 정기적 지구-달 운송으로 나아간다.",
       "layerId": "space",
-      "domains": [
-        "space-settlement",
-        "lunar-mars-systems",
-        "orbital-habitats"
-      ],
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2071,
@@ -1932,30 +1848,30 @@
           "Human-centered scene of first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.png",
+        "src": "/assets/future-roadmap/era-03/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1971,11 +1887,7 @@
       "category": "Space",
       "description": "소행성 채굴 산업이 상업 규모에 도달하면서 외계 개발은 초기 전초기지에서 달 도시, 화성 정착지, 소행성 산업, 인공중력 거주지, 정기적 지구-달 운송으로 나아간다.",
       "layerId": "space",
-      "domains": [
-        "space-settlement",
-        "lunar-mars-systems",
-        "orbital-habitats"
-      ],
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2071,
@@ -2001,30 +1913,30 @@
           "Human-centered scene of asteroid Mining Industry Reaches Commercial Scale, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating asteroid Mining Industry Reaches Commercial Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-asteroid-mining-industry-reaches-commercial-scale.png",
+        "src": "/assets/future-roadmap/era-03/era-03-asteroid-mining-industry-reaches-commercial-scale.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-asteroid-mining-industry-reaches-commercial-scale.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-asteroid-mining-industry-reaches-commercial-scale.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2040,11 +1952,7 @@
       "category": "Space",
       "description": "인공중력 우주 거주지가 주민에게 개방되면서 외계 개발은 초기 전초기지에서 달 도시, 화성 정착지, 소행성 산업, 인공중력 거주지, 정기적 지구-달 운송으로 나아간다.",
       "layerId": "space",
-      "domains": [
-        "space-settlement",
-        "lunar-mars-systems",
-        "orbital-habitats"
-      ],
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2072,
@@ -2070,30 +1978,30 @@
           "Human-centered scene of artificial Gravity Space Habitat Opens to Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating artificial Gravity Space Habitat Opens to Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-artificial-gravity-space-habitat-opens-to-residents.png",
+        "src": "/assets/future-roadmap/era-03/era-03-artificial-gravity-space-habitat-opens-to-residents.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-artificial-gravity-space-habitat-opens-to-residents.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-artificial-gravity-space-habitat-opens-to-residents.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2109,11 +2017,7 @@
       "category": "Space",
       "description": "지구-달 여객 운송이 일상화되면서 외계 개발은 초기 전초기지에서 달 도시, 화성 정착지, 소행성 산업, 인공중력 거주지, 정기적 지구-달 운송으로 나아간다.",
       "layerId": "space",
-      "domains": [
-        "space-settlement",
-        "lunar-mars-systems",
-        "orbital-habitats"
-      ],
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2073,
@@ -2139,30 +2043,30 @@
           "Human-centered scene of earth-Moon Passenger Transport Becomes Routine, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating earth-Moon Passenger Transport Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-earth-moon-passenger-transport-becomes-routine.png",
+        "src": "/assets/future-roadmap/era-03/era-03-earth-moon-passenger-transport-becomes-routine.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-earth-moon-passenger-transport-becomes-routine.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-earth-moon-passenger-transport-becomes-routine.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-earth-moon-passenger-transport-becomes-routine.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-earth-moon-passenger-transport-becomes-routine.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-earth-moon-passenger-transport-becomes-routine.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2178,11 +2082,7 @@
       "category": "Biology & Medicine",
       "description": "장기 프린팅은 의학을 치료에서 재생, 예방, 오픈소스 접근, 장기 프린팅, 건강수명의 큰 향상으로 확장한다.",
       "layerId": "biology-medicine",
-      "domains": [
-        "advanced-medicine",
-        "regenerative-biology",
-        "human-health"
-      ],
+      "domains": ["advanced-medicine", "regenerative-biology", "human-health"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2073,
@@ -2208,30 +2108,30 @@
           "Human-centered scene of organ Printing Replaces Most Donor Transplants, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating organ Printing Replaces Most Donor Transplants, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-organ-printing-replaces-most-donor-transplants.png",
+        "src": "/assets/future-roadmap/era-03/era-03-organ-printing-replaces-most-donor-transplants.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-organ-printing-replaces-most-donor-transplants.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-organ-printing-replaces-most-donor-transplants.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-organ-printing-replaces-most-donor-transplants.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-organ-printing-replaces-most-donor-transplants.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-organ-printing-replaces-most-donor-transplants.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2247,11 +2147,7 @@
       "category": "Biology & Medicine",
       "description": "대다수 인구의 인간 수명이 120년을 넘어서면서 의학은 치료에서 재생, 예방, 오픈소스 접근, 장기 프린팅, 건강수명의 큰 향상으로 확장된다.",
       "layerId": "biology-medicine",
-      "domains": [
-        "advanced-medicine",
-        "regenerative-biology",
-        "human-health"
-      ],
+      "domains": ["advanced-medicine", "regenerative-biology", "human-health"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2074,
@@ -2277,30 +2173,30 @@
           "Human-centered scene of human Lifespan Exceeds 120 Years for the Majority Population, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating human Lifespan Exceeds 120 Years for the Majority Population, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.png",
+        "src": "/assets/future-roadmap/era-03/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2316,11 +2212,7 @@
       "category": "Physics",
       "description": "인공중력 시스템은 양자 통신, 인공중력, 방사선 차폐, 단백질 과학, 초전도 시스템을 위한 실용 인프라로 첨단 물리학을 이동시킨다.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2074,
@@ -2346,30 +2238,30 @@
           "Human-centered scene of artificial Gravity Systems Become Reliable for Large Habitats, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating artificial Gravity Systems Become Reliable for Large Habitats, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.png",
+        "src": "/assets/future-roadmap/era-03/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2385,11 +2277,7 @@
       "category": "Physics",
       "description": "양자 통신 네트워크는 양자 통신, 인공중력, 방사선 차폐, 단백질 과학, 초전도 시스템을 위한 실용 인프라로 첨단 물리학을 이동시킨다.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2075,
@@ -2415,30 +2303,30 @@
           "Human-centered scene of quantum Communication Networks Become Globally Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating quantum Communication Networks Become Globally Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-quantum-communication-networks-become-globally-standard.png",
+        "src": "/assets/future-roadmap/era-03/era-03-quantum-communication-networks-become-globally-standard.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-quantum-communication-networks-become-globally-standard.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-quantum-communication-networks-become-globally-standard.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-quantum-communication-networks-become-globally-standard.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-quantum-communication-networks-become-globally-standard.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-quantum-communication-networks-become-globally-standard.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2454,11 +2342,7 @@
       "category": "Physics",
       "description": "자기 방사선 차폐는 양자 통신, 인공중력, 방사선 차폐, 단백질 과학, 초전도 시스템을 위한 실용 인프라로 첨단 물리학을 이동시킨다.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2076,
@@ -2484,30 +2368,30 @@
           "Human-centered scene of magnetic Radiation Shielding Protects Space Settlements, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating magnetic Radiation Shielding Protects Space Settlements, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-magnetic-radiation-shielding-protects-space-settlements.png",
+        "src": "/assets/future-roadmap/era-03/era-03-magnetic-radiation-shielding-protects-space-settlements.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-magnetic-radiation-shielding-protects-space-settlements.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-magnetic-radiation-shielding-protects-space-settlements.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2523,11 +2407,7 @@
       "category": "Physics",
       "description": "대규모 양자컴퓨팅은 양자 통신, 인공중력, 방사선 차폐, 단백질 과학, 초전도 시스템을 위한 실용 인프라로 첨단 물리학을 이동시킨다.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2076,
@@ -2553,30 +2433,30 @@
           "Human-centered scene of large-Scale Quantum Computing Solves Protein Folding Universally, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating large-Scale Quantum Computing Solves Protein Folding Universally, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-large-scale-quantum-computing-solves-protein-folding-universally.png",
+        "src": "/assets/future-roadmap/era-03/era-03-large-scale-quantum-computing-solves-protein-folding-universally.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-large-scale-quantum-computing-solves-protein-folding-universally.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-large-scale-quantum-computing-solves-protein-folding-universally.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2592,11 +2472,7 @@
       "category": "Physics",
       "description": "상온 초전도체는 양자 통신, 인공중력, 방사선 차폐, 단백질 과학, 초전도 시스템을 위한 실용 인프라로 첨단 물리학을 이동시킨다.",
       "layerId": "physics",
-      "domains": [
-        "quantum-systems",
-        "gravity",
-        "advanced-physics"
-      ],
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2077,
@@ -2622,30 +2498,30 @@
           "Human-centered scene of room-Temperature Superconductors Become Commercially Common, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating room-Temperature Superconductors Become Commercially Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-room-temperature-superconductors-become-commercially-common.png",
+        "src": "/assets/future-roadmap/era-03/era-03-room-temperature-superconductors-become-commercially-common.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-room-temperature-superconductors-become-commercially-common.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-room-temperature-superconductors-become-commercially-common.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-room-temperature-superconductors-become-commercially-common.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-room-temperature-superconductors-become-commercially-common.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-room-temperature-superconductors-become-commercially-common.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2691,30 +2567,30 @@
           "Human-centered scene of self-Healing Infrastructure Materials Become Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating self-Healing Infrastructure Materials Become Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-self-healing-infrastructure-materials-become-standard.png",
+        "src": "/assets/future-roadmap/era-03/era-03-self-healing-infrastructure-materials-become-standard.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-self-healing-infrastructure-materials-become-standard.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-self-healing-infrastructure-materials-become-standard.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-self-healing-infrastructure-materials-become-standard.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-self-healing-infrastructure-materials-become-standard.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-self-healing-infrastructure-materials-become-standard.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2760,30 +2636,30 @@
           "Human-centered scene of programmable Matter Enters Industrial Production, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating programmable Matter Enters Industrial Production, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-programmable-matter-enters-industrial-production.png",
+        "src": "/assets/future-roadmap/era-03/era-03-programmable-matter-enters-industrial-production.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-programmable-matter-enters-industrial-production.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-programmable-matter-enters-industrial-production.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-programmable-matter-enters-industrial-production.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-programmable-matter-enters-industrial-production.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-programmable-matter-enters-industrial-production.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-programmable-matter-enters-industrial-production.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-programmable-matter-enters-industrial-production.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-programmable-matter-enters-industrial-production.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2829,30 +2705,30 @@
           "Human-centered scene of molecular Manufacturing Begins Commercial Deployment, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating molecular Manufacturing Begins Commercial Deployment, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-molecular-manufacturing-begins-commercial-deployment.png",
+        "src": "/assets/future-roadmap/era-03/era-03-molecular-manufacturing-begins-commercial-deployment.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-molecular-manufacturing-begins-commercial-deployment.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-molecular-manufacturing-begins-commercial-deployment.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2898,30 +2774,30 @@
           "Human-centered scene of biodiversity Loss Stops and Global Recovery Begins, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating biodiversity Loss Stops and Global Recovery Begins, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-biodiversity-loss-stops-and-global-recovery-begins.png",
+        "src": "/assets/future-roadmap/era-03/era-03-biodiversity-loss-stops-and-global-recovery-begins.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-biodiversity-loss-stops-and-global-recovery-begins.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-biodiversity-loss-stops-and-global-recovery-begins.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2967,30 +2843,30 @@
           "Human-centered scene of desert Greening Projects Restore Millions of Square Kilometers, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating desert Greening Projects Restore Millions of Square Kilometers, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-desert-greening-projects-restore-millions-of-square-kilometers.png",
+        "src": "/assets/future-roadmap/era-03/era-03-desert-greening-projects-restore-millions-of-square-kilometers.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-desert-greening-projects-restore-millions-of-square-kilometers.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-desert-greening-projects-restore-millions-of-square-kilometers.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3036,30 +2912,30 @@
           "Human-centered scene of carbon Concentration Returns Below Pre-Industrial Levels, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating carbon Concentration Returns Below Pre-Industrial Levels, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-carbon-concentration-returns-below-pre-industrial-levels.png",
+        "src": "/assets/future-roadmap/era-03/era-03-carbon-concentration-returns-below-pre-industrial-levels.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-carbon-concentration-returns-below-pre-industrial-levels.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-carbon-concentration-returns-below-pre-industrial-levels.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3075,11 +2951,7 @@
       "category": "Society & Economy",
       "description": "주 4일 근무제는 복지, 교육, 빈곤, 부채, 노동, 기본 서비스를 희소성 관리가 아니라 보편적 접근과 풍요를 중심으로 재구성한다.",
       "layerId": "society-economy",
-      "domains": [
-        "post-scarcity",
-        "public-services",
-        "economic-systems"
-      ],
+      "domains": ["post-scarcity", "public-services", "economic-systems"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2081,
@@ -3105,30 +2977,30 @@
           "Human-centered scene of four-Day Workweek Becomes Global Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating four-Day Workweek Becomes Global Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-four-day-workweek-becomes-global-standard.png",
+        "src": "/assets/future-roadmap/era-03/era-03-four-day-workweek-becomes-global-standard.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-four-day-workweek-becomes-global-standard.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-four-day-workweek-becomes-global-standard.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-four-day-workweek-becomes-global-standard.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-four-day-workweek-becomes-global-standard.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-four-day-workweek-becomes-global-standard.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-four-day-workweek-becomes-global-standard.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-four-day-workweek-becomes-global-standard.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-four-day-workweek-becomes-global-standard.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3144,11 +3016,7 @@
       "category": "Society & Economy",
       "description": "전 세계 극심한 빈곤이 1% 아래로 떨어지면서 복지, 교육, 빈곤, 부채, 노동, 기본 서비스가 희소성 관리가 아니라 보편적 접근과 풍요를 중심으로 재구성된다.",
       "layerId": "society-economy",
-      "domains": [
-        "post-scarcity",
-        "public-services",
-        "economic-systems"
-      ],
+      "domains": ["post-scarcity", "public-services", "economic-systems"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2082,
@@ -3174,30 +3042,30 @@
           "Human-centered scene of extreme Poverty Falls Below One Percent Worldwide, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating extreme Poverty Falls Below One Percent Worldwide, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-extreme-poverty-falls-below-one-percent-worldwide.png",
+        "src": "/assets/future-roadmap/era-03/era-03-extreme-poverty-falls-below-one-percent-worldwide.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-extreme-poverty-falls-below-one-percent-worldwide.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-extreme-poverty-falls-below-one-percent-worldwide.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3213,11 +3081,7 @@
       "category": "Society & Economy",
       "description": "현금 없는 경제가 거의 보편화되면서 복지, 교육, 빈곤, 부채, 노동, 기본 서비스가 희소성 관리가 아니라 보편적 접근과 풍요를 중심으로 재구성된다.",
       "layerId": "society-economy",
-      "domains": [
-        "post-scarcity",
-        "public-services",
-        "economic-systems"
-      ],
+      "domains": ["post-scarcity", "public-services", "economic-systems"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2082,
@@ -3243,30 +3107,30 @@
           "Human-centered scene of cashless Economies Become Nearly Universal, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating cashless Economies Become Nearly Universal, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-cashless-economies-become-nearly-universal.png",
+        "src": "/assets/future-roadmap/era-03/era-03-cashless-economies-become-nearly-universal.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-cashless-economies-become-nearly-universal.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-cashless-economies-become-nearly-universal.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-cashless-economies-become-nearly-universal.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-cashless-economies-become-nearly-universal.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-cashless-economies-become-nearly-universal.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-cashless-economies-become-nearly-universal.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-cashless-economies-become-nearly-universal.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-cashless-economies-become-nearly-universal.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3282,11 +3146,7 @@
       "category": "Civilization",
       "description": "글로벌 인권 프레임워크가 AI 존재를 포함하도록 확장되면서 풍요 사회에 필요한 새로운 거버넌스, 평화, 권리, 행성 자원 제도가 만들어진다.",
       "layerId": "civilization",
-      "domains": [
-        "governance",
-        "rights",
-        "planetary-civilization"
-      ],
+      "domains": ["governance", "rights", "planetary-civilization"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2083,
@@ -3312,30 +3172,30 @@
           "Human-centered scene of global Human Rights Framework Expands to Include AI Entities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating global Human Rights Framework Expands to Include AI Entities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-global-human-rights-framework-expands-to-include-ai-entities.png",
+        "src": "/assets/future-roadmap/era-03/era-03-global-human-rights-framework-expands-to-include-ai-entities.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-human-rights-framework-expands-to-include-ai-entities.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-global-human-rights-framework-expands-to-include-ai-entities.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3351,11 +3211,7 @@
       "category": "Civilization",
       "description": "첫 행성 자원 거버넌스 위원회가 설립되면서 풍요 사회에 필요한 새로운 거버넌스, 평화, 권리, 행성 자원 제도가 만들어진다.",
       "layerId": "civilization",
-      "domains": [
-        "governance",
-        "rights",
-        "planetary-civilization"
-      ],
+      "domains": ["governance", "rights", "planetary-civilization"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2083,
@@ -3381,30 +3237,30 @@
           "Human-centered scene of first Planetary Resource Governance Council Is Established, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating first Planetary Resource Governance Council Is Established, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-first-planetary-resource-governance-council-is-established.png",
+        "src": "/assets/future-roadmap/era-03/era-03-first-planetary-resource-governance-council-is-established.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-first-planetary-resource-governance-council-is-established.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-first-planetary-resource-governance-council-is-established.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-first-planetary-resource-governance-council-is-established.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-planetary-resource-governance-council-is-established.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-first-planetary-resource-governance-council-is-established.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3420,11 +3276,7 @@
       "category": "Civilization",
       "description": "대부분의 국가에서 인간개발지수가 역사적 최고치에 도달하면서 풍요 사회에 필요한 새로운 거버넌스, 평화, 권리, 행성 자원 제도가 만들어진다.",
       "layerId": "civilization",
-      "domains": [
-        "governance",
-        "rights",
-        "planetary-civilization"
-      ],
+      "domains": ["governance", "rights", "planetary-civilization"],
       "maturity": "post-scarcity-foundation",
       "timeframe": {
         "startYear": 2084,
@@ -3450,30 +3302,30 @@
           "Human-centered scene of human Development Index Reaches Historical High Across Most Nations, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating human Development Index Reaches Historical High Across Most Nations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-03/era-03-human-development-index-reaches-historical-high-across-most-nations.png",
+        "src": "/assets/future-roadmap/era-03/era-03-human-development-index-reaches-historical-high-across-most-nations.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-03/mobile/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "src": "/assets/future-roadmap/era-03/mobile/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-03/thumbnail/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "src": "/assets/future-roadmap/era-03/thumbnail/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-03/desktop/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "src": "/assets/future-roadmap/era-03/desktop/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-human-development-index-reaches-historical-high-across-most-nations.png",
+          "src": "/open_graph/future-roadmap/era-03/open_graph/era-03-human-development-index-reaches-historical-high-across-most-nations.png",
           "width": 1200,
           "height": 630,
           "quality": 82

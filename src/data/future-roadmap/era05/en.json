@@ -69,30 +69,30 @@
           "Human-centered scene of orbital Ring Section Completed, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating orbital Ring Section Completed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-orbital-ring-section-completed.png",
+        "src": "/assets/future-roadmap/era-05/era-05-orbital-ring-section-completed.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-orbital-ring-section-completed.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-orbital-ring-section-completed.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-orbital-ring-section-completed.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-orbital-ring-section-completed.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-orbital-ring-section-completed.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-orbital-ring-section-completed.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-orbital-ring-section-completed.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-orbital-ring-section-completed.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -138,30 +138,30 @@
           "Human-centered scene of first True Moon City Reaches 10,000 Residents, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating first True Moon City Reaches 10,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-first-true-moon-city-reaches-10-000-residents.png",
+        "src": "/assets/future-roadmap/era-05/era-05-first-true-moon-city-reaches-10-000-residents.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-first-true-moon-city-reaches-10-000-residents.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-first-true-moon-city-reaches-10-000-residents.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-first-true-moon-city-reaches-10-000-residents.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-first-true-moon-city-reaches-10-000-residents.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-first-true-moon-city-reaches-10-000-residents.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-first-true-moon-city-reaches-10-000-residents.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-first-true-moon-city-reaches-10-000-residents.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-first-true-moon-city-reaches-10-000-residents.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -207,30 +207,30 @@
           "Human-centered scene of artificial Magnetosphere Protects Early Mars Settlements, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating artificial Magnetosphere Protects Early Mars Settlements, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-artificial-magnetosphere-protects-early-mars-settlements.png",
+        "src": "/assets/future-roadmap/era-05/era-05-artificial-magnetosphere-protects-early-mars-settlements.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-artificial-magnetosphere-protects-early-mars-settlements.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-artificial-magnetosphere-protects-early-mars-settlements.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -276,30 +276,30 @@
           "Human-centered scene of o’Neill Cylinder Completed, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating o’Neill Cylinder Completed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-oneill-cylinder-completed.png",
+        "src": "/assets/future-roadmap/era-05/era-05-oneill-cylinder-completed.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-oneill-cylinder-completed.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-oneill-cylinder-completed.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-oneill-cylinder-completed.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-oneill-cylinder-completed.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-oneill-cylinder-completed.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-oneill-cylinder-completed.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-oneill-cylinder-completed.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-oneill-cylinder-completed.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -345,30 +345,30 @@
           "Human-centered scene of quantum Internet Connects Earth, Moon, and Mars, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating quantum Internet Connects Earth, Moon, and Mars, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-quantum-internet-connects-earth-moon-and-mars.png",
+        "src": "/assets/future-roadmap/era-05/era-05-quantum-internet-connects-earth-moon-and-mars.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-quantum-internet-connects-earth-moon-and-mars.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-quantum-internet-connects-earth-moon-and-mars.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -414,30 +414,30 @@
           "Human-centered scene of first Interplanetary Olympic Games Held, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating first Interplanetary Olympic Games Held, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-first-interplanetary-olympic-games-held.png",
+        "src": "/assets/future-roadmap/era-05/era-05-first-interplanetary-olympic-games-held.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-first-interplanetary-olympic-games-held.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-first-interplanetary-olympic-games-held.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-first-interplanetary-olympic-games-held.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-first-interplanetary-olympic-games-held.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-first-interplanetary-olympic-games-held.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-first-interplanetary-olympic-games-held.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-first-interplanetary-olympic-games-held.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-first-interplanetary-olympic-games-held.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -483,30 +483,30 @@
           "Human-centered scene of planet-Scale AI Mediates Geopolitical Conflicts, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating planet-Scale AI Mediates Geopolitical Conflicts, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-planet-scale-ai-mediates-geopolitical-conflicts.png",
+        "src": "/assets/future-roadmap/era-05/era-05-planet-scale-ai-mediates-geopolitical-conflicts.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-planet-scale-ai-mediates-geopolitical-conflicts.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-planet-scale-ai-mediates-geopolitical-conflicts.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -548,30 +548,30 @@
           "Human-centered scene of neural Telepresence Replaces Most Long-Distance Travel, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating neural Telepresence Replaces Most Long-Distance Travel, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-neural-telepresence-replaces-most-long-distance-travel.png",
+        "src": "/assets/future-roadmap/era-05/era-05-neural-telepresence-replaces-most-long-distance-travel.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-neural-telepresence-replaces-most-long-distance-travel.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-neural-telepresence-replaces-most-long-distance-travel.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -617,30 +617,30 @@
           "Human-centered scene of weather Moderation Prevents Most Hurricanes From Reaching Cities, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating weather Moderation Prevents Most Hurricanes From Reaching Cities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.png",
+        "src": "/assets/future-roadmap/era-05/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -686,30 +686,30 @@
           "Human-centered scene of aI-Designed Ecosystems Stabilize Damaged Biomes, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating aI-Designed Ecosystems Stabilize Damaged Biomes, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.png",
+        "src": "/assets/future-roadmap/era-05/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -751,30 +751,30 @@
           "Human-centered scene of human Memory Backup Becomes Available, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating human Memory Backup Becomes Available, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-human-memory-backup-becomes-available.png",
+        "src": "/assets/future-roadmap/era-05/era-05-human-memory-backup-becomes-available.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-human-memory-backup-becomes-available.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-human-memory-backup-becomes-available.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-human-memory-backup-becomes-available.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-human-memory-backup-becomes-available.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-human-memory-backup-becomes-available.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-human-memory-backup-becomes-available.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-human-memory-backup-becomes-available.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-human-memory-backup-becomes-available.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -816,30 +816,30 @@
           "Human-centered scene of consciousness Research Produces Measurable Models of Subjective Experience, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating consciousness Research Produces Measurable Models of Subjective Experience, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.png",
+        "src": "/assets/future-roadmap/era-05/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -881,30 +881,30 @@
           "Human-centered scene of synthetic Biological Bodies Become Available for Extreme Environments, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating synthetic Biological Bodies Become Available for Extreme Environments, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.png",
+        "src": "/assets/future-roadmap/era-05/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -946,30 +946,30 @@
           "Human-centered scene of end of Cancer as a Human Disease, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating end of Cancer as a Human Disease, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-end-of-cancer-as-a-human-disease.png",
+        "src": "/assets/future-roadmap/era-05/era-05-end-of-cancer-as-a-human-disease.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-end-of-cancer-as-a-human-disease.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-end-of-cancer-as-a-human-disease.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-end-of-cancer-as-a-human-disease.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-end-of-cancer-as-a-human-disease.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-end-of-cancer-as-a-human-disease.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-end-of-cancer-as-a-human-disease.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-end-of-cancer-as-a-human-disease.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-end-of-cancer-as-a-human-disease.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1011,30 +1011,30 @@
           "Human-centered scene of cellular Rejuvenation Therapy Raises Average Human Lifespan Toward 200 Years, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating cellular Rejuvenation Therapy Raises Average Human Lifespan Toward 200 Years, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.png",
+        "src": "/assets/future-roadmap/era-05/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1080,30 +1080,30 @@
           "Human-centered scene of aI Scientists Discover New Physics Beyond the Standard Model, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating aI Scientists Discover New Physics Beyond the Standard Model, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.png",
+        "src": "/assets/future-roadmap/era-05/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1149,30 +1149,30 @@
           "Human-centered scene of autonomous AI Governments Manage Most Public Infrastructure, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating autonomous AI Governments Manage Most Public Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-autonomous-ai-governments-manage-most-public-infrastructure.png",
+        "src": "/assets/future-roadmap/era-05/era-05-autonomous-ai-governments-manage-most-public-infrastructure.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-autonomous-ai-governments-manage-most-public-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-autonomous-ai-governments-manage-most-public-infrastructure.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-autonomous-ai-governments-manage-most-public-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-autonomous-ai-governments-manage-most-public-infrastructure.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-autonomous-ai-governments-manage-most-public-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-autonomous-ai-governments-manage-most-public-infrastructure.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-autonomous-ai-governments-manage-most-public-infrastructure.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-autonomous-ai-governments-manage-most-public-infrastructure.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1218,30 +1218,30 @@
           "Human-centered scene of human-AI Cognitive Collaboration Becomes Standard, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating human-AI Cognitive Collaboration Becomes Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-human-ai-cognitive-collaboration-becomes-standard.png",
+        "src": "/assets/future-roadmap/era-05/era-05-human-ai-cognitive-collaboration-becomes-standard.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-human-ai-cognitive-collaboration-becomes-standard.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-human-ai-cognitive-collaboration-becomes-standard.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-human-ai-cognitive-collaboration-becomes-standard.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-human-ai-cognitive-collaboration-becomes-standard.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-human-ai-cognitive-collaboration-becomes-standard.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-human-ai-cognitive-collaboration-becomes-standard.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-human-ai-cognitive-collaboration-becomes-standard.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-human-ai-cognitive-collaboration-becomes-standard.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1287,30 +1287,30 @@
           "Human-centered scene of autonomous Space Construction Swarms Expand Orbital Infrastructure, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating autonomous Space Construction Swarms Expand Orbital Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.png",
+        "src": "/assets/future-roadmap/era-05/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1356,30 +1356,30 @@
           "Human-centered scene of self-Replicating Industrial Robots Operate on Asteroids, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating self-Replicating Industrial Robots Operate on Asteroids, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-self-replicating-industrial-robots-operate-on-asteroids.png",
+        "src": "/assets/future-roadmap/era-05/era-05-self-replicating-industrial-robots-operate-on-asteroids.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-self-replicating-industrial-robots-operate-on-asteroids.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-self-replicating-industrial-robots-operate-on-asteroids.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-self-replicating-industrial-robots-operate-on-asteroids.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-self-replicating-industrial-robots-operate-on-asteroids.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-self-replicating-industrial-robots-operate-on-asteroids.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-self-replicating-industrial-robots-operate-on-asteroids.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-self-replicating-industrial-robots-operate-on-asteroids.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-self-replicating-industrial-robots-operate-on-asteroids.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1425,30 +1425,30 @@
           "Human-centered scene of robotic Exploration Networks Cover the Outer Solar System, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating robotic Exploration Networks Cover the Outer Solar System, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-robotic-exploration-networks-cover-the-outer-solar-system.png",
+        "src": "/assets/future-roadmap/era-05/era-05-robotic-exploration-networks-cover-the-outer-solar-system.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-robotic-exploration-networks-cover-the-outer-solar-system.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-robotic-exploration-networks-cover-the-outer-solar-system.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-robotic-exploration-networks-cover-the-outer-solar-system.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-robotic-exploration-networks-cover-the-outer-solar-system.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-robotic-exploration-networks-cover-the-outer-solar-system.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-robotic-exploration-networks-cover-the-outer-solar-system.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-robotic-exploration-networks-cover-the-outer-solar-system.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-robotic-exploration-networks-cover-the-outer-solar-system.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1494,30 +1494,30 @@
           "Human-centered scene of autonomous Ocean Cities Are Maintained Without Human Labor, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating autonomous Ocean Cities Are Maintained Without Human Labor, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.png",
+        "src": "/assets/future-roadmap/era-05/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1563,30 +1563,30 @@
           "Human-centered scene of household Robotics Become Invisible Utilities, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating household Robotics Become Invisible Utilities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-household-robotics-become-invisible-utilities.png",
+        "src": "/assets/future-roadmap/era-05/era-05-household-robotics-become-invisible-utilities.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-household-robotics-become-invisible-utilities.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-household-robotics-become-invisible-utilities.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-household-robotics-become-invisible-utilities.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-household-robotics-become-invisible-utilities.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-household-robotics-become-invisible-utilities.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-household-robotics-become-invisible-utilities.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-household-robotics-become-invisible-utilities.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-household-robotics-become-invisible-utilities.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1628,30 +1628,30 @@
           "Human-centered scene of solar System Fusion Grid Enables Energy Abundance, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating solar System Fusion Grid Enables Energy Abundance, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-solar-system-fusion-grid-enables-energy-abundance.png",
+        "src": "/assets/future-roadmap/era-05/era-05-solar-system-fusion-grid-enables-energy-abundance.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-solar-system-fusion-grid-enables-energy-abundance.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-solar-system-fusion-grid-enables-energy-abundance.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-solar-system-fusion-grid-enables-energy-abundance.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-solar-system-fusion-grid-enables-energy-abundance.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-solar-system-fusion-grid-enables-energy-abundance.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-solar-system-fusion-grid-enables-energy-abundance.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-solar-system-fusion-grid-enables-energy-abundance.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-solar-system-fusion-grid-enables-energy-abundance.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1693,30 +1693,30 @@
           "Human-centered scene of space-Based Solar Arrays Supply Major Human Settlements, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating space-Based Solar Arrays Supply Major Human Settlements, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-space-based-solar-arrays-supply-major-human-settlements.png",
+        "src": "/assets/future-roadmap/era-05/era-05-space-based-solar-arrays-supply-major-human-settlements.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-space-based-solar-arrays-supply-major-human-settlements.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-space-based-solar-arrays-supply-major-human-settlements.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-space-based-solar-arrays-supply-major-human-settlements.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-space-based-solar-arrays-supply-major-human-settlements.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-space-based-solar-arrays-supply-major-human-settlements.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-space-based-solar-arrays-supply-major-human-settlements.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-space-based-solar-arrays-supply-major-human-settlements.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-space-based-solar-arrays-supply-major-human-settlements.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1758,30 +1758,30 @@
           "Human-centered scene of antimatter Production Reaches Experimental Scale, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating antimatter Production Reaches Experimental Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-antimatter-production-reaches-experimental-scale.png",
+        "src": "/assets/future-roadmap/era-05/era-05-antimatter-production-reaches-experimental-scale.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-antimatter-production-reaches-experimental-scale.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-antimatter-production-reaches-experimental-scale.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-antimatter-production-reaches-experimental-scale.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-antimatter-production-reaches-experimental-scale.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-antimatter-production-reaches-experimental-scale.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-antimatter-production-reaches-experimental-scale.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-antimatter-production-reaches-experimental-scale.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-antimatter-production-reaches-experimental-scale.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1823,30 +1823,30 @@
           "Human-centered scene of helium-3 Mining Becomes Commercially Mature, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating helium-3 Mining Becomes Commercially Mature, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-helium-3-mining-becomes-commercially-mature.png",
+        "src": "/assets/future-roadmap/era-05/era-05-helium-3-mining-becomes-commercially-mature.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-helium-3-mining-becomes-commercially-mature.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-helium-3-mining-becomes-commercially-mature.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-helium-3-mining-becomes-commercially-mature.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-helium-3-mining-becomes-commercially-mature.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-helium-3-mining-becomes-commercially-mature.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-helium-3-mining-becomes-commercially-mature.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-helium-3-mining-becomes-commercially-mature.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-helium-3-mining-becomes-commercially-mature.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1888,30 +1888,30 @@
           "Human-centered scene of energy Scarcity Disappears Across the Solar System, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating energy Scarcity Disappears Across the Solar System, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-energy-scarcity-disappears-across-the-solar-system.png",
+        "src": "/assets/future-roadmap/era-05/era-05-energy-scarcity-disappears-across-the-solar-system.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-energy-scarcity-disappears-across-the-solar-system.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-energy-scarcity-disappears-across-the-solar-system.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-energy-scarcity-disappears-across-the-solar-system.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-energy-scarcity-disappears-across-the-solar-system.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-energy-scarcity-disappears-across-the-solar-system.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-energy-scarcity-disappears-across-the-solar-system.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-energy-scarcity-disappears-across-the-solar-system.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-energy-scarcity-disappears-across-the-solar-system.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -1953,30 +1953,30 @@
           "Human-centered scene of practical Quantum Computing Solves Molecular Engineering Problems, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating practical Quantum Computing Solves Molecular Engineering Problems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-practical-quantum-computing-solves-molecular-engineering-problems.png",
+        "src": "/assets/future-roadmap/era-05/era-05-practical-quantum-computing-solves-molecular-engineering-problems.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-practical-quantum-computing-solves-molecular-engineering-problems.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-practical-quantum-computing-solves-molecular-engineering-problems.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-practical-quantum-computing-solves-molecular-engineering-problems.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-practical-quantum-computing-solves-molecular-engineering-problems.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-practical-quantum-computing-solves-molecular-engineering-problems.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-practical-quantum-computing-solves-molecular-engineering-problems.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-practical-quantum-computing-solves-molecular-engineering-problems.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-practical-quantum-computing-solves-molecular-engineering-problems.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2018,30 +2018,30 @@
           "Human-centered scene of artificial Gravity Becomes Standard in Large Habitats, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating artificial Gravity Becomes Standard in Large Habitats, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-artificial-gravity-becomes-standard-in-large-habitats.png",
+        "src": "/assets/future-roadmap/era-05/era-05-artificial-gravity-becomes-standard-in-large-habitats.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-artificial-gravity-becomes-standard-in-large-habitats.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-artificial-gravity-becomes-standard-in-large-habitats.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-artificial-gravity-becomes-standard-in-large-habitats.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-artificial-gravity-becomes-standard-in-large-habitats.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-artificial-gravity-becomes-standard-in-large-habitats.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-artificial-gravity-becomes-standard-in-large-habitats.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-artificial-gravity-becomes-standard-in-large-habitats.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-artificial-gravity-becomes-standard-in-large-habitats.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2083,30 +2083,30 @@
           "Human-centered scene of gravitational Wave Navigation Systems Enter Service, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating gravitational Wave Navigation Systems Enter Service, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-gravitational-wave-navigation-systems-enter-service.png",
+        "src": "/assets/future-roadmap/era-05/era-05-gravitational-wave-navigation-systems-enter-service.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-gravitational-wave-navigation-systems-enter-service.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-gravitational-wave-navigation-systems-enter-service.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-gravitational-wave-navigation-systems-enter-service.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-gravitational-wave-navigation-systems-enter-service.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-gravitational-wave-navigation-systems-enter-service.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-gravitational-wave-navigation-systems-enter-service.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-gravitational-wave-navigation-systems-enter-service.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-gravitational-wave-navigation-systems-enter-service.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2148,30 +2148,30 @@
           "Human-centered scene of dark Matter Distribution Map of the Milky Way Is Completed, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating dark Matter Distribution Map of the Milky Way Is Completed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.png",
+        "src": "/assets/future-roadmap/era-05/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2213,30 +2213,30 @@
           "Human-centered scene of quantum Sensor Networks Transform Astronomy, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating quantum Sensor Networks Transform Astronomy, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-quantum-sensor-networks-transform-astronomy.png",
+        "src": "/assets/future-roadmap/era-05/era-05-quantum-sensor-networks-transform-astronomy.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-quantum-sensor-networks-transform-astronomy.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-quantum-sensor-networks-transform-astronomy.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-quantum-sensor-networks-transform-astronomy.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-quantum-sensor-networks-transform-astronomy.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-quantum-sensor-networks-transform-astronomy.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-quantum-sensor-networks-transform-astronomy.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-quantum-sensor-networks-transform-astronomy.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-quantum-sensor-networks-transform-astronomy.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2278,30 +2278,30 @@
           "Human-centered scene of self-Healing Spacecraft Hulls Become Standard, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating self-Healing Spacecraft Hulls Become Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-self-healing-spacecraft-hulls-become-standard.png",
+        "src": "/assets/future-roadmap/era-05/era-05-self-healing-spacecraft-hulls-become-standard.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-self-healing-spacecraft-hulls-become-standard.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-self-healing-spacecraft-hulls-become-standard.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-self-healing-spacecraft-hulls-become-standard.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-self-healing-spacecraft-hulls-become-standard.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-self-healing-spacecraft-hulls-become-standard.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-self-healing-spacecraft-hulls-become-standard.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-self-healing-spacecraft-hulls-become-standard.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-self-healing-spacecraft-hulls-become-standard.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2343,30 +2343,30 @@
           "Human-centered scene of carbon Nanotube Megastructures Reach Industrial Scale, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating carbon Nanotube Megastructures Reach Industrial Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-carbon-nanotube-megastructures-reach-industrial-scale.png",
+        "src": "/assets/future-roadmap/era-05/era-05-carbon-nanotube-megastructures-reach-industrial-scale.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-carbon-nanotube-megastructures-reach-industrial-scale.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-carbon-nanotube-megastructures-reach-industrial-scale.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-carbon-nanotube-megastructures-reach-industrial-scale.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-carbon-nanotube-megastructures-reach-industrial-scale.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-carbon-nanotube-megastructures-reach-industrial-scale.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-carbon-nanotube-megastructures-reach-industrial-scale.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-carbon-nanotube-megastructures-reach-industrial-scale.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-carbon-nanotube-megastructures-reach-industrial-scale.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2408,30 +2408,30 @@
           "Human-centered scene of programmable Matter Enters Commercial Manufacturing, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating programmable Matter Enters Commercial Manufacturing, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-programmable-matter-enters-commercial-manufacturing.png",
+        "src": "/assets/future-roadmap/era-05/era-05-programmable-matter-enters-commercial-manufacturing.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-programmable-matter-enters-commercial-manufacturing.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-programmable-matter-enters-commercial-manufacturing.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-programmable-matter-enters-commercial-manufacturing.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-programmable-matter-enters-commercial-manufacturing.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-programmable-matter-enters-commercial-manufacturing.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-programmable-matter-enters-commercial-manufacturing.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-programmable-matter-enters-commercial-manufacturing.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-programmable-matter-enters-commercial-manufacturing.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2473,30 +2473,30 @@
           "Human-centered scene of molecular Nanofactories Produce Consumer Goods, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating molecular Nanofactories Produce Consumer Goods, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-molecular-nanofactories-produce-consumer-goods.png",
+        "src": "/assets/future-roadmap/era-05/era-05-molecular-nanofactories-produce-consumer-goods.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-molecular-nanofactories-produce-consumer-goods.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-molecular-nanofactories-produce-consumer-goods.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-molecular-nanofactories-produce-consumer-goods.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-molecular-nanofactories-produce-consumer-goods.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-molecular-nanofactories-produce-consumer-goods.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-molecular-nanofactories-produce-consumer-goods.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-molecular-nanofactories-produce-consumer-goods.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-molecular-nanofactories-produce-consumer-goods.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2538,30 +2538,30 @@
           "Human-centered scene of asteroid Materials Replace Earth Mining Industries, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating asteroid Materials Replace Earth Mining Industries, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-asteroid-materials-replace-earth-mining-industries.png",
+        "src": "/assets/future-roadmap/era-05/era-05-asteroid-materials-replace-earth-mining-industries.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-asteroid-materials-replace-earth-mining-industries.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-asteroid-materials-replace-earth-mining-industries.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-asteroid-materials-replace-earth-mining-industries.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-asteroid-materials-replace-earth-mining-industries.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-asteroid-materials-replace-earth-mining-industries.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-asteroid-materials-replace-earth-mining-industries.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-asteroid-materials-replace-earth-mining-industries.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-asteroid-materials-replace-earth-mining-industries.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2607,30 +2607,30 @@
           "Human-centered scene of global Carbon Levels Return to Pre-Industrial Values, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating global Carbon Levels Return to Pre-Industrial Values, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-global-carbon-levels-return-to-pre-industrial-values.png",
+        "src": "/assets/future-roadmap/era-05/era-05-global-carbon-levels-return-to-pre-industrial-values.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-global-carbon-levels-return-to-pre-industrial-values.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-global-carbon-levels-return-to-pre-industrial-values.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-global-carbon-levels-return-to-pre-industrial-values.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-global-carbon-levels-return-to-pre-industrial-values.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-global-carbon-levels-return-to-pre-industrial-values.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-global-carbon-levels-return-to-pre-industrial-values.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-global-carbon-levels-return-to-pre-industrial-values.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-global-carbon-levels-return-to-pre-industrial-values.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2676,30 +2676,30 @@
           "Human-centered scene of ocean Biodiversity Fully Recovers, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating ocean Biodiversity Fully Recovers, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-ocean-biodiversity-fully-recovers.png",
+        "src": "/assets/future-roadmap/era-05/era-05-ocean-biodiversity-fully-recovers.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-ocean-biodiversity-fully-recovers.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-ocean-biodiversity-fully-recovers.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-ocean-biodiversity-fully-recovers.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-ocean-biodiversity-fully-recovers.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-ocean-biodiversity-fully-recovers.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-ocean-biodiversity-fully-recovers.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-ocean-biodiversity-fully-recovers.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-ocean-biodiversity-fully-recovers.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2745,30 +2745,30 @@
           "Human-centered scene of planetary Climate Stabilization Becomes Routine, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating planetary Climate Stabilization Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-planetary-climate-stabilization-becomes-routine.png",
+        "src": "/assets/future-roadmap/era-05/era-05-planetary-climate-stabilization-becomes-routine.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-planetary-climate-stabilization-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-planetary-climate-stabilization-becomes-routine.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-planetary-climate-stabilization-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-planetary-climate-stabilization-becomes-routine.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-planetary-climate-stabilization-becomes-routine.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-planetary-climate-stabilization-becomes-routine.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-planetary-climate-stabilization-becomes-routine.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-planetary-climate-stabilization-becomes-routine.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2810,30 +2810,30 @@
           "Human-centered scene of universal Basic Services Replace Most Traditional Economies, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating universal Basic Services Replace Most Traditional Economies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-universal-basic-services-replace-most-traditional-economies.png",
+        "src": "/assets/future-roadmap/era-05/era-05-universal-basic-services-replace-most-traditional-economies.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-universal-basic-services-replace-most-traditional-economies.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-universal-basic-services-replace-most-traditional-economies.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-universal-basic-services-replace-most-traditional-economies.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-universal-basic-services-replace-most-traditional-economies.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-universal-basic-services-replace-most-traditional-economies.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-universal-basic-services-replace-most-traditional-economies.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-universal-basic-services-replace-most-traditional-economies.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-universal-basic-services-replace-most-traditional-economies.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2875,30 +2875,30 @@
           "Human-centered scene of physical Currency Disappears Completely, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating physical Currency Disappears Completely, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-physical-currency-disappears-completely.png",
+        "src": "/assets/future-roadmap/era-05/era-05-physical-currency-disappears-completely.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-physical-currency-disappears-completely.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-physical-currency-disappears-completely.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-physical-currency-disappears-completely.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-physical-currency-disappears-completely.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-physical-currency-disappears-completely.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-physical-currency-disappears-completely.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-physical-currency-disappears-completely.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-physical-currency-disappears-completely.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -2940,30 +2940,30 @@
           "Human-centered scene of human Labor Becomes Primarily Optional, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating human Labor Becomes Primarily Optional, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-human-labor-becomes-primarily-optional.png",
+        "src": "/assets/future-roadmap/era-05/era-05-human-labor-becomes-primarily-optional.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-human-labor-becomes-primarily-optional.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-human-labor-becomes-primarily-optional.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-human-labor-becomes-primarily-optional.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-human-labor-becomes-primarily-optional.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-human-labor-becomes-primarily-optional.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-human-labor-becomes-primarily-optional.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-human-labor-becomes-primarily-optional.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-human-labor-becomes-primarily-optional.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3005,30 +3005,30 @@
           "Human-centered scene of wealth Inequality Reaches Historic Lows, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating wealth Inequality Reaches Historic Lows, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-wealth-inequality-reaches-historic-lows.png",
+        "src": "/assets/future-roadmap/era-05/era-05-wealth-inequality-reaches-historic-lows.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-wealth-inequality-reaches-historic-lows.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-wealth-inequality-reaches-historic-lows.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-wealth-inequality-reaches-historic-lows.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-wealth-inequality-reaches-historic-lows.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-wealth-inequality-reaches-historic-lows.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-wealth-inequality-reaches-historic-lows.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-wealth-inequality-reaches-historic-lows.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-wealth-inequality-reaches-historic-lows.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3070,30 +3070,30 @@
           "Human-centered scene of first Permanent Population of One Million Humans Lives Beyond Earth, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating first Permanent Population of One Million Humans Lives Beyond Earth, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.png",
+        "src": "/assets/future-roadmap/era-05/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3135,30 +3135,30 @@
           "Human-centered scene of earth-Moon-Mars Governance Council Is Established, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating earth-Moon-Mars Governance Council Is Established, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-earth-moon-mars-governance-council-is-established.png",
+        "src": "/assets/future-roadmap/era-05/era-05-earth-moon-mars-governance-council-is-established.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-earth-moon-mars-governance-council-is-established.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-earth-moon-mars-governance-council-is-established.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-earth-moon-mars-governance-council-is-established.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-earth-moon-mars-governance-council-is-established.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-earth-moon-mars-governance-council-is-established.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-earth-moon-mars-governance-council-is-established.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-earth-moon-mars-governance-council-is-established.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-earth-moon-mars-governance-council-is-established.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3200,30 +3200,30 @@
           "Human-centered scene of human Rights Expand to Include Artificial Consciousness, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating human Rights Expand to Include Artificial Consciousness, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-human-rights-expand-to-include-artificial-consciousness.png",
+        "src": "/assets/future-roadmap/era-05/era-05-human-rights-expand-to-include-artificial-consciousness.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-human-rights-expand-to-include-artificial-consciousness.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-human-rights-expand-to-include-artificial-consciousness.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-human-rights-expand-to-include-artificial-consciousness.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-human-rights-expand-to-include-artificial-consciousness.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-human-rights-expand-to-include-artificial-consciousness.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-human-rights-expand-to-include-artificial-consciousness.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-human-rights-expand-to-include-artificial-consciousness.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-human-rights-expand-to-include-artificial-consciousness.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3265,30 +3265,30 @@
           "Human-centered scene of solar System Citizenship Becomes Recognized, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating solar System Citizenship Becomes Recognized, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-solar-system-citizenship-becomes-recognized.png",
+        "src": "/assets/future-roadmap/era-05/era-05-solar-system-citizenship-becomes-recognized.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-solar-system-citizenship-becomes-recognized.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-solar-system-citizenship-becomes-recognized.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-solar-system-citizenship-becomes-recognized.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-solar-system-citizenship-becomes-recognized.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-solar-system-citizenship-becomes-recognized.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-solar-system-citizenship-becomes-recognized.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-solar-system-citizenship-becomes-recognized.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-solar-system-citizenship-becomes-recognized.png",
           "width": 1200,
           "height": 630,
           "quality": 82
@@ -3330,30 +3330,30 @@
           "Human-centered scene of humanity Begins Planning the First Interstellar Mission, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
           "Detailed future civilization scene illustrating humanity Begins Planning the First Interstellar Mission, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
         ],
-        "src": "/future-roadmap/era-05/era-05-humanity-begins-planning-the-first-interstellar-mission.png",
+        "src": "/assets/future-roadmap/era-05/era-05-humanity-begins-planning-the-first-interstellar-mission.png",
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
         "mobile": {
-          "src": "/future-roadmap/era-05/mobile/era-05-humanity-begins-planning-the-first-interstellar-mission.webp",
+          "src": "/assets/future-roadmap/era-05/mobile/era-05-humanity-begins-planning-the-first-interstellar-mission.webp",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
-          "src": "/future-roadmap/era-05/thumbnail/era-05-humanity-begins-planning-the-first-interstellar-mission.webp",
+          "src": "/assets/future-roadmap/era-05/thumbnail/era-05-humanity-begins-planning-the-first-interstellar-mission.webp",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
-          "src": "/future-roadmap/era-05/desktop/era-05-humanity-begins-planning-the-first-interstellar-mission.webp",
+          "src": "/assets/future-roadmap/era-05/desktop/era-05-humanity-begins-planning-the-first-interstellar-mission.webp",
           "width": 1920,
           "height": 1080,
           "quality": 82
         },
         "open_graph": {
-          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-humanity-begins-planning-the-first-interstellar-mission.png",
+          "src": "/open_graph/future-roadmap/era-05/open_graph/era-05-humanity-begins-planning-the-first-interstellar-mission.png",
           "width": 1200,
           "height": 630,
           "quality": 82

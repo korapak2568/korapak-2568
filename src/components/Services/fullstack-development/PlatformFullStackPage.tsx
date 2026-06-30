@@ -1,6 +1,5 @@
 "use client";
 
-import HomeFeatureMain from "@/components/Features/HomeFeatureMain";
 import FullStackPageMain from "@/components/Services/fullstack-development/FullStackPageMain";
 import type { PlatformFullstackContent } from "@/lib/platform-content/fullstackContent";
 import { usePlatformFullstackContent } from "@/lib/platform-content/usePlatformFullstackContent";
@@ -18,7 +17,6 @@ export default function PlatformFullStackPage({
   return (
     <>
       <FullStackPageMain lang={lang} fullStack={fullstackContent.fullStack} />
-      <HomeFeatureMain lang={lang} feature={fullstackContent.feature} />
     </>
   );
 }

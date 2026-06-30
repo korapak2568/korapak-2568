@@ -1,19 +1,20 @@
-import technologyPageContent from "@/data/technology/en.technology.json";
-import technologyPageContentTh from "@/data/technology/th.technology.json";
-import type { TechnicalExpertiseContentPayload } from "@/core/domain/technical-expertise-content.entity";
-import type { IDevOps, IDevOpsStack } from "@/lib/model/IDevOps";
+import technologyPageContent from "@/data/technology/en.json";
+import technicalExpertiseFrontendSeed from "@/data/technical-expertise/frontend/en.json";
+import technicalExpertiseFullstackSeed from "@/data/technical-expertise/fullstack/en.json";
 import type { IFrontEnd, IFrontEndStack } from "@/lib/model/IFrontEnd";
 import type { IFullStack, IFullStackStack } from "@/lib/model/IFullStack";
 
 export type PlatformTechnologyPageContent = typeof technologyPageContent;
-export type PlatformTechnologyContent = TechnicalExpertiseContentPayload & {
+export type PlatformTechnologyContent = {
+  locale: string;
   page: PlatformTechnologyPageContent;
+  frontEnd: IFrontEnd;
+  fullStack: IFullStack;
 };
 
 const PLATFORM_TECHNOLOGY_STACK_KEYS = {
-  frontEnd: ["nextjs", "react", "angular"],
+  frontEnd: ["nextjs", "react", "typescript"],
   fullStack: ["python", "nodejs", "go"],
-  devOps: ["docker", "kubernetes", "github"],
 } as const;
 
 type StackSection<TStack> = {
@@ -76,24 +77,22 @@ function normalizeStackSection<TSection extends StackSection<TStack>, TStack>(
   };
 }
 
-export function normalizePlatformTechnologyContent(
-  content: TechnicalExpertiseContentPayload,
-  locale = content.locale,
+export function getNormalizedPlatformTechnologyContent(
+  locale = "en",
 ): PlatformTechnologyContent {
+  const frontEnd = technicalExpertiseFrontendSeed.frontEnd as IFrontEnd;
+  const fullStack = technicalExpertiseFullstackSeed.fullStack as IFullStack;
+
   return {
-    ...content,
-    page: locale === "th" ? technologyPageContentTh : technologyPageContent,
+    locale,
+    page: technologyPageContent,
     frontEnd: normalizeStackSection<IFrontEnd, IFrontEndStack>(
-      content.frontEnd,
+      frontEnd,
       PLATFORM_TECHNOLOGY_STACK_KEYS.frontEnd,
     ),
     fullStack: normalizeStackSection<IFullStack, IFullStackStack>(
-      content.fullStack,
+      fullStack,
       PLATFORM_TECHNOLOGY_STACK_KEYS.fullStack,
-    ),
-    devOps: normalizeStackSection<IDevOps, IDevOpsStack>(
-      content.devOps,
-      PLATFORM_TECHNOLOGY_STACK_KEYS.devOps,
     ),
   };
 }

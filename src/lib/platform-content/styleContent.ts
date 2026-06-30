@@ -48,6 +48,7 @@ export type PlatformOutfitImage = {
   mobile?: PlatformResponsiveImageVariant;
   thumbnail?: PlatformResponsiveImageVariant;
   desktop?: PlatformResponsiveImageVariant;
+  open_graph?: PlatformResponsiveImageVariant;
 };
 
 export type PlatformOutfitDetailImage = {
@@ -141,8 +142,22 @@ const styleSeeds = {
   zh: platformStyleZhSeed,
 } as unknown as Partial<Record<PlatformOutfitLocale, PlatformOutfitSeed>>;
 const defaultStyleSeed = styleSeeds.en as PlatformOutfitSeed;
-const platformOutfitOgImage =
-  "/images-platform/styles/01-rice-valley-couple-lanna.png";
+const platformOutfitOgImage = "/assets/styles/01-rice-valley-couple-lanna.png";
+
+function getPlatformOutfitOpenGraphImage(
+  outfitSet?: Pick<PlatformOutfitSet, "image">,
+): PlatformResponsiveImageVariant & { alt?: string } {
+  return {
+    src:
+      outfitSet?.image.open_graph?.src ??
+      outfitSet?.image.src ??
+      platformOutfitOgImage,
+    width: outfitSet?.image.open_graph?.width ?? 1200,
+    height: outfitSet?.image.open_graph?.height ?? 630,
+    quality: outfitSet?.image.open_graph?.quality ?? 82,
+    alt: outfitSet?.image.alt,
+  };
+}
 
 function getPlatformOutfitImageDimensions(
   outfitSet: Pick<PlatformOutfitSet, "image" | "imageGenerationSize">,
@@ -239,6 +254,9 @@ export const PLATFORM_OUTFIT_SUPPORTED_LOCALES = LOCALES;
 
 export function getPlatformOutfitMetadata(locale?: string | null): Metadata {
   const content = getPlatformOutfitContent(locale);
+  const openGraphImage = getPlatformOutfitOpenGraphImage(
+    getPlatformOutfitSetById("rice-valley-couple-lanna", "en"),
+  );
 
   return {
     title: content.metadata.title,
@@ -250,10 +268,10 @@ export function getPlatformOutfitMetadata(locale?: string | null): Metadata {
       type: "website",
       images: [
         {
-          url: platformOutfitOgImage,
-          width: 1600,
-          height: 1000,
-          alt: "Rice Valley Couple Lanna",
+          url: openGraphImage.src,
+          width: openGraphImage.width,
+          height: openGraphImage.height,
+          alt: openGraphImage.alt ?? "Rice Valley Couple Lanna",
         },
       ],
     },
@@ -261,7 +279,7 @@ export function getPlatformOutfitMetadata(locale?: string | null): Metadata {
       card: "summary_large_image",
       title: content.metadata.title,
       description: content.metadata.description,
-      images: [platformOutfitOgImage],
+      images: [openGraphImage.src],
     },
   };
 }
@@ -285,7 +303,9 @@ export function getPlatformOutfitDetailMetadata({
   const title = getPlatformOutfitLocalizedText(outfitSet.title, locale);
   const description = getPlatformOutfitLocalizedText(outfitSet.story, locale);
   const ogImageOutfitSet = getPlatformOutfitSetById(slug, "en") ?? outfitSet;
-  const ogImageDimensions = getPlatformOutfitImageDimensions(ogImageOutfitSet);
+  const openGraphImage = getPlatformOutfitOpenGraphImage(ogImageOutfitSet);
+  const ogImageDimensions =
+    ogImageOutfitSet.image.open_graph ?? getPlatformOutfitImageDimensions(ogImageOutfitSet);
 
   return {
     title: `${title} | ${content.detailPage.metadataSuffix}`,
@@ -297,7 +317,7 @@ export function getPlatformOutfitDetailMetadata({
       type: "article",
       images: [
         {
-          url: ogImageOutfitSet.image.src,
+          url: openGraphImage.src,
           width: ogImageDimensions.width,
           height: ogImageDimensions.height,
           alt: ogImageOutfitSet.image.alt,
@@ -308,7 +328,7 @@ export function getPlatformOutfitDetailMetadata({
       card: "summary_large_image",
       title,
       description,
-      images: [ogImageOutfitSet.image.src],
+      images: [openGraphImage.src],
     },
   };
 }
@@ -352,8 +372,8 @@ export function getPlatformOutfitContent(
 export function getPlatformOutfitSets(
   locale?: string | null,
 ): PlatformOutfitSet[] {
-  return getPlatformOutfitSeed(locale).outfitSets
-    .map(resolvePlatformOutfitSet)
+  return getPlatformOutfitSeed(locale)
+    .outfitSets.map(resolvePlatformOutfitSet)
     .sort((first, second) => first.order - second.order);
 }
 
@@ -367,8 +387,8 @@ export function getPlatformOutfitSetById(
 export function getPlatformOutfitSetsByZone(
   zoneFileName: string,
 ): PlatformOutfitSet[] {
-  return getPlatformOutfitSets().filter((outfitSet) =>
-    outfitSet.zoneCandidates?.includes(zoneFileName) ?? false,
+  return getPlatformOutfitSets().filter(
+    (outfitSet) => outfitSet.zoneCandidates?.includes(zoneFileName) ?? false,
   );
 }
 

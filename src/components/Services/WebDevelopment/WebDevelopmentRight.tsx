@@ -1,32 +1,29 @@
 import React from "react";
-import {ImageUrl} from "@/image/ImageUrl";
 import Image from "next/image";
+import type { IFrontEnd } from "@/lib/model/IFrontEnd";
+import type { IFullStack } from "@/lib/model/IFullStack";
 
-export default function WebDevelopmentRight({lang}: { lang: string }) {
+export default function WebDevelopmentRight({
+    frontEnd,
+    fullStack,
+}: {
+    lang: string;
+    frontEnd: IFrontEnd;
+    fullStack: IFullStack;
+}) {
+    const images = [
+        ...frontEnd.sideImages.slice(0, 3),
+        ...fullStack.sideImages.slice(0, 3),
+    ];
+
     return (
         <div className="col-lg-6 frontend-images-side-container">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-
-                {ImageUrl.frontend.side.slice(0, 3).map((image, index) => (
+                {images.map((image, index) => (
                     <Image
                         key={index}
-                        src={image.image1200}
-                        alt={image.title}
-                        width={1200}
-                        height={900}
-                        sizes="(max-width: 600px) 100vw, (max-width: 1024px) 50vw), 400px)"
-                        quality={80}
-                        priority={false}
-                        loading={"lazy"}
-                        className="frontend-images-side-unit"
-                    />
-                ))}
-
-                {ImageUrl.backend.side.slice(0, 3).map((image, index) => (
-                    <Image
-                        key={index}
-                        src={image.image1200}
-                        alt={image.title}
+                        src={image.src}
+                        alt={image.alt}
                         width={1200}
                         height={900}
                         sizes="(max-width: 600px) 100vw, (max-width: 1024px) 50vw), 400px)"
