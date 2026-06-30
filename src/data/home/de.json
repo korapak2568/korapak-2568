@@ -22,26 +22,26 @@
             "title": "Smart Food System",
             "description": "Eine Produktperspektive für den Alltag rund um Food Discovery, Bestellkonzepte und Kundenerlebnis.",
             "image": {
-              "src": "/smart-food/process5-receiving.png",
+              "src": "/assets/smart-food/process5-receiving.png",
               "alt": "Visual des Smart Food Systems",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.smart-food",
               "mobile": {
-                "src": "/smart-food/mobile/process5-receiving.webp",
+                "src": "/assets/smart-food/mobile/process5-receiving.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/smart-food/thumbnail/process5-receiving.webp",
+                "src": "/assets/smart-food/thumbnail/process5-receiving.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/smart-food/desktop/process5-receiving.webp",
+                "src": "/assets/smart-food/desktop/process5-receiving.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
@@ -49,7 +49,7 @@
             },
             "tags": ["Food", "Plattform"],
             "cta": "Smart Food entdecken",
-            "href": "/smart-food/"
+            "href": "/assets/smart-food/"
           },
           {
             "category": "AI Luxury",
@@ -492,7 +492,7 @@
         "title": "AI Smart Food",
         "body": "Smart Food ist die praktische Alltagsebene. Sie gibt Chorn Planet einen nützlichen Ausgangspunkt rund um Food Discovery, Menüinformationen, Kundenerlebnis, Bestellkonzepte und zukünftige AI-gestützte Food-Service-Flows.",
         "tags": ["Food Experience", "Bestellkonzepte", "Alltagsnutzen"],
-        "link": "/smart-food/"
+        "link": "/assets/smart-food/"
       },
       {
         "title": "AI Luxury",

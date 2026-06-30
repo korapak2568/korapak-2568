@@ -49,7 +49,7 @@
             },
             "tags": ["Food", "Platform"],
             "cta": "Explore Smart Food",
-            "href": "/smart-food/"
+            "href": "/assets/smart-food/"
           },
           {
             "category": "AI Luxury",
@@ -492,7 +492,7 @@
         "title": "AI Smart Food",
         "body": "Smart Food is the practical daily-life layer. It gives Chorn Planet a useful starting point around food discovery, menu information, customer experience, ordering concepts, and future AI-assisted food service flows.",
         "tags": ["Food Experience", "Ordering Concepts", "Daily Utility"],
-        "link": "/smart-food/"
+        "link": "/assets/smart-food/"
       },
       {
         "title": "AI Luxury",

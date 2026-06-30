@@ -22,26 +22,26 @@
             "title": "ระบบสมาร์ทฟู้ด",
             "description": "ทิศทางผลิตภัณฑ์ในชีวิตประจำวันเกี่ยวกับการค้นหาอาหาร แนวคิดการสั่งซื้อ และประสบการณ์ลูกค้า",
             "image": {
-              "src": "/smart-food/process5-receiving.png",
+              "src": "/assets/smart-food/process5-receiving.png",
               "alt": "ภาพระบบสมาร์ทฟู้ด",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.smart-food",
               "mobile": {
-                "src": "/smart-food/mobile/process5-receiving.webp",
+                "src": "/assets/smart-food/mobile/process5-receiving.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/smart-food/thumbnail/process5-receiving.webp",
+                "src": "/assets/smart-food/thumbnail/process5-receiving.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/smart-food/desktop/process5-receiving.webp",
+                "src": "/assets/smart-food/desktop/process5-receiving.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
@@ -49,7 +49,7 @@
             },
             "tags": ["อาหาร", "แพลตฟอร์ม"],
             "cta": "สำรวจ Smart Food",
-            "href": "/smart-food/"
+            "href": "/assets/smart-food/"
           },
           {
             "category": "AI Luxury",
@@ -500,7 +500,7 @@
           "แนวคิดการสั่งซื้อ",
           "ประโยชน์ใช้สอยประจำวัน"
         ],
-        "link": "/smart-food/"
+        "link": "/assets/smart-food/"
       },
       {
         "title": "AI Luxury",

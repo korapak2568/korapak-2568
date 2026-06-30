@@ -22,26 +22,26 @@
             "title": "Smart Food システム",
             "description": "フード発見、注文コンセプト、顧客体験を中心とした日常生活向けプロダクトの方向性。",
             "image": {
-              "src": "/smart-food/process5-receiving.png",
+              "src": "/assets/smart-food/process5-receiving.png",
               "alt": "Smart Food システムのビジュアル",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.smart-food",
               "mobile": {
-                "src": "/smart-food/mobile/process5-receiving.webp",
+                "src": "/assets/smart-food/mobile/process5-receiving.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/smart-food/thumbnail/process5-receiving.webp",
+                "src": "/assets/smart-food/thumbnail/process5-receiving.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/smart-food/desktop/process5-receiving.webp",
+                "src": "/assets/smart-food/desktop/process5-receiving.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
@@ -49,7 +49,7 @@
             },
             "tags": ["フード", "プラットフォーム"],
             "cta": "Smart Food を見る",
-            "href": "/smart-food/"
+            "href": "/assets/smart-food/"
           },
           {
             "category": "AI Luxury",
@@ -492,7 +492,7 @@
         "title": "AI Smart Food",
         "body": "Smart Food は実用的な日常生活レイヤーです。フード発見、メニュー情報、顧客体験、注文コンセプト、将来の AI 支援フードサービスフローをめぐって、Chorn Planet に有用な出発点を与えます。",
         "tags": ["フード体験", "注文コンセプト", "日常ユーティリティ"],
-        "link": "/smart-food/"
+        "link": "/assets/smart-food/"
       },
       {
         "title": "AI Luxury",

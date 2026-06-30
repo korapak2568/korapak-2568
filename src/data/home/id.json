@@ -22,26 +22,26 @@
             "title": "Sistem Smart Food",
             "description": "Arah produk kehidupan sehari-hari seputar penemuan makanan, konsep pemesanan, dan pengalaman pelanggan.",
             "image": {
-              "src": "/smart-food/process5-receiving.png",
+              "src": "/assets/smart-food/process5-receiving.png",
               "alt": "Visual sistem Smart Food",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.smart-food",
               "mobile": {
-                "src": "/smart-food/mobile/process5-receiving.webp",
+                "src": "/assets/smart-food/mobile/process5-receiving.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/smart-food/thumbnail/process5-receiving.webp",
+                "src": "/assets/smart-food/thumbnail/process5-receiving.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/smart-food/desktop/process5-receiving.webp",
+                "src": "/assets/smart-food/desktop/process5-receiving.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
@@ -49,7 +49,7 @@
             },
             "tags": ["Makanan", "Platform"],
             "cta": "Jelajahi Smart Food",
-            "href": "/smart-food/"
+            "href": "/assets/smart-food/"
           },
           {
             "category": "AI Luxury",
@@ -492,7 +492,7 @@
         "title": "AI Smart Food",
         "body": "Smart Food adalah lapisan praktis untuk kehidupan sehari-hari. Ini memberi Chorn Planet titik awal yang berguna seputar penemuan makanan, informasi menu, pengalaman pelanggan, konsep pemesanan, dan alur layanan makanan masa depan berbantuan AI.",
         "tags": ["Pengalaman Makanan", "Konsep Pemesanan", "Kegunaan Harian"],
-        "link": "/smart-food/"
+        "link": "/assets/smart-food/"
       },
       {
         "title": "AI Luxury",

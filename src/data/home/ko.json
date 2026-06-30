@@ -22,26 +22,26 @@
             "title": "Smart Food 시스템",
             "description": "음식 발견, 주문 개념, 고객 경험을 중심으로 한 일상생활 제품 방향입니다.",
             "image": {
-              "src": "/smart-food/process5-receiving.png",
+              "src": "/assets/smart-food/process5-receiving.png",
               "alt": "Smart Food 시스템 비주얼",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.smart-food",
               "mobile": {
-                "src": "/smart-food/mobile/process5-receiving.webp",
+                "src": "/assets/smart-food/mobile/process5-receiving.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/smart-food/thumbnail/process5-receiving.webp",
+                "src": "/assets/smart-food/thumbnail/process5-receiving.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/smart-food/desktop/process5-receiving.webp",
+                "src": "/assets/smart-food/desktop/process5-receiving.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
@@ -49,7 +49,7 @@
             },
             "tags": ["음식", "플랫폼"],
             "cta": "Smart Food 탐색",
-            "href": "/smart-food/"
+            "href": "/assets/smart-food/"
           },
           {
             "category": "AI Luxury",
@@ -488,7 +488,7 @@
         "title": "AI Smart Food",
         "body": "Smart Food는 실용적인 일상생활 레이어입니다. 음식 발견, 메뉴 정보, 고객 경험, 주문 개념, 미래 AI 보조 음식 서비스 흐름을 중심으로 Chorn Planet에 유용한 시작점을 제공합니다.",
         "tags": ["음식 경험", "주문 개념", "일상 유틸리티"],
-        "link": "/smart-food/"
+        "link": "/assets/smart-food/"
       },
       {
         "title": "AI Luxury",
