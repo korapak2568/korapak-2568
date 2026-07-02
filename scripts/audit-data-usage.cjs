@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const projectRoot = path.resolve(__dirname, '..');
-const dataRoot = path.join(projectRoot, 'src', 'data');
+const dataRoot = path.join(projectRoot, 'data');
 const sourceRoots = [
     path.join(projectRoot, 'src', 'app'),
     path.join(projectRoot, 'src', 'components'),
@@ -66,6 +66,10 @@ function resolveFile(basePath) {
 function resolveImport(fromFile, specifier) {
     if (specifier.startsWith('@/')) {
         const subPath = specifier.slice(2);
+        if (subPath.startsWith('data/')) {
+            return resolveFile(path.join(projectRoot, subPath));
+        }
+
         for (const root of ['src', 'server', 'backend']) {
             const resolved = resolveFile(path.join(projectRoot, root, subPath));
             if (resolved) {
@@ -169,13 +173,13 @@ function main() {
 
     fs.writeFileSync(
         path.join(projectRoot, 'hardcode-data-active.log'),
-        formatLog('Active src/data files reachable from runtime source', active, summarize(active)),
+        formatLog('Active data files reachable from runtime source', active, summarize(active)),
         'utf8'
     );
 
     fs.writeFileSync(
         path.join(projectRoot, 'hardcode-data-inactive.log'),
-        formatLog('Inactive src/data files not reachable from runtime source', inactive, summarize(inactive)),
+        formatLog('Inactive data files not reachable from runtime source', inactive, summarize(inactive)),
         'utf8'
     );
 

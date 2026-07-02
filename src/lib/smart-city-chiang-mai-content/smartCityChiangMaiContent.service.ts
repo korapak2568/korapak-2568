@@ -9,7 +9,7 @@ import {
 } from "@/lib/platform-content/smartCityContent";
 
 function unsupportedSmartCityWrite(): never {
-  throw new Error("Smart City Chiang Mai content is sourced from src/data/smart-city/en.json");
+  throw new Error("Smart City Chiang Mai content is sourced from data/smart-city/en.json");
 }
 
 export async function getSmartCityChiangMaiContent(
@@ -19,7 +19,7 @@ export async function getSmartCityChiangMaiContent(
   const content = await getSmartCityChiangMaiContentFromJson(locale, slug);
 
   if (!content) {
-    throw new Error(`Smart City Chiang Mai content not found in src/data/smart-city/en.json for slug "${slug}"`);
+    throw new Error(`Smart City Chiang Mai content not found in data/smart-city/en.json for slug "${slug}"`);
   }
 
   return content;

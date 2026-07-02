@@ -12,8 +12,8 @@ import {LOCALES} from "@/lib/SiteUrlLocales";
 
 const LAYOUT_CONTENT_LIST_TAG = 'layout-content';
 const LAYOUT_CONTENT_CACHE_VERSION = '2026-06-28-json-layout-source';
-const NAVIGATION_CONTENT_DIR = path.join(process.cwd(), 'src', 'data', 'layout', 'navigation');
-const FOOTER_CONTENT_DIR = path.join(process.cwd(), 'src', 'data', 'layout', 'footer');
+const NAVIGATION_CONTENT_DIR = path.join(process.cwd(), 'data', 'layout', 'navigation');
+const FOOTER_CONTENT_DIR = path.join(process.cwd(), 'data', 'layout', 'footer');
 const REQUIRED_NAVIGATION_FIELDS = [
     'navbar',
     'consent',
@@ -178,12 +178,12 @@ export async function upsertLayoutContent(
     content: PartialLayoutContentPayload
 ): Promise<LayoutContentResponse> {
     throw new Error(
-        `Layout content is managed by src/data/layout/navigation/${normalizeLayoutContentLocale(content.locale)}.json and src/data/layout/footer/${normalizeLayoutContentLocale(content.locale)}.json`
+        `Layout content is managed by data/layout/navigation/${normalizeLayoutContentLocale(content.locale)}.json and data/layout/footer/${normalizeLayoutContentLocale(content.locale)}.json`
     );
 }
 
 export async function deleteLayoutContent(locale: string): Promise<void> {
     throw new Error(
-        `Layout content is managed by src/data/layout/navigation/${normalizeLayoutContentLocale(locale)}.json and src/data/layout/footer/${normalizeLayoutContentLocale(locale)}.json`
+        `Layout content is managed by data/layout/navigation/${normalizeLayoutContentLocale(locale)}.json and data/layout/footer/${normalizeLayoutContentLocale(locale)}.json`
     );
 }

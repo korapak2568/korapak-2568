@@ -6,7 +6,6 @@ import type { PlatformResponsiveImage } from "@/lib/platform-content/platformIma
 const DEFAULT_FUTURE_ROADMAP_LOCALE = DEFAULT_LOCALE;
 const FUTURE_ROADMAP_DATA_DIR = path.join(
   process.cwd(),
-  "src",
   "data",
   "future-roadmap",
 );

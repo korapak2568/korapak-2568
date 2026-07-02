@@ -64,7 +64,7 @@ export async function getSmartMobilityChiangMaiContent(
   const page = source.pages[slug];
 
   if (!page) {
-    throw new Error(`Smart Mobility Chiang Mai content not found in src/data/smart-mobility/chaingmai/en.json for slug "${slug}"`);
+    throw new Error(`Smart Mobility Chiang Mai content not found in data/smart-mobility/chaingmai/en.json for slug "${slug}"`);
   }
 
   const { metadata: _metadata, ...content } = clone(page);

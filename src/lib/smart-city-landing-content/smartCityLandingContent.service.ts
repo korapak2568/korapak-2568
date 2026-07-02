@@ -9,7 +9,7 @@ import {
 } from "@/lib/platform-content/smartCityContent";
 
 function unsupportedSmartCityWrite(): never {
-  throw new Error("Smart City landing content is sourced from src/data/smart-city/en.json");
+  throw new Error("Smart City landing content is sourced from data/smart-city/en.json");
 }
 
 export async function getSmartCityLandingContent(
@@ -19,7 +19,7 @@ export async function getSmartCityLandingContent(
   const content = await getSmartCityLandingContentFromJson(locale, slug);
 
   if (!content) {
-    throw new Error(`Smart City landing content not found in src/data/smart-city/en.json for slug "${slug}"`);
+    throw new Error(`Smart City landing content not found in data/smart-city/en.json for slug "${slug}"`);
   }
 
   return content;
