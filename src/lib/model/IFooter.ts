@@ -16,12 +16,22 @@ export interface IFooter {
         items: IFooterDetail[];
     }
 
-    project: {
+    projects?: {
         title: string,
         items: IFooterDetail[]
     }
 
-    smartCity: {
+    platform?: {
+        title: string,
+        items: IFooterDetail[]
+    }
+
+    project?: {
+        title: string,
+        items: IFooterDetail[]
+    }
+
+    smartCity?: {
         title: string,
         items: IFooterDetail[]
     }

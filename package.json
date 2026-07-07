@@ -4,12 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build",
+    "build": "npm run generate:cgd-indexes && next build",
     "start": "npx serve@latest out",
     "lint": "eslint .",
     "test:e2e": "playwright test",
     "sync:homepage-content": "node scripts/sync-homepage-content.cjs",
-    "audit:locale-content": "node scripts/audit-locale-content.cjs"
+    "audit:locale-content": "node scripts/audit-locale-content.cjs",
+    "generate:cgd-indexes": "node scripts/generate-cgd-derived-indexes.cjs"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",

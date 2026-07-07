@@ -1,0 +1,314 @@
+{
+  "layers": [
+    {
+      "id": "human_needs",
+      "name": "인간의 필요"
+    },
+    {
+      "id": "industries",
+      "name": "산업"
+    },
+    {
+      "id": "problems",
+      "name": "문제"
+    },
+    {
+      "id": "future-solutions",
+      "name": "미래 솔루션"
+    },
+    {
+      "id": "future_civilization",
+      "name": "미래 문명"
+    },
+    {
+      "id": "business-opportunities",
+      "name": "비즈니스 기회"
+    }
+  ],
+  "industries": {
+    "id": "industries",
+    "name": "산업",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "산업 | Chorn Planet",
+          "description": "Chorn Planet Civilization Graph에서 산업 노드, 현재 문제, 하위 노드, 미래 로드맵 솔루션 링크를 살펴보세요."
+        },
+        "node": {
+          "title_template": "{nodeName} 산업 문제 | Chorn Planet",
+          "description_template": "{nodeName}의 현재 문제, 하위 노드, 미래 솔루션 경로를 살펴보세요.",
+          "fallback_title": "산업 | Chorn Planet",
+          "fallback_description": "Chorn Planet Civilization Graph의 산업 노드를 살펴보세요."
+        },
+        "detail": {
+          "fallback_title": "산업 문제 | Chorn Planet",
+          "fallback_description": "미래 문명의 문제와 솔루션을 탐색하세요.",
+          "title_template": "{problemName} | {subNodeName} | Chorn Planet",
+          "description_template": "{problemName}은 {nodeName} 및 {subNodeName}에 영향을 미칩니다. 미래 로드맵 솔루션, 비즈니스 기회, 관련 문명 그래프 링크를 탐색하세요."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "문명 그래프",
+          "title": "산업",
+          "description": "정식 Civilization Graph 매니페스트에서 생성된 산업 노드, 현재 과제, 미래 솔루션 경로의 프리미엄 인덱스입니다."
+        },
+        "stats": {
+          "industry_nodes": "산업 노드",
+          "linked_problem_pages": "연결된 문제 페이지",
+          "problem_catalog": "문제 카탈로그"
+        },
+        "directory_section": {
+          "eyebrow": "산업 지도",
+          "title": "산업 노드별 현재 문제 살펴보기",
+          "card_problem_count_template": "연결된 문제 페이지 {count}개",
+          "card_description_template": "{subNodeCount}개의 하위 노드와 {problemCount}개의 현재 과제가 Civilization Graph에 연결되어 있습니다."
+        }
+      },
+      "node": {
+        "hero": {
+          "eyebrow": "산업 노드",
+          "description_template": "Civilization Graph에서 생성된 현재 과제, 하위 노드, 미래 로드맵 솔루션 링크를 통해 {nodeName}을 탐색하세요."
+        },
+        "stats": {
+          "sub_nodes": "하위 노드",
+          "linked_pages": "연결된 페이지",
+          "problem_catalog": "문제 카탈로그"
+        },
+        "problem_section": {
+          "eyebrow": "현재 문제",
+          "title": "매니페스트 기반 문제 페이지"
+        },
+        "sub_nodes_section": {
+          "eyebrow": "하위 노드",
+          "title": "운영 영역"
+        }
+      },
+      "detail": {
+        "hero": {
+          "eyebrow": "산업 문제",
+          "description_template": "{problemName}은 {nodeName} 내부의 현재 과제이며, 특히 {subNodeName}와 관련됩니다. Civilization Graph는 이 문제를 미래 로드맵 솔루션, 비즈니스 기회, 관련 지식 경로와 연결합니다."
+        },
+        "overview": {
+          "eyebrow": "현재 문제",
+          "description": "이 페이지는 정식 CGD 매니페스트에서 생성되며 문제, 노드, 하위 노드, 솔루션, 로드맵 관계를 신뢰할 수 있는 원천으로 사용합니다."
+        },
+        "why_it_matters": {
+          "eyebrow": "중요한 이유",
+          "title_template": "{subNodeName} 압력 지점",
+          "description_template": "이 과제를 해결하면 {nodeName} 전반에서 더 나은 서비스, 강력한 인프라, 새로운 운영 모델을 열 수 있습니다."
+        },
+        "roadmap_section": {
+          "eyebrow": "미래 로드맵 솔루션",
+          "title": "이 문제와 연결된 로드맵 항목"
+        },
+        "business_section": {
+          "eyebrow": "비즈니스 기회",
+          "title": "상업적 경로"
+        },
+        "technology_section": {
+          "eyebrow": "관련 기술",
+          "title": "기술 영역"
+        },
+        "related_problems_section": {
+          "eyebrow": "관련 문제",
+          "title_template": "{nodeName}의 다른 과제"
+        },
+        "related_industries_section": {
+          "eyebrow": "관련 산업",
+          "title": "인접 노드"
+        },
+        "internal_links_section": {
+          "eyebrow": "내부 링크",
+          "title": "그래프 탐색"
+        }
+      }
+    }
+  },
+  "business_opportunities": {
+    "id": "business-opportunities",
+    "name": "비즈니스 기회",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "비즈니스 기회 | Chorn Planet",
+          "description": "산업, 하위 노드, 미래 문명 로드맵 시대와 연결된 미래 비즈니스 기회를 살펴보세요."
+        },
+        "node": {
+          "title_template": "{nodeName} 비즈니스 기회 | Chorn Planet",
+          "description_template": "하위 노드와 로드맵 시대 전반에서 {nodeName}의 미래 비즈니스 기회를 살펴보세요.",
+          "fallback_title": "비즈니스 기회 | Chorn Planet",
+          "fallback_description": "Civilization Graph와 연결된 미래 비즈니스 기회를 살펴보세요."
+        },
+        "detail": {
+          "fallback_title": "비즈니스 기회 | Chorn Planet",
+          "fallback_description": "미래 문명 비즈니스 기회를 탐색하세요.",
+          "title_template": "{opportunityName} | {nodeName} | Chorn Planet",
+          "description_template": "{opportunityName}은 Chorn Planet Civilization Graph를 통해 {nodeName}, {subNodeName}, 미래 문명 로드맵을 연결합니다."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "문명 그래프",
+          "title": "비즈니스 기회",
+          "description": "Chorn Planet Civilization Graph 안에서 산업, 하위 노드, 로드맵 시대와 연결된 미래 지향 비즈니스 아이디어의 전략 지도입니다."
+        },
+        "directory_section": {
+          "eyebrow": "기회 지도",
+          "title": "산업 노드별 미래 비즈니스 기회 살펴보기",
+          "card_description_template": "{subNodeCount}개의 하위 노드와 {eraCount}개의 로드맵 시대에 걸친 {opportunityCount}개의 상업 아이디어입니다."
+        }
+      },
+      "node": {
+        "hero": {
+          "eyebrow": "비즈니스 노드",
+          "description_template": "하위 노드별로 그룹화되고 연결된 로드맵 시대와 함께 {nodeName}의 비즈니스 기회를 탐색하세요."
+        },
+        "stats": {
+          "opportunities": "기회",
+          "sub_nodes": "하위 노드",
+          "roadmap_eras": "로드맵 시대"
+        },
+        "opportunity_section": {
+          "eyebrow": "비즈니스 기회",
+          "title": "매니페스트 기반 기회 페이지"
+        },
+        "sub_nodes_section": {
+          "eyebrow": "하위 노드",
+          "title": "기회 영역"
+        }
+      },
+      "detail": {
+        "hero": {
+          "eyebrow": "비즈니스 기회",
+          "description_template": "{opportunityName}은 {nodeName}의 미래 지향 기회이며 {subNodeName}에 초점을 둡니다. 이 페이지는 기회를 로드맵 시대, 관련 문제, 기술, 인접 비즈니스와 연결합니다."
+        },
+        "overview": {
+          "eyebrow": "비즈니스 개요",
+          "description_template": "이 기회는 {subNodeName}에 속하고 {eraId}에 고정되어 더 넓은 미래 문명 로드맵의 일부가 됩니다."
+        },
+        "related_industry": {
+          "eyebrow": "관련 산업",
+          "description_template": "{nodeName}에는 {subNodeName}이 포함되며, 이 기회에 대한 시장, 운영, 사회적 맥락을 제공합니다."
+        },
+        "roadmap_section": {
+          "eyebrow": "미래 로드맵 기회",
+          "title": "연결된 시대의 로드맵 항목"
+        },
+        "related_problems_section": {
+          "eyebrow": "관련 문제",
+          "title": "주변의 현재 과제",
+          "empty_text": "그래프가 확장되면 더 많은 문제 링크가 표시됩니다."
+        },
+        "technology_section": {
+          "eyebrow": "관련 기술",
+          "title": "기술 영역"
+        },
+        "related_business_section": {
+          "eyebrow": "관련 비즈니스 기회",
+          "title": "인접 비즈니스 경로"
+        },
+        "internal_links_section": {
+          "eyebrow": "내부 링크",
+          "title": "그래프 탐색"
+        }
+      }
+    }
+  },
+  "future-solutions": {
+    "id": "future-solutions",
+    "name": "미래 솔루션",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "미래 솔루션 | Chorn Planet",
+          "description": "로드맵 이정표를 현재 문제, 산업, 비즈니스 기회, 준비도, 인간 영향과 연결하는 미래 솔루션 렌즈를 탐색하세요."
+        },
+        "era": {
+          "title_template": "{eraTitle} 미래 솔루션 | Chorn Planet",
+          "description_template": "{eraTitle}에서 {count}개의 미래 솔루션 렌즈를 탐색하여 로드맵 이정표를 현재 문제, 산업, 비즈니스 기회와 연결하세요.",
+          "fallback_title": "미래 솔루션 시대 | Chorn Planet",
+          "fallback_description": "로드맵 시대별 미래 솔루션 렌즈를 탐색하세요."
+        },
+        "detail": {
+          "fallback_title": "미래 솔루션 | Chorn Planet",
+          "fallback_description": "Civilization Graph의 미래 솔루션 렌즈를 탐색하세요."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "미래 솔루션",
+          "title": "미래 문명 로드맵을 위한 솔루션 렌즈",
+          "description": "각 미래 이정표를 그것이 해결하는 문제, 영향을 주는 산업, 만들어내는 비즈니스 기회, 요구되는 인간의 준비를 통해 탐색하세요."
+        },
+        "directory_section": {
+          "eyebrow": "솔루션 지도",
+          "title": "로드맵 시대별 미래 솔루션 살펴보기",
+          "card_description_template": "{timeframe}. {industryCount}개의 산업 노드와 준비도 수준 {readinessLevels}에 연결됩니다."
+        }
+      },
+      "era": {
+        "hero": {
+          "eyebrow": "미래 솔루션 시대",
+          "description_template": "{timeframe}에서 {count}개의 솔루션 렌즈를 집중적으로 살펴보며 로드맵 이정표를 현재 문제, 산업 영향, 비즈니스 기회와 연결합니다."
+        },
+        "directory_section": {
+          "eyebrow": "시대별 솔루션",
+          "title": "문제 해결 렌즈"
+        }
+      },
+      "detail": {
+        "breadcrumbs": {
+          "future_civilization": "미래 문명",
+          "future_solutions": "미래 솔루션"
+        },
+        "hero": {
+          "eyebrow": "미래 솔루션",
+          "view_era_solutions": "시대 솔루션 보기",
+          "canonical_roadmap_item": "정식 로드맵 항목"
+        },
+        "solution_lens": {
+          "problem_statement": {
+            "eyebrow": "문제 진술",
+            "title": "이것이 해결하는 것"
+          },
+          "future_solution": {
+            "eyebrow": "미래 솔루션",
+            "title": "솔루션으로 작동하는 방식"
+          },
+          "why_it_matters": {
+            "eyebrow": "중요한 이유",
+            "title": "인간적 가치"
+          }
+        },
+        "readiness": {
+          "eyebrow": "준비도"
+        },
+        "human_impact": {
+          "eyebrow": "인간 영향",
+          "title": "개인, 비즈니스, 사회"
+        },
+        "current_problems": {
+          "eyebrow": "해결되는 현재 문제",
+          "title": "문제 링크"
+        },
+        "industries_impacted": {
+          "eyebrow": "영향을 받는 산업",
+          "title": "적용되는 영역"
+        },
+        "business_opportunities": {
+          "eyebrow": "비즈니스 기회",
+          "title": "상업적 경로"
+        },
+        "risks": {
+          "eyebrow": "위험과 과제",
+          "title": "관리해야 할 것"
+        },
+        "related": {
+          "eyebrow": "관련 솔루션 렌즈",
+          "title": "그래프를 따라 계속 탐색"
+        }
+      }
+    }
+  }
+}

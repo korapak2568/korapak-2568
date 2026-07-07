@@ -1,0 +1,52 @@
+[
+  {
+    "language": "en",
+    "label": "English",
+    "locale": "en-US"
+  },
+  {
+    "language": "th",
+    "label": "ภาษาไทย",
+    "locale": "th-TH"
+  },
+  {
+    "language": "zh",
+    "label": "中文",
+    "locale": "zh-CN"
+  },
+  {
+    "language": "ja",
+    "label": "日本語",
+    "locale": "ja-JP"
+  },
+  {
+    "language": "ko",
+    "label": "한국어",
+    "locale": "ko-KR"
+  },
+  {
+    "language": "id",
+    "label": "Bahasa Indonesia",
+    "locale": "id-ID"
+  },
+  {
+    "language": "de",
+    "label": "Deutsch",
+    "locale": "de-DE"
+  },
+  {
+    "language": "fr",
+    "label": "Français",
+    "locale": "fr-FR"
+  },
+  {
+    "language": "ru",
+    "label": "Русский",
+    "locale": "ru-RU"
+  },
+  {
+    "language": "vi",
+    "label": "Tiếng Việt",
+    "locale": "vi-VN"
+  }
+]

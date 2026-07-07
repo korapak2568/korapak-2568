@@ -1,0 +1,922 @@
+[
+  {
+    "id": "housing_real_estate",
+    "name": "Housing & Real Estate",
+    "sub_nodes": [
+      {
+        "id": "smart_home",
+        "name": "Smart Home"
+      },
+      {
+        "id": "apartment",
+        "name": "Apartment"
+      },
+      {
+        "id": "condominium",
+        "name": "Condominium"
+      },
+      {
+        "id": "luxury_villa",
+        "name": "Luxury Villa"
+      },
+      {
+        "id": "construction",
+        "name": "Construction"
+      },
+      {
+        "id": "property_management",
+        "name": "Property Management"
+      },
+      {
+        "id": "facility_management",
+        "name": "Facility Management"
+      },
+      {
+        "id": "architecture",
+        "name": "Architecture"
+      },
+      {
+        "id": "interior_design",
+        "name": "Interior Design"
+      },
+      {
+        "id": "urban_planning",
+        "name": "Urban Planning"
+      }
+    ]
+  },
+  {
+    "id": "healthcare",
+    "name": "Healthcare",
+    "sub_nodes": [
+      {
+        "id": "hospital",
+        "name": "Hospital"
+      },
+      {
+        "id": "clinic",
+        "name": "Clinic"
+      },
+      {
+        "id": "mental_health",
+        "name": "Mental Health"
+      },
+      {
+        "id": "preventive_care",
+        "name": "Preventive Care"
+      },
+      {
+        "id": "ai_diagnosis",
+        "name": "AI Diagnosis"
+      },
+      {
+        "id": "longevity",
+        "name": "Longevity"
+      },
+      {
+        "id": "genetics",
+        "name": "Genetics"
+      },
+      {
+        "id": "telemedicine",
+        "name": "Telemedicine"
+      },
+      {
+        "id": "pharmacy",
+        "name": "Pharmacy"
+      },
+      {
+        "id": "rehabilitation",
+        "name": "Rehabilitation"
+      }
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "sub_nodes": [
+      {
+        "id": "k12_education",
+        "name": "K-12 Education"
+      },
+      {
+        "id": "higher_education",
+        "name": "Higher Education"
+      },
+      {
+        "id": "online_learning",
+        "name": "Online Learning & EdTech"
+      },
+      {
+        "id": "vocational_training",
+        "name": "Vocational Training"
+      },
+      {
+        "id": "lifelong_learning",
+        "name": "Lifelong Learning"
+      },
+      {
+        "id": "special_education",
+        "name": "Special Education"
+      },
+      {
+        "id": "curriculum_development",
+        "name": "Curriculum Development"
+      },
+      {
+        "id": "language_learning",
+        "name": "Language Learning"
+      },
+      {
+        "id": "educational_gamification",
+        "name": "Educational Gamification"
+      },
+      {
+        "id": "corporate_training",
+        "name": "Corporate Training"
+      }
+    ]
+  },
+  {
+    "id": "food_agriculture",
+    "name": "Food & Agriculture",
+    "sub_nodes": [
+      {
+        "id": "agritech",
+        "name": "AgriTech"
+      },
+      {
+        "id": "organic_farming",
+        "name": "Organic Farming"
+      },
+      {
+        "id": "vertical_farming",
+        "name": "Vertical Farming"
+      },
+      {
+        "id": "sustainable_agriculture",
+        "name": "Sustainable Agriculture"
+      },
+      {
+        "id": "food_processing",
+        "name": "Food Processing"
+      },
+      {
+        "id": "alternative_protein",
+        "name": "Alternative Protein"
+      },
+      {
+        "id": "supply_chain_logistics",
+        "name": "Supply Chain & Logistics"
+      },
+      {
+        "id": "aquaculture",
+        "name": "Aquaculture"
+      },
+      {
+        "id": "food_safety",
+        "name": "Food Safety"
+      },
+      {
+        "id": "precision_farming",
+        "name": "Precision Farming"
+      }
+    ]
+  },
+  {
+    "id": "mobility_transportation",
+    "name": "Mobility & Transportation",
+    "sub_nodes": [
+      {
+        "id": "electric_vehicles",
+        "name": "Electric Vehicles"
+      },
+      {
+        "id": "autonomous_driving",
+        "name": "Autonomous Driving"
+      },
+      {
+        "id": "public_transit",
+        "name": "Public Transit"
+      },
+      {
+        "id": "ride_sharing",
+        "name": "Ride Sharing & Micro-mobility"
+      },
+      {
+        "id": "aviation",
+        "name": "Aviation"
+      },
+      {
+        "id": "rail_transport",
+        "name": "Rail Transport"
+      },
+      {
+        "id": "maritime_shipping",
+        "name": "Maritime Shipping"
+      },
+      {
+        "id": "logistics_delivery",
+        "name": "Logistics & Delivery"
+      },
+      {
+        "id": "traffic_management",
+        "name": "Traffic Management"
+      },
+      {
+        "id": "hyperloop_high_speed",
+        "name": "Hyperloop & High-Speed Rail"
+      }
+    ]
+  },
+  {
+    "id": "energy_utilities",
+    "name": "Energy & Utilities",
+    "sub_nodes": [
+      {
+        "id": "solar_energy",
+        "name": "Solar Energy"
+      },
+      {
+        "id": "wind_energy",
+        "name": "Wind Energy"
+      },
+      {
+        "id": "smart_grid",
+        "name": "Smart Grid"
+      },
+      {
+        "id": "energy_storage",
+        "name": "Energy Storage"
+      },
+      {
+        "id": "nuclear_energy",
+        "name": "Nuclear Energy"
+      },
+      {
+        "id": "hydrogen_fuel",
+        "name": "Hydrogen Fuel"
+      },
+      {
+        "id": "water_management",
+        "name": "Water Management"
+      },
+      {
+        "id": "waste_to_energy",
+        "name": "Waste-to-Energy"
+      },
+      {
+        "id": "power_distribution",
+        "name": "Power Distribution"
+      },
+      {
+        "id": "geothermal_energy",
+        "name": "Geothermal Energy"
+      }
+    ]
+  },
+  {
+    "id": "environment",
+    "name": "Environment",
+    "sub_nodes": [
+      {
+        "id": "climate_change",
+        "name": "Climate Change"
+      },
+      {
+        "id": "biodiversity",
+        "name": "Biodiversity"
+      },
+      {
+        "id": "waste_management",
+        "name": "Waste Management"
+      },
+      {
+        "id": "pollution_control",
+        "name": "Pollution Control"
+      },
+      {
+        "id": "circular_economy",
+        "name": "Circular Economy"
+      },
+      {
+        "id": "carbon_capture",
+        "name": "Carbon Capture"
+      },
+      {
+        "id": "ocean_conservation",
+        "name": "Ocean Conservation"
+      },
+      {
+        "id": "reforestation",
+        "name": "Reforestation"
+      },
+      {
+        "id": "environmental_policy",
+        "name": "Environmental Policy"
+      },
+      {
+        "id": "renewable_resources",
+        "name": "Renewable Resources"
+      }
+    ]
+  },
+  {
+    "id": "economy_finance",
+    "name": "Economy & Finance",
+    "sub_nodes": [
+      {
+        "id": "fintech",
+        "name": "FinTech"
+      },
+      {
+        "id": "banking",
+        "name": "Banking"
+      },
+      {
+        "id": "investment_wealth",
+        "name": "Investment & Wealth Management"
+      },
+      {
+        "id": "cryptocurrency_blockchain",
+        "name": "Cryptocurrency & Blockchain"
+      },
+      {
+        "id": "insurance",
+        "name": "Insurance"
+      },
+      {
+        "id": "macroeconomics",
+        "name": "Macroeconomics"
+      },
+      {
+        "id": "venture_capital",
+        "name": "Venture Capital"
+      },
+      {
+        "id": "e_commerce_finance",
+        "name": "E-commerce Finance"
+      },
+      {
+        "id": "sustainable_finance",
+        "name": "Sustainable Finance"
+      },
+      {
+        "id": "financial_regulation",
+        "name": "Financial Regulation"
+      }
+    ]
+  },
+  {
+    "id": "work_careers",
+    "name": "Work & Careers",
+    "sub_nodes": [
+      {
+        "id": "remote_work",
+        "name": "Remote Work"
+      },
+      {
+        "id": "gig_economy",
+        "name": "Gig Economy"
+      },
+      {
+        "id": "talent_acquisition",
+        "name": "Talent Acquisition"
+      },
+      {
+        "id": "upskilling_reskilling",
+        "name": "Upskilling & Reskilling"
+      },
+      {
+        "id": "workspace_design",
+        "name": "Workspace Design"
+      },
+      {
+        "id": "employee_wellbeing",
+        "name": "Employee Wellbeing"
+      },
+      {
+        "id": "hr_tech",
+        "name": "HR Tech"
+      },
+      {
+        "id": "career_coaching",
+        "name": "Career Coaching"
+      },
+      {
+        "id": "labor_relations",
+        "name": "Labor Relations"
+      },
+      {
+        "id": "diversity_inclusion",
+        "name": "Diversity & Inclusion"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing",
+    "name": "Manufacturing",
+    "sub_nodes": [
+      {
+        "id": "industry_4_0",
+        "name": "Industry 4.0"
+      },
+      {
+        "id": "robotics_automation",
+        "name": "Robotics & Automation"
+      },
+      {
+        "id": "3d_printing",
+        "name": "3D Printing"
+      },
+      {
+        "id": "supply_chain",
+        "name": "Supply Chain Management"
+      },
+      {
+        "id": "smart_factories",
+        "name": "Smart Factories"
+      },
+      {
+        "id": "materials_science",
+        "name": "Materials Science"
+      },
+      {
+        "id": "quality_control",
+        "name": "Quality Control"
+      },
+      {
+        "id": "sustainable_manufacturing",
+        "name": "Sustainable Manufacturing"
+      },
+      {
+        "id": "predictive_maintenance",
+        "name": "Predictive Maintenance"
+      },
+      {
+        "id": "industrial_iot",
+        "name": "Industrial IoT"
+      }
+    ]
+  },
+  {
+    "id": "retail_commerce",
+    "name": "Retail & Commerce",
+    "sub_nodes": [
+      {
+        "id": "e_commerce",
+        "name": "E-commerce"
+      },
+      {
+        "id": "omnichannel_retail",
+        "name": "Omnichannel Retail"
+      },
+      {
+        "id": "supply_chain_retail",
+        "name": "Supply Chain & Logistics"
+      },
+      {
+        "id": "consumer_behavior",
+        "name": "Consumer Behavior"
+      },
+      {
+        "id": "digital_payment",
+        "name": "Digital Payment Systems"
+      },
+      {
+        "id": "brick_and_mortar",
+        "name": "Brick-and-Mortar Innovation"
+      },
+      {
+        "id": "personalized_marketing",
+        "name": "Personalized Marketing"
+      },
+      {
+        "id": "inventory_management",
+        "name": "Inventory Management"
+      },
+      {
+        "id": "direct_to_consumer",
+        "name": "Direct-to-Consumer (D2C)"
+      },
+      {
+        "id": "retail_analytics",
+        "name": "Retail Analytics"
+      }
+    ]
+  },
+  {
+    "id": "hospitality_tourism",
+    "name": "Hospitality & Tourism",
+    "sub_nodes": [
+      {
+        "id": "hotels",
+        "name": "Hotels"
+      },
+      {
+        "id": "spa",
+        "name": "Spa"
+      },
+      {
+        "id": "resorts",
+        "name": "Resorts"
+      },
+      {
+        "id": "restaurants",
+        "name": "Restaurants"
+      },
+      {
+        "id": "cafes",
+        "name": "Cafes"
+      },
+      {
+        "id": "theme_parks",
+        "name": "Theme Parks"
+      },
+      {
+        "id": "cruise",
+        "name": "Cruise"
+      },
+      {
+        "id": "eco_tourism",
+        "name": "Eco Tourism"
+      },
+      {
+        "id": "luxury_travel",
+        "name": "Luxury Travel"
+      },
+      {
+        "id": "wellness_retreat",
+        "name": "Wellness Retreat"
+      }
+    ]
+  },
+  {
+    "id": "cities_communities",
+    "name": "Cities & Communities",
+    "sub_nodes": [
+      {
+        "id": "smart_cities",
+        "name": "Smart Cities"
+      },
+      {
+        "id": "public_spaces",
+        "name": "Public Spaces"
+      },
+      {
+        "id": "affordable_housing",
+        "name": "Affordable Housing"
+      },
+      {
+        "id": "community_engagement",
+        "name": "Community Engagement"
+      },
+      {
+        "id": "urban_mobility",
+        "name": "Urban Mobility"
+      },
+      {
+        "id": "sustainable_infrastructure",
+        "name": "Sustainable Infrastructure"
+      },
+      {
+        "id": "disaster_resilience",
+        "name": "Disaster Resilience"
+      },
+      {
+        "id": "waste_recycling",
+        "name": "Waste & Recycling Systems"
+      },
+      {
+        "id": "urban_agriculture",
+        "name": "Urban Agriculture"
+      },
+      {
+        "id": "digital_twins",
+        "name": "Urban Digital Twins"
+      }
+    ]
+  },
+  {
+    "id": "government_public_services",
+    "name": "Government & Public Services",
+    "sub_nodes": [
+      {
+        "id": "e_government",
+        "name": "E-Government & Digital Identity"
+      },
+      {
+        "id": "public_policy",
+        "name": "Public Policy"
+      },
+      {
+        "id": "civic_tech",
+        "name": "Civic Tech"
+      },
+      {
+        "id": "public_healthcare_systems",
+        "name": "Public Healthcare Systems"
+      },
+      {
+        "id": "infrastructure_funding",
+        "name": "Infrastructure Funding"
+      },
+      {
+        "id": "social_welfare",
+        "name": "Social Welfare"
+      },
+      {
+        "id": "regulatory_compliance",
+        "name": "Regulatory Compliance"
+      },
+      {
+        "id": "emergency_services",
+        "name": "Emergency Response Services"
+      },
+      {
+        "id": "smart_governance",
+        "name": "Smart Governance"
+      },
+      {
+        "id": "open_data",
+        "name": "Open Data Initiatives"
+      }
+    ]
+  },
+  {
+    "id": "security_safety",
+    "name": "Security & Safety",
+    "sub_nodes": [
+      {
+        "id": "cybersecurity",
+        "name": "Cybersecurity"
+      },
+      {
+        "id": "physical_security",
+        "name": "Physical Security"
+      },
+      {
+        "id": "surveillance_systems",
+        "name": "Surveillance Systems"
+      },
+      {
+        "id": "biometrics",
+        "name": "Biometrics"
+      },
+      {
+        "id": "disaster_recovery",
+        "name": "Disaster Recovery"
+      },
+      {
+        "id": "data_privacy",
+        "name": "Data Privacy"
+      },
+      {
+        "id": "national_defense",
+        "name": "National Defense"
+      },
+      {
+        "id": "law_enforcement_tech",
+        "name": "Law Enforcement Tech"
+      },
+      {
+        "id": "fire_safety",
+        "name": "Fire Safety"
+      },
+      {
+        "id": "fraud_detection",
+        "name": "Fraud Detection"
+      }
+    ]
+  },
+  {
+    "id": "communication",
+    "name": "Communication",
+    "sub_nodes": [
+      {
+        "id": "telecommunications",
+        "name": "Telecommunications (5G/6G)"
+      },
+      {
+        "id": "satellite_internet",
+        "name": "Satellite Internet"
+      },
+      {
+        "id": "social_media",
+        "name": "Social Media"
+      },
+      {
+        "id": "enterprise_collaboration",
+        "name": "Enterprise Collaboration Tools"
+      },
+      {
+        "id": "iot_connectivity",
+        "name": "IoT Connectivity"
+      },
+      {
+        "id": "quantum_communication",
+        "name": "Quantum Communication"
+      },
+      {
+        "id": "broadcasting",
+        "name": "Broadcasting Infrastructure"
+      },
+      {
+        "id": "network_architecture",
+        "name": "Network Architecture"
+      },
+      {
+        "id": "unified_communications",
+        "name": "Unified Communications"
+      },
+      {
+        "id": "interoperability",
+        "name": "Cross-Platform Interoperability"
+      }
+    ]
+  },
+  {
+    "id": "entertainment_media",
+    "name": "Entertainment & Media",
+    "sub_nodes": [
+      {
+        "id": "streaming_services",
+        "name": "Streaming Services"
+      },
+      {
+        "id": "gaming_esports",
+        "name": "Gaming & Esports"
+      },
+      {
+        "id": "virtual_reality_media",
+        "name": "VR & AR Media"
+      },
+      {
+        "id": "generative_ai_art",
+        "name": "Generative AI Art & Content"
+      },
+      {
+        "id": "digital_journalism",
+        "name": "Digital Journalism"
+      },
+      {
+        "id": "podcasting_audio",
+        "name": "Podcasting & Audio Content"
+      },
+      {
+        "id": "cinema_film",
+        "name": "Cinema & Film Production"
+      },
+      {
+        "id": "music_industry",
+        "name": "Music Industry Tech"
+      },
+      {
+        "id": "copyright_nft",
+        "name": "Copyright & Digital Ownership"
+      },
+      {
+        "id": "live_events",
+        "name": "Live Events & Concerts"
+      }
+    ]
+  },
+  {
+    "id": "science_research",
+    "name": "Science & Research",
+    "sub_nodes": [
+      {
+        "id": "quantum_computing",
+        "name": "Quantum Computing"
+      },
+      {
+        "id": "biotechnology",
+        "name": "Biotechnology"
+      },
+      {
+        "id": "artificial_intelligence",
+        "name": "Artificial Intelligence"
+      },
+      {
+        "id": "nanotechnology",
+        "name": "Nanotechnology"
+      },
+      {
+        "id": "neuroscience",
+        "name": "Neuroscience"
+      },
+      {
+        "id": "particle_physics",
+        "name": "Particle Physics"
+      },
+      {
+        "id": "climate_science",
+        "name": "Climate Science"
+      },
+      {
+        "id": "genomics",
+        "name": "Genomics"
+      },
+      {
+        "id": "materials_discovery",
+        "name": "Materials Discovery"
+      },
+      {
+        "id": "academic_publishing",
+        "name": "Open Science & Academic Publishing"
+      }
+    ]
+  },
+  {
+    "id": "space_civilization",
+    "name": "Space Civilization",
+    "sub_nodes": [
+      {
+        "id": "space_exploration",
+        "name": "Space Exploration"
+      },
+      {
+        "id": "satellite_deployment",
+        "name": "Satellite Deployment"
+      },
+      {
+        "id": "mars_colonization",
+        "name": "Mars Colonization"
+      },
+      {
+        "id": "asteroid_mining",
+        "name": "Asteroid Mining"
+      },
+      {
+        "id": "space_tourism",
+        "name": "Space Tourism"
+      },
+      {
+        "id": "orbital_habitats",
+        "name": "Orbital Habitats"
+      },
+      {
+        "id": "astrobiology",
+        "name": "Astrobiology"
+      },
+      {
+        "id": "space_law",
+        "name": "Space Law & Governance"
+      },
+      {
+        "id": "propulsion_systems",
+        "name": "Advanced Propulsion Systems"
+      },
+      {
+        "id": "space_debris",
+        "name": "Space Debris Mitigation"
+      }
+    ]
+  },
+  {
+    "id": "culture_lifestyle",
+    "name": "Culture & Lifestyle",
+    "sub_nodes": [
+      {
+        "id": "fashion_design",
+        "name": "Fashion & Design"
+      },
+      {
+        "id": "digital_nomadism",
+        "name": "Digital Nomadism"
+      },
+      {
+        "id": "fitness_wellness",
+        "name": "Fitness & Wellness"
+      },
+      {
+        "id": "art_museums",
+        "name": "Art & Museums"
+      },
+      {
+        "id": "gastronomy",
+        "name": "Gastronomy & Food Culture"
+      },
+      {
+        "id": "mindfulness",
+        "name": "Mindfulness & Personal Growth"
+      },
+      {
+        "id": "subcultures",
+        "name": "Digital Subcultures"
+      },
+      {
+        "id": "heritage_preservation",
+        "name": "Heritage Preservation"
+      },
+      {
+        "id": "hobbies_leisure",
+        "name": "Hobbies & Leisure"
+      },
+      {
+        "id": "social_trends",
+        "name": "Social Trends & Dynamics"
+      }
+    ]
+  }
+]

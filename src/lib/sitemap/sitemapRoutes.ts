@@ -3,6 +3,15 @@ import path from "node:path";
 import type {MetadataRoute} from "next";
 import {getLegacyPublicRedirects} from "../../../config/publicRedirects.mjs";
 import {SITE_URL} from "@/lib/SiteUrlLocales";
+import {
+    getBusinessOpportunityDirectoryData,
+    getCgdPageIndex,
+    getIndustryDirectoryData,
+} from "@/lib/cgd/loader";
+import {
+    getFutureSolutionEraSummaries,
+    getFutureSolutionStaticParams,
+} from "@/lib/future-solutions/futureSolutionsContent";
 import {getPlatformOutfitSets} from "@/lib/platform-content/styleContent";
 import {
     getFutureRoadmapEras,
@@ -67,6 +76,58 @@ const DYNAMIC_ROUTE_RESOLVERS: Record<string, DynamicRouteResolver> = {
 
         return getFutureRoadmapItemStaticParams().map(({eraSlug, slug}) => ({
             path: `/future-civilization/${eraSlug}/${slug}/`,
+            sourceFile,
+        }));
+    },
+    "/industries/[nodeSlug]/": async () => {
+        const sourceFile = getSourceFileForRoute("/industries/[nodeSlug]/");
+
+        return getIndustryDirectoryData().map((item) => ({
+            path: item.url,
+            sourceFile,
+        }));
+    },
+    "/business-opportunities/[nodeSlug]/": async () => {
+        const sourceFile = getSourceFileForRoute("/business-opportunities/[nodeSlug]/");
+
+        return getBusinessOpportunityDirectoryData().map((item) => ({
+            path: item.url,
+            sourceFile,
+        }));
+    },
+    "/industries/[nodeSlug]/[subNodeSlug]/[problemSlug]/": async () => {
+        const sourceFile = getSourceFileForRoute("/industries/[nodeSlug]/[subNodeSlug]/[problemSlug]/");
+
+        return getCgdPageIndex()
+            .filter((page) => page.pageType === "industry-problem")
+            .map((page) => ({
+                path: page.route,
+                sourceFile,
+            }));
+    },
+    "/business-opportunities/[nodeSlug]/[businessSlug]/": async () => {
+        const sourceFile = getSourceFileForRoute("/business-opportunities/[nodeSlug]/[businessSlug]/");
+
+        return getCgdPageIndex()
+            .filter((page) => page.pageType === "business-opportunity")
+            .map((page) => ({
+                path: page.route,
+                sourceFile,
+            }));
+    },
+    "/future-solutions/[eraSlug]/": async () => {
+        const sourceFile = getSourceFileForRoute("/future-solutions/[eraSlug]/");
+
+        return getFutureSolutionEraSummaries().map((era) => ({
+            path: era.url,
+            sourceFile,
+        }));
+    },
+    "/future-solutions/[eraSlug]/[eraItemSlug]/": async () => {
+        const sourceFile = getSourceFileForRoute("/future-solutions/[eraSlug]/[eraItemSlug]/");
+
+        return getFutureSolutionStaticParams().map((item) => ({
+            path: `/future-solutions/${item.eraSlug}/${item.eraItemSlug}/`,
             sourceFile,
         }));
     },

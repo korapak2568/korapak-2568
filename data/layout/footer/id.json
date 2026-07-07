@@ -127,5 +127,30 @@
         "ariaLabel": "Chorn Planet di X"
       }
     ]
+  },
+  "platform": {
+    "title": "Platform",
+    "items": [
+      {
+        "label": "Peradaban Masa Depan",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "Solusi Masa Depan",
+        "link": "/future-solutions/"
+      },
+      {
+        "label": "Peluang Bisnis",
+        "link": "/business-opportunities/"
+      },
+      {
+        "label": "Industri",
+        "link": "/industries/"
+      },
+      {
+        "label": "Teknologi",
+        "link": "/technology/"
+      }
+    ]
   }
 }

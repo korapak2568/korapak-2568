@@ -12,7 +12,7 @@ All dynamic arrays, static key-value trees, and unstructured text vectors ingest
 - **Cognitive Readability:** Tailored for standard, cross-cultural multi-tier users. Avoid localized structural syntax.
 - **Socio-Cultural Normalization:** Content must output zero aggressive, discriminatory, politically localized, or hyper-promotional linguistic vectors.
 - **Strategic Status Veracity:** Maintain absolute functional compliance with approved product deployment state. No speculative operational parameters.
-- **Architectural Readiness:** Interoperable with relational collections (MongoDB Atlas primitives), statically compiled typed payloads, and polymorphic Web components.
+- **Architectural Readiness:** Interoperable with repository-managed `data/` JSON assets, statically compiled typed payloads, and polymorphic Web components.
 
 ### 1.2 Algorithmic Content Fallbacks
 
@@ -38,7 +38,7 @@ This specification executes programmatically across all textual pipelines, struc
 - **Conceptual & Architectural Modules:** Digital roadmaps, future civilizational milestone logs, urban technological frameworks, autonomous mobility grids (MTS), and smart agricultural systems.
 - **Visual Commerce & Experiential Storytelling Blocks:** Contextual style modules, digital garment commerce pipelines, regional tourism cards (e.g., Lanna / Northern Thailand contexts), and lifestyle content templates.
 - **Regulatory, Governance, and Legal Arrays:** Terms of Service, Privacy Policies, data tracking matrices, investor-facing reporting schemas, and algorithmic automated processing declarations.
-- **Structured Dynamic Storage Targets:** Static internal JSON maps, MongoDB document nodes, server-side content ingestion layers, asynchronous page metadata hooks, SEO parameters, and alternative accessibility attributes (`alt` tags).
+- **Structured Dynamic Storage Targets:** Repository-managed `data/` JSON maps, server-side content loaders, asynchronous page metadata hooks, SEO parameters, and alternative accessibility attributes (`alt` tags).
 
 ---
 
@@ -328,7 +328,7 @@ The platform routing, middleware, sitemap, and robots generation must use the sa
  [STAGE 6: Cross-Locale Exec]◄── [STAGE 5: Canonical EN Sync]  ◄── [STAGE 4: Chief Architect Sign-off]
           │
           ▼
- [STAGE 7: Dynamic Routing]  ──► [STAGE 8: MongoDB Production Migration]
+ [STAGE 7: Dynamic Routing]  ──► [STAGE 8: Data File Publication]
 
 ```
 
@@ -360,9 +360,9 @@ The platform routing, middleware, sitemap, and robots generation must use the sa
 
 - **Action:** Inject localized arrays into page engines. Establish automated safe routing handling: `Target Locale` $\to$ `Global English (en)` $\to$ `Static Recovery Module`. Ensure no view rendering errors are thrown when processing incomplete language blocks.
 
-### Stage 8: Data Production Migration (DB-08)
+### Stage 8: Data File Publication (DATA-08)
 
-- **Action:** Port static hardcoded configuration maps directly into database collections (MongoDB Atlas cluster targets). Integrate logic cleanly with typed schemas and server-side data extraction components.
+- **Action:** Commit validated localized content directly into repository-managed `data/` JSON files. Integrate logic cleanly with typed loaders, route metadata helpers, and server-rendered components that read from those files.
 
 ---
 
@@ -393,14 +393,14 @@ Programmatically trace and scrub the following unsafe concepts from all localiza
 - Hyperbolic commercial pressure terminology ("buy now", "unmatched", "world-ending transformation").
 - Idiomatic regional phrases that trigger parsing exceptions or breakdown when translated.
 - Any unauthorized translation of structural platform brands or partner nodes:
-  `["ChornPlanet", "Smart Food", "Menu Match", "LINE OA", "TrueMoney Wallet", "MongoDB Atlas", "Next.js"]`
+  `["ChornPlanet", "Smart Food", "Menu Match", "LINE OA", "TrueMoney Wallet", "Next.js"]`
 
 ---
 
 ## 10. Core Ingestion Lifecycle Signals
 
 - **Signal Trigger:** `"Start web content generation and translation workflow"`
-- _Action Sequence:_ Sequentially compute Stages 1 through 8.
+- _Action Sequence:_ Sequentially compute Stages 1 through 8, ending with validated `data/` JSON publication.
 
 - **Signal Trigger:** `"Start review with EN"`
 - _Action Sequence:_ Process baseline `en` arrays, produce corresponding `th` modules, and pause execution pipeline until next validation signal.

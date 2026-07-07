@@ -127,5 +127,30 @@
         "ariaLabel": "Chorn Planet в X"
       }
     ]
+  },
+  "platform": {
+    "title": "Платформа",
+    "items": [
+      {
+        "label": "Будущая цивилизация",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "Будущие решения",
+        "link": "/future-solutions/"
+      },
+      {
+        "label": "Бизнес-возможности",
+        "link": "/business-opportunities/"
+      },
+      {
+        "label": "Отрасли",
+        "link": "/industries/"
+      },
+      {
+        "label": "Технологии",
+        "link": "/technology/"
+      }
+    ]
   }
 }

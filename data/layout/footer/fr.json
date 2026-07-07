@@ -127,5 +127,30 @@
         "ariaLabel": "Chorn Planet sur X"
       }
     ]
+  },
+  "platform": {
+    "title": "Plateforme",
+    "items": [
+      {
+        "label": "Civilisation future",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "Solutions futures",
+        "link": "/future-solutions/"
+      },
+      {
+        "label": "Opportunités commerciales",
+        "link": "/business-opportunities/"
+      },
+      {
+        "label": "Industries",
+        "link": "/industries/"
+      },
+      {
+        "label": "Technologie",
+        "link": "/technology/"
+      }
+    ]
   }
 }

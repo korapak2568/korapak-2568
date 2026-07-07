@@ -25,13 +25,19 @@ function getProjectHighlightClass(item: IFooterDetail): string | undefined {
 }
 
 export default function FooterProjects({lang, footer}: { lang: string, footer: IFooter }) {
+    const projects = footer.projects ?? footer.project;
+
+    if (!projects) {
+        return null;
+    }
+
     return (
         <div className="footer-right-column footer-right-column--projects">
             <div className="single-footer-widget pl-5">
-                <h3 className='pb-2'>{footer.project.title}</h3>
+                <h3 className='pb-2'>{projects.title}</h3>
                 <div className="footer-bar footer-bar-bottom-addition"/>
                 <ul className="quick-links ul-footer">
-                    {footer.project.items
+                    {projects.items
                         .filter((item: IFooterDetail) => item.link !== undefined)
                         .map((item: IFooterDetail, index: number) => {
                             const highlightClassName = getProjectHighlightClass(item);

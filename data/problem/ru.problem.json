@@ -1,0 +1,902 @@
+[
+  {
+    "id": "housing_real_estate",
+    "problems": [
+      {
+        "id": "housing_affordability_crisis",
+        "name": "Жилье Доступность Кризис"
+      },
+      {
+        "id": "high_maintenance_costs",
+        "name": "Высокие обслуживания и операционных затрат"
+      },
+      {
+        "id": "construction_delays",
+        "name": "Строительство задержки и стоимость превышение бюджета"
+      },
+      {
+        "id": "inefficient_energy_use",
+        "name": "Неэффективный Энергия использование в здания"
+      },
+      {
+        "id": "urban_sprawl",
+        "name": "Городской расползание города и плохое земли использование"
+      },
+      {
+        "id": "tenant_landlord_disputes",
+        "name": "арендатор-арендодатель споры"
+      },
+      {
+        "id": "smart_device_interoperability",
+        "name": "Умный устройств фрагментация и совместимость"
+      },
+      {
+        "id": "aging_infrastructure",
+        "name": "стареющая здание инфраструктура"
+      },
+      {
+        "id": "real_estate_fraud",
+        "name": "недвижимость недвижимость транзакции мошенничество"
+      },
+      {
+        "id": "gentrification_displacement",
+        "name": "джентрификация и сообщество вытеснение"
+      }
+    ]
+  },
+  {
+    "id": "healthcare",
+    "problems": [
+      {
+        "id": "medical_staff_burnout",
+        "name": "Медицинский персонал выгорание и дефициты"
+      },
+      {
+        "id": "skyrocketing_healthcare_costs",
+        "name": "Skyrocketing здравоохранение затрат"
+      },
+      {
+        "id": "diagnostic_errors",
+        "name": "диагностические ошибки и задержанное лечение"
+      },
+      {
+        "id": "mental_health_stigma",
+        "name": "психическое здоровье стигма и ограниченный уход доступ"
+      },
+      {
+        "id": "unequal_healthcare_distribution",
+        "name": "Неравный Сельский против. Городской уход доступ"
+      },
+      {
+        "id": "chronic_disease_surge",
+        "name": "Surge в предотвратимые хронические заболевания"
+      },
+      {
+        "id": "prescription_drug_addiction",
+        "name": "рецептурные лекарства зависимость и Opioid Кризис"
+      },
+      {
+        "id": "health_data_breaches",
+        "name": "пациент данные конфиденциальность и безопасность утечки"
+      },
+      {
+        "id": "counterfeit_pharmaceuticals",
+        "name": "контрафакт и Inflated лекарства цены"
+      },
+      {
+        "id": "rehabilitation_drop_out",
+        "name": "Высокие пациент Drop-out в долгосрочный реабилитация"
+      }
+    ]
+  },
+  {
+    "id": "education",
+    "problems": [
+      {
+        "id": "teacher_shortage",
+        "name": "учителей дефицит"
+      },
+      {
+        "id": "high_tuition",
+        "name": "Высокие обучение"
+      },
+      {
+        "id": "learning_gap",
+        "name": "обучение разрыв"
+      },
+      {
+        "id": "language_barrier",
+        "name": "язык барьер"
+      },
+      {
+        "id": "personalization",
+        "name": "персонализация"
+      },
+      {
+        "id": "accessibility",
+        "name": "доступность"
+      },
+      {
+        "id": "outdated_curriculum",
+        "name": "Устаревший или Rigid учебные программы"
+      },
+      {
+        "id": "low_student_engagement",
+        "name": "Низкий студент вовлеченность и удержание"
+      },
+      {
+        "id": "digital_divide_education",
+        "name": "Цифровой разрыв в удаленные районы"
+      },
+      {
+        "id": "skill_mismatch_market",
+        "name": "навыки несоответствие для the работа рынок"
+      }
+    ]
+  },
+  {
+    "id": "food_agriculture",
+    "problems": [
+      {
+        "id": "global_food_waste",
+        "name": "Серьезные Post-Harvest и потребитель еда отходы"
+      },
+      {
+        "id": "soil_degradation",
+        "name": "почва деградация и потеря для Fertility"
+      },
+      {
+        "id": "water_scarcity_irrigation",
+        "name": "вода дефицит и Неэффективный орошение"
+      },
+      {
+        "id": "crop_failures_climate",
+        "name": "урожай неурожаи Due к экстремальная погода"
+      },
+      {
+        "id": "supply_chain_perishability",
+        "name": "Perishability и Неэффективный логистика"
+      },
+      {
+        "id": "chemical_pesticide_overuse",
+        "name": "пестициды чрезмерное использование и химический Runoff"
+      },
+      {
+        "id": "overfishing_aquaculture_pollution",
+        "name": "Overfishing и Aquaculture загрязнение"
+      },
+      {
+        "id": "foodborne_illness_outbreaks",
+        "name": "Foodborne Illnesses и заражение"
+      },
+      {
+        "id": "high_cost_agritech",
+        "name": "Высокие капитал стоимость для современный AgriTech Setup"
+      },
+      {
+        "id": "consumer_resistance_alt_protein",
+        "name": "потребитель сопротивление к Альтернативный белки"
+      }
+    ]
+  },
+  {
+    "id": "mobility_transportation",
+    "problems": [
+      {
+        "id": "urban_traffic_congestion",
+        "name": "Серьезные Городской трафик пробки"
+      },
+      {
+        "id": "fossil_fuel_emissions",
+        "name": "Высокие парниковые газы выбросы"
+      },
+      {
+        "id": "ev_charging_infrastructure",
+        "name": "Lack для EV зарядка инфраструктура"
+      },
+      {
+        "id": "last_mile_delivery_inefficiency",
+        "name": "Высокие стоимость для Last-Mile доставка"
+      },
+      {
+        "id": "public_transit_underfunding",
+        "name": "Underfunded и Unreliable Общественный общественный транспорт"
+      },
+      {
+        "id": "av_safety_edge_cases",
+        "name": "безопасность и Этический Dilemmas в Автономный транспортные средства"
+      },
+      {
+        "id": "supply_chain_bottlenecks",
+        "name": "Глобальный перевозки узкие места и порт задержки"
+      },
+      {
+        "id": "traffic_accidents_fatalities",
+        "name": "Высокие Rates для трафик аварии и Fatalities"
+      },
+      {
+        "id": "battery_raw_material_scarcity",
+        "name": "дефицит для EV батареи сырье материалы"
+      },
+      {
+        "id": "micro_mobility_clutter",
+        "name": "тротуар Clutter и пешеход безопасность риски"
+      }
+    ]
+  },
+  {
+    "id": "energy_utilities",
+    "problems": [
+      {
+        "id": "grid_instability_renewables",
+        "name": "сеть нестабильность от Intermittent возобновляемые источники"
+      },
+      {
+        "id": "high_energy_storage_costs",
+        "name": "Высокие стоимость для сеть-масштаб Энергия хранение"
+      },
+      {
+        "id": "aging_electrical_grids",
+        "name": "стареющая энергосеть Grids и передача Losses"
+      },
+      {
+        "id": "clean_water_scarcity",
+        "name": "чистая вода дефицит и Depleted Aquifers"
+      },
+      {
+        "id": "fossil_fuel_dependency",
+        "name": "Устойчивый зависимость на ископаемое топливо"
+      },
+      {
+        "id": "high_hydrogen_production_cost",
+        "name": "Высокие производство стоимость для зеленый водород"
+      },
+      {
+        "id": "nuclear_waste_disposal",
+        "name": "Long-Term ядерный отходы утилизация безопасность"
+      },
+      {
+        "id": "cyberattacks_utility_grids",
+        "name": "уязвимость для Умный Grids к кибератаки"
+      },
+      {
+        "id": "inefficient_waste_sorting",
+        "name": "Неэффективный отходы сортировка для Энергия преобразование"
+      },
+      {
+        "id": "geothermal_drilling_risks",
+        "name": "Высокие риск и стоимость для геотермальная разведка"
+      }
+    ]
+  },
+  {
+    "id": "environment",
+    "problems": [
+      {
+        "id": "rising_global_temperatures",
+        "name": "Растущий Глобальный температуры и экстремальная погода"
+      },
+      {
+        "id": "accelerating_species_extinction",
+        "name": "Accelerating потеря для виды биоразнообразие"
+      },
+      {
+        "id": "plastic_pollution_oceans",
+        "name": "микропластик и океан отходы накопление"
+      },
+      {
+        "id": "air_pollution_health_impact",
+        "name": "Токсичный воздух загрязнение в Городской Centers"
+      },
+      {
+        "id": "deforestation_habitat_loss",
+        "name": "вырубка лесов и природный среда обитания разрушение"
+      },
+      {
+        "id": "ineffective_carbon_capture",
+        "name": "Высокие стоимость и Низкий масштаб для углерод улавливание"
+      },
+      {
+        "id": "landfill_overflow",
+        "name": "полигон Overflow и метан выбросы"
+      },
+      {
+        "id": "slow_circular_economy_adoption",
+        "name": "Медленный промышленный переход к Циркулярный системы"
+      },
+      {
+        "id": "lack_enforceable_eco_policies",
+        "name": "Слабый или Enforceable International Eco-Policies"
+      },
+      {
+        "id": "desertification_fertile_land",
+        "name": "опустынивание и потеря для Arable земли"
+      }
+    ]
+  },
+  {
+    "id": "economy_finance",
+    "problems": [
+      {
+        "id": "wealth_inequality",
+        "name": "Растущий Глобальный богатство неравенство"
+      },
+      {
+        "id": "inflation_currency_devaluation",
+        "name": "Устойчивый инфляция и валюта девальвация"
+      },
+      {
+        "id": "crypto_scams_volatility",
+        "name": "криптовалюта мошенничество и рынок волатильность"
+      },
+      {
+        "id": "unbanked_populations",
+        "name": "Lack для банковский доступ доступ для уязвимый группы"
+      },
+      {
+        "id": "financial_fraud_identity_theft",
+        "name": "Сложный онлайн мошенничество и личность кража"
+      },
+      {
+        "id": "systemic_banking_fragility",
+        "name": "системный риски и уязвимость к рынок Crashes"
+      },
+      {
+        "id": "predatory_lending_practices",
+        "name": "Хищнический кредитование и Высокие потребитель долг"
+      },
+      {
+        "id": "greenwashing_sustainable_finance",
+        "name": "гринвошинг в ESG и Устойчивый финансы"
+      },
+      {
+        "id": "startup_funding_dry_spells",
+        "name": "Geographic Consolidation для Venture капитал"
+      },
+      {
+        "id": "complex_cross_border_payments",
+        "name": "Высокие комиссии и задержки в Cross-Border денежные переводы"
+      }
+    ]
+  },
+  {
+    "id": "work_careers",
+    "problems": [
+      {
+        "id": "ai_job_displacement",
+        "name": "работа вытеснение Due к автоматизация и ИИ"
+      },
+      {
+        "id": "workplace_burnout",
+        "name": "Широко распространенный выгорание и хронические работа стресс"
+      },
+      {
+        "id": "gig_worker_exploitation",
+        "name": "Lack для льготы и стабильность для Gig работники"
+      },
+      {
+        "id": "rapid_skill_obsolescence",
+        "name": "Быстрый Obsolescence для профессиональные навыки"
+      },
+      {
+        "id": "remote_work_isolation",
+        "name": "изоляция и Blurred границы в удаленные работа"
+      },
+      {
+        "id": "bias_recruitment_algorithms",
+        "name": "Algorithmic предвзятость в Автоматизированный найм технологии"
+      },
+      {
+        "id": "wage_stagnation",
+        "name": "зарплата Stagnation Relative к стоимость для Living"
+      },
+      {
+        "id": "gender_minority_wage_gaps",
+        "name": "Устойчивый зарплата Gaps и рабочее место дискриминация"
+      },
+      {
+        "id": "labor_shortage_skilled",
+        "name": "Серьезные таланты дефициты в Specialized технологии Fields"
+      },
+      {
+        "id": "toxic_work_culture",
+        "name": "Токсичный рабочее место Dynamics и Слабый управление"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing",
+    "problems": [
+      {
+        "id": "supply_chain_disruptions",
+        "name": "сырье материал дефициты и Logistical узкие места"
+      },
+      {
+        "id": "high_iiot_implementation_costs",
+        "name": "Prohibitive затрат для Transitioning к промышленность 4.0"
+      },
+      {
+        "id": "skilled_factory_labor_shortage",
+        "name": "Серьезные дефицит для Skilled операторы и инженеры"
+      },
+      {
+        "id": "industrial_carbon_footprint",
+        "name": "Высокие углерод Footprint и опасный отходы образование"
+      },
+      {
+        "id": "iiot_cyber_vulnerabilities",
+        "name": "кибербезопасность Vulnerabilities в Умный фабрики"
+      },
+      {
+        "id": "equipment_downtime",
+        "name": "Дорогой Unplanned оборудование простой"
+      },
+      {
+        "id": "defect_escapes",
+        "name": "дефекты Slipping Through Mass качество контроль"
+      },
+      {
+        "id": "slow_3d_printing_scaling",
+        "name": "Медленный производство Speeds для 3D печать at масштаб"
+      },
+      {
+        "id": "material_testing_bottlenecks",
+        "name": "Медленный, Дорогой разработка для Продвинутый материалы"
+      },
+      {
+        "id": "hazardous_working_conditions",
+        "name": "профессиональные опасности и Heavy машины аварии"
+      }
+    ]
+  },
+  {
+    "id": "retail_commerce",
+    "problems": [
+      {
+        "id": "e_commerce_package_theft",
+        "name": "крыльцо кража и электронная коммерция посылка кража"
+      },
+      {
+        "id": "high_return_rates_losses",
+        "name": "Высокие продукт возврат Rates и Reverse логистика затрат"
+      },
+      {
+        "id": "inventory_distortion",
+        "name": "Дорогой Stockouts и Excess Overstock Issues"
+      },
+      {
+        "id": "brick_and_mortar_decline",
+        "name": "Bankruptcy и Decline для Physical розница магазины"
+      },
+      {
+        "id": "payment_gateway_fraud",
+        "name": "онлайн платеж мошенничество и Chargebacks"
+      },
+      {
+        "id": "omnichannel_data_silos",
+        "name": "Inconsistent клиент данные Across онлайн/офлайн"
+      },
+      {
+        "id": "rising_customer_acquisition_costs",
+        "name": "Растущий реклама затрат и Низкий бренд Loyalty"
+      },
+      {
+        "id": "counterfeit_online_marketplaces",
+        "name": "Proliferation для контрафакт товары онлайн"
+      },
+      {
+        "id": "consumer_privacy_backlash",
+        "name": "Backlash Against Aggressive данные Tracking для Ads"
+      },
+      {
+        "id": "packaging_waste_retail",
+        "name": "Чрезмерный Single-использование упаковка отходы"
+      }
+    ]
+  },
+  {
+    "id": "hospitality_tourism",
+    "problems": [
+      {
+        "id": "high_operating_cost",
+        "name": "Высокие операционные стоимость"
+      },
+      {
+        "id": "labor_shortage",
+        "name": "труд дефицит"
+      },
+      {
+        "id": "energy_cost",
+        "name": "Энергия стоимость"
+      },
+      {
+        "id": "poor_customer_experience",
+        "name": "плохое клиент опыт"
+      },
+      {
+        "id": "seasonality",
+        "name": "сезонность"
+      },
+      {
+        "id": "booking_fraud",
+        "name": "бронирование мошенничество"
+      },
+      {
+        "id": "waste",
+        "name": "отходы"
+      },
+      {
+        "id": "carbon_emissions",
+        "name": "углерод выбросы"
+      },
+      {
+        "id": "overtourism_damage",
+        "name": "овертуризм и разрушение для местный сообщества"
+      },
+      {
+        "id": "eco_tourism_greenwashing",
+        "name": "гринвошинг в экотуризм стандарты"
+      }
+    ]
+  },
+  {
+    "id": "cities_communities",
+    "problems": [
+      {
+        "id": "urban_homelessness_crisis",
+        "name": "Растущий Городской бездомность"
+      },
+      {
+        "id": "failing_public_infrastructure",
+        "name": "Failing Общественный дороги, мосты и канализация системы"
+      },
+      {
+        "id": "inadequate_disaster_preparedness",
+        "name": "Недостаточный защита Against Серьезные наводнения и штормы"
+      },
+      {
+        "id": "inefficient_municipal_waste",
+        "name": "Неэффективный муниципальный отходы и Низкий переработка Rates"
+      },
+      {
+        "id": "urban_heat_islands",
+        "name": "Городской жара Islands Due к Lack для зеленый пространства"
+      },
+      {
+        "id": "civic_disengagement",
+        "name": "гражданский Disengagement и Fragmented сообщества"
+      },
+      {
+        "id": "smart_city_privacy_concerns",
+        "name": "наблюдение и конфиденциальность опасения в Умный города"
+      },
+      {
+        "id": "food_deserts",
+        "name": "Городской еда Deserts Lacking Fresh питание"
+      },
+      {
+        "id": "inefficient_transit_deserts",
+        "name": "общественный транспорт Deserts Isolating Низкий-Income районы"
+      },
+      {
+        "id": "digital_twin_complexity",
+        "name": "Высокие стоимость и сложность для Maintaining Городской Цифровой Twins"
+      }
+    ]
+  },
+  {
+    "id": "government_public_services",
+    "problems": [
+      {
+        "id": "bureaucratic_inefficiency",
+        "name": "бюрократический неэффективность и Медленный обработка Times"
+      },
+      {
+        "id": "political_polarization",
+        "name": "политический поляризация и Gridlock в Policymaking"
+      },
+      {
+        "id": "welfare_distribution_leakage",
+        "name": "мошенничество и личность кража в социальная помощь распределение"
+      },
+      {
+        "id": "emergency_response_delays",
+        "name": "задержанное экстренный реагирование Times Due к Устаревший технологии"
+      },
+      {
+        "id": "government_cyberattacks",
+        "name": "State-Sponsored кибератаки на Общественный инфраструктура"
+      },
+      {
+        "id": "corruption_lack_transparency",
+        "name": "коррупция и Lack для Общественный Spending прозрачность"
+      },
+      {
+        "id": "exclusionary_digital_id",
+        "name": "Цифровой ID системы Excluding уязвимый Populations"
+      },
+      {
+        "id": "underfunded_public_infrastructure",
+        "name": "Серьезные Shortfalls в Общественный инфраструктура финансирование"
+      },
+      {
+        "id": "regulatory_lag_technology",
+        "name": "регуляторный Lag в Governing Emerging технологии"
+      },
+      {
+        "id": "distrust_in_public_institutions",
+        "name": "Erosion для Общественный доверие в правительство институты"
+      }
+    ]
+  },
+  {
+    "id": "security_safety",
+    "problems": [
+      {
+        "id": "ransomware_attacks",
+        "name": "программы-вымогатели Attacks на критический инфраструктура"
+      },
+      {
+        "id": "identity_theft_deepfakes",
+        "name": "личность кража Powered из-за Генеративный дипфейки"
+      },
+      {
+        "id": "biometric_data_spoofing",
+        "name": "Spoofing и Unregulated Harvesting для биометрический данные"
+      },
+      {
+        "id": "mass_surveillance_abuse",
+        "name": "злоупотребление для Mass наблюдение и потеря для конфиденциальность"
+      },
+      {
+        "id": "ai_powered_cyber_threats",
+        "name": "ИИ-Driven Автономный вредоносное ПО и Cyber Attacks"
+      },
+      {
+        "id": "prolonged_disaster_downtime",
+        "name": "Prolonged System простой After природный катастрофы"
+      },
+      {
+        "id": "asymmetric_warfare_drones",
+        "name": "Asymmetric Warfare и Civilian дрон угрозы"
+      },
+      {
+        "id": "online_financial_scams",
+        "name": "Explosive Growth для Автоматизированный фишинг и финансовый мошенничество"
+      },
+      {
+        "id": "insider_threats_espionage",
+        "name": "корпоративный Espionage и Insider угрозы"
+      },
+      {
+        "id": "outdated_fire_safety",
+        "name": "Устаревший пожар безопасность меры в Высокие-Density районы"
+      }
+    ]
+  },
+  {
+    "id": "communication",
+    "problems": [
+      {
+        "id": "misinformation_echo_chambers",
+        "name": "Viral дезинформация и Echo Chambers на социальные медиа"
+      },
+      {
+        "id": "digital_fatigue",
+        "name": "информация Overload и Цифровой Notification Fatigue"
+      },
+      {
+        "id": "global_connectivity_gaps",
+        "name": "Устойчивый связность Gaps в Сельский и плохое районы"
+      },
+      {
+        "id": "telecom_infrastructure_sabotage",
+        "name": "уязвимость для Subsea кабели и Towers к Sabotage"
+      },
+      {
+        "id": "cross_platform_fragmentation",
+        "name": "Lack для совместимость Between Enterprise инструменты"
+      },
+      {
+        "id": "spectrum_congestion",
+        "name": "RF спектр пробки в Высокие-Density районы"
+      },
+      {
+        "id": "satellite_constellation_interference",
+        "name": "Astronomical и Debris риски от спутниковый Constellations"
+      },
+      {
+        "id": "quantum_encryption_vulnerability",
+        "name": "угроза к Current шифрование Before квантовый-Safe стандарты"
+      },
+      {
+        "id": "social_media_addiction",
+        "name": "Addictive алгоритмы Degrading психическое здоровье"
+      },
+      {
+        "id": "dropped_calls_dead_zones",
+        "name": "Inconsistent сигнал здание Penetration и Dead Zones"
+      }
+    ]
+  },
+  {
+    "id": "entertainment_media",
+    "problems": [
+      {
+        "id": "ai_copyright_infringement",
+        "name": "Генеративный ИИ обучение на Uncompensated IP"
+      },
+      {
+        "id": "streaming_fatigue_subscription_churn",
+        "name": "подписка Fatigue и Высокие клиент Churn"
+      },
+      {
+        "id": "digital_piracy_losses",
+        "name": "Широко распространенный Цифровой кража и доход Leakage"
+      },
+      {
+        "id": "vr_motion_sickness",
+        "name": "Motion Sickness и оборудование Discomfort в VR"
+      },
+      {
+        "id": "toxic_gaming_communities",
+        "name": "Harassment и Toxicity в онлайн игры"
+      },
+      {
+        "id": "sensationalism_clickbait",
+        "name": "Decline для Investigative журналистика к Clickbait"
+      },
+      {
+        "id": "unfair_streaming_payouts",
+        "name": "Несправедливый доход распределение для Independent артисты"
+      },
+      {
+        "id": "live_event_ticket_scalping",
+        "name": "Хищнический Ticket Bots и Scalping для Live Events"
+      },
+      {
+        "id": "content_moderation_failure",
+        "name": "Failure для Автоматизированный контент Moderation системы"
+      },
+      {
+        "id": "monetization_independent_creators",
+        "name": "Algorithmic Demonetization для Independent создатели"
+      }
+    ]
+  },
+  {
+    "id": "science_research",
+    "problems": [
+      {
+        "id": "replication_crisis",
+        "name": "The научный репликация и Reproducibility Кризис"
+      },
+      {
+        "id": "predatory_publishing_paywalls",
+        "name": "Exorbitant академический Paywalls и Хищнический журналы"
+      },
+      {
+        "id": "quantum_decoherence_error_rates",
+        "name": "Высокие Error Rates и Qubit Decoherence в квантовый вычисления"
+      },
+      {
+        "id": "ai_black_box_problem",
+        "name": "Lack для объяснимость в Продвинутый ИИ модели"
+      },
+      {
+        "id": "crispr_biomilitary_ethics",
+        "name": "Этический Exploitation риски в ген редактирование и биотехнологии"
+      },
+      {
+        "id": "research_funding_bias",
+        "name": "Hyper-Competition и Short-Term финансирование предвзятость"
+      },
+      {
+        "id": "nanoparticle_toxicity",
+        "name": "Неизвестный долгосрочный Toxicity для Синтетический Nanomaterials"
+      },
+      {
+        "id": "brain_privacy_bci",
+        "name": "конфиденциальность Vulnerabilities в Brain-Computer Interfaces"
+      },
+      {
+        "id": "slow_materials_to_market",
+        "name": "Decade-Long Lag от Lab Discovery к рынок Application"
+      },
+      {
+        "id": "politicization_of_science",
+        "name": "Общественный Distrust и Politicization для Empirical исследования"
+      }
+    ]
+  },
+  {
+    "id": "space_civilization",
+    "problems": [
+      {
+        "id": "space_debris_kessler_syndrome",
+        "name": "Orbital космос Debris и Kessler Syndrome риск"
+      },
+      {
+        "id": "cosmic_radiation_exposure",
+        "name": "здоровье риски от Prolonged Cosmic радиация Exposure"
+      },
+      {
+        "id": "exorbitant_launch_costs",
+        "name": "Высокие стоимость per Kilogram для полезная нагрузка запуск"
+      },
+      {
+        "id": "lack_extraterrestrial_property_rights",
+        "name": "Absence для Enforceable Extraterrestrial собственность законы"
+      },
+      {
+        "id": "muscle_bone_atrophy_microgravity",
+        "name": "Серьезные человеческий мышцы и кости Atrophy в Microgravity"
+      },
+      {
+        "id": "mars_life_support_failures",
+        "name": "Высокие риск для Life-Support Failure на Closed Марс Habitats"
+      },
+      {
+        "id": "propulsion_speed_limitations",
+        "name": "химический Propulsion Inadequacy для Deep космос путешествие"
+      },
+      {
+        "id": "forward_contamination_planets",
+        "name": "Forward заражение для Pristine Celestial Bodies"
+      },
+      {
+        "id": "untested_asteroid_capture_tech",
+        "name": "Lack для Scalable технологии для астероид улавливание и добыча"
+      },
+      {
+        "id": "psychological_isolation_space",
+        "name": "Серьезные психологический Toll для Deep космос изоляция"
+      }
+    ]
+  },
+  {
+    "id": "culture_lifestyle",
+    "problems": [
+      {
+        "id": "fast_fashion_waste",
+        "name": "экологический Toll для Fast мода Excess"
+      },
+      {
+        "id": "loneliness_epidemic",
+        "name": "Hyper-связность Accompanying a одиночество Epidemic"
+      },
+      {
+        "id": "digital_nomad_local_inflation",
+        "name": "Цифровой Nomadism Driving местный стоимость-для-Living Shocks"
+      },
+      {
+        "id": "toxic_wellness_trends",
+        "name": "дезинформация и Toxically Unattainable здоровый образ жизни стандарты"
+      },
+      {
+        "id": "cultural_heritage_loss",
+        "name": "Быстрый потеря для Indigenous языки и исторический Sites"
+      },
+      {
+        "id": "ultra_processed_diet_dependency",
+        "name": "Глобальный переход Toward Ultra-Processed, Низкий-Nutrient диеты"
+      },
+      {
+        "id": "sedentary_lifestyle_diseases",
+        "name": "здоровье Issues Растущий от Pervasive Sedentary экран время"
+      },
+      {
+        "id": "monetization_of_mindfulness",
+        "name": "коммерциализация и Dilution для психическое здоровье практики"
+      },
+      {
+        "id": "funding_crisis_fine_arts",
+        "name": "Серьезные финансирование Shortfalls для Classical искусство институты"
+      },
+      {
+        "id": "algorithmic_cultural_homogenization",
+        "name": "Algorithmic Feeds Flattening Глобальный культурный разнообразие"
+      }
+    ]
+  }
+]

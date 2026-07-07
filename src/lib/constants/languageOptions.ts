@@ -1,56 +1,23 @@
+import languageOptions from "@/data/layout/languages/languages.json";
 import {ILanguageOption, ILanguageOptions} from "@/lib/model/ILanguage";
 
+export const LanguageOptionList = languageOptions as ILanguageOption[];
+
+export const LanguageOptionRecord: Record<string, ILanguageOption> = Object.fromEntries(
+    LanguageOptionList.map((option) => [option.language, option]),
+);
+
 export const LanguageOptionDefinition: ILanguageOptions = {
-    en: {
-        language: "en",
-        label: "English",
-        locale: "en-US",
-    },
-    th: {
-        language: "th",
-        label: "ภาษาไทย",
-        locale: "th-TH",
-    },
-    zh: {
-        language: "zh",
-        label: "中文",
-        locale: "zh-CN",
-    },
-    ja: {
-        language: "ja",
-        label: "日本語",
-        locale: "ja-JP",
-    },
-    ko: {
-        language: "ko",
-        label: "한국어",
-        locale: "ko-KR",
-    },
-    id: {
-        language: "id",
-        label: "Bahasa Indonesia",
-        locale: "id-ID",
-    },
-    de: {
-        language: "de",
-        label: "Deutsch",
-        locale: "de-DE",
-    },
-    fr: {
-        language: "fr",
-        label: "Français",
-        locale: "fr-FR",
-    },
-    ru: {
-        language: "ru",
-        label: "Русский",
-        locale: "ru-RU",
-    },
-    vi: {
-        language: "vi",
-        label: "Tiếng Việt",
-        locale: "vi-VN",
-    },
+    en: LanguageOptionRecord.en,
+    th: LanguageOptionRecord.th,
+    zh: LanguageOptionRecord.zh,
+    ja: LanguageOptionRecord.ja,
+    ko: LanguageOptionRecord.ko,
+    id: LanguageOptionRecord.id,
+    de: LanguageOptionRecord.de,
+    fr: LanguageOptionRecord.fr,
+    ru: LanguageOptionRecord.ru,
+    vi: LanguageOptionRecord.vi,
 };
 
 export const LanguageCode: Record<string, string> = {
@@ -68,29 +35,3 @@ export const LanguageCode: Record<string, string> = {
     fi: LanguageOptionDefinition.en.language,
     nl: LanguageOptionDefinition.en.language,
 };
-
-export const LanguageOptionRecord: Record<string, ILanguageOption> = {
-    en: LanguageOptionDefinition.en,
-    th: LanguageOptionDefinition.th,
-    zh: LanguageOptionDefinition.zh,
-    ja: LanguageOptionDefinition.ja,
-    ko: LanguageOptionDefinition.ko,
-    id: LanguageOptionDefinition.id,
-    de: LanguageOptionDefinition.de,
-    fr: LanguageOptionDefinition.fr,
-    ru: LanguageOptionDefinition.ru,
-    vi: LanguageOptionDefinition.vi,
-};
-
-export const LanguageOptionList: ILanguageOption[] = [
-    LanguageOptionDefinition.en,
-    LanguageOptionDefinition.th,
-    LanguageOptionDefinition.zh,
-    LanguageOptionDefinition.ja,
-    LanguageOptionDefinition.ko,
-    LanguageOptionDefinition.id,
-    LanguageOptionDefinition.de,
-    LanguageOptionDefinition.fr,
-    LanguageOptionDefinition.ru,
-    LanguageOptionDefinition.vi,
-];

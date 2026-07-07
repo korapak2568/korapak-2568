@@ -8,8 +8,7 @@
       "link": "/",
       "activeLinks": [
         "/",
-        "/world/",
-        "/world"
+        "/world/"
       ],
       "isSubmenu": false,
       "submenu": []
@@ -20,22 +19,29 @@
       "level": 0,
       "link": "/future-civilization/",
       "activeLinks": [
-        "/future-civilization",
         "/future-civilization/"
       ],
       "isSubmenu": false,
       "submenu": []
     },
     {
-      "group": "Luxury",
-      "label": "ลักชัวรี",
+      "group": "Future Solution",
+      "label": "ทางออกแห่งอนาคต",
       "level": 0,
-      "link": "/luxury/",
+      "link": "/future-solutions/",
       "activeLinks": [
-        "/luxury",
-        "/luxury/",
-        "/ai-luxury",
-        "/ai-luxury/"
+        "/future-solutions/"
+      ],
+      "isSubmenu": false,
+      "submenu": []
+    },
+    {
+      "group": "Business Opportunity",
+      "label": "โอกาสทางธุรกิจ",
+      "level": 0,
+      "link": "/business-opportunities/",
+      "activeLinks": [
+        "/business-opportunities/"
       ],
       "isSubmenu": false,
       "submenu": []
@@ -46,10 +52,7 @@
       "level": 0,
       "link": "/smart-food/",
       "activeLinks": [
-        "/smart-food",
-        "/smart-food/",
-        "/smart-food-ai",
-        "/smart-food-ai/"
+        "/smart-food/"
       ],
       "isSubmenu": false,
       "submenu": []
@@ -60,7 +63,6 @@
       "level": 0,
       "link": "/smart-city/",
       "activeLinks": [
-        "/smart-city",
         "/smart-city/"
       ],
       "isSubmenu": false,
@@ -72,38 +74,10 @@
       "level": 0,
       "link": "/smart-mobility/",
       "activeLinks": [
-        "/smart-mobility",
         "/smart-mobility/",
-        "/smart-mobility/mts",
         "/smart-mobility/mts/",
-        "/smart-mobility/chiang-mai",
+        "/smart-mobility/chiang-mai/",
         "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
-      ],
-      "isSubmenu": false,
-      "submenu": []
-    },
-    {
-      "group": "Story",
-      "label": "เรื่องราว",
-      "level": 0,
-      "link": "/story/",
-      "activeLinks": [
-        "/story",
-        "/story/"
-      ],
-      "isSubmenu": false,
-      "submenu": []
-    },
-    {
-      "group": "Style",
-      "label": "สไตล์",
-      "level": 0,
-      "link": "/style/",
-      "activeLinks": [
-        "/style",
-        "/style/",
-        "/outfit",
-        "/outfit/"
       ],
       "isSubmenu": false,
       "submenu": []
@@ -114,57 +88,5 @@
     "policyLink": "/privacy-policy/",
     "policyLabel": "นโยบายความเป็นส่วนตัว",
     "buttonText": "ยอมรับ"
-  },
-  "languageOptions": [
-    {
-      "language": "en",
-      "label": "English",
-      "locale": "en-US"
-    },
-    {
-      "language": "th",
-      "label": "ภาษาไทย",
-      "locale": "th-TH"
-    },
-    {
-      "language": "zh",
-      "label": "中文",
-      "locale": "zh-CN"
-    },
-    {
-      "language": "ja",
-      "label": "日本語",
-      "locale": "ja-JP"
-    },
-    {
-      "language": "ko",
-      "label": "한국어",
-      "locale": "ko-KR"
-    },
-    {
-      "language": "id",
-      "label": "Bahasa Indonesia",
-      "locale": "id-ID"
-    },
-    {
-      "language": "de",
-      "label": "Deutsch",
-      "locale": "de-DE"
-    },
-    {
-      "language": "fr",
-      "label": "Français",
-      "locale": "fr-FR"
-    },
-    {
-      "language": "ru",
-      "label": "Русский",
-      "locale": "ru-RU"
-    },
-    {
-      "language": "vi",
-      "label": "Tiếng Việt",
-      "locale": "vi-VN"
-    }
-  ]
+  }
 }

@@ -35,7 +35,7 @@ export default function ContactContent({
                     </div>
                 </div>
 
-                <ContactGalleryBottom/>
+                {/* <ContactGalleryBottom/> */}
             </div>
         </>
     );

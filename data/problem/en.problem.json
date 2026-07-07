@@ -1,0 +1,902 @@
+[
+  {
+    "id": "housing_real_estate",
+    "problems": [
+      {
+        "id": "housing_affordability_crisis",
+        "name": "Housing Affordability Crisis"
+      },
+      {
+        "id": "high_maintenance_costs",
+        "name": "High Maintenance & Operational Costs"
+      },
+      {
+        "id": "construction_delays",
+        "name": "Construction Delays & Cost Overruns"
+      },
+      {
+        "id": "inefficient_energy_use",
+        "name": "Inefficient Energy Use in Buildings"
+      },
+      {
+        "id": "urban_sprawl",
+        "name": "Urban Sprawl & Poor Land Utilization"
+      },
+      {
+        "id": "tenant_landlord_disputes",
+        "name": "Tenant-Landlord Disputes"
+      },
+      {
+        "id": "smart_device_interoperability",
+        "name": "Smart Device Fragmentation & Interoperability"
+      },
+      {
+        "id": "aging_infrastructure",
+        "name": "Aging Building Infrastructure"
+      },
+      {
+        "id": "real_estate_fraud",
+        "name": "Real Estate Transaction Fraud"
+      },
+      {
+        "id": "gentrification_displacement",
+        "name": "Gentrification & Community Displacement"
+      }
+    ]
+  },
+  {
+    "id": "healthcare",
+    "problems": [
+      {
+        "id": "medical_staff_burnout",
+        "name": "Medical Staff Burnout & Shortages"
+      },
+      {
+        "id": "skyrocketing_healthcare_costs",
+        "name": "Skyrocketing Healthcare Costs"
+      },
+      {
+        "id": "diagnostic_errors",
+        "name": "Diagnostic Errors & Delayed Treatment"
+      },
+      {
+        "id": "mental_health_stigma",
+        "name": "Mental Health Stigma & Limited Care Access"
+      },
+      {
+        "id": "unequal_healthcare_distribution",
+        "name": "Unequal Rural vs. Urban Care Access"
+      },
+      {
+        "id": "chronic_disease_surge",
+        "name": "Surge in Preventable Chronic Diseases"
+      },
+      {
+        "id": "prescription_drug_addiction",
+        "name": "Prescription Drug Addiction & Opioid Crisis"
+      },
+      {
+        "id": "health_data_breaches",
+        "name": "Patient Data Privacy & Security Breaches"
+      },
+      {
+        "id": "counterfeit_pharmaceuticals",
+        "name": "Counterfeit & Inflated Drug Pricing"
+      },
+      {
+        "id": "rehabilitation_drop_out",
+        "name": "High Patient Drop-out in Long-term Rehab"
+      }
+    ]
+  },
+  {
+    "id": "education",
+    "problems": [
+      {
+        "id": "teacher_shortage",
+        "name": "Teacher Shortage"
+      },
+      {
+        "id": "high_tuition",
+        "name": "High Tuition"
+      },
+      {
+        "id": "learning_gap",
+        "name": "Learning Gap"
+      },
+      {
+        "id": "language_barrier",
+        "name": "Language Barrier"
+      },
+      {
+        "id": "personalization",
+        "name": "Personalization"
+      },
+      {
+        "id": "accessibility",
+        "name": "Accessibility"
+      },
+      {
+        "id": "outdated_curriculum",
+        "name": "Outdated or Rigid Curriculums"
+      },
+      {
+        "id": "low_student_engagement",
+        "name": "Low Student Engagement & Retention"
+      },
+      {
+        "id": "digital_divide_education",
+        "name": "Digital Divide in Remote Areas"
+      },
+      {
+        "id": "skill_mismatch_market",
+        "name": "Skill Mismatch for the Job Market"
+      }
+    ]
+  },
+  {
+    "id": "food_agriculture",
+    "problems": [
+      {
+        "id": "global_food_waste",
+        "name": "Severe Post-Harvest & Consumer Food Waste"
+      },
+      {
+        "id": "soil_degradation",
+        "name": "Soil Degradation & Loss of Fertility"
+      },
+      {
+        "id": "water_scarcity_irrigation",
+        "name": "Water Scarcity & Inefficient Irrigation"
+      },
+      {
+        "id": "crop_failures_climate",
+        "name": "Crop Failures Due to Extreme Weather"
+      },
+      {
+        "id": "supply_chain_perishability",
+        "name": "Perishability & Inefficient Logistics"
+      },
+      {
+        "id": "chemical_pesticide_overuse",
+        "name": "Pesticide Overuse & Chemical Runoff"
+      },
+      {
+        "id": "overfishing_aquaculture_pollution",
+        "name": "Overfishing & Aquaculture Pollution"
+      },
+      {
+        "id": "foodborne_illness_outbreaks",
+        "name": "Foodborne Illnesses & Contamination"
+      },
+      {
+        "id": "high_cost_agritech",
+        "name": "High Capital Cost for Modern AgriTech Setup"
+      },
+      {
+        "id": "consumer_resistance_alt_protein",
+        "name": "Consumer Resistance to Alternative Proteins"
+      }
+    ]
+  },
+  {
+    "id": "mobility_transportation",
+    "problems": [
+      {
+        "id": "urban_traffic_congestion",
+        "name": "Severe Urban Traffic Congestion"
+      },
+      {
+        "id": "fossil_fuel_emissions",
+        "name": "High Greenhouse Gas Emissions"
+      },
+      {
+        "id": "ev_charging_infrastructure",
+        "name": "Lack of EV Charging Infrastructure"
+      },
+      {
+        "id": "last_mile_delivery_inefficiency",
+        "name": "High Cost of Last-Mile Delivery"
+      },
+      {
+        "id": "public_transit_underfunding",
+        "name": "Underfunded & Unreliable Public Transit"
+      },
+      {
+        "id": "av_safety_edge_cases",
+        "name": "Safety & Ethical Dilemmas in Autonomous Vehicles"
+      },
+      {
+        "id": "supply_chain_bottlenecks",
+        "name": "Global Shipping Bottlenecks & Port Delays"
+      },
+      {
+        "id": "traffic_accidents_fatalities",
+        "name": "High Rates of Traffic Accidents & Fatalities"
+      },
+      {
+        "id": "battery_raw_material_scarcity",
+        "name": "Scarcity of EV Battery Raw Materials"
+      },
+      {
+        "id": "micro_mobility_clutter",
+        "name": "Sidewalk Clutter & Pedestrian Safety Risks"
+      }
+    ]
+  },
+  {
+    "id": "energy_utilities",
+    "problems": [
+      {
+        "id": "grid_instability_renewables",
+        "name": "Grid Instability from Intermittent Renewables"
+      },
+      {
+        "id": "high_energy_storage_costs",
+        "name": "High Cost of Grid-Scale Energy Storage"
+      },
+      {
+        "id": "aging_electrical_grids",
+        "name": "Aging Power Grids & Transmission Losses"
+      },
+      {
+        "id": "clean_water_scarcity",
+        "name": "Clean Water Scarcity & Depleted Aquifers"
+      },
+      {
+        "id": "fossil_fuel_dependency",
+        "name": "Persistent Dependency on Fossil Fuels"
+      },
+      {
+        "id": "high_hydrogen_production_cost",
+        "name": "High Production Cost of Green Hydrogen"
+      },
+      {
+        "id": "nuclear_waste_disposal",
+        "name": "Long-Term Nuclear Waste Disposal Safety"
+      },
+      {
+        "id": "cyberattacks_utility_grids",
+        "name": "Vulnerability of Smart Grids to Cyberattacks"
+      },
+      {
+        "id": "inefficient_waste_sorting",
+        "name": "Inefficient Waste Sorting for Energy Conversion"
+      },
+      {
+        "id": "geothermal_drilling_risks",
+        "name": "High Risk & Cost of Geothermal Exploration"
+      }
+    ]
+  },
+  {
+    "id": "environment",
+    "problems": [
+      {
+        "id": "rising_global_temperatures",
+        "name": "Rising Global Temperatures & Extreme Weather"
+      },
+      {
+        "id": "accelerating_species_extinction",
+        "name": "Accelerating Loss of Species Biodiversity"
+      },
+      {
+        "id": "plastic_pollution_oceans",
+        "name": "Microplastics & Ocean Waste Accumulation"
+      },
+      {
+        "id": "air_pollution_health_impact",
+        "name": "Toxic Air Pollution in Urban Centers"
+      },
+      {
+        "id": "deforestation_habitat_loss",
+        "name": "Deforestation & Natural Habitat Destruction"
+      },
+      {
+        "id": "ineffective_carbon_capture",
+        "name": "High Cost & Low Scale of Carbon Capture"
+      },
+      {
+        "id": "landfill_overflow",
+        "name": "Landfill Overflow & Methane Emissions"
+      },
+      {
+        "id": "slow_circular_economy_adoption",
+        "name": "Slow Industrial Shift to Circular Systems"
+      },
+      {
+        "id": "lack_enforceable_eco_policies",
+        "name": "Weak or Enforceable International Eco-Policies"
+      },
+      {
+        "id": "desertification_fertile_land",
+        "name": "Desertification & Loss of Arable Land"
+      }
+    ]
+  },
+  {
+    "id": "economy_finance",
+    "problems": [
+      {
+        "id": "wealth_inequality",
+        "name": "Growing Global Wealth Inequality"
+      },
+      {
+        "id": "inflation_currency_devaluation",
+        "name": "Persistent Inflation & Currency Devaluation"
+      },
+      {
+        "id": "crypto_scams_volatility",
+        "name": "Cryptocurrency Scams & Market Volatility"
+      },
+      {
+        "id": "unbanked_populations",
+        "name": "Lack of Banking Access for Vulnerable Groups"
+      },
+      {
+        "id": "financial_fraud_identity_theft",
+        "name": "Sophisticated Online Fraud & Identity Theft"
+      },
+      {
+        "id": "systemic_banking_fragility",
+        "name": "Systemic Risks & Vulnerability to Market Crashes"
+      },
+      {
+        "id": "predatory_lending_practices",
+        "name": "Predatory Lending & High Consumer Debt"
+      },
+      {
+        "id": "greenwashing_sustainable_finance",
+        "name": "Greenwashing in ESG & Sustainable Finance"
+      },
+      {
+        "id": "startup_funding_dry_spells",
+        "name": "Geographic Consolidation of Venture Capital"
+      },
+      {
+        "id": "complex_cross_border_payments",
+        "name": "High Fees & Delays in Cross-Border Remittances"
+      }
+    ]
+  },
+  {
+    "id": "work_careers",
+    "problems": [
+      {
+        "id": "ai_job_displacement",
+        "name": "Job Displacement Due to Automation & AI"
+      },
+      {
+        "id": "workplace_burnout",
+        "name": "Widespread Burnout & Chronic Work Stress"
+      },
+      {
+        "id": "gig_worker_exploitation",
+        "name": "Lack of Benefits & Stability for Gig Workers"
+      },
+      {
+        "id": "rapid_skill_obsolescence",
+        "name": "Rapid Obsolescence of Professional Skills"
+      },
+      {
+        "id": "remote_work_isolation",
+        "name": "Isolation & Blurred Boundaries in Remote Work"
+      },
+      {
+        "id": "bias_recruitment_algorithms",
+        "name": "Algorithmic Bias in Automated Hiring Tech"
+      },
+      {
+        "id": "wage_stagnation",
+        "name": "Wage Stagnation Relative to Cost of Living"
+      },
+      {
+        "id": "gender_minority_wage_gaps",
+        "name": "Persistent Wage Gaps & Workplace Discrimination"
+      },
+      {
+        "id": "labor_shortage_skilled",
+        "name": "Severe Talent Shortages in Specialized Tech Fields"
+      },
+      {
+        "id": "toxic_work_culture",
+        "name": "Toxic Workplace Dynamics & Weak Management"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing",
+    "problems": [
+      {
+        "id": "supply_chain_disruptions",
+        "name": "Raw Material Shortages & Logistical Bottlenecks"
+      },
+      {
+        "id": "high_iiot_implementation_costs",
+        "name": "Prohibitive Costs of Transitioning to Industry 4.0"
+      },
+      {
+        "id": "skilled_factory_labor_shortage",
+        "name": "Severe Shortage of Skilled Operators & Engineers"
+      },
+      {
+        "id": "industrial_carbon_footprint",
+        "name": "High Carbon Footprint & Hazardous Waste Generation"
+      },
+      {
+        "id": "iiot_cyber_vulnerabilities",
+        "name": "Cybersecurity Vulnerabilities in Smart Factories"
+      },
+      {
+        "id": "equipment_downtime",
+        "name": "Costly Unplanned Equipment Downtime"
+      },
+      {
+        "id": "defect_escapes",
+        "name": "Defects Slipping Through Mass Quality Control"
+      },
+      {
+        "id": "slow_3d_printing_scaling",
+        "name": "Slow Production Speeds of 3D Printing at Scale"
+      },
+      {
+        "id": "material_testing_bottlenecks",
+        "name": "Slow, Costly Development of Advanced Materials"
+      },
+      {
+        "id": "hazardous_working_conditions",
+        "name": "Occupational Hazards & Heavy Machinery Accidents"
+      }
+    ]
+  },
+  {
+    "id": "retail_commerce",
+    "problems": [
+      {
+        "id": "e_commerce_package_theft",
+        "name": "Porch Piracy & E-commerce Package Theft"
+      },
+      {
+        "id": "high_return_rates_losses",
+        "name": "High Product Return Rates & Reverse Logistics Costs"
+      },
+      {
+        "id": "inventory_distortion",
+        "name": "Costly Stockouts & Excess Overstock Issues"
+      },
+      {
+        "id": "brick_and_mortar_decline",
+        "name": "Bankruptcy & Decline of Physical Retail Stores"
+      },
+      {
+        "id": "payment_gateway_fraud",
+        "name": "Online Payment Fraud & Chargebacks"
+      },
+      {
+        "id": "omnichannel_data_silos",
+        "name": "Inconsistent Customer Data Across Online/Offline"
+      },
+      {
+        "id": "rising_customer_acquisition_costs",
+        "name": "Rising Ad Costs & Low Brand Loyalty"
+      },
+      {
+        "id": "counterfeit_online_marketplaces",
+        "name": "Proliferation of Counterfeit Goods Online"
+      },
+      {
+        "id": "consumer_privacy_backlash",
+        "name": "Backlash Against Aggressive Data Tracking for Ads"
+      },
+      {
+        "id": "packaging_waste_retail",
+        "name": "Excessive Single-Use Packaging Waste"
+      }
+    ]
+  },
+  {
+    "id": "hospitality_tourism",
+    "problems": [
+      {
+        "id": "high_operating_cost",
+        "name": "High Operating Cost"
+      },
+      {
+        "id": "labor_shortage",
+        "name": "Labor Shortage"
+      },
+      {
+        "id": "energy_cost",
+        "name": "Energy Cost"
+      },
+      {
+        "id": "poor_customer_experience",
+        "name": "Poor Customer Experience"
+      },
+      {
+        "id": "seasonality",
+        "name": "Seasonality"
+      },
+      {
+        "id": "booking_fraud",
+        "name": "Booking Fraud"
+      },
+      {
+        "id": "waste",
+        "name": "Waste"
+      },
+      {
+        "id": "carbon_emissions",
+        "name": "Carbon Emissions"
+      },
+      {
+        "id": "overtourism_damage",
+        "name": "Overtourism & Destruction of Local Communities"
+      },
+      {
+        "id": "eco_tourism_greenwashing",
+        "name": "Greenwashing in Eco-Tourism Standards"
+      }
+    ]
+  },
+  {
+    "id": "cities_communities",
+    "problems": [
+      {
+        "id": "urban_homelessness_crisis",
+        "name": "Rising Urban Homelessness"
+      },
+      {
+        "id": "failing_public_infrastructure",
+        "name": "Failing Public Roads, Bridges & Sewage Systems"
+      },
+      {
+        "id": "inadequate_disaster_preparedness",
+        "name": "Inadequate Defenses Against Severe Floods & Storms"
+      },
+      {
+        "id": "inefficient_municipal_waste",
+        "name": "Inefficient Municipal Waste & Low Recycling Rates"
+      },
+      {
+        "id": "urban_heat_islands",
+        "name": "Urban Heat Islands Due to Lack of Green Spaces"
+      },
+      {
+        "id": "civic_disengagement",
+        "name": "Civic Disengagement & Fragmented Communities"
+      },
+      {
+        "id": "smart_city_privacy_concerns",
+        "name": "Surveillance & Privacy Concerns in Smart Cities"
+      },
+      {
+        "id": "food_deserts",
+        "name": "Urban Food Deserts Lacking Fresh Nutrition"
+      },
+      {
+        "id": "inefficient_transit_deserts",
+        "name": "Transit Deserts Isolating Low-Income Neighborhoods"
+      },
+      {
+        "id": "digital_twin_complexity",
+        "name": "High Cost & Complexity of Maintaining Urban Digital Twins"
+      }
+    ]
+  },
+  {
+    "id": "government_public_services",
+    "problems": [
+      {
+        "id": "bureaucratic_inefficiency",
+        "name": "Bureaucratic Inefficiency & Slow Processing Times"
+      },
+      {
+        "id": "political_polarization",
+        "name": "Political Polarization & Gridlock in Policymaking"
+      },
+      {
+        "id": "welfare_distribution_leakage",
+        "name": "Fraud & Identity Theft in Welfare Distribution"
+      },
+      {
+        "id": "emergency_response_delays",
+        "name": "Delayed Emergency Response Times Due to Outdated Tech"
+      },
+      {
+        "id": "government_cyberattacks",
+        "name": "State-Sponsored Cyberattacks on Public Infrastructure"
+      },
+      {
+        "id": "corruption_lack_transparency",
+        "name": "Corruption & Lack of Public Spending Transparency"
+      },
+      {
+        "id": "exclusionary_digital_id",
+        "name": "Digital ID Systems Excluding Vulnerable Populations"
+      },
+      {
+        "id": "underfunded_public_infrastructure",
+        "name": "Severe Shortfalls in Public Infrastructure Funding"
+      },
+      {
+        "id": "regulatory_lag_technology",
+        "name": "Regulatory Lag in Governing Emerging Technologies"
+      },
+      {
+        "id": "distrust_in_public_institutions",
+        "name": "Erosion of Public Trust in Government Institutions"
+      }
+    ]
+  },
+  {
+    "id": "security_safety",
+    "problems": [
+      {
+        "id": "ransomware_attacks",
+        "name": "Ransomware Attacks on Critical Infrastructure"
+      },
+      {
+        "id": "identity_theft_deepfakes",
+        "name": "Identity Theft Powered by Generative Deepfakes"
+      },
+      {
+        "id": "biometric_data_spoofing",
+        "name": "Spoofing & Unregulated Harvesting of Biometric Data"
+      },
+      {
+        "id": "mass_surveillance_abuse",
+        "name": "Abuse of Mass Surveillance & Loss of Privacy"
+      },
+      {
+        "id": "ai_powered_cyber_threats",
+        "name": "AI-Driven Autonomous Malware & Cyber Attacks"
+      },
+      {
+        "id": "prolonged_disaster_downtime",
+        "name": "Prolonged System Downtime After Natural Disasters"
+      },
+      {
+        "id": "asymmetric_warfare_drones",
+        "name": "Asymmetric Warfare & Civilian Drone Threats"
+      },
+      {
+        "id": "online_financial_scams",
+        "name": "Explosive Growth of Automated Phishing & Financial Scams"
+      },
+      {
+        "id": "insider_threats_espionage",
+        "name": "Corporate Espionage & Insider Threats"
+      },
+      {
+        "id": "outdated_fire_safety",
+        "name": "Outdated Fire Safety Measures in High-Density Areas"
+      }
+    ]
+  },
+  {
+    "id": "communication",
+    "problems": [
+      {
+        "id": "misinformation_echo_chambers",
+        "name": "Viral Misinformation & Echo Chambers on Social Media"
+      },
+      {
+        "id": "digital_fatigue",
+        "name": "Information Overload & Digital Notification Fatigue"
+      },
+      {
+        "id": "global_connectivity_gaps",
+        "name": "Persistent Connectivity Gaps in Rural & Poor Areas"
+      },
+      {
+        "id": "telecom_infrastructure_sabotage",
+        "name": "Vulnerability of Subsea Cables & Towers to Sabotage"
+      },
+      {
+        "id": "cross_platform_fragmentation",
+        "name": "Lack of Interoperability Between Enterprise Tools"
+      },
+      {
+        "id": "spectrum_congestion",
+        "name": "RF Spectrum Congestion in High-Density Areas"
+      },
+      {
+        "id": "satellite_constellation_interference",
+        "name": "Astronomical & Debris Risks from Satellite Constellations"
+      },
+      {
+        "id": "quantum_encryption_vulnerability",
+        "name": "Threat to Current Encryption Before Quantum-Safe Standards"
+      },
+      {
+        "id": "social_media_addiction",
+        "name": "Addictive Algorithms Degrading Mental Health"
+      },
+      {
+        "id": "dropped_calls_dead_zones",
+        "name": "Inconsistent Signal Building Penetration & Dead Zones"
+      }
+    ]
+  },
+  {
+    "id": "entertainment_media",
+    "problems": [
+      {
+        "id": "ai_copyright_infringement",
+        "name": "Generative AI Training on Uncompensated IP"
+      },
+      {
+        "id": "streaming_fatigue_subscription_churn",
+        "name": "Subscription Fatigue & High Customer Churn"
+      },
+      {
+        "id": "digital_piracy_losses",
+        "name": "Widespread Digital Piracy & Revenue Leakage"
+      },
+      {
+        "id": "vr_motion_sickness",
+        "name": "Motion Sickness & Hardware Discomfort in VR"
+      },
+      {
+        "id": "toxic_gaming_communities",
+        "name": "Harassment & Toxicity in Online Gaming"
+      },
+      {
+        "id": "sensationalism_clickbait",
+        "name": "Decline of Investigative Journalism to Clickbait"
+      },
+      {
+        "id": "unfair_streaming_payouts",
+        "name": "Unfair Revenue Distribution for Independent Artists"
+      },
+      {
+        "id": "live_event_ticket_scalping",
+        "name": "Predatory Ticket Bots & Scalping for Live Events"
+      },
+      {
+        "id": "content_moderation_failure",
+        "name": "Failure of Automated Content Moderation Systems"
+      },
+      {
+        "id": "monetization_independent_creators",
+        "name": "Algorithmic Demonetization of Independent Creators"
+      }
+    ]
+  },
+  {
+    "id": "science_research",
+    "problems": [
+      {
+        "id": "replication_crisis",
+        "name": "The Scientific Replication & Reproducibility Crisis"
+      },
+      {
+        "id": "predatory_publishing_paywalls",
+        "name": "Exorbitant Academic Paywalls & Predatory Journals"
+      },
+      {
+        "id": "quantum_decoherence_error_rates",
+        "name": "High Error Rates & Qubit Decoherence in Quantum Computing"
+      },
+      {
+        "id": "ai_black_box_problem",
+        "name": "Lack of Explainability in Advanced AI Models"
+      },
+      {
+        "id": "crispr_biomilitary_ethics",
+        "name": "Ethical Exploitation Risks in Gene Editing & Biotech"
+      },
+      {
+        "id": "research_funding_bias",
+        "name": "Hyper-Competition & Short-Term Funding Bias"
+      },
+      {
+        "id": "nanoparticle_toxicity",
+        "name": "Unknown Long-term Toxicity of Synthetic Nanomaterials"
+      },
+      {
+        "id": "brain_privacy_bci",
+        "name": "Privacy Vulnerabilities in Brain-Computer Interfaces"
+      },
+      {
+        "id": "slow_materials_to_market",
+        "name": "Decade-Long Lag from Lab Discovery to Market Application"
+      },
+      {
+        "id": "politicization_of_science",
+        "name": "Public Distrust & Politicization of Empirical Research"
+      }
+    ]
+  },
+  {
+    "id": "space_civilization",
+    "problems": [
+      {
+        "id": "space_debris_kessler_syndrome",
+        "name": "Orbital Space Debris & Kessler Syndrome Risk"
+      },
+      {
+        "id": "cosmic_radiation_exposure",
+        "name": "Health Risks from Prolonged Cosmic Radiation Exposure"
+      },
+      {
+        "id": "exorbitant_launch_costs",
+        "name": "High Cost per Kilogram of Payload Launch"
+      },
+      {
+        "id": "lack_extraterrestrial_property_rights",
+        "name": "Absence of Enforceable Extraterrestrial Property Laws"
+      },
+      {
+        "id": "muscle_bone_atrophy_microgravity",
+        "name": "Severe Human Muscle & Bone Atrophy in Microgravity"
+      },
+      {
+        "id": "mars_life_support_failures",
+        "name": "High Risk of Life-Support Failure on Closed Mars Habitats"
+      },
+      {
+        "id": "propulsion_speed_limitations",
+        "name": "Chemical Propulsion Inadequacy for Deep Space Travel"
+      },
+      {
+        "id": "forward_contamination_planets",
+        "name": "Forward Contamination of Pristine Celestial Bodies"
+      },
+      {
+        "id": "untested_asteroid_capture_tech",
+        "name": "Lack of Scalable Tech for Asteroid Capture & Mining"
+      },
+      {
+        "id": "psychological_isolation_space",
+        "name": "Severe Psychological Toll of Deep Space Isolation"
+      }
+    ]
+  },
+  {
+    "id": "culture_lifestyle",
+    "problems": [
+      {
+        "id": "fast_fashion_waste",
+        "name": "Environmental Toll of Fast Fashion Excess"
+      },
+      {
+        "id": "loneliness_epidemic",
+        "name": "Hyper-Connectivity Accompanying a Loneliness Epidemic"
+      },
+      {
+        "id": "digital_nomad_local_inflation",
+        "name": "Digital Nomadism Driving Local Cost-of-Living Shocks"
+      },
+      {
+        "id": "toxic_wellness_trends",
+        "name": "Misinformation & Toxically Unattainable Wellness Standards"
+      },
+      {
+        "id": "cultural_heritage_loss",
+        "name": "Rapid Loss of Indigenous Languages & Historical Sites"
+      },
+      {
+        "id": "ultra_processed_diet_dependency",
+        "name": "Global Shift Toward Ultra-Processed, Low-Nutrient Diets"
+      },
+      {
+        "id": "sedentary_lifestyle_diseases",
+        "name": "Health Issues Rising from Pervasive Sedentary Screen Time"
+      },
+      {
+        "id": "monetization_of_mindfulness",
+        "name": "Commercialization & Dilution of Mental Health Practices"
+      },
+      {
+        "id": "funding_crisis_fine_arts",
+        "name": "Severe Funding Shortfalls for Classical Art Institutions"
+      },
+      {
+        "id": "algorithmic_cultural_homogenization",
+        "name": "Algorithmic Feeds Flattening Global Cultural Diversity"
+      }
+    ]
+  }
+]

@@ -127,5 +127,30 @@
         "ariaLabel": "Chorn Planet trên X"
       }
     ]
+  },
+  "platform": {
+    "title": "Nền tảng",
+    "items": [
+      {
+        "label": "Nền văn minh tương lai",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "Giải pháp tương lai",
+        "link": "/future-solutions/"
+      },
+      {
+        "label": "Cơ hội kinh doanh",
+        "link": "/business-opportunities/"
+      },
+      {
+        "label": "Ngành",
+        "link": "/industries/"
+      },
+      {
+        "label": "Công nghệ",
+        "link": "/technology/"
+      }
+    ]
   }
 }

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "housing_real_estate",
+    "problems": [
+      {
+        "id": "housing_affordability_crisis",
+        "name": "住房 可负担性 危机"
+      },
+      {
+        "id": "high_maintenance_costs",
+        "name": "高 维护 与 运营 成本"
+      },
+      {
+        "id": "construction_delays",
+        "name": "建设 延误 与 成本 超支"
+      },
+      {
+        "id": "inefficient_energy_use",
+        "name": "低效的 能源 使用 中的 建筑"
+      },
+      {
+        "id": "urban_sprawl",
+        "name": "城市 蔓延 与 贫困 土地 利用"
+      },
+      {
+        "id": "tenant_landlord_disputes",
+        "name": "租客与房东 纠纷"
+      },
+      {
+        "id": "smart_device_interoperability",
+        "name": "智能 设备 碎片化 与 互操作性"
+      },
+      {
+        "id": "aging_infrastructure",
+        "name": "老化 建筑 基础设施"
+      },
+      {
+        "id": "real_estate_fraud",
+        "name": "房地产 地产 交易 欺诈"
+      },
+      {
+        "id": "gentrification_displacement",
+        "name": "绅士化 与 社区 替代"
+      }
+    ]
+  },
+  {
+    "id": "healthcare",
+    "problems": [
+      {
+        "id": "medical_staff_burnout",
+        "name": "医疗 人员 职业倦怠 与 短缺"
+      },
+      {
+        "id": "skyrocketing_healthcare_costs",
+        "name": "飙升 医疗健康 成本"
+      },
+      {
+        "id": "diagnostic_errors",
+        "name": "诊断 错误 与 延迟 治疗"
+      },
+      {
+        "id": "mental_health_stigma",
+        "name": "心理 健康 污名 与 有限 护理 可及性"
+      },
+      {
+        "id": "unequal_healthcare_distribution",
+        "name": "不平等的 农村 与. 城市 护理 可及性"
+      },
+      {
+        "id": "chronic_disease_surge",
+        "name": "Surge 中的 可预防 慢性 疾病"
+      },
+      {
+        "id": "prescription_drug_addiction",
+        "name": "处方 药物 成瘾 与 阿片类 危机"
+      },
+      {
+        "id": "health_data_breaches",
+        "name": "患者 数据 隐私 与 安全 泄露"
+      },
+      {
+        "id": "counterfeit_pharmaceuticals",
+        "name": "假冒 与 虚高 药物 定价"
+      },
+      {
+        "id": "rehabilitation_drop_out",
+        "name": "高 患者 退出 中的 长期 康复"
+      }
+    ]
+  },
+  {
+    "id": "education",
+    "problems": [
+      {
+        "id": "teacher_shortage",
+        "name": "教师 短缺"
+      },
+      {
+        "id": "high_tuition",
+        "name": "高 学费"
+      },
+      {
+        "id": "learning_gap",
+        "name": "学习 差距"
+      },
+      {
+        "id": "language_barrier",
+        "name": "语言 障碍"
+      },
+      {
+        "id": "personalization",
+        "name": "个性化"
+      },
+      {
+        "id": "accessibility",
+        "name": "无障碍"
+      },
+      {
+        "id": "outdated_curriculum",
+        "name": "过时 或 僵化 课程"
+      },
+      {
+        "id": "low_student_engagement",
+        "name": "低 学生 参与度 与 留存"
+      },
+      {
+        "id": "digital_divide_education",
+        "name": "数字 鸿沟 中的 远程 地区"
+      },
+      {
+        "id": "skill_mismatch_market",
+        "name": "技能 错配 面向 the 工作 市场"
+      }
+    ]
+  },
+  {
+    "id": "food_agriculture",
+    "problems": [
+      {
+        "id": "global_food_waste",
+        "name": "严重 Post-Harvest 与 消费者 食品 浪费"
+      },
+      {
+        "id": "soil_degradation",
+        "name": "土壤 退化 与 丧失 的 肥力"
+      },
+      {
+        "id": "water_scarcity_irrigation",
+        "name": "水 短缺 与 低效的 灌溉"
+      },
+      {
+        "id": "crop_failures_climate",
+        "name": "作物 失败 Due 到 极端 天气"
+      },
+      {
+        "id": "supply_chain_perishability",
+        "name": "易腐性 与 低效的 物流"
+      },
+      {
+        "id": "chemical_pesticide_overuse",
+        "name": "农药 过度使用 与 化学 径流"
+      },
+      {
+        "id": "overfishing_aquaculture_pollution",
+        "name": "过度捕捞 与 水产养殖 污染"
+      },
+      {
+        "id": "foodborne_illness_outbreaks",
+        "name": "食源性 疾病 与 污染"
+      },
+      {
+        "id": "high_cost_agritech",
+        "name": "高 资本 成本 面向 现代 农业科技 建设"
+      },
+      {
+        "id": "consumer_resistance_alt_protein",
+        "name": "消费者 抵触 到 替代 蛋白"
+      }
+    ]
+  },
+  {
+    "id": "mobility_transportation",
+    "problems": [
+      {
+        "id": "urban_traffic_congestion",
+        "name": "严重 城市 交通 拥堵"
+      },
+      {
+        "id": "fossil_fuel_emissions",
+        "name": "高 温室 气体 排放"
+      },
+      {
+        "id": "ev_charging_infrastructure",
+        "name": "Lack 的 EV 充电 基础设施"
+      },
+      {
+        "id": "last_mile_delivery_inefficiency",
+        "name": "高 成本 的 最后一公里 配送"
+      },
+      {
+        "id": "public_transit_underfunding",
+        "name": "资金不足 与 不可靠 公共 公共交通"
+      },
+      {
+        "id": "av_safety_edge_cases",
+        "name": "安全 与 伦理的 困境 中的 自主 车辆"
+      },
+      {
+        "id": "supply_chain_bottlenecks",
+        "name": "全球 航运 瓶颈 与 港口 延误"
+      },
+      {
+        "id": "traffic_accidents_fatalities",
+        "name": "高 率 的 交通 事故 与 死亡"
+      },
+      {
+        "id": "battery_raw_material_scarcity",
+        "name": "短缺 的 EV 电池 原始 材料"
+      },
+      {
+        "id": "micro_mobility_clutter",
+        "name": "人行道 杂乱 与 行人 安全 风险"
+      }
+    ]
+  },
+  {
+    "id": "energy_utilities",
+    "problems": [
+      {
+        "id": "grid_instability_renewables",
+        "name": "电网 不稳定 来自 间歇性 可再生能源"
+      },
+      {
+        "id": "high_energy_storage_costs",
+        "name": "高 成本 的 电网级 能源 储能"
+      },
+      {
+        "id": "aging_electrical_grids",
+        "name": "老化 电力 电网 与 输电 损耗"
+      },
+      {
+        "id": "clean_water_scarcity",
+        "name": "清洁 水 短缺 与 枯竭 含水层"
+      },
+      {
+        "id": "fossil_fuel_dependency",
+        "name": "持续的 依赖 于 化石 燃料"
+      },
+      {
+        "id": "high_hydrogen_production_cost",
+        "name": "高 生产 成本 的 绿色 氢"
+      },
+      {
+        "id": "nuclear_waste_disposal",
+        "name": "长期 核 浪费 处置 安全"
+      },
+      {
+        "id": "cyberattacks_utility_grids",
+        "name": "脆弱性 的 智能 电网 到 网络攻击"
+      },
+      {
+        "id": "inefficient_waste_sorting",
+        "name": "低效的 浪费 分类 面向 能源 转化"
+      },
+      {
+        "id": "geothermal_drilling_risks",
+        "name": "高 风险 与 成本 的 地热 勘探"
+      }
+    ]
+  },
+  {
+    "id": "environment",
+    "problems": [
+      {
+        "id": "rising_global_temperatures",
+        "name": "上升的 全球 温度 与 极端 天气"
+      },
+      {
+        "id": "accelerating_species_extinction",
+        "name": "加速的 丧失 的 物种 生物多样性"
+      },
+      {
+        "id": "plastic_pollution_oceans",
+        "name": "微塑料 与 海洋 浪费 积累"
+      },
+      {
+        "id": "air_pollution_health_impact",
+        "name": "有害的 空气 污染 中的 城市 中心"
+      },
+      {
+        "id": "deforestation_habitat_loss",
+        "name": "森林砍伐 与 自然 栖息地 破坏"
+      },
+      {
+        "id": "ineffective_carbon_capture",
+        "name": "高 成本 与 低 规模 的 碳 捕集"
+      },
+      {
+        "id": "landfill_overflow",
+        "name": "填埋场 溢出 与 甲烷 排放"
+      },
+      {
+        "id": "slow_circular_economy_adoption",
+        "name": "缓慢 工业 转型 到 循环 系统"
+      },
+      {
+        "id": "lack_enforceable_eco_policies",
+        "name": "薄弱 或 可执行 International 生态政策"
+      },
+      {
+        "id": "desertification_fertile_land",
+        "name": "荒漠化 与 丧失 的 可耕 土地"
+      }
+    ]
+  },
+  {
+    "id": "economy_finance",
+    "problems": [
+      {
+        "id": "wealth_inequality",
+        "name": "不断扩大的 全球 财富 不平等"
+      },
+      {
+        "id": "inflation_currency_devaluation",
+        "name": "持续的 通胀 与 货币 贬值"
+      },
+      {
+        "id": "crypto_scams_volatility",
+        "name": "加密货币 骗局 与 市场 波动"
+      },
+      {
+        "id": "unbanked_populations",
+        "name": "Lack 的 银行 可及性 面向 弱势 群体"
+      },
+      {
+        "id": "financial_fraud_identity_theft",
+        "name": "复杂的 线上 欺诈 与 身份 盗窃"
+      },
+      {
+        "id": "systemic_banking_fragility",
+        "name": "系统性 风险 与 脆弱性 到 市场 崩盘"
+      },
+      {
+        "id": "predatory_lending_practices",
+        "name": "掠夺性 贷款 与 高 消费者 债务"
+      },
+      {
+        "id": "greenwashing_sustainable_finance",
+        "name": "Greenwashing 中的 ESG 与 可持续 金融"
+      },
+      {
+        "id": "startup_funding_dry_spells",
+        "name": "Geographic Consolidation 的 风险投资 资本"
+      },
+      {
+        "id": "complex_cross_border_payments",
+        "name": "高 费用 与 延误 中的 跨境 汇款"
+      }
+    ]
+  },
+  {
+    "id": "work_careers",
+    "problems": [
+      {
+        "id": "ai_job_displacement",
+        "name": "工作 替代 Due 到 自动化 与 AI"
+      },
+      {
+        "id": "workplace_burnout",
+        "name": "广泛的 职业倦怠 与 慢性 工作 压力"
+      },
+      {
+        "id": "gig_worker_exploitation",
+        "name": "Lack 的 福利 与 稳定性 面向 零工 劳动者"
+      },
+      {
+        "id": "rapid_skill_obsolescence",
+        "name": "快速 过时 的 专业 技能"
+      },
+      {
+        "id": "remote_work_isolation",
+        "name": "孤立 与 模糊 边界 中的 远程 工作"
+      },
+      {
+        "id": "bias_recruitment_algorithms",
+        "name": "Algorithmic 偏见 中的 自动化 招聘 技术"
+      },
+      {
+        "id": "wage_stagnation",
+        "name": "工资 停滞 Relative 到 成本 的 生活"
+      },
+      {
+        "id": "gender_minority_wage_gaps",
+        "name": "持续的 工资 Gaps 与 职场 歧视"
+      },
+      {
+        "id": "labor_shortage_skilled",
+        "name": "严重 人才 短缺 中的 专业化 技术 领域"
+      },
+      {
+        "id": "toxic_work_culture",
+        "name": "有害的 职场 动态 与 薄弱 管理"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing",
+    "problems": [
+      {
+        "id": "supply_chain_disruptions",
+        "name": "原始 材料 短缺 与 物流 瓶颈"
+      },
+      {
+        "id": "high_iiot_implementation_costs",
+        "name": "高昂到难以承受的 成本 的 Transitioning 到 工业 4.0"
+      },
+      {
+        "id": "skilled_factory_labor_shortage",
+        "name": "严重 短缺 的 Skilled 操作员 与 工程师"
+      },
+      {
+        "id": "industrial_carbon_footprint",
+        "name": "高 碳 足迹 与 有害 浪费 产生"
+      },
+      {
+        "id": "iiot_cyber_vulnerabilities",
+        "name": "网络安全 Vulnerabilities 中的 智能 工厂"
+      },
+      {
+        "id": "equipment_downtime",
+        "name": "高成本的 Unplanned 设备 停机"
+      },
+      {
+        "id": "defect_escapes",
+        "name": "缺陷 漏过 Through 大规模 质量 控制"
+      },
+      {
+        "id": "slow_3d_printing_scaling",
+        "name": "缓慢 生产 Speeds 的 3D 打印 at 规模"
+      },
+      {
+        "id": "material_testing_bottlenecks",
+        "name": "缓慢, 高成本的 开发 的 先进 材料"
+      },
+      {
+        "id": "hazardous_working_conditions",
+        "name": "职业 危害 与 重型 机械 事故"
+      }
+    ]
+  },
+  {
+    "id": "retail_commerce",
+    "problems": [
+      {
+        "id": "e_commerce_package_theft",
+        "name": "门廊 盗窃 与 电商 包裹 盗窃"
+      },
+      {
+        "id": "high_return_rates_losses",
+        "name": "高 产品 退货 率 与 逆向 物流 成本"
+      },
+      {
+        "id": "inventory_distortion",
+        "name": "高成本的 缺货 与 过剩 库存过剩 Issues"
+      },
+      {
+        "id": "brick_and_mortar_decline",
+        "name": "破产 与 衰退 的 实体 零售 商店"
+      },
+      {
+        "id": "payment_gateway_fraud",
+        "name": "线上 支付 欺诈 与 拒付"
+      },
+      {
+        "id": "omnichannel_data_silos",
+        "name": "Inconsistent 客户 数据 Across 线上/线下"
+      },
+      {
+        "id": "rising_customer_acquisition_costs",
+        "name": "上升的 广告 成本 与 低 品牌 忠诚度"
+      },
+      {
+        "id": "counterfeit_online_marketplaces",
+        "name": "Proliferation 的 假冒 商品 线上"
+      },
+      {
+        "id": "consumer_privacy_backlash",
+        "name": "反弹 Against 激进 数据 跟踪 面向 广告"
+      },
+      {
+        "id": "packaging_waste_retail",
+        "name": "过度的 一次性 包装 浪费"
+      }
+    ]
+  },
+  {
+    "id": "hospitality_tourism",
+    "problems": [
+      {
+        "id": "high_operating_cost",
+        "name": "高 运营 成本"
+      },
+      {
+        "id": "labor_shortage",
+        "name": "劳动力 短缺"
+      },
+      {
+        "id": "energy_cost",
+        "name": "能源 成本"
+      },
+      {
+        "id": "poor_customer_experience",
+        "name": "贫困 客户 体验"
+      },
+      {
+        "id": "seasonality",
+        "name": "季节性"
+      },
+      {
+        "id": "booking_fraud",
+        "name": "预订 欺诈"
+      },
+      {
+        "id": "waste",
+        "name": "浪费"
+      },
+      {
+        "id": "carbon_emissions",
+        "name": "碳 排放"
+      },
+      {
+        "id": "overtourism_damage",
+        "name": "过度旅游 与 破坏 的 本地 社区"
+      },
+      {
+        "id": "eco_tourism_greenwashing",
+        "name": "Greenwashing 中的 生态旅游 标准"
+      }
+    ]
+  },
+  {
+    "id": "cities_communities",
+    "problems": [
+      {
+        "id": "urban_homelessness_crisis",
+        "name": "上升的 城市 无家可归"
+      },
+      {
+        "id": "failing_public_infrastructure",
+        "name": "Failing 公共 道路, 桥梁 与 污水 系统"
+      },
+      {
+        "id": "inadequate_disaster_preparedness",
+        "name": "不足的 防御 Against 严重 洪水 与 风暴"
+      },
+      {
+        "id": "inefficient_municipal_waste",
+        "name": "低效的 市政 浪费 与 低 回收 率"
+      },
+      {
+        "id": "urban_heat_islands",
+        "name": "城市 热 岛 Due 到 Lack 的 绿色 空间"
+      },
+      {
+        "id": "civic_disengagement",
+        "name": "公民 脱离参与 与 碎片化 社区"
+      },
+      {
+        "id": "smart_city_privacy_concerns",
+        "name": "监控 与 隐私 担忧 中的 智能 城市"
+      },
+      {
+        "id": "food_deserts",
+        "name": "城市 食品 荒漠 Lacking 新鲜 营养"
+      },
+      {
+        "id": "inefficient_transit_deserts",
+        "name": "公共交通 荒漠 隔离 低收入 社区"
+      },
+      {
+        "id": "digital_twin_complexity",
+        "name": "高 成本 与 复杂性 的 维护 城市 数字 孪生"
+      }
+    ]
+  },
+  {
+    "id": "government_public_services",
+    "problems": [
+      {
+        "id": "bureaucratic_inefficiency",
+        "name": "官僚 低效 与 缓慢 处理 时间"
+      },
+      {
+        "id": "political_polarization",
+        "name": "政治 极化 与 僵局 中的 政策制定"
+      },
+      {
+        "id": "welfare_distribution_leakage",
+        "name": "欺诈 与 身份 盗窃 中的 福利 发放"
+      },
+      {
+        "id": "emergency_response_delays",
+        "name": "延迟 应急 响应 时间 Due 到 过时 技术"
+      },
+      {
+        "id": "government_cyberattacks",
+        "name": "国家支持的 网络攻击 于 公共 基础设施"
+      },
+      {
+        "id": "corruption_lack_transparency",
+        "name": "腐败 与 Lack 的 公共 支出 透明度"
+      },
+      {
+        "id": "exclusionary_digital_id",
+        "name": "数字 ID 系统 排除 弱势 人群"
+      },
+      {
+        "id": "underfunded_public_infrastructure",
+        "name": "严重 缺口 中的 公共 基础设施 资金"
+      },
+      {
+        "id": "regulatory_lag_technology",
+        "name": "监管 Lag 中的 治理 新兴 技术"
+      },
+      {
+        "id": "distrust_in_public_institutions",
+        "name": "侵蚀 的 公共 信任 中的 政府 机构"
+      }
+    ]
+  },
+  {
+    "id": "security_safety",
+    "problems": [
+      {
+        "id": "ransomware_attacks",
+        "name": "勒索软件 Attacks 于 关键 基础设施"
+      },
+      {
+        "id": "identity_theft_deepfakes",
+        "name": "身份 盗窃 驱动 由 生成式 深度伪造"
+      },
+      {
+        "id": "biometric_data_spoofing",
+        "name": "欺骗 与 未监管 采集 的 生物识别 数据"
+      },
+      {
+        "id": "mass_surveillance_abuse",
+        "name": "滥用 的 大规模 监控 与 丧失 的 隐私"
+      },
+      {
+        "id": "ai_powered_cyber_threats",
+        "name": "AI-Driven 自主 恶意软件 与 Cyber Attacks"
+      },
+      {
+        "id": "prolonged_disaster_downtime",
+        "name": "长期 System 停机 之后 自然 灾害"
+      },
+      {
+        "id": "asymmetric_warfare_drones",
+        "name": "非对称 战争 与 民用 无人机 威胁"
+      },
+      {
+        "id": "online_financial_scams",
+        "name": "爆发式 Growth 的 自动化 钓鱼 与 金融 骗局"
+      },
+      {
+        "id": "insider_threats_espionage",
+        "name": "企业 间谍活动 与 内部人 威胁"
+      },
+      {
+        "id": "outdated_fire_safety",
+        "name": "过时 消防 安全 措施 中的 高密度 地区"
+      }
+    ]
+  },
+  {
+    "id": "communication",
+    "problems": [
+      {
+        "id": "misinformation_echo_chambers",
+        "name": "病毒式传播的 错误信息 与 回声 室 于 社交 媒体"
+      },
+      {
+        "id": "digital_fatigue",
+        "name": "信息 过载 与 数字 通知 疲劳"
+      },
+      {
+        "id": "global_connectivity_gaps",
+        "name": "持续的 连接性 Gaps 中的 农村 与 贫困 地区"
+      },
+      {
+        "id": "telecom_infrastructure_sabotage",
+        "name": "脆弱性 的 海底 电缆 与 塔 到 破坏"
+      },
+      {
+        "id": "cross_platform_fragmentation",
+        "name": "Lack 的 互操作性 Between 企业 工具"
+      },
+      {
+        "id": "spectrum_congestion",
+        "name": "RF 频谱 拥堵 中的 高密度 地区"
+      },
+      {
+        "id": "satellite_constellation_interference",
+        "name": "天文 与 碎片 风险 来自 卫星 星座"
+      },
+      {
+        "id": "quantum_encryption_vulnerability",
+        "name": "威胁 到 当前 加密 Before 抗量子 标准"
+      },
+      {
+        "id": "social_media_addiction",
+        "name": "成瘾性 算法 损害 心理 健康"
+      },
+      {
+        "id": "dropped_calls_dead_zones",
+        "name": "Inconsistent 信号 建筑 穿透 与 盲区 区域"
+      }
+    ]
+  },
+  {
+    "id": "entertainment_media",
+    "problems": [
+      {
+        "id": "ai_copyright_infringement",
+        "name": "生成式 AI 训练 于 未补偿 IP"
+      },
+      {
+        "id": "streaming_fatigue_subscription_churn",
+        "name": "订阅 疲劳 与 高 客户 流失"
+      },
+      {
+        "id": "digital_piracy_losses",
+        "name": "广泛的 数字 盗窃 与 收入 流失"
+      },
+      {
+        "id": "vr_motion_sickness",
+        "name": "运动 晕动 与 硬件 不适 中的 VR"
+      },
+      {
+        "id": "toxic_gaming_communities",
+        "name": "骚扰 与 毒性 中的 线上 游戏"
+      },
+      {
+        "id": "sensationalism_clickbait",
+        "name": "衰退 的 调查性 新闻 到 标题党"
+      },
+      {
+        "id": "unfair_streaming_payouts",
+        "name": "不公平的 收入 发放 面向 独立 艺术家"
+      },
+      {
+        "id": "live_event_ticket_scalping",
+        "name": "掠夺性 门票 机器人 与 黄牛 面向 现场 活动"
+      },
+      {
+        "id": "content_moderation_failure",
+        "name": "Failure 的 自动化 内容 审核 系统"
+      },
+      {
+        "id": "monetization_independent_creators",
+        "name": "Algorithmic 取消变现 的 独立 创作者"
+      }
+    ]
+  },
+  {
+    "id": "science_research",
+    "problems": [
+      {
+        "id": "replication_crisis",
+        "name": "The 科学 复现 与 可重复性 危机"
+      },
+      {
+        "id": "predatory_publishing_paywalls",
+        "name": "Exorbitant 学术 付费墙 与 掠夺性 期刊"
+      },
+      {
+        "id": "quantum_decoherence_error_rates",
+        "name": "高 错误 率 与 量子比特 退相干 中的 量子 计算"
+      },
+      {
+        "id": "ai_black_box_problem",
+        "name": "Lack 的 可解释性 中的 先进 AI 模型"
+      },
+      {
+        "id": "crispr_biomilitary_ethics",
+        "name": "伦理的 利用 风险 中的 基因 编辑 与 生物技术"
+      },
+      {
+        "id": "research_funding_bias",
+        "name": "过度竞争 与 短期 资金 偏见"
+      },
+      {
+        "id": "nanoparticle_toxicity",
+        "name": "未知的 长期 毒性 的 合成 纳米材料"
+      },
+      {
+        "id": "brain_privacy_bci",
+        "name": "隐私 Vulnerabilities 中的 脑机 接口"
+      },
+      {
+        "id": "slow_materials_to_market",
+        "name": "长达十年 Lag 来自 实验室 发现 到 市场 应用"
+      },
+      {
+        "id": "politicization_of_science",
+        "name": "公共 Distrust 与 Politicization 的 实证 研究"
+      }
+    ]
+  },
+  {
+    "id": "space_civilization",
+    "problems": [
+      {
+        "id": "space_debris_kessler_syndrome",
+        "name": "轨道 太空 碎片 与 凯斯勒 综合征 风险"
+      },
+      {
+        "id": "cosmic_radiation_exposure",
+        "name": "健康 风险 来自 长期 宇宙 辐射 暴露"
+      },
+      {
+        "id": "exorbitant_launch_costs",
+        "name": "高 成本 per 公斤 的 载荷 发射"
+      },
+      {
+        "id": "lack_extraterrestrial_property_rights",
+        "name": "缺失 的 可执行 地外 财产 法律"
+      },
+      {
+        "id": "muscle_bone_atrophy_microgravity",
+        "name": "严重 人类 肌肉 与 骨骼 萎缩 中的 微重力"
+      },
+      {
+        "id": "mars_life_support_failures",
+        "name": "高 风险 的 生命支持 Failure 于 封闭 火星 栖息地"
+      },
+      {
+        "id": "propulsion_speed_limitations",
+        "name": "化学 推进 不足 面向 深空 太空 旅行"
+      },
+      {
+        "id": "forward_contamination_planets",
+        "name": "前向 污染 的 原始 天体 物体"
+      },
+      {
+        "id": "untested_asteroid_capture_tech",
+        "name": "Lack 的 可扩展 技术 面向 小行星 捕集 与 采矿"
+      },
+      {
+        "id": "psychological_isolation_space",
+        "name": "严重 心理 代价 的 深空 太空 孤立"
+      }
+    ]
+  },
+  {
+    "id": "culture_lifestyle",
+    "problems": [
+      {
+        "id": "fast_fashion_waste",
+        "name": "环境 代价 的 快 时尚 过剩"
+      },
+      {
+        "id": "loneliness_epidemic",
+        "name": "过度连接 伴随 a 孤独 流行病"
+      },
+      {
+        "id": "digital_nomad_local_inflation",
+        "name": "数字 游牧 推动 本地 生活成本-生活 冲击"
+      },
+      {
+        "id": "toxic_wellness_trends",
+        "name": "错误信息 与 有害地 难以企及 健康生活 标准"
+      },
+      {
+        "id": "cultural_heritage_loss",
+        "name": "快速 丧失 的 原住民 语言 与 历史 遗址"
+      },
+      {
+        "id": "ultra_processed_diet_dependency",
+        "name": "全球 转型 Toward 超加工, 低营养 饮食"
+      },
+      {
+        "id": "sedentary_lifestyle_diseases",
+        "name": "健康 Issues 上升的 来自 Pervasive 久坐 屏幕 时间"
+      },
+      {
+        "id": "monetization_of_mindfulness",
+        "name": "商业化 与 稀释 的 心理 健康 实践"
+      },
+      {
+        "id": "funding_crisis_fine_arts",
+        "name": "严重 资金 缺口 面向 古典 艺术 机构"
+      },
+      {
+        "id": "algorithmic_cultural_homogenization",
+        "name": "Algorithmic Feeds 扁平化 全球 文化 多样性"
+      }
+    ]
+  }
+]

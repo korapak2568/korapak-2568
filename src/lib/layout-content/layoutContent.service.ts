@@ -8,16 +8,17 @@ import {
     PartialLayoutContentPayload,
 } from "@/core/domain/layout-content.entity";
 import {IFooter} from "@/lib/model/IFooter";
+import {ILanguageOption} from "@/lib/model/ILanguage";
 import {LOCALES} from "@/lib/SiteUrlLocales";
 
 const LAYOUT_CONTENT_LIST_TAG = 'layout-content';
 const LAYOUT_CONTENT_CACHE_VERSION = '2026-06-28-json-layout-source';
 const NAVIGATION_CONTENT_DIR = path.join(process.cwd(), 'data', 'layout', 'navigation');
 const FOOTER_CONTENT_DIR = path.join(process.cwd(), 'data', 'layout', 'footer');
+const LANGUAGE_OPTIONS_CONTENT_PATH = path.join(process.cwd(), 'data', 'layout', 'languages', 'languages.json');
 const REQUIRED_NAVIGATION_FIELDS = [
     'navbar',
     'consent',
-    'languageOptions',
 ] as const;
 const REQUIRED_FOOTER_FIELDS = [
     'title',
@@ -26,12 +27,10 @@ const REQUIRED_FOOTER_FIELDS = [
     'description',
     'social',
     'important',
-    'project',
-    'smartCity',
     'connect',
 ] as const;
 
-type NavigationContentPayload = Omit<LayoutContentPayload, 'footer'>;
+type NavigationContentPayload = Omit<LayoutContentPayload, 'footer' | 'languageOptions'>;
 
 function getLayoutContentTag(locale: string) {
     return `layout-content:${LAYOUT_CONTENT_CACHE_VERSION}:${normalizeLayoutContentLocale(locale)}`;
@@ -77,11 +76,35 @@ function assertCompleteFooterContent(locale: string, content: IFooter | null): I
     }
 
     const missingFields = REQUIRED_FOOTER_FIELDS.filter((field) => content[field] === undefined);
+    const hasProjects = content.projects !== undefined || content.project !== undefined;
+    const hasPlatform = content.platform !== undefined || content.smartCity !== undefined;
 
-    if (missingFields.length > 0) {
+    if (missingFields.length > 0 || !hasProjects || !hasPlatform) {
+        const missingFooterFields = [
+            ...missingFields,
+            ...(hasProjects ? [] : ['projects']),
+            ...(hasPlatform ? [] : ['platform']),
+        ];
+
         throw new Error(
-            `Layout footer content is incomplete for locale "${locale}". Missing fields: ${missingFields.join(', ')}`
+            `Layout footer content is incomplete for locale "${locale}". Missing fields: ${missingFooterFields.join(', ')}`
         );
+    }
+
+    return cloneJsonContent(content);
+}
+
+function assertCompleteLanguageOptionsContent(content: ILanguageOption[] | null): ILanguageOption[] {
+    if (!Array.isArray(content) || content.length === 0) {
+        throw new Error('Layout language options content is empty or invalid');
+    }
+
+    const incompleteOptions = content.filter(
+        (option) => !option.language || !option.label || !option.locale,
+    );
+
+    if (incompleteOptions.length > 0) {
+        throw new Error('Layout language options content has incomplete records');
     }
 
     return cloneJsonContent(content);
@@ -118,6 +141,16 @@ function loadNavigationContent(locale: string): NavigationContentPayload {
     );
 }
 
+function loadLanguageOptionsContent(): ILanguageOption[] {
+    if (!fs.existsSync(LANGUAGE_OPTIONS_CONTENT_PATH)) {
+        throw new Error(`Layout language options JSON does not exist: ${LANGUAGE_OPTIONS_CONTENT_PATH}`);
+    }
+
+    const content = JSON.parse(fs.readFileSync(LANGUAGE_OPTIONS_CONTENT_PATH, 'utf8')) as ILanguageOption[];
+
+    return assertCompleteLanguageOptionsContent(content);
+}
+
 function loadFooterContent(locale: string): IFooter {
     return loadJsonWithFallback(
         locale,
@@ -131,10 +164,12 @@ function loadLayoutContent(locale: string): LayoutContentPayload {
     const normalizedLocale = normalizeLayoutContentLocale(locale);
     const navigationContent = loadNavigationContent(normalizedLocale);
     const footer = loadFooterContent(normalizedLocale);
+    const languageOptions = loadLanguageOptionsContent();
 
     return {
         ...navigationContent,
         footer,
+        languageOptions,
     };
 }
 
@@ -178,12 +213,12 @@ export async function upsertLayoutContent(
     content: PartialLayoutContentPayload
 ): Promise<LayoutContentResponse> {
     throw new Error(
-        `Layout content is managed by data/layout/navigation/${normalizeLayoutContentLocale(content.locale)}.json and data/layout/footer/${normalizeLayoutContentLocale(content.locale)}.json`
+        `Layout content is managed by data/layout/navigation/${normalizeLayoutContentLocale(content.locale)}.json, data/layout/footer/${normalizeLayoutContentLocale(content.locale)}.json, and data/layout/languages/languages.json`
     );
 }
 
 export async function deleteLayoutContent(locale: string): Promise<void> {
     throw new Error(
-        `Layout content is managed by data/layout/navigation/${normalizeLayoutContentLocale(locale)}.json and data/layout/footer/${normalizeLayoutContentLocale(locale)}.json`
+        `Layout content is managed by data/layout/navigation/${normalizeLayoutContentLocale(locale)}.json, data/layout/footer/${normalizeLayoutContentLocale(locale)}.json, and data/layout/languages/languages.json`
     );
 }

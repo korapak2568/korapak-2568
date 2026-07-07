@@ -127,5 +127,30 @@
         "ariaLabel": "Chorn Planet บน X"
       }
     ]
+  },
+  "platform": {
+    "title": "แพลตฟอร์ม",
+    "items": [
+      {
+        "label": "อารยธรรมอนาคต",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "ทางออกแห่งอนาคต",
+        "link": "/future-solutions/"
+      },
+      {
+        "label": "โอกาสทางธุรกิจ",
+        "link": "/business-opportunities/"
+      },
+      {
+        "label": "อุตสาหกรรม",
+        "link": "/industries/"
+      },
+      {
+        "label": "เทคโนโลยี",
+        "link": "/technology/"
+      }
+    ]
   }
 }

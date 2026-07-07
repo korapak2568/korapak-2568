@@ -1,0 +1,314 @@
+{
+  "layers": [
+    {
+      "id": "human_needs",
+      "name": "Nhu cầu con người"
+    },
+    {
+      "id": "industries",
+      "name": "Ngành công nghiệp"
+    },
+    {
+      "id": "problems",
+      "name": "Vấn đề"
+    },
+    {
+      "id": "future-solutions",
+      "name": "Giải pháp tương lai"
+    },
+    {
+      "id": "future_civilization",
+      "name": "Văn minh tương lai"
+    },
+    {
+      "id": "business-opportunities",
+      "name": "Cơ hội kinh doanh"
+    }
+  ],
+  "industries": {
+    "id": "industries",
+    "name": "Ngành công nghiệp",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Ngành công nghiệp | Chorn Planet",
+          "description": "Duyệt các nút ngành, vấn đề hiện tại, nút con và liên kết giải pháp roadmap tương lai trong Chorn Planet Civilization Graph."
+        },
+        "node": {
+          "title_template": "Vấn đề ngành của {nodeName} | Chorn Planet",
+          "description_template": "Duyệt các vấn đề hiện tại, nút con và lộ trình giải pháp tương lai cho {nodeName}.",
+          "fallback_title": "Ngành công nghiệp | Chorn Planet",
+          "fallback_description": "Duyệt các nút ngành trong Chorn Planet Civilization Graph."
+        },
+        "detail": {
+          "fallback_title": "Vấn đề ngành | Chorn Planet",
+          "fallback_description": "Khám phá các vấn đề và giải pháp của văn minh tương lai.",
+          "title_template": "{problemName} | {subNodeName} | Chorn Planet",
+          "description_template": "{problemName} tác động đến {nodeName} và {subNodeName}. Khám phá các giải pháp roadmap tương lai, cơ hội kinh doanh và các liên kết civilization graph liên quan."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Civilization Graph",
+          "title": "Ngành công nghiệp",
+          "description": "Chỉ mục cao cấp về các nút ngành, thách thức hiện tại và lộ trình giải pháp tương lai được tạo từ manifest Civilization Graph chuẩn."
+        },
+        "stats": {
+          "industry_nodes": "Nút ngành",
+          "linked_problem_pages": "Trang vấn đề đã liên kết",
+          "problem_catalog": "Danh mục vấn đề"
+        },
+        "directory_section": {
+          "eyebrow": "Bản đồ ngành",
+          "title": "Duyệt vấn đề hiện tại theo nút ngành",
+          "card_problem_count_template": "{count} trang vấn đề đã liên kết",
+          "card_description_template": "{subNodeCount} nút con và {problemCount} thách thức hiện tại được kết nối với Civilization Graph."
+        }
+      },
+      "node": {
+        "hero": {
+          "eyebrow": "Nút ngành",
+          "description_template": "Khám phá {nodeName} thông qua các thách thức hiện tại, nút con và liên kết giải pháp roadmap tương lai được tạo từ Civilization Graph."
+        },
+        "stats": {
+          "sub_nodes": "Nút con",
+          "linked_pages": "Trang đã liên kết",
+          "problem_catalog": "Danh mục vấn đề"
+        },
+        "problem_section": {
+          "eyebrow": "Vấn đề hiện tại",
+          "title": "Trang vấn đề dựa trên manifest"
+        },
+        "sub_nodes_section": {
+          "eyebrow": "Nút con",
+          "title": "Khu vực vận hành"
+        }
+      },
+      "detail": {
+        "hero": {
+          "eyebrow": "Vấn đề ngành",
+          "description_template": "{problemName} là một thách thức hiện tại bên trong {nodeName}, đặc biệt quanh {subNodeName}. Civilization Graph kết nối vấn đề này với các giải pháp roadmap tương lai, cơ hội kinh doanh và lộ trình tri thức liên quan."
+        },
+        "overview": {
+          "eyebrow": "Vấn đề hiện tại",
+          "description": "Trang này được tạo từ manifest CGD chuẩn và sử dụng quan hệ giữa vấn đề, nút, nút con, giải pháp và roadmap làm nguồn sự thật."
+        },
+        "why_it_matters": {
+          "eyebrow": "Vì sao quan trọng",
+          "title_template": "Điểm áp lực {subNodeName}",
+          "description_template": "Giải quyết thách thức này có thể mở khóa dịch vụ tốt hơn, hạ tầng mạnh hơn và mô hình vận hành mới trong toàn bộ {nodeName}."
+        },
+        "roadmap_section": {
+          "eyebrow": "Giải pháp roadmap tương lai",
+          "title": "Các mục roadmap kết nối với vấn đề này"
+        },
+        "business_section": {
+          "eyebrow": "Cơ hội kinh doanh",
+          "title": "Lộ trình thương mại"
+        },
+        "technology_section": {
+          "eyebrow": "Công nghệ liên quan",
+          "title": "Miền công nghệ"
+        },
+        "related_problems_section": {
+          "eyebrow": "Vấn đề liên quan",
+          "title_template": "Các thách thức khác trong {nodeName}"
+        },
+        "related_industries_section": {
+          "eyebrow": "Ngành liên quan",
+          "title": "Nút lân cận"
+        },
+        "internal_links_section": {
+          "eyebrow": "Liên kết nội bộ",
+          "title": "Điều hướng graph"
+        }
+      }
+    }
+  },
+  "business_opportunities": {
+    "id": "business-opportunities",
+    "name": "Cơ hội kinh doanh",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Cơ hội kinh doanh | Chorn Planet",
+          "description": "Duyệt các cơ hội kinh doanh tương lai kết nối với ngành, nút con và các kỷ nguyên roadmap văn minh tương lai."
+        },
+        "node": {
+          "title_template": "Cơ hội kinh doanh của {nodeName} | Chorn Planet",
+          "description_template": "Duyệt các cơ hội kinh doanh tương lai cho {nodeName} trên các nút con và kỷ nguyên roadmap.",
+          "fallback_title": "Cơ hội kinh doanh | Chorn Planet",
+          "fallback_description": "Duyệt các cơ hội kinh doanh tương lai kết nối với Civilization Graph."
+        },
+        "detail": {
+          "fallback_title": "Cơ hội kinh doanh | Chorn Planet",
+          "fallback_description": "Khám phá cơ hội kinh doanh của văn minh tương lai.",
+          "title_template": "{opportunityName} | {nodeName} | Chorn Planet",
+          "description_template": "{opportunityName} kết nối {nodeName}, {subNodeName} và roadmap văn minh tương lai thông qua Chorn Planet Civilization Graph."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Civilization Graph",
+          "title": "Cơ hội kinh doanh",
+          "description": "Bản đồ chiến lược về các ý tưởng kinh doanh hướng tương lai, kết nối với ngành, nút con và kỷ nguyên roadmap trong Chorn Planet Civilization Graph."
+        },
+        "directory_section": {
+          "eyebrow": "Bản đồ cơ hội",
+          "title": "Duyệt cơ hội kinh doanh tương lai theo nút ngành",
+          "card_description_template": "{opportunityCount} ý tưởng thương mại trên {subNodeCount} nút con và {eraCount} kỷ nguyên roadmap."
+        }
+      },
+      "node": {
+        "hero": {
+          "eyebrow": "Nút kinh doanh",
+          "description_template": "Khám phá cơ hội kinh doanh trong {nodeName}, được nhóm theo nút con và kết nối với kỷ nguyên roadmap."
+        },
+        "stats": {
+          "opportunities": "Cơ hội",
+          "sub_nodes": "Nút con",
+          "roadmap_eras": "Kỷ nguyên roadmap"
+        },
+        "opportunity_section": {
+          "eyebrow": "Cơ hội kinh doanh",
+          "title": "Trang cơ hội dựa trên manifest"
+        },
+        "sub_nodes_section": {
+          "eyebrow": "Nút con",
+          "title": "Khu vực cơ hội"
+        }
+      },
+      "detail": {
+        "hero": {
+          "eyebrow": "Cơ hội kinh doanh",
+          "description_template": "{opportunityName} là cơ hội hướng tương lai trong {nodeName}, tập trung vào {subNodeName}. Trang này kết nối cơ hội với các kỷ nguyên roadmap, vấn đề liên quan, công nghệ và các doanh nghiệp lân cận."
+        },
+        "overview": {
+          "eyebrow": "Tổng quan kinh doanh",
+          "description_template": "Cơ hội này thuộc về {subNodeName} và được neo vào {eraId}, trở thành một phần của roadmap Văn minh tương lai rộng hơn."
+        },
+        "related_industry": {
+          "eyebrow": "Ngành liên quan",
+          "description_template": "{nodeName} bao gồm {subNodeName} và cung cấp bối cảnh thị trường, vận hành và xã hội cho cơ hội này."
+        },
+        "roadmap_section": {
+          "eyebrow": "Cơ hội roadmap tương lai",
+          "title": "Các mục roadmap từ kỷ nguyên đã kết nối"
+        },
+        "related_problems_section": {
+          "eyebrow": "Vấn đề liên quan",
+          "title": "Thách thức hiện tại gần kề",
+          "empty_text": "Nhiều liên kết vấn đề hơn sẽ xuất hiện khi graph mở rộng."
+        },
+        "technology_section": {
+          "eyebrow": "Công nghệ liên quan",
+          "title": "Miền công nghệ"
+        },
+        "related_business_section": {
+          "eyebrow": "Cơ hội kinh doanh liên quan",
+          "title": "Lộ trình kinh doanh lân cận"
+        },
+        "internal_links_section": {
+          "eyebrow": "Liên kết nội bộ",
+          "title": "Điều hướng graph"
+        }
+      }
+    }
+  },
+  "future-solutions": {
+    "id": "future-solutions",
+    "name": "Giải pháp tương lai",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Giải pháp tương lai | Chorn Planet",
+          "description": "Khám phá các lăng kính giải pháp tương lai kết nối cột mốc roadmap với vấn đề hiện tại, ngành, cơ hội kinh doanh, mức độ sẵn sàng và tác động con người."
+        },
+        "era": {
+          "title_template": "Giải pháp tương lai của {eraTitle} | Chorn Planet",
+          "description_template": "Khám phá {count} lăng kính giải pháp tương lai từ {eraTitle}, kết nối cột mốc roadmap với vấn đề hiện tại, ngành và cơ hội kinh doanh.",
+          "fallback_title": "Kỷ nguyên giải pháp tương lai | Chorn Planet",
+          "fallback_description": "Khám phá lăng kính giải pháp tương lai theo kỷ nguyên roadmap."
+        },
+        "detail": {
+          "fallback_title": "Giải pháp tương lai | Chorn Planet",
+          "fallback_description": "Khám phá lăng kính giải pháp tương lai từ Civilization Graph."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Giải pháp tương lai",
+          "title": "Lăng kính giải pháp cho roadmap Văn minh tương lai",
+          "description": "Khám phá từng cột mốc tương lai qua vấn đề mà nó giải quyết, ngành mà nó chạm tới, cơ hội kinh doanh mà nó tạo ra và sự chuẩn bị của con người mà nó đòi hỏi."
+        },
+        "directory_section": {
+          "eyebrow": "Bản đồ giải pháp",
+          "title": "Duyệt giải pháp tương lai theo kỷ nguyên roadmap",
+          "card_description_template": "{timeframe}. Kết nối trên {industryCount} nút ngành và mức độ sẵn sàng {readinessLevels}."
+        }
+      },
+      "era": {
+        "hero": {
+          "eyebrow": "Kỷ nguyên giải pháp tương lai",
+          "description_template": "Góc nhìn tập trung về {count} lăng kính giải pháp từ {timeframe}, kết nối cột mốc roadmap với vấn đề hiện tại, tác động ngành và cơ hội kinh doanh."
+        },
+        "directory_section": {
+          "eyebrow": "Giải pháp theo kỷ nguyên",
+          "title": "Lăng kính giải quyết vấn đề"
+        }
+      },
+      "detail": {
+        "breadcrumbs": {
+          "future_civilization": "Văn minh tương lai",
+          "future_solutions": "Giải pháp tương lai"
+        },
+        "hero": {
+          "eyebrow": "Giải pháp tương lai",
+          "view_era_solutions": "Xem giải pháp theo kỷ nguyên",
+          "canonical_roadmap_item": "Mục roadmap chuẩn"
+        },
+        "solution_lens": {
+          "problem_statement": {
+            "eyebrow": "Tuyên bố vấn đề",
+            "title": "Điều này giải quyết gì"
+          },
+          "future_solution": {
+            "eyebrow": "Giải pháp tương lai",
+            "title": "Cách nó hoạt động như một giải pháp"
+          },
+          "why_it_matters": {
+            "eyebrow": "Vì sao quan trọng",
+            "title": "Giá trị con người"
+          }
+        },
+        "readiness": {
+          "eyebrow": "Mức độ sẵn sàng"
+        },
+        "human_impact": {
+          "eyebrow": "Tác động con người",
+          "title": "Cá nhân, doanh nghiệp, xã hội"
+        },
+        "current_problems": {
+          "eyebrow": "Vấn đề hiện tại được xử lý",
+          "title": "Liên kết vấn đề"
+        },
+        "industries_impacted": {
+          "eyebrow": "Ngành bị tác động",
+          "title": "Nơi nó đi vào hệ thống"
+        },
+        "business_opportunities": {
+          "eyebrow": "Cơ hội kinh doanh",
+          "title": "Lộ trình thương mại"
+        },
+        "risks": {
+          "eyebrow": "Rủi ro và thách thức",
+          "title": "Điều cần được quản lý"
+        },
+        "related": {
+          "eyebrow": "Lăng kính giải pháp liên quan",
+          "title": "Tiếp tục qua graph"
+        }
+      }
+    }
+  }
+}

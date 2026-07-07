@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { getLocalizedAlternates } from "@/lib/metadata/alternates";
+import { getCgdSearchRecordByRoute } from "@/lib/cgd/loader";
 import {
   getPlatformImageAlt,
   getPlatformImageSrc,
@@ -124,27 +125,29 @@ export function getFutureCivilizationItemMetadata(
   }
 
   const { era, item } = detail;
-  const title = `${item.title} | ${era.title}`;
+  const targetPath = `/future-civilization/${era.slug}/${item.slug}/`;
+  const search = getCgdSearchRecordByRoute(targetPath, "future-solution", locale);
+  const title = search?.title ?? `${item.title} | ${era.title}`;
+  const description = search?.description ?? item.description;
   const openGraphImage = getFutureRoadmapOpenGraphImageMetadata(
     item.image,
     item.title,
   );
-  const targetPath = `/future-civilization/${era.slug}/${item.slug}/`;
 
   return {
     title,
-    description: item.description,
+    description,
     alternates: getLocalizedAlternates(targetPath, locale),
     openGraph: {
       title,
-      description: item.description,
+      description,
       type: "article",
       images: [openGraphImage],
     },
     twitter: {
       card: "summary_large_image",
       title,
-      description: item.description,
+      description,
       images: [openGraphImage.url],
     },
   };

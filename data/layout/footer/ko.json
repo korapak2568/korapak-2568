@@ -127,5 +127,30 @@
         "ariaLabel": "X의 Chorn Planet"
       }
     ]
+  },
+  "platform": {
+    "title": "플랫폼",
+    "items": [
+      {
+        "label": "미래 문명",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "미래 솔루션",
+        "link": "/future-solutions/"
+      },
+      {
+        "label": "비즈니스 기회",
+        "link": "/business-opportunities/"
+      },
+      {
+        "label": "산업",
+        "link": "/industries/"
+      },
+      {
+        "label": "기술",
+        "link": "/technology/"
+      }
+    ]
   }
 }

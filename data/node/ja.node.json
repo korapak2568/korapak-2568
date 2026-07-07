@@ -1,0 +1,922 @@
+[
+  {
+    "id": "housing_real_estate",
+    "name": "住宅と不動産",
+    "sub_nodes": [
+      {
+        "id": "smart_home",
+        "name": "スマートホーム"
+      },
+      {
+        "id": "apartment",
+        "name": "アパートメント"
+      },
+      {
+        "id": "condominium",
+        "name": "コンドミニアム"
+      },
+      {
+        "id": "luxury_villa",
+        "name": "高級ヴィラ"
+      },
+      {
+        "id": "construction",
+        "name": "建設"
+      },
+      {
+        "id": "property_management",
+        "name": "不動産管理"
+      },
+      {
+        "id": "facility_management",
+        "name": "施設管理"
+      },
+      {
+        "id": "architecture",
+        "name": "建築"
+      },
+      {
+        "id": "interior_design",
+        "name": "インテリアデザイン"
+      },
+      {
+        "id": "urban_planning",
+        "name": "都市計画"
+      }
+    ]
+  },
+  {
+    "id": "healthcare",
+    "name": "ヘルスケア",
+    "sub_nodes": [
+      {
+        "id": "hospital",
+        "name": "病院"
+      },
+      {
+        "id": "clinic",
+        "name": "クリニック"
+      },
+      {
+        "id": "mental_health",
+        "name": "メンタルヘルス"
+      },
+      {
+        "id": "preventive_care",
+        "name": "予防ケア"
+      },
+      {
+        "id": "ai_diagnosis",
+        "name": "AI診断"
+      },
+      {
+        "id": "longevity",
+        "name": "長寿"
+      },
+      {
+        "id": "genetics",
+        "name": "遺伝学"
+      },
+      {
+        "id": "telemedicine",
+        "name": "遠隔医療"
+      },
+      {
+        "id": "pharmacy",
+        "name": "薬局"
+      },
+      {
+        "id": "rehabilitation",
+        "name": "リハビリテーション"
+      }
+    ]
+  },
+  {
+    "id": "education",
+    "name": "教育",
+    "sub_nodes": [
+      {
+        "id": "k12_education",
+        "name": "K-12教育"
+      },
+      {
+        "id": "higher_education",
+        "name": "高等教育"
+      },
+      {
+        "id": "online_learning",
+        "name": "オンライン学習とエドテック"
+      },
+      {
+        "id": "vocational_training",
+        "name": "職業訓練"
+      },
+      {
+        "id": "lifelong_learning",
+        "name": "生涯学習"
+      },
+      {
+        "id": "special_education",
+        "name": "特別支援教育"
+      },
+      {
+        "id": "curriculum_development",
+        "name": "カリキュラム開発"
+      },
+      {
+        "id": "language_learning",
+        "name": "語学学習"
+      },
+      {
+        "id": "educational_gamification",
+        "name": "教育ゲーミフィケーション"
+      },
+      {
+        "id": "corporate_training",
+        "name": "企業研修"
+      }
+    ]
+  },
+  {
+    "id": "food_agriculture",
+    "name": "食と農業",
+    "sub_nodes": [
+      {
+        "id": "agritech",
+        "name": "アグリテック"
+      },
+      {
+        "id": "organic_farming",
+        "name": "有機農業"
+      },
+      {
+        "id": "vertical_farming",
+        "name": "垂直農業"
+      },
+      {
+        "id": "sustainable_agriculture",
+        "name": "持続可能な農業"
+      },
+      {
+        "id": "food_processing",
+        "name": "食品加工"
+      },
+      {
+        "id": "alternative_protein",
+        "name": "代替タンパク質"
+      },
+      {
+        "id": "supply_chain_logistics",
+        "name": "サプライチェーンと物流"
+      },
+      {
+        "id": "aquaculture",
+        "name": "養殖"
+      },
+      {
+        "id": "food_safety",
+        "name": "食品安全"
+      },
+      {
+        "id": "precision_farming",
+        "name": "精密農業"
+      }
+    ]
+  },
+  {
+    "id": "mobility_transportation",
+    "name": "モビリティと交通",
+    "sub_nodes": [
+      {
+        "id": "electric_vehicles",
+        "name": "電気自動車"
+      },
+      {
+        "id": "autonomous_driving",
+        "name": "自動運転"
+      },
+      {
+        "id": "public_transit",
+        "name": "公共交通"
+      },
+      {
+        "id": "ride_sharing",
+        "name": "ライドシェアとマイクロモビリティ"
+      },
+      {
+        "id": "aviation",
+        "name": "航空"
+      },
+      {
+        "id": "rail_transport",
+        "name": "鉄道輸送"
+      },
+      {
+        "id": "maritime_shipping",
+        "name": "海上輸送"
+      },
+      {
+        "id": "logistics_delivery",
+        "name": "物流と配送"
+      },
+      {
+        "id": "traffic_management",
+        "name": "交通管理"
+      },
+      {
+        "id": "hyperloop_high_speed",
+        "name": "ハイパーループと高速鉄道"
+      }
+    ]
+  },
+  {
+    "id": "energy_utilities",
+    "name": "エネルギーと公益事業",
+    "sub_nodes": [
+      {
+        "id": "solar_energy",
+        "name": "太陽エネルギー"
+      },
+      {
+        "id": "wind_energy",
+        "name": "風力エネルギー"
+      },
+      {
+        "id": "smart_grid",
+        "name": "スマートグリッド"
+      },
+      {
+        "id": "energy_storage",
+        "name": "エネルギー貯蔵"
+      },
+      {
+        "id": "nuclear_energy",
+        "name": "原子力エネルギー"
+      },
+      {
+        "id": "hydrogen_fuel",
+        "name": "水素燃料"
+      },
+      {
+        "id": "water_management",
+        "name": "水管理"
+      },
+      {
+        "id": "waste_to_energy",
+        "name": "廃棄物発電"
+      },
+      {
+        "id": "power_distribution",
+        "name": "配電"
+      },
+      {
+        "id": "geothermal_energy",
+        "name": "地熱エネルギー"
+      }
+    ]
+  },
+  {
+    "id": "environment",
+    "name": "環境",
+    "sub_nodes": [
+      {
+        "id": "climate_change",
+        "name": "気候変動"
+      },
+      {
+        "id": "biodiversity",
+        "name": "生物多様性"
+      },
+      {
+        "id": "waste_management",
+        "name": "廃棄物管理"
+      },
+      {
+        "id": "pollution_control",
+        "name": "汚染管理"
+      },
+      {
+        "id": "circular_economy",
+        "name": "循環型経済"
+      },
+      {
+        "id": "carbon_capture",
+        "name": "炭素回収"
+      },
+      {
+        "id": "ocean_conservation",
+        "name": "海洋保全"
+      },
+      {
+        "id": "reforestation",
+        "name": "再植林"
+      },
+      {
+        "id": "environmental_policy",
+        "name": "環境政策"
+      },
+      {
+        "id": "renewable_resources",
+        "name": "再生可能資源"
+      }
+    ]
+  },
+  {
+    "id": "economy_finance",
+    "name": "経済と金融",
+    "sub_nodes": [
+      {
+        "id": "fintech",
+        "name": "フィンテック"
+      },
+      {
+        "id": "banking",
+        "name": "銀行業"
+      },
+      {
+        "id": "investment_wealth",
+        "name": "投資とウェルスマネジメント"
+      },
+      {
+        "id": "cryptocurrency_blockchain",
+        "name": "暗号資産とブロックチェーン"
+      },
+      {
+        "id": "insurance",
+        "name": "保険"
+      },
+      {
+        "id": "macroeconomics",
+        "name": "マクロ経済学"
+      },
+      {
+        "id": "venture_capital",
+        "name": "ベンチャーキャピタル"
+      },
+      {
+        "id": "e_commerce_finance",
+        "name": "Eコマース金融"
+      },
+      {
+        "id": "sustainable_finance",
+        "name": "サステナブル金融"
+      },
+      {
+        "id": "financial_regulation",
+        "name": "金融規制"
+      }
+    ]
+  },
+  {
+    "id": "work_careers",
+    "name": "仕事とキャリア",
+    "sub_nodes": [
+      {
+        "id": "remote_work",
+        "name": "リモートワーク"
+      },
+      {
+        "id": "gig_economy",
+        "name": "ギグエコノミー"
+      },
+      {
+        "id": "talent_acquisition",
+        "name": "人材獲得"
+      },
+      {
+        "id": "upskilling_reskilling",
+        "name": "スキル向上とリスキリング"
+      },
+      {
+        "id": "workspace_design",
+        "name": "ワークスペースデザイン"
+      },
+      {
+        "id": "employee_wellbeing",
+        "name": "従業員ウェルビーイング"
+      },
+      {
+        "id": "hr_tech",
+        "name": "HRテック"
+      },
+      {
+        "id": "career_coaching",
+        "name": "キャリアコーチング"
+      },
+      {
+        "id": "labor_relations",
+        "name": "労使関係"
+      },
+      {
+        "id": "diversity_inclusion",
+        "name": "多様性と包摂"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing",
+    "name": "製造",
+    "sub_nodes": [
+      {
+        "id": "industry_4_0",
+        "name": "インダストリー4.0"
+      },
+      {
+        "id": "robotics_automation",
+        "name": "ロボティクスと自動化"
+      },
+      {
+        "id": "3d_printing",
+        "name": "3Dプリンティング"
+      },
+      {
+        "id": "supply_chain",
+        "name": "サプライチェーン管理"
+      },
+      {
+        "id": "smart_factories",
+        "name": "スマートファクトリー"
+      },
+      {
+        "id": "materials_science",
+        "name": "材料科学"
+      },
+      {
+        "id": "quality_control",
+        "name": "品質管理"
+      },
+      {
+        "id": "sustainable_manufacturing",
+        "name": "持続可能な製造"
+      },
+      {
+        "id": "predictive_maintenance",
+        "name": "予知保全"
+      },
+      {
+        "id": "industrial_iot",
+        "name": "産業IoT"
+      }
+    ]
+  },
+  {
+    "id": "retail_commerce",
+    "name": "小売と商取引",
+    "sub_nodes": [
+      {
+        "id": "e_commerce",
+        "name": "Eコマース"
+      },
+      {
+        "id": "omnichannel_retail",
+        "name": "オムニチャネル小売"
+      },
+      {
+        "id": "supply_chain_retail",
+        "name": "サプライチェーンと物流"
+      },
+      {
+        "id": "consumer_behavior",
+        "name": "消費者行動"
+      },
+      {
+        "id": "digital_payment",
+        "name": "デジタル決済システム"
+      },
+      {
+        "id": "brick_and_mortar",
+        "name": "実店舗イノベーション"
+      },
+      {
+        "id": "personalized_marketing",
+        "name": "パーソナライズドマーケティング"
+      },
+      {
+        "id": "inventory_management",
+        "name": "在庫管理"
+      },
+      {
+        "id": "direct_to_consumer",
+        "name": "消費者直接取引（D2C）"
+      },
+      {
+        "id": "retail_analytics",
+        "name": "小売分析"
+      }
+    ]
+  },
+  {
+    "id": "hospitality_tourism",
+    "name": "ホスピタリティと観光",
+    "sub_nodes": [
+      {
+        "id": "hotels",
+        "name": "ホテル"
+      },
+      {
+        "id": "spa",
+        "name": "スパ"
+      },
+      {
+        "id": "resorts",
+        "name": "リゾート"
+      },
+      {
+        "id": "restaurants",
+        "name": "レストラン"
+      },
+      {
+        "id": "cafes",
+        "name": "カフェ"
+      },
+      {
+        "id": "theme_parks",
+        "name": "テーマパーク"
+      },
+      {
+        "id": "cruise",
+        "name": "クルーズ"
+      },
+      {
+        "id": "eco_tourism",
+        "name": "エコツーリズム"
+      },
+      {
+        "id": "luxury_travel",
+        "name": "ラグジュアリー旅行"
+      },
+      {
+        "id": "wellness_retreat",
+        "name": "ウェルネスリトリート"
+      }
+    ]
+  },
+  {
+    "id": "cities_communities",
+    "name": "都市とコミュニティ",
+    "sub_nodes": [
+      {
+        "id": "smart_cities",
+        "name": "スマートシティ"
+      },
+      {
+        "id": "public_spaces",
+        "name": "公共空間"
+      },
+      {
+        "id": "affordable_housing",
+        "name": "手頃な価格の住宅"
+      },
+      {
+        "id": "community_engagement",
+        "name": "コミュニティ参加"
+      },
+      {
+        "id": "urban_mobility",
+        "name": "都市モビリティ"
+      },
+      {
+        "id": "sustainable_infrastructure",
+        "name": "持続可能なインフラ"
+      },
+      {
+        "id": "disaster_resilience",
+        "name": "災害レジリエンス"
+      },
+      {
+        "id": "waste_recycling",
+        "name": "廃棄物とリサイクルシステム"
+      },
+      {
+        "id": "urban_agriculture",
+        "name": "都市農業"
+      },
+      {
+        "id": "digital_twins",
+        "name": "都市デジタルツイン"
+      }
+    ]
+  },
+  {
+    "id": "government_public_services",
+    "name": "政府と公共サービス",
+    "sub_nodes": [
+      {
+        "id": "e_government",
+        "name": "電子政府とデジタルID"
+      },
+      {
+        "id": "public_policy",
+        "name": "公共政策"
+      },
+      {
+        "id": "civic_tech",
+        "name": "シビックテック"
+      },
+      {
+        "id": "public_healthcare_systems",
+        "name": "公衆医療システム"
+      },
+      {
+        "id": "infrastructure_funding",
+        "name": "インフラ資金調達"
+      },
+      {
+        "id": "social_welfare",
+        "name": "社会福祉"
+      },
+      {
+        "id": "regulatory_compliance",
+        "name": "規制遵守"
+      },
+      {
+        "id": "emergency_services",
+        "name": "緊急対応サービス"
+      },
+      {
+        "id": "smart_governance",
+        "name": "スマートガバナンス"
+      },
+      {
+        "id": "open_data",
+        "name": "オープンデータ施策"
+      }
+    ]
+  },
+  {
+    "id": "security_safety",
+    "name": "セキュリティと安全",
+    "sub_nodes": [
+      {
+        "id": "cybersecurity",
+        "name": "サイバーセキュリティ"
+      },
+      {
+        "id": "physical_security",
+        "name": "物理セキュリティ"
+      },
+      {
+        "id": "surveillance_systems",
+        "name": "監視システム"
+      },
+      {
+        "id": "biometrics",
+        "name": "生体認証"
+      },
+      {
+        "id": "disaster_recovery",
+        "name": "災害復旧"
+      },
+      {
+        "id": "data_privacy",
+        "name": "データプライバシー"
+      },
+      {
+        "id": "national_defense",
+        "name": "国防"
+      },
+      {
+        "id": "law_enforcement_tech",
+        "name": "法執行テック"
+      },
+      {
+        "id": "fire_safety",
+        "name": "防火安全"
+      },
+      {
+        "id": "fraud_detection",
+        "name": "不正検知"
+      }
+    ]
+  },
+  {
+    "id": "communication",
+    "name": "コミュニケーション",
+    "sub_nodes": [
+      {
+        "id": "telecommunications",
+        "name": "通信（5G/6G）"
+      },
+      {
+        "id": "satellite_internet",
+        "name": "衛星インターネット"
+      },
+      {
+        "id": "social_media",
+        "name": "ソーシャルメディア"
+      },
+      {
+        "id": "enterprise_collaboration",
+        "name": "企業向けコラボレーションツール"
+      },
+      {
+        "id": "iot_connectivity",
+        "name": "IoT接続"
+      },
+      {
+        "id": "quantum_communication",
+        "name": "量子通信"
+      },
+      {
+        "id": "broadcasting",
+        "name": "放送インフラ"
+      },
+      {
+        "id": "network_architecture",
+        "name": "ネットワークアーキテクチャ"
+      },
+      {
+        "id": "unified_communications",
+        "name": "統合コミュニケーション"
+      },
+      {
+        "id": "interoperability",
+        "name": "クロスプラットフォーム相互運用性"
+      }
+    ]
+  },
+  {
+    "id": "entertainment_media",
+    "name": "エンターテインメントとメディア",
+    "sub_nodes": [
+      {
+        "id": "streaming_services",
+        "name": "ストリーミングサービス"
+      },
+      {
+        "id": "gaming_esports",
+        "name": "ゲームとeスポーツ"
+      },
+      {
+        "id": "virtual_reality_media",
+        "name": "VRとARメディア"
+      },
+      {
+        "id": "generative_ai_art",
+        "name": "生成AIアートとコンテンツ"
+      },
+      {
+        "id": "digital_journalism",
+        "name": "デジタルジャーナリズム"
+      },
+      {
+        "id": "podcasting_audio",
+        "name": "ポッドキャスティングと音声コンテンツ"
+      },
+      {
+        "id": "cinema_film",
+        "name": "映画と映画制作"
+      },
+      {
+        "id": "music_industry",
+        "name": "音楽産業テック"
+      },
+      {
+        "id": "copyright_nft",
+        "name": "著作権とデジタル所有権"
+      },
+      {
+        "id": "live_events",
+        "name": "ライブイベントとコンサート"
+      }
+    ]
+  },
+  {
+    "id": "science_research",
+    "name": "科学と研究",
+    "sub_nodes": [
+      {
+        "id": "quantum_computing",
+        "name": "量子コンピューティング"
+      },
+      {
+        "id": "biotechnology",
+        "name": "バイオテクノロジー"
+      },
+      {
+        "id": "artificial_intelligence",
+        "name": "人工知能"
+      },
+      {
+        "id": "nanotechnology",
+        "name": "ナノテクノロジー"
+      },
+      {
+        "id": "neuroscience",
+        "name": "神経科学"
+      },
+      {
+        "id": "particle_physics",
+        "name": "素粒子物理学"
+      },
+      {
+        "id": "climate_science",
+        "name": "気候科学"
+      },
+      {
+        "id": "genomics",
+        "name": "ゲノミクス"
+      },
+      {
+        "id": "materials_discovery",
+        "name": "材料発見"
+      },
+      {
+        "id": "academic_publishing",
+        "name": "オープンサイエンスと学術出版"
+      }
+    ]
+  },
+  {
+    "id": "space_civilization",
+    "name": "宇宙文明",
+    "sub_nodes": [
+      {
+        "id": "space_exploration",
+        "name": "宇宙探査"
+      },
+      {
+        "id": "satellite_deployment",
+        "name": "衛星配備"
+      },
+      {
+        "id": "mars_colonization",
+        "name": "火星移住"
+      },
+      {
+        "id": "asteroid_mining",
+        "name": "小惑星採掘"
+      },
+      {
+        "id": "space_tourism",
+        "name": "宇宙旅行"
+      },
+      {
+        "id": "orbital_habitats",
+        "name": "軌道上居住環境"
+      },
+      {
+        "id": "astrobiology",
+        "name": "宇宙生物学"
+      },
+      {
+        "id": "space_law",
+        "name": "宇宙法とガバナンス"
+      },
+      {
+        "id": "propulsion_systems",
+        "name": "先進推進システム"
+      },
+      {
+        "id": "space_debris",
+        "name": "宇宙デブリ対策"
+      }
+    ]
+  },
+  {
+    "id": "culture_lifestyle",
+    "name": "文化とライフスタイル",
+    "sub_nodes": [
+      {
+        "id": "fashion_design",
+        "name": "ファッションとデザイン"
+      },
+      {
+        "id": "digital_nomadism",
+        "name": "デジタルノマド"
+      },
+      {
+        "id": "fitness_wellness",
+        "name": "フィットネスとウェルネス"
+      },
+      {
+        "id": "art_museums",
+        "name": "アートと博物館"
+      },
+      {
+        "id": "gastronomy",
+        "name": "ガストロノミーと食文化"
+      },
+      {
+        "id": "mindfulness",
+        "name": "マインドフルネスと自己成長"
+      },
+      {
+        "id": "subcultures",
+        "name": "デジタルサブカルチャー"
+      },
+      {
+        "id": "heritage_preservation",
+        "name": "文化遺産保護"
+      },
+      {
+        "id": "hobbies_leisure",
+        "name": "趣味と余暇"
+      },
+      {
+        "id": "social_trends",
+        "name": "社会トレンドと動態"
+      }
+    ]
+  }
+]

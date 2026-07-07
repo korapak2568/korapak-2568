@@ -1,0 +1,2502 @@
+[
+  {
+    "node_id": "housing_real_estate",
+    "business_opportunities": [
+      {
+        "id": "smart_home_ai_smart_home_platform",
+        "name": "KI Smart-Home Plattform",
+        "sub_node_id": "smart_home",
+        "era_id": "era-01"
+      },
+      {
+        "id": "smart_home_self_healing_buildings_construction_practice_network",
+        "name": "Baupraxis für selbstheilende Gebäude Netzwerk",
+        "sub_node_id": "smart_home",
+        "era_id": "era-04"
+      },
+      {
+        "id": "apartment_ai_apartment_infrastructure",
+        "name": "KI Apartment Infrastruktur",
+        "sub_node_id": "apartment",
+        "era_id": "era-01"
+      },
+      {
+        "id": "apartment_self_healing_buildings_construction_practice_platform",
+        "name": "Baupraxis für selbstheilende Gebäude Plattform",
+        "sub_node_id": "apartment",
+        "era_id": "era-04"
+      },
+      {
+        "id": "condominium_ai_condominium_network",
+        "name": "KI Eigentumswohnungsanlage Netzwerk",
+        "sub_node_id": "condominium",
+        "era_id": "era-01"
+      },
+      {
+        "id": "condominium_self_healing_buildings_construction_practice_studio",
+        "name": "Baupraxis für selbstheilende Gebäude Entwicklungsstudio",
+        "sub_node_id": "condominium",
+        "era_id": "era-04"
+      },
+      {
+        "id": "luxury_villa_ai_luxury_villa_studio",
+        "name": "KI Luxusvilla Entwicklungsstudio",
+        "sub_node_id": "luxury_villa",
+        "era_id": "era-01"
+      },
+      {
+        "id": "luxury_villa_self_healing_buildings_construction_practice_service",
+        "name": "Baupraxis für selbstheilende Gebäude Service-Dienst",
+        "sub_node_id": "luxury_villa",
+        "era_id": "era-04"
+      },
+      {
+        "id": "construction_ai_construction_studio",
+        "name": "KI Bau Entwicklungsstudio",
+        "sub_node_id": "construction",
+        "era_id": "era-01"
+      },
+      {
+        "id": "construction_self_healing_buildings_construction_practice_service",
+        "name": "Baupraxis für selbstheilende Gebäude Service-Dienst",
+        "sub_node_id": "construction",
+        "era_id": "era-04"
+      },
+      {
+        "id": "property_management_ai_property_management_infrastructure",
+        "name": "KI Immobilienverwaltung Infrastruktur",
+        "sub_node_id": "property_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "property_management_self_healing_buildings_construction_practice_platform",
+        "name": "Baupraxis für selbstheilende Gebäude Plattform",
+        "sub_node_id": "property_management",
+        "era_id": "era-04"
+      },
+      {
+        "id": "facility_management_ai_facility_management_infrastructure",
+        "name": "KI Facility Management Infrastruktur",
+        "sub_node_id": "facility_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "facility_management_self_healing_buildings_construction_practice_platform",
+        "name": "Baupraxis für selbstheilende Gebäude Plattform",
+        "sub_node_id": "facility_management",
+        "era_id": "era-04"
+      },
+      {
+        "id": "architecture_ai_architecture_studio",
+        "name": "KI Architektur Entwicklungsstudio",
+        "sub_node_id": "architecture",
+        "era_id": "era-01"
+      },
+      {
+        "id": "architecture_self_healing_buildings_construction_practice_service",
+        "name": "Baupraxis für selbstheilende Gebäude Service-Dienst",
+        "sub_node_id": "architecture",
+        "era_id": "era-04"
+      },
+      {
+        "id": "interior_design_ai_interior_design_marketplace",
+        "name": "KI Innenarchitektur Marktplatz",
+        "sub_node_id": "interior_design",
+        "era_id": "era-01"
+      },
+      {
+        "id": "interior_design_self_healing_buildings_construction_practice_lab",
+        "name": "Baupraxis für selbstheilende Gebäude Innovationslabor",
+        "sub_node_id": "interior_design",
+        "era_id": "era-04"
+      },
+      {
+        "id": "urban_planning_ai_urban_planning_operating_system",
+        "name": "KI Stadtplanung Betriebssystem",
+        "sub_node_id": "urban_planning",
+        "era_id": "era-01"
+      },
+      {
+        "id": "urban_planning_self_healing_buildings_construction_practice_marketplace",
+        "name": "Baupraxis für selbstheilende Gebäude Marktplatz",
+        "sub_node_id": "urban_planning",
+        "era_id": "era-04"
+      }
+    ]
+  },
+  {
+    "node_id": "healthcare",
+    "business_opportunities": [
+      {
+        "id": "hospital_autonomous_hospital_console",
+        "name": "Autonome Krankenhaus Konsole",
+        "sub_node_id": "hospital",
+        "era_id": "era-02"
+      },
+      {
+        "id": "hospital_ai_hospital_triage_infrastructure",
+        "name": "KI Krankenhaus Triage Infrastruktur",
+        "sub_node_id": "hospital",
+        "era_id": "era-01"
+      },
+      {
+        "id": "clinic_ai_clinic_lab",
+        "name": "KI Klinik Innovationslabor",
+        "sub_node_id": "clinic",
+        "era_id": "era-01"
+      },
+      {
+        "id": "clinic_organ_regeneration_patches_cloud",
+        "name": "Organregenerations-Patches Cloud-Lösung",
+        "sub_node_id": "clinic",
+        "era_id": "era-01"
+      },
+      {
+        "id": "mental_health_ai_mental_health_service",
+        "name": "KI psychische Gesundheit Service-Dienst",
+        "sub_node_id": "mental_health",
+        "era_id": "era-01"
+      },
+      {
+        "id": "mental_health_lunar_emergency_hospital_operating_system",
+        "name": "Mond-Notfallkrankenhaus Betriebssystem",
+        "sub_node_id": "mental_health",
+        "era_id": "era-02"
+      },
+      {
+        "id": "preventive_care_ai_preventive_care_marketplace",
+        "name": "KI Präventionsversorgung Marktplatz",
+        "sub_node_id": "preventive_care",
+        "era_id": "era-01"
+      },
+      {
+        "id": "preventive_care_lunar_emergency_hospital_lab",
+        "name": "Mond-Notfallkrankenhaus Innovationslabor",
+        "sub_node_id": "preventive_care",
+        "era_id": "era-02"
+      },
+      {
+        "id": "ai_diagnosis_ai_ai_diagnosis_studio",
+        "name": "KI KI-Diagnostik Entwicklungsstudio",
+        "sub_node_id": "ai_diagnosis",
+        "era_id": "era-01"
+      },
+      {
+        "id": "ai_diagnosis_lunar_emergency_hospital_service",
+        "name": "Mond-Notfallkrankenhaus Service-Dienst",
+        "sub_node_id": "ai_diagnosis",
+        "era_id": "era-02"
+      },
+      {
+        "id": "longevity_ai_longevity_infrastructure",
+        "name": "KI Langlebigkeit Infrastruktur",
+        "sub_node_id": "longevity",
+        "era_id": "era-01"
+      },
+      {
+        "id": "longevity_longevity_drugs_extend_healthy_platform",
+        "name": "Langlebigkeit Drugs Extend Healthy Plattform",
+        "sub_node_id": "longevity",
+        "era_id": "era-01"
+      },
+      {
+        "id": "genetics_ai_genetics_console",
+        "name": "KI Genetik Konsole",
+        "sub_node_id": "genetics",
+        "era_id": "era-01"
+      },
+      {
+        "id": "genetics_lunar_emergency_hospital_infrastructure",
+        "name": "Mond-Notfallkrankenhaus Infrastruktur",
+        "sub_node_id": "genetics",
+        "era_id": "era-02"
+      },
+      {
+        "id": "telemedicine_ai_telemedicine_studio",
+        "name": "KI Telemedizin Entwicklungsstudio",
+        "sub_node_id": "telemedicine",
+        "era_id": "era-01"
+      },
+      {
+        "id": "telemedicine_lunar_emergency_hospital_service",
+        "name": "Mond-Notfallkrankenhaus Service-Dienst",
+        "sub_node_id": "telemedicine",
+        "era_id": "era-02"
+      },
+      {
+        "id": "pharmacy_ai_pharmacy_console",
+        "name": "KI Pharmazie Konsole",
+        "sub_node_id": "pharmacy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "pharmacy_lunar_emergency_hospital_infrastructure",
+        "name": "Mond-Notfallkrankenhaus Infrastruktur",
+        "sub_node_id": "pharmacy",
+        "era_id": "era-02"
+      },
+      {
+        "id": "rehabilitation_ai_rehabilitation_operating_system",
+        "name": "KI Rehabilitation Betriebssystem",
+        "sub_node_id": "rehabilitation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "rehabilitation_lunar_emergency_hospital_marketplace",
+        "name": "Mond-Notfallkrankenhaus Marktplatz",
+        "sub_node_id": "rehabilitation",
+        "era_id": "era-02"
+      }
+    ]
+  },
+  {
+    "node_id": "education",
+    "business_opportunities": [
+      {
+        "id": "k12_education_post_scarcity_k_12_education_service",
+        "name": "Post-Knappheit K-12 Bildung Service-Dienst",
+        "sub_node_id": "k12_education",
+        "era_id": "era-03"
+      },
+      {
+        "id": "k12_education_seamless_translation_operating_system",
+        "name": "nahtlose Übersetzung Betriebssystem",
+        "sub_node_id": "k12_education",
+        "era_id": "era-01"
+      },
+      {
+        "id": "higher_education_post_scarcity_higher_education_lab",
+        "name": "Post-Knappheit Hochschulbildung Innovationslabor",
+        "sub_node_id": "higher_education",
+        "era_id": "era-03"
+      },
+      {
+        "id": "higher_education_seamless_translation_cloud",
+        "name": "nahtlose Übersetzung Cloud-Lösung",
+        "sub_node_id": "higher_education",
+        "era_id": "era-01"
+      },
+      {
+        "id": "online_learning_post_scarcity_online_learning_and_edtech_marketplace",
+        "name": "Post-Knappheit Online-Lernen & EdTech Marktplatz",
+        "sub_node_id": "online_learning",
+        "era_id": "era-03"
+      },
+      {
+        "id": "online_learning_seamless_translation_lab",
+        "name": "nahtlose Übersetzung Innovationslabor",
+        "sub_node_id": "online_learning",
+        "era_id": "era-01"
+      },
+      {
+        "id": "vocational_training_post_scarcity_vocational_training_infrastructure",
+        "name": "Post-Knappheit Berufsausbildung Infrastruktur",
+        "sub_node_id": "vocational_training",
+        "era_id": "era-03"
+      },
+      {
+        "id": "vocational_training_seamless_translation_platform",
+        "name": "nahtlose Übersetzung Plattform",
+        "sub_node_id": "vocational_training",
+        "era_id": "era-01"
+      },
+      {
+        "id": "lifelong_learning_post_scarcity_lifelong_learning_cloud",
+        "name": "Post-Knappheit lebenslanges Lernen Cloud-Lösung",
+        "sub_node_id": "lifelong_learning",
+        "era_id": "era-03"
+      },
+      {
+        "id": "lifelong_learning_seamless_translation_console",
+        "name": "nahtlose Übersetzung Konsole",
+        "sub_node_id": "lifelong_learning",
+        "era_id": "era-01"
+      },
+      {
+        "id": "special_education_post_scarcity_special_education_cloud",
+        "name": "Post-Knappheit Sonderpädagogik Cloud-Lösung",
+        "sub_node_id": "special_education",
+        "era_id": "era-03"
+      },
+      {
+        "id": "special_education_seamless_translation_console",
+        "name": "nahtlose Übersetzung Konsole",
+        "sub_node_id": "special_education",
+        "era_id": "era-01"
+      },
+      {
+        "id": "curriculum_development_post_scarcity_curriculum_development_studio",
+        "name": "Post-Knappheit Curriculumentwicklung Entwicklungsstudio",
+        "sub_node_id": "curriculum_development",
+        "era_id": "era-03"
+      },
+      {
+        "id": "curriculum_development_seamless_translation_service",
+        "name": "nahtlose Übersetzung Service-Dienst",
+        "sub_node_id": "curriculum_development",
+        "era_id": "era-01"
+      },
+      {
+        "id": "language_learning_post_scarcity_language_learning_cloud",
+        "name": "Post-Knappheit Sprachenlernen Cloud-Lösung",
+        "sub_node_id": "language_learning",
+        "era_id": "era-03"
+      },
+      {
+        "id": "language_learning_seamless_translation_console",
+        "name": "nahtlose Übersetzung Konsole",
+        "sub_node_id": "language_learning",
+        "era_id": "era-01"
+      },
+      {
+        "id": "educational_gamification_post_scarcity_educational_gamification_operating_system",
+        "name": "Post-Knappheit Bildungs-Gamification Betriebssystem",
+        "sub_node_id": "educational_gamification",
+        "era_id": "era-03"
+      },
+      {
+        "id": "educational_gamification_seamless_translation_marketplace",
+        "name": "nahtlose Übersetzung Marktplatz",
+        "sub_node_id": "educational_gamification",
+        "era_id": "era-01"
+      },
+      {
+        "id": "corporate_training_post_scarcity_corporate_training_console",
+        "name": "Post-Knappheit Unternehmenstraining Konsole",
+        "sub_node_id": "corporate_training",
+        "era_id": "era-03"
+      },
+      {
+        "id": "corporate_training_seamless_translation_infrastructure",
+        "name": "nahtlose Übersetzung Infrastruktur",
+        "sub_node_id": "corporate_training",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "food_agriculture",
+    "business_opportunities": [
+      {
+        "id": "agritech_regenerative_agritech_console",
+        "name": "regenerative AgriTech Konsole",
+        "sub_node_id": "agritech",
+        "era_id": "era-04"
+      },
+      {
+        "id": "agritech_ai_crop_protection_infrastructure",
+        "name": "KI-Pflanzenschutz Infrastruktur",
+        "sub_node_id": "agritech",
+        "era_id": "era-01"
+      },
+      {
+        "id": "organic_farming_regenerative_organic_farming_marketplace",
+        "name": "regenerative ökologische Landwirtschaft Marktplatz",
+        "sub_node_id": "organic_farming",
+        "era_id": "era-04"
+      },
+      {
+        "id": "organic_farming_ai_crop_protection_lab",
+        "name": "KI-Pflanzenschutz Innovationslabor",
+        "sub_node_id": "organic_farming",
+        "era_id": "era-01"
+      },
+      {
+        "id": "vertical_farming_regenerative_vertical_farming_lab",
+        "name": "regenerative Vertical Farming Innovationslabor",
+        "sub_node_id": "vertical_farming",
+        "era_id": "era-04"
+      },
+      {
+        "id": "vertical_farming_profitable_vertical_farms_cloud",
+        "name": "profitable Vertical Farms Cloud-Lösung",
+        "sub_node_id": "vertical_farming",
+        "era_id": "era-01"
+      },
+      {
+        "id": "sustainable_agriculture_regenerative_sustainable_agriculture_service",
+        "name": "regenerative nachhaltige Landwirtschaft Service-Dienst",
+        "sub_node_id": "sustainable_agriculture",
+        "era_id": "era-04"
+      },
+      {
+        "id": "sustainable_agriculture_ai_crop_protection_operating_system",
+        "name": "KI-Pflanzenschutz Betriebssystem",
+        "sub_node_id": "sustainable_agriculture",
+        "era_id": "era-01"
+      },
+      {
+        "id": "food_processing_regenerative_food_processing_marketplace",
+        "name": "regenerative Lebensmittelverarbeitung Marktplatz",
+        "sub_node_id": "food_processing",
+        "era_id": "era-04"
+      },
+      {
+        "id": "food_processing_ai_crop_protection_lab",
+        "name": "KI-Pflanzenschutz Innovationslabor",
+        "sub_node_id": "food_processing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "alternative_protein_regenerative_alternative_protein_infrastructure",
+        "name": "regenerative Alternativprotein Infrastruktur",
+        "sub_node_id": "alternative_protein",
+        "era_id": "era-04"
+      },
+      {
+        "id": "alternative_protein_ai_crop_protection_platform",
+        "name": "KI-Pflanzenschutz Plattform",
+        "sub_node_id": "alternative_protein",
+        "era_id": "era-01"
+      },
+      {
+        "id": "supply_chain_logistics_autonomous_supply_chain_and_logistics_studio",
+        "name": "autonome Lieferkette & Logistik Entwicklungsstudio",
+        "sub_node_id": "supply_chain_logistics",
+        "era_id": "era-02"
+      },
+      {
+        "id": "supply_chain_logistics_fusion_cargo_ships_service",
+        "name": "Fusions-Frachtschiffe Service-Dienst",
+        "sub_node_id": "supply_chain_logistics",
+        "era_id": "era-02"
+      },
+      {
+        "id": "aquaculture_regenerative_aquaculture_network",
+        "name": "regenerative Aquakultur Netzwerk",
+        "sub_node_id": "aquaculture",
+        "era_id": "era-04"
+      },
+      {
+        "id": "aquaculture_ai_crop_protection_studio",
+        "name": "KI-Pflanzenschutz Entwicklungsstudio",
+        "sub_node_id": "aquaculture",
+        "era_id": "era-01"
+      },
+      {
+        "id": "food_safety_regenerative_food_safety_network",
+        "name": "regenerative Lebensmittelsicherheit Netzwerk",
+        "sub_node_id": "food_safety",
+        "era_id": "era-04"
+      },
+      {
+        "id": "food_safety_ai_crop_protection_studio",
+        "name": "KI-Pflanzenschutz Entwicklungsstudio",
+        "sub_node_id": "food_safety",
+        "era_id": "era-01"
+      },
+      {
+        "id": "precision_farming_regenerative_precision_farming_cloud",
+        "name": "regenerative Präzisionslandwirtschaft Cloud-Lösung",
+        "sub_node_id": "precision_farming",
+        "era_id": "era-04"
+      },
+      {
+        "id": "precision_farming_precision_agriculture_dramatically_reduces_console",
+        "name": "Precision Agriculture Dramatically Reduces Konsole",
+        "sub_node_id": "precision_farming",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "mobility_transportation",
+    "business_opportunities": [
+      {
+        "id": "electric_vehicles_ai_electric_vehicles_cloud",
+        "name": "KI Elektrofahrzeuge Cloud-Lösung",
+        "sub_node_id": "electric_vehicles",
+        "era_id": "era-01"
+      },
+      {
+        "id": "electric_vehicles_urban_drone_delivery_console",
+        "name": "urbane Drohnenlieferung Konsole",
+        "sub_node_id": "electric_vehicles",
+        "era_id": "era-01"
+      },
+      {
+        "id": "autonomous_driving_ai_autonomous_driving_console",
+        "name": "KI autonomes Fahren Konsole",
+        "sub_node_id": "autonomous_driving",
+        "era_id": "era-01"
+      },
+      {
+        "id": "autonomous_driving_charging_smart_roads_infrastructure",
+        "name": "ladende Smart Roads Infrastruktur",
+        "sub_node_id": "autonomous_driving",
+        "era_id": "era-01"
+      },
+      {
+        "id": "public_transit_ai_public_transit_operating_system",
+        "name": "KI öffentlicher Nahverkehr Betriebssystem",
+        "sub_node_id": "public_transit",
+        "era_id": "era-01"
+      },
+      {
+        "id": "public_transit_urban_drone_delivery_marketplace",
+        "name": "urbane Drohnenlieferung Marktplatz",
+        "sub_node_id": "public_transit",
+        "era_id": "era-01"
+      },
+      {
+        "id": "ride_sharing_ai_ride_sharing_and_micro_mobility_studio",
+        "name": "KI Ride-Sharing & Mikromobilität Entwicklungsstudio",
+        "sub_node_id": "ride_sharing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "ride_sharing_urban_drone_delivery_service",
+        "name": "urbane Drohnenlieferung Service-Dienst",
+        "sub_node_id": "ride_sharing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "aviation_ai_aviation_console",
+        "name": "KI Luftfahrt Konsole",
+        "sub_node_id": "aviation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "aviation_urban_drone_delivery_infrastructure",
+        "name": "urbane Drohnenlieferung Infrastruktur",
+        "sub_node_id": "aviation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "rail_transport_ai_rail_transport_operating_system",
+        "name": "KI Schienenverkehr Betriebssystem",
+        "sub_node_id": "rail_transport",
+        "era_id": "era-01"
+      },
+      {
+        "id": "rail_transport_urban_drone_delivery_marketplace",
+        "name": "urbane Drohnenlieferung Marktplatz",
+        "sub_node_id": "rail_transport",
+        "era_id": "era-01"
+      },
+      {
+        "id": "maritime_shipping_ai_maritime_shipping_cloud",
+        "name": "KI Seeschifffahrt Cloud-Lösung",
+        "sub_node_id": "maritime_shipping",
+        "era_id": "era-01"
+      },
+      {
+        "id": "maritime_shipping_urban_drone_delivery_console",
+        "name": "urbane Drohnenlieferung Konsole",
+        "sub_node_id": "maritime_shipping",
+        "era_id": "era-01"
+      },
+      {
+        "id": "logistics_delivery_ai_logistics_and_delivery_console",
+        "name": "KI Logistik & Lieferung Konsole",
+        "sub_node_id": "logistics_delivery",
+        "era_id": "era-01"
+      },
+      {
+        "id": "logistics_delivery_charging_smart_roads_infrastructure",
+        "name": "ladende Smart Roads Infrastruktur",
+        "sub_node_id": "logistics_delivery",
+        "era_id": "era-01"
+      },
+      {
+        "id": "traffic_management_ai_traffic_management_console",
+        "name": "KI Verkehrsmanagement Konsole",
+        "sub_node_id": "traffic_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "traffic_management_urban_drone_delivery_infrastructure",
+        "name": "urbane Drohnenlieferung Infrastruktur",
+        "sub_node_id": "traffic_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "hyperloop_high_speed_ai_hyperloop_and_high_speed_rail_platform",
+        "name": "KI Hyperloop & Hochgeschwindigkeitsbahn Plattform",
+        "sub_node_id": "hyperloop_high_speed",
+        "era_id": "era-01"
+      },
+      {
+        "id": "hyperloop_high_speed_urban_drone_delivery_network",
+        "name": "urbane Drohnenlieferung Netzwerk",
+        "sub_node_id": "hyperloop_high_speed",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "energy_utilities",
+    "business_opportunities": [
+      {
+        "id": "solar_energy_post_scarcity_solar_energy_studio",
+        "name": "Post-Knappheit Solarenergie Entwicklungsstudio",
+        "sub_node_id": "solar_energy",
+        "era_id": "era-03"
+      },
+      {
+        "id": "solar_energy_solar_system_fusion_grid_service",
+        "name": "Solar System Fusion Grid Service-Dienst",
+        "sub_node_id": "solar_energy",
+        "era_id": "era-05"
+      },
+      {
+        "id": "wind_energy_post_scarcity_wind_energy_network",
+        "name": "Post-Knappheit Windenergie Netzwerk",
+        "sub_node_id": "wind_energy",
+        "era_id": "era-03"
+      },
+      {
+        "id": "wind_energy_solar_system_fusion_grid_studio",
+        "name": "Solar System Fusion Grid Entwicklungsstudio",
+        "sub_node_id": "wind_energy",
+        "era_id": "era-05"
+      },
+      {
+        "id": "smart_grid_ai_smart_grid_platform",
+        "name": "KI Smart Grid Plattform",
+        "sub_node_id": "smart_grid",
+        "era_id": "era-01"
+      },
+      {
+        "id": "smart_grid_fusion_desalination_network_network",
+        "name": "Fusion Desalination Network Netzwerk",
+        "sub_node_id": "smart_grid",
+        "era_id": "era-03"
+      },
+      {
+        "id": "energy_storage_post_scarcity_energy_storage_operating_system",
+        "name": "Post-Knappheit Energiespeicherung Betriebssystem",
+        "sub_node_id": "energy_storage",
+        "era_id": "era-03"
+      },
+      {
+        "id": "energy_storage_solar_system_fusion_grid_marketplace",
+        "name": "Solar System Fusion Grid Marktplatz",
+        "sub_node_id": "energy_storage",
+        "era_id": "era-05"
+      },
+      {
+        "id": "nuclear_energy_post_scarcity_nuclear_energy_operating_system",
+        "name": "Post-Knappheit Kernenergie Betriebssystem",
+        "sub_node_id": "nuclear_energy",
+        "era_id": "era-03"
+      },
+      {
+        "id": "nuclear_energy_solar_system_fusion_grid_marketplace",
+        "name": "Solar System Fusion Grid Marktplatz",
+        "sub_node_id": "nuclear_energy",
+        "era_id": "era-05"
+      },
+      {
+        "id": "hydrogen_fuel_post_scarcity_hydrogen_fuel_service",
+        "name": "Post-Knappheit Wasserstoffkraftstoff Service-Dienst",
+        "sub_node_id": "hydrogen_fuel",
+        "era_id": "era-03"
+      },
+      {
+        "id": "hydrogen_fuel_solar_system_fusion_grid_operating_system",
+        "name": "Solar System Fusion Grid Betriebssystem",
+        "sub_node_id": "hydrogen_fuel",
+        "era_id": "era-05"
+      },
+      {
+        "id": "water_management_post_scarcity_water_management_lab",
+        "name": "Post-Knappheit Wassermanagement Innovationslabor",
+        "sub_node_id": "water_management",
+        "era_id": "era-03"
+      },
+      {
+        "id": "water_management_solar_system_fusion_grid_cloud",
+        "name": "Solar System Fusion Grid Cloud-Lösung",
+        "sub_node_id": "water_management",
+        "era_id": "era-05"
+      },
+      {
+        "id": "waste_to_energy_ai_waste_to_energy_marketplace",
+        "name": "KI Waste-to-Energy Marktplatz",
+        "sub_node_id": "waste_to_energy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "waste_to_energy_fusion_desalination_network_lab",
+        "name": "Fusion Desalination Network Innovationslabor",
+        "sub_node_id": "waste_to_energy",
+        "era_id": "era-03"
+      },
+      {
+        "id": "power_distribution_post_scarcity_power_distribution_console",
+        "name": "Post-Knappheit Stromverteilung Konsole",
+        "sub_node_id": "power_distribution",
+        "era_id": "era-03"
+      },
+      {
+        "id": "power_distribution_solar_system_fusion_grid_infrastructure",
+        "name": "Solar System Fusion Grid Infrastruktur",
+        "sub_node_id": "power_distribution",
+        "era_id": "era-05"
+      },
+      {
+        "id": "geothermal_energy_post_scarcity_geothermal_energy_cloud",
+        "name": "Post-Knappheit Geothermie Cloud-Lösung",
+        "sub_node_id": "geothermal_energy",
+        "era_id": "era-03"
+      },
+      {
+        "id": "geothermal_energy_solar_system_fusion_grid_console",
+        "name": "Solar System Fusion Grid Konsole",
+        "sub_node_id": "geothermal_energy",
+        "era_id": "era-05"
+      }
+    ]
+  },
+  {
+    "node_id": "environment",
+    "business_opportunities": [
+      {
+        "id": "climate_change_multi_world_climate_change_operating_system",
+        "name": "Multi-Welt Klimawandel Betriebssystem",
+        "sub_node_id": "climate_change",
+        "era_id": "era-05"
+      },
+      {
+        "id": "climate_change_reforestation_drones_restore_damaged_marketplace",
+        "name": "Wiederaufforstung Drones Restore Damaged Marktplatz",
+        "sub_node_id": "climate_change",
+        "era_id": "era-01"
+      },
+      {
+        "id": "biodiversity_multi_world_biodiversity_studio",
+        "name": "Multi-Welt Biodiversität Entwicklungsstudio",
+        "sub_node_id": "biodiversity",
+        "era_id": "era-05"
+      },
+      {
+        "id": "biodiversity_biodiversity_loss_stops_and_service",
+        "name": "Biodiversität Loss Stops and Service-Dienst",
+        "sub_node_id": "biodiversity",
+        "era_id": "era-03"
+      },
+      {
+        "id": "waste_management_multi_world_waste_management_lab",
+        "name": "Multi-Welt Abfallmanagement Innovationslabor",
+        "sub_node_id": "waste_management",
+        "era_id": "era-05"
+      },
+      {
+        "id": "waste_management_reforestation_drones_restore_damaged_cloud",
+        "name": "Wiederaufforstung Drones Restore Damaged Cloud-Lösung",
+        "sub_node_id": "waste_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "pollution_control_ai_pollution_control_cloud",
+        "name": "KI Schadstoffkontrolle Cloud-Lösung",
+        "sub_node_id": "pollution_control",
+        "era_id": "era-01"
+      },
+      {
+        "id": "pollution_control_ocean_biodiversity_fully_recovers_console",
+        "name": "Ocean Biodiversität Fully Recovers Konsole",
+        "sub_node_id": "pollution_control",
+        "era_id": "era-05"
+      },
+      {
+        "id": "circular_economy_regenerative_circular_economy_lab",
+        "name": "regenerative Kreislaufwirtschaft Innovationslabor",
+        "sub_node_id": "circular_economy",
+        "era_id": "era-04"
+      },
+      {
+        "id": "circular_economy_ocean_biodiversity_fully_recovers_cloud",
+        "name": "Ocean Biodiversität Fully Recovers Cloud-Lösung",
+        "sub_node_id": "circular_economy",
+        "era_id": "era-05"
+      },
+      {
+        "id": "carbon_capture_autonomous_carbon_capture_operating_system",
+        "name": "Autonome CO2-Abscheidung Betriebssystem",
+        "sub_node_id": "carbon_capture",
+        "era_id": "era-02"
+      },
+      {
+        "id": "carbon_capture_ocean_biodiversity_fully_recovers_marketplace",
+        "name": "Ocean Biodiversität Fully Recovers Marktplatz",
+        "sub_node_id": "carbon_capture",
+        "era_id": "era-05"
+      },
+      {
+        "id": "ocean_conservation_multi_world_ocean_conservation_console",
+        "name": "Multi-Welt Meeresschutz Konsole",
+        "sub_node_id": "ocean_conservation",
+        "era_id": "era-05"
+      },
+      {
+        "id": "ocean_conservation_reforestation_drones_restore_damaged_infrastructure",
+        "name": "Wiederaufforstung Drones Restore Damaged Infrastruktur",
+        "sub_node_id": "ocean_conservation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "reforestation_ai_reforestation_service",
+        "name": "KI Wiederaufforstung Service-Dienst",
+        "sub_node_id": "reforestation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "reforestation_ocean_biodiversity_fully_recovers_operating_system",
+        "name": "Ocean Biodiversität Fully Recovers Betriebssystem",
+        "sub_node_id": "reforestation",
+        "era_id": "era-05"
+      },
+      {
+        "id": "environmental_policy_multi_world_environmental_policy_platform",
+        "name": "Multi-Welt Umweltpolitik Plattform",
+        "sub_node_id": "environmental_policy",
+        "era_id": "era-05"
+      },
+      {
+        "id": "environmental_policy_reforestation_drones_restore_damaged_network",
+        "name": "Wiederaufforstung Drones Restore Damaged Netzwerk",
+        "sub_node_id": "environmental_policy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "renewable_resources_multi_world_renewable_resources_infrastructure",
+        "name": "Multi-Welt erneuerbare Ressourcen Infrastruktur",
+        "sub_node_id": "renewable_resources",
+        "era_id": "era-05"
+      },
+      {
+        "id": "renewable_resources_reforestation_drones_restore_damaged_platform",
+        "name": "Wiederaufforstung Drones Restore Damaged Plattform",
+        "sub_node_id": "renewable_resources",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "economy_finance",
+    "business_opportunities": [
+      {
+        "id": "fintech_ai_fintech_cloud",
+        "name": "KI FinTech Cloud-Lösung",
+        "sub_node_id": "fintech",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fintech_earth_moon_digital_currency_gains_console",
+        "name": "Earth Moon Digital Currency Gains Konsole",
+        "sub_node_id": "fintech",
+        "era_id": "era-02"
+      },
+      {
+        "id": "banking_ai_banking_cloud",
+        "name": "KI Banking Cloud-Lösung",
+        "sub_node_id": "banking",
+        "era_id": "era-01"
+      },
+      {
+        "id": "banking_earth_moon_digital_currency_gains_console",
+        "name": "Earth Moon Digital Currency Gains Konsole",
+        "sub_node_id": "banking",
+        "era_id": "era-02"
+      },
+      {
+        "id": "investment_wealth_ai_investment_and_wealth_management_cloud",
+        "name": "KI Investment & Wealth Management Cloud-Lösung",
+        "sub_node_id": "investment_wealth",
+        "era_id": "era-01"
+      },
+      {
+        "id": "investment_wealth_earth_moon_digital_currency_gains_console",
+        "name": "Earth Moon Digital Currency Gains Konsole",
+        "sub_node_id": "investment_wealth",
+        "era_id": "era-02"
+      },
+      {
+        "id": "cryptocurrency_blockchain_ai_cryptocurrency_and_blockchain_marketplace",
+        "name": "KI Cryptocurrency & Blockchain Marktplatz",
+        "sub_node_id": "cryptocurrency_blockchain",
+        "era_id": "era-01"
+      },
+      {
+        "id": "cryptocurrency_blockchain_earth_moon_digital_currency_gains_lab",
+        "name": "Earth Moon Digital Currency Gains Innovationslabor",
+        "sub_node_id": "cryptocurrency_blockchain",
+        "era_id": "era-02"
+      },
+      {
+        "id": "insurance_autonomous_insurance_infrastructure",
+        "name": "Autonome Insurance Infrastruktur",
+        "sub_node_id": "insurance",
+        "era_id": "era-02"
+      },
+      {
+        "id": "insurance_cashless_economies_dominate_most_platform",
+        "name": "Cashless Economies Dominate Most Plattform",
+        "sub_node_id": "insurance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "macroeconomics_ai_macroeconomics_operating_system",
+        "name": "KI Macroeconomics Betriebssystem",
+        "sub_node_id": "macroeconomics",
+        "era_id": "era-01"
+      },
+      {
+        "id": "macroeconomics_earth_moon_digital_currency_gains_marketplace",
+        "name": "Earth Moon Digital Currency Gains Marktplatz",
+        "sub_node_id": "macroeconomics",
+        "era_id": "era-02"
+      },
+      {
+        "id": "venture_capital_ai_venture_capital_marketplace",
+        "name": "KI Venture Capital Marktplatz",
+        "sub_node_id": "venture_capital",
+        "era_id": "era-01"
+      },
+      {
+        "id": "venture_capital_earth_moon_digital_currency_gains_lab",
+        "name": "Earth Moon Digital Currency Gains Innovationslabor",
+        "sub_node_id": "venture_capital",
+        "era_id": "era-02"
+      },
+      {
+        "id": "e_commerce_finance_ai_e_commerce_finance_console",
+        "name": "KI E-commerce Finance Konsole",
+        "sub_node_id": "e_commerce_finance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "e_commerce_finance_earth_moon_digital_currency_gains_infrastructure",
+        "name": "Earth Moon Digital Currency Gains Infrastruktur",
+        "sub_node_id": "e_commerce_finance",
+        "era_id": "era-02"
+      },
+      {
+        "id": "sustainable_finance_ai_sustainable_finance_infrastructure",
+        "name": "KI Sustainable Finance Infrastruktur",
+        "sub_node_id": "sustainable_finance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "sustainable_finance_earth_moon_digital_currency_gains_platform",
+        "name": "Earth Moon Digital Currency Gains Plattform",
+        "sub_node_id": "sustainable_finance",
+        "era_id": "era-02"
+      },
+      {
+        "id": "financial_regulation_ai_financial_regulation_platform",
+        "name": "KI Financial Regulation Plattform",
+        "sub_node_id": "financial_regulation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "financial_regulation_earth_moon_digital_currency_gains_network",
+        "name": "Earth Moon Digital Currency Gains Netzwerk",
+        "sub_node_id": "financial_regulation",
+        "era_id": "era-02"
+      }
+    ]
+  },
+  {
+    "node_id": "work_careers",
+    "business_opportunities": [
+      {
+        "id": "remote_work_ai_remote_work_network",
+        "name": "KI Remote Work Netzwerk",
+        "sub_node_id": "remote_work",
+        "era_id": "era-01"
+      },
+      {
+        "id": "remote_work_optional_physical_work_studio",
+        "name": "Optional Physical Work Entwicklungsstudio",
+        "sub_node_id": "remote_work",
+        "era_id": "era-04"
+      },
+      {
+        "id": "gig_economy_ai_gig_economy_network",
+        "name": "KI Gig Economy Netzwerk",
+        "sub_node_id": "gig_economy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "gig_economy_optional_physical_work_studio",
+        "name": "Optional Physical Work Entwicklungsstudio",
+        "sub_node_id": "gig_economy",
+        "era_id": "era-04"
+      },
+      {
+        "id": "talent_acquisition_ai_talent_acquisition_console",
+        "name": "KI Talent Acquisition Konsole",
+        "sub_node_id": "talent_acquisition",
+        "era_id": "era-01"
+      },
+      {
+        "id": "talent_acquisition_optional_physical_work_infrastructure",
+        "name": "Optional Physical Work Infrastruktur",
+        "sub_node_id": "talent_acquisition",
+        "era_id": "era-04"
+      },
+      {
+        "id": "upskilling_reskilling_ai_upskilling_and_reskilling_network",
+        "name": "KI Upskilling & Reskilling Netzwerk",
+        "sub_node_id": "upskilling_reskilling",
+        "era_id": "era-01"
+      },
+      {
+        "id": "upskilling_reskilling_optional_physical_work_studio",
+        "name": "Optional Physical Work Entwicklungsstudio",
+        "sub_node_id": "upskilling_reskilling",
+        "era_id": "era-04"
+      },
+      {
+        "id": "workspace_design_ai_workspace_design_lab",
+        "name": "KI Workspace Design Innovationslabor",
+        "sub_node_id": "workspace_design",
+        "era_id": "era-01"
+      },
+      {
+        "id": "workspace_design_autonomous_ai_scientists_design_cloud",
+        "name": "Autonome KI Scientists Design Cloud-Lösung",
+        "sub_node_id": "workspace_design",
+        "era_id": "era-06"
+      },
+      {
+        "id": "employee_wellbeing_ai_employee_wellbeing_console",
+        "name": "KI Employee Wellbeing Konsole",
+        "sub_node_id": "employee_wellbeing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "employee_wellbeing_optional_physical_work_infrastructure",
+        "name": "Optional Physical Work Infrastruktur",
+        "sub_node_id": "employee_wellbeing",
+        "era_id": "era-04"
+      },
+      {
+        "id": "hr_tech_ai_hr_tech_cloud",
+        "name": "KI HR Tech Cloud-Lösung",
+        "sub_node_id": "hr_tech",
+        "era_id": "era-01"
+      },
+      {
+        "id": "hr_tech_optional_physical_work_console",
+        "name": "Optional Physical Work Konsole",
+        "sub_node_id": "hr_tech",
+        "era_id": "era-04"
+      },
+      {
+        "id": "career_coaching_ai_career_coaching_marketplace",
+        "name": "KI Career Coaching Marktplatz",
+        "sub_node_id": "career_coaching",
+        "era_id": "era-01"
+      },
+      {
+        "id": "career_coaching_optional_physical_work_lab",
+        "name": "Optional Physical Work Innovationslabor",
+        "sub_node_id": "career_coaching",
+        "era_id": "era-04"
+      },
+      {
+        "id": "labor_relations_ai_labor_relations_marketplace",
+        "name": "KI Labor Relations Marktplatz",
+        "sub_node_id": "labor_relations",
+        "era_id": "era-01"
+      },
+      {
+        "id": "labor_relations_optional_physical_work_lab",
+        "name": "Optional Physical Work Innovationslabor",
+        "sub_node_id": "labor_relations",
+        "era_id": "era-04"
+      },
+      {
+        "id": "diversity_inclusion_ai_diversity_and_inclusion_infrastructure",
+        "name": "KI Diversity & Inclusion Infrastruktur",
+        "sub_node_id": "diversity_inclusion",
+        "era_id": "era-01"
+      },
+      {
+        "id": "diversity_inclusion_artificial_coral_reefs_platform",
+        "name": "Artificial Coral Reefs Plattform",
+        "sub_node_id": "diversity_inclusion",
+        "era_id": "era-04"
+      }
+    ]
+  },
+  {
+    "node_id": "manufacturing",
+    "business_opportunities": [
+      {
+        "id": "industry_4_0_multi_world_industry_4_0_studio",
+        "name": "Multi-Welt Industry 4.0 Entwicklungsstudio",
+        "sub_node_id": "industry_4_0",
+        "era_id": "era-05"
+      },
+      {
+        "id": "industry_4_0_3dprinted_buildings_mainstream_service",
+        "name": "3D-Printed Buildings Mainstream Service-Dienst",
+        "sub_node_id": "industry_4_0",
+        "era_id": "era-01"
+      },
+      {
+        "id": "robotics_automation_ai_robotics_and_automation_infrastructure",
+        "name": "KI Robotics & Automation Infrastruktur",
+        "sub_node_id": "robotics_automation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "robotics_automation_3dprinted_buildings_mainstream_platform",
+        "name": "3D-Printed Buildings Mainstream Plattform",
+        "sub_node_id": "robotics_automation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "3d_printing_autonomous_3d_printing_network",
+        "name": "Autonome 3D Printing Netzwerk",
+        "sub_node_id": "3d_printing",
+        "era_id": "era-02"
+      },
+      {
+        "id": "3d_printing_3dprinted_buildings_mainstream_studio",
+        "name": "3D-Printed Buildings Mainstream Entwicklungsstudio",
+        "sub_node_id": "3d_printing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "supply_chain_ai_supply_chain_management_studio",
+        "name": "KI Supply Chain Management Entwicklungsstudio",
+        "sub_node_id": "supply_chain",
+        "era_id": "era-01"
+      },
+      {
+        "id": "supply_chain_carbon_negative_concrete_service",
+        "name": "Carbon-Negative Concrete Service-Dienst",
+        "sub_node_id": "supply_chain",
+        "era_id": "era-01"
+      },
+      {
+        "id": "smart_factories_ai_smart_factories_marketplace",
+        "name": "KI Smart Factories Marktplatz",
+        "sub_node_id": "smart_factories",
+        "era_id": "era-01"
+      },
+      {
+        "id": "smart_factories_carbon_negative_concrete_lab",
+        "name": "Carbon-Negative Concrete Innovationslabor",
+        "sub_node_id": "smart_factories",
+        "era_id": "era-01"
+      },
+      {
+        "id": "materials_science_ai_materials_science_cloud",
+        "name": "KI Materials Science Cloud-Lösung",
+        "sub_node_id": "materials_science",
+        "era_id": "era-01"
+      },
+      {
+        "id": "materials_science_co2_absorbing_material_console",
+        "name": "CO2 Absorbing Material Konsole",
+        "sub_node_id": "materials_science",
+        "era_id": "era-01"
+      },
+      {
+        "id": "quality_control_ai_quality_control_marketplace",
+        "name": "KI Quality Control Marktplatz",
+        "sub_node_id": "quality_control",
+        "era_id": "era-01"
+      },
+      {
+        "id": "quality_control_carbon_negative_concrete_lab",
+        "name": "Carbon-Negative Concrete Innovationslabor",
+        "sub_node_id": "quality_control",
+        "era_id": "era-01"
+      },
+      {
+        "id": "sustainable_manufacturing_ai_sustainable_manufacturing_marketplace",
+        "name": "KI Sustainable Manufacturing Marktplatz",
+        "sub_node_id": "sustainable_manufacturing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "sustainable_manufacturing_carbon_negative_concrete_lab",
+        "name": "Carbon-Negative Concrete Innovationslabor",
+        "sub_node_id": "sustainable_manufacturing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "predictive_maintenance_ai_predictive_maintenance_studio",
+        "name": "KI Predictive Maintenance Entwicklungsstudio",
+        "sub_node_id": "predictive_maintenance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "predictive_maintenance_carbon_negative_concrete_service",
+        "name": "Carbon-Negative Concrete Service-Dienst",
+        "sub_node_id": "predictive_maintenance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "industrial_iot_ai_industrial_iot_operating_system",
+        "name": "KI Industrial IoT Betriebssystem",
+        "sub_node_id": "industrial_iot",
+        "era_id": "era-01"
+      },
+      {
+        "id": "industrial_iot_carbon_negative_concrete_marketplace",
+        "name": "Carbon-Negative Concrete Marktplatz",
+        "sub_node_id": "industrial_iot",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "retail_commerce",
+    "business_opportunities": [
+      {
+        "id": "e_commerce_ai_e_commerce_platform",
+        "name": "KI E-commerce Plattform",
+        "sub_node_id": "e_commerce",
+        "era_id": "era-01"
+      },
+      {
+        "id": "e_commerce_ai_health_monitors_network",
+        "name": "KI Health Monitors Netzwerk",
+        "sub_node_id": "e_commerce",
+        "era_id": "era-01"
+      },
+      {
+        "id": "omnichannel_retail_ai_omnichannel_retail_console",
+        "name": "KI Omnichannel Retail Konsole",
+        "sub_node_id": "omnichannel_retail",
+        "era_id": "era-01"
+      },
+      {
+        "id": "omnichannel_retail_ai_health_monitors_infrastructure",
+        "name": "KI Health Monitors Infrastruktur",
+        "sub_node_id": "omnichannel_retail",
+        "era_id": "era-01"
+      },
+      {
+        "id": "supply_chain_retail_autonomous_supply_chain_and_logistics_infrastructure",
+        "name": "autonome Lieferkette & Logistik Infrastruktur",
+        "sub_node_id": "supply_chain_retail",
+        "era_id": "era-02"
+      },
+      {
+        "id": "supply_chain_retail_urban_drone_delivery_platform",
+        "name": "urbane Drohnenlieferung Plattform",
+        "sub_node_id": "supply_chain_retail",
+        "era_id": "era-01"
+      },
+      {
+        "id": "consumer_behavior_ai_consumer_behavior_cloud",
+        "name": "KI Consumer Behavior Cloud-Lösung",
+        "sub_node_id": "consumer_behavior",
+        "era_id": "era-01"
+      },
+      {
+        "id": "consumer_behavior_ai_health_monitors_console",
+        "name": "KI Health Monitors Konsole",
+        "sub_node_id": "consumer_behavior",
+        "era_id": "era-01"
+      },
+      {
+        "id": "digital_payment_ai_digital_payment_systems_marketplace",
+        "name": "KI Digital Payment Systems Marktplatz",
+        "sub_node_id": "digital_payment",
+        "era_id": "era-01"
+      },
+      {
+        "id": "digital_payment_aigenerated_films_and_games_lab",
+        "name": "AI-Generated Films And Games Innovationslabor",
+        "sub_node_id": "digital_payment",
+        "era_id": "era-01"
+      },
+      {
+        "id": "brick_and_mortar_post_scarcity_brick_and_mortar_innovation_lab",
+        "name": "Post-Knappheit Brick-and-Mortar Innovation Innovationslabor",
+        "sub_node_id": "brick_and_mortar",
+        "era_id": "era-03"
+      },
+      {
+        "id": "brick_and_mortar_urban_drone_delivery_cloud",
+        "name": "urbane Drohnenlieferung Cloud-Lösung",
+        "sub_node_id": "brick_and_mortar",
+        "era_id": "era-01"
+      },
+      {
+        "id": "personalized_marketing_ai_personalized_marketing_studio",
+        "name": "KI Personalized Marketing Entwicklungsstudio",
+        "sub_node_id": "personalized_marketing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "personalized_marketing_ai_health_monitors_service",
+        "name": "KI Health Monitors Service-Dienst",
+        "sub_node_id": "personalized_marketing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "inventory_management_ai_inventory_management_platform",
+        "name": "KI Inventory Management Plattform",
+        "sub_node_id": "inventory_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "inventory_management_ai_health_monitors_network",
+        "name": "KI Health Monitors Netzwerk",
+        "sub_node_id": "inventory_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "direct_to_consumer_ai_direct_to_consumer_d2c_console",
+        "name": "KI Direct-to-Consumer (D2C) Konsole",
+        "sub_node_id": "direct_to_consumer",
+        "era_id": "era-01"
+      },
+      {
+        "id": "direct_to_consumer_ai_health_monitors_infrastructure",
+        "name": "KI Health Monitors Infrastruktur",
+        "sub_node_id": "direct_to_consumer",
+        "era_id": "era-01"
+      },
+      {
+        "id": "retail_analytics_ai_retail_analytics_lab",
+        "name": "KI Retail Analytics Innovationslabor",
+        "sub_node_id": "retail_analytics",
+        "era_id": "era-01"
+      },
+      {
+        "id": "retail_analytics_ai_health_monitors_cloud",
+        "name": "KI Health Monitors Cloud-Lösung",
+        "sub_node_id": "retail_analytics",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "hospitality_tourism",
+    "business_opportunities": [
+      {
+        "id": "hotels_ai_hotels_lab",
+        "name": "KI Hotels Innovationslabor",
+        "sub_node_id": "hotels",
+        "era_id": "era-01"
+      },
+      {
+        "id": "hotels_orbital_hotel_cloud",
+        "name": "Orbital Hotel Cloud-Lösung",
+        "sub_node_id": "hotels",
+        "era_id": "era-02"
+      },
+      {
+        "id": "spa_autonomous_spa_service",
+        "name": "Autonome Spa Service-Dienst",
+        "sub_node_id": "spa",
+        "era_id": "era-02"
+      },
+      {
+        "id": "spa_orbital_maintenance_robots_service_operating_system",
+        "name": "Orbital Maintenance Robots Service Betriebssystem",
+        "sub_node_id": "spa",
+        "era_id": "era-02"
+      },
+      {
+        "id": "resorts_autonomous_resorts_cloud",
+        "name": "Autonome Resorts Cloud-Lösung",
+        "sub_node_id": "resorts",
+        "era_id": "era-02"
+      },
+      {
+        "id": "resorts_orbital_maintenance_robots_service_console",
+        "name": "Orbital Maintenance Robots Service Konsole",
+        "sub_node_id": "resorts",
+        "era_id": "era-02"
+      },
+      {
+        "id": "restaurants_autonomous_restaurants_network",
+        "name": "Autonome Restaurants Netzwerk",
+        "sub_node_id": "restaurants",
+        "era_id": "era-02"
+      },
+      {
+        "id": "restaurants_orbital_maintenance_robots_service_studio",
+        "name": "Orbital Maintenance Robots Service Entwicklungsstudio",
+        "sub_node_id": "restaurants",
+        "era_id": "era-02"
+      },
+      {
+        "id": "cafes_autonomous_cafes_marketplace",
+        "name": "Autonome Cafes Marktplatz",
+        "sub_node_id": "cafes",
+        "era_id": "era-02"
+      },
+      {
+        "id": "cafes_orbital_maintenance_robots_service_lab",
+        "name": "Orbital Maintenance Robots Service Innovationslabor",
+        "sub_node_id": "cafes",
+        "era_id": "era-02"
+      },
+      {
+        "id": "theme_parks_autonomous_theme_parks_network",
+        "name": "Autonome Theme Parks Netzwerk",
+        "sub_node_id": "theme_parks",
+        "era_id": "era-02"
+      },
+      {
+        "id": "theme_parks_orbital_maintenance_robots_service_studio",
+        "name": "Orbital Maintenance Robots Service Entwicklungsstudio",
+        "sub_node_id": "theme_parks",
+        "era_id": "era-02"
+      },
+      {
+        "id": "cruise_autonomous_cruise_lab",
+        "name": "Autonome Cruise Innovationslabor",
+        "sub_node_id": "cruise",
+        "era_id": "era-02"
+      },
+      {
+        "id": "cruise_orbital_maintenance_robots_service_cloud",
+        "name": "Orbital Maintenance Robots Service Cloud-Lösung",
+        "sub_node_id": "cruise",
+        "era_id": "era-02"
+      },
+      {
+        "id": "eco_tourism_autonomous_eco_tourism_network",
+        "name": "Autonome Eco Tourism Netzwerk",
+        "sub_node_id": "eco_tourism",
+        "era_id": "era-02"
+      },
+      {
+        "id": "eco_tourism_orbital_maintenance_robots_service_studio",
+        "name": "Orbital Maintenance Robots Service Entwicklungsstudio",
+        "sub_node_id": "eco_tourism",
+        "era_id": "era-02"
+      },
+      {
+        "id": "luxury_travel_autonomous_luxury_travel_service",
+        "name": "Autonome Luxury Travel Service-Dienst",
+        "sub_node_id": "luxury_travel",
+        "era_id": "era-02"
+      },
+      {
+        "id": "luxury_travel_orbital_maintenance_robots_service_operating_system",
+        "name": "Orbital Maintenance Robots Service Betriebssystem",
+        "sub_node_id": "luxury_travel",
+        "era_id": "era-02"
+      },
+      {
+        "id": "wellness_retreat_autonomous_wellness_retreat_lab",
+        "name": "Autonome Wellness Retreat Innovationslabor",
+        "sub_node_id": "wellness_retreat",
+        "era_id": "era-02"
+      },
+      {
+        "id": "wellness_retreat_orbital_maintenance_robots_service_cloud",
+        "name": "Orbital Maintenance Robots Service Cloud-Lösung",
+        "sub_node_id": "wellness_retreat",
+        "era_id": "era-02"
+      }
+    ]
+  },
+  {
+    "node_id": "cities_communities",
+    "business_opportunities": [
+      {
+        "id": "smart_cities_post_scarcity_smart_cities_studio",
+        "name": "Post-Knappheit Smart Cities Entwicklungsstudio",
+        "sub_node_id": "smart_cities",
+        "era_id": "era-03"
+      },
+      {
+        "id": "smart_cities_self_healing_materials_service",
+        "name": "Self-Healing Materials Service-Dienst",
+        "sub_node_id": "smart_cities",
+        "era_id": "era-01"
+      },
+      {
+        "id": "public_spaces_regenerative_public_spaces_service",
+        "name": "regenerative Public Spaces Service-Dienst",
+        "sub_node_id": "public_spaces",
+        "era_id": "era-04"
+      },
+      {
+        "id": "public_spaces_autonomous_city_district_operating_system",
+        "name": "Autonome City District Betriebssystem",
+        "sub_node_id": "public_spaces",
+        "era_id": "era-03"
+      },
+      {
+        "id": "affordable_housing_regenerative_affordable_housing_console",
+        "name": "regenerative Affordable Housing Konsole",
+        "sub_node_id": "affordable_housing",
+        "era_id": "era-04"
+      },
+      {
+        "id": "affordable_housing_autonomous_city_district_infrastructure",
+        "name": "Autonome City District Infrastruktur",
+        "sub_node_id": "affordable_housing",
+        "era_id": "era-03"
+      },
+      {
+        "id": "community_engagement_regenerative_community_engagement_platform",
+        "name": "regenerative Community Engagement Plattform",
+        "sub_node_id": "community_engagement",
+        "era_id": "era-04"
+      },
+      {
+        "id": "community_engagement_autonomous_city_district_network",
+        "name": "Autonome City District Netzwerk",
+        "sub_node_id": "community_engagement",
+        "era_id": "era-03"
+      },
+      {
+        "id": "urban_mobility_regenerative_urban_mobility_operating_system",
+        "name": "regenerative Urban Mobility Betriebssystem",
+        "sub_node_id": "urban_mobility",
+        "era_id": "era-04"
+      },
+      {
+        "id": "urban_mobility_autonomous_city_district_marketplace",
+        "name": "Autonome City District Marktplatz",
+        "sub_node_id": "urban_mobility",
+        "era_id": "era-03"
+      },
+      {
+        "id": "sustainable_infrastructure_regenerative_sustainable_infrastructure_lab",
+        "name": "regenerative Sustainable Infrastructure Innovationslabor",
+        "sub_node_id": "sustainable_infrastructure",
+        "era_id": "era-04"
+      },
+      {
+        "id": "sustainable_infrastructure_autonomous_city_district_cloud",
+        "name": "Autonome City District Cloud-Lösung",
+        "sub_node_id": "sustainable_infrastructure",
+        "era_id": "era-03"
+      },
+      {
+        "id": "disaster_resilience_regenerative_disaster_resilience_infrastructure",
+        "name": "regenerative Disaster Resilience Infrastruktur",
+        "sub_node_id": "disaster_resilience",
+        "era_id": "era-04"
+      },
+      {
+        "id": "disaster_resilience_autonomous_city_district_platform",
+        "name": "Autonome City District Plattform",
+        "sub_node_id": "disaster_resilience",
+        "era_id": "era-03"
+      },
+      {
+        "id": "waste_recycling_regenerative_waste_and_recycling_systems_marketplace",
+        "name": "regenerative Waste & Recycling Systems Marktplatz",
+        "sub_node_id": "waste_recycling",
+        "era_id": "era-04"
+      },
+      {
+        "id": "waste_recycling_profitable_vertical_farms_lab",
+        "name": "profitable Vertical Farms Innovationslabor",
+        "sub_node_id": "waste_recycling",
+        "era_id": "era-01"
+      },
+      {
+        "id": "urban_agriculture_regenerative_urban_agriculture_cloud",
+        "name": "regenerative Urban Agriculture Cloud-Lösung",
+        "sub_node_id": "urban_agriculture",
+        "era_id": "era-04"
+      },
+      {
+        "id": "urban_agriculture_autonomous_city_district_console",
+        "name": "Autonome City District Konsole",
+        "sub_node_id": "urban_agriculture",
+        "era_id": "era-03"
+      },
+      {
+        "id": "digital_twins_regenerative_urban_digital_twins_service",
+        "name": "regenerative Urban Digital Twins Service-Dienst",
+        "sub_node_id": "digital_twins",
+        "era_id": "era-04"
+      },
+      {
+        "id": "digital_twins_autonomous_city_district_operating_system",
+        "name": "Autonome City District Betriebssystem",
+        "sub_node_id": "digital_twins",
+        "era_id": "era-03"
+      }
+    ]
+  },
+  {
+    "node_id": "government_public_services",
+    "business_opportunities": [
+      {
+        "id": "e_government_ai_e_government_and_digital_identity_studio",
+        "name": "KI E-Government & Digital Identity Entwicklungsstudio",
+        "sub_node_id": "e_government",
+        "era_id": "era-01"
+      },
+      {
+        "id": "e_government_earth_moon_digital_currency_gains_service",
+        "name": "Earth Moon Digital Currency Gains Service-Dienst",
+        "sub_node_id": "e_government",
+        "era_id": "era-02"
+      },
+      {
+        "id": "public_policy_ai_public_policy_service",
+        "name": "KI Public Policy Service-Dienst",
+        "sub_node_id": "public_policy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "public_policy_lunar_property_rights_framework_operating_system",
+        "name": "Lunar Property Rights Framework Betriebssystem",
+        "sub_node_id": "public_policy",
+        "era_id": "era-02"
+      },
+      {
+        "id": "civic_tech_ai_civic_tech_platform",
+        "name": "KI Civic Tech Plattform",
+        "sub_node_id": "civic_tech",
+        "era_id": "era-01"
+      },
+      {
+        "id": "civic_tech_lunar_property_rights_framework_network",
+        "name": "Lunar Property Rights Framework Netzwerk",
+        "sub_node_id": "civic_tech",
+        "era_id": "era-02"
+      },
+      {
+        "id": "public_healthcare_systems_ai_public_healthcare_systems_marketplace",
+        "name": "KI Public Healthcare Systems Marktplatz",
+        "sub_node_id": "public_healthcare_systems",
+        "era_id": "era-01"
+      },
+      {
+        "id": "public_healthcare_systems_lunar_property_rights_framework_lab",
+        "name": "Lunar Property Rights Framework Innovationslabor",
+        "sub_node_id": "public_healthcare_systems",
+        "era_id": "era-02"
+      },
+      {
+        "id": "infrastructure_funding_regenerative_infrastructure_funding_studio",
+        "name": "regenerative Infrastructure Funding Entwicklungsstudio",
+        "sub_node_id": "infrastructure_funding",
+        "era_id": "era-04"
+      },
+      {
+        "id": "infrastructure_funding_autonomous_ai_governments_manage_service",
+        "name": "Autonome KI Governments Manage Service-Dienst",
+        "sub_node_id": "infrastructure_funding",
+        "era_id": "era-05"
+      },
+      {
+        "id": "social_welfare_ai_social_welfare_operating_system",
+        "name": "KI Social Welfare Betriebssystem",
+        "sub_node_id": "social_welfare",
+        "era_id": "era-01"
+      },
+      {
+        "id": "social_welfare_lunar_property_rights_framework_marketplace",
+        "name": "Lunar Property Rights Framework Marktplatz",
+        "sub_node_id": "social_welfare",
+        "era_id": "era-02"
+      },
+      {
+        "id": "regulatory_compliance_ai_regulatory_compliance_network",
+        "name": "KI Regulatory Compliance Netzwerk",
+        "sub_node_id": "regulatory_compliance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "regulatory_compliance_lunar_property_rights_framework_studio",
+        "name": "Lunar Property Rights Framework Entwicklungsstudio",
+        "sub_node_id": "regulatory_compliance",
+        "era_id": "era-02"
+      },
+      {
+        "id": "emergency_services_ai_emergency_response_services_console",
+        "name": "KI Emergency Response Services Konsole",
+        "sub_node_id": "emergency_services",
+        "era_id": "era-01"
+      },
+      {
+        "id": "emergency_services_interplanetary_emergency_response_alliance_infrastructure",
+        "name": "Interplanetary Emergency Response Alliance Infrastruktur",
+        "sub_node_id": "emergency_services",
+        "era_id": "era-02"
+      },
+      {
+        "id": "smart_governance_ai_smart_governance_lab",
+        "name": "KI Smart Governance Innovationslabor",
+        "sub_node_id": "smart_governance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "smart_governance_lunar_property_rights_framework_cloud",
+        "name": "Lunar Property Rights Framework Cloud-Lösung",
+        "sub_node_id": "smart_governance",
+        "era_id": "era-02"
+      },
+      {
+        "id": "open_data_ai_open_data_initiatives_infrastructure",
+        "name": "KI Open Data Initiatives Infrastruktur",
+        "sub_node_id": "open_data",
+        "era_id": "era-01"
+      },
+      {
+        "id": "open_data_lunar_property_rights_framework_platform",
+        "name": "Lunar Property Rights Framework Plattform",
+        "sub_node_id": "open_data",
+        "era_id": "era-02"
+      }
+    ]
+  },
+  {
+    "node_id": "security_safety",
+    "business_opportunities": [
+      {
+        "id": "cybersecurity_ai_cybersecurity_service",
+        "name": "KI Cybersecurity Service-Dienst",
+        "sub_node_id": "cybersecurity",
+        "era_id": "era-01"
+      },
+      {
+        "id": "cybersecurity_debris_cleanup_network_operating_system",
+        "name": "Debris Cleanup Network Betriebssystem",
+        "sub_node_id": "cybersecurity",
+        "era_id": "era-02"
+      },
+      {
+        "id": "physical_security_ai_physical_security_cloud",
+        "name": "KI Physical Security Cloud-Lösung",
+        "sub_node_id": "physical_security",
+        "era_id": "era-01"
+      },
+      {
+        "id": "physical_security_debris_cleanup_network_console",
+        "name": "Debris Cleanup Network Konsole",
+        "sub_node_id": "physical_security",
+        "era_id": "era-02"
+      },
+      {
+        "id": "surveillance_systems_ai_surveillance_systems_platform",
+        "name": "KI Surveillance Systems Plattform",
+        "sub_node_id": "surveillance_systems",
+        "era_id": "era-01"
+      },
+      {
+        "id": "surveillance_systems_aigenerated_films_and_games_network",
+        "name": "AI-Generated Films And Games Netzwerk",
+        "sub_node_id": "surveillance_systems",
+        "era_id": "era-01"
+      },
+      {
+        "id": "biometrics_ai_biometrics_platform",
+        "name": "KI Biometrics Plattform",
+        "sub_node_id": "biometrics",
+        "era_id": "era-01"
+      },
+      {
+        "id": "biometrics_debris_cleanup_network_network",
+        "name": "Debris Cleanup Network Netzwerk",
+        "sub_node_id": "biometrics",
+        "era_id": "era-02"
+      },
+      {
+        "id": "disaster_recovery_regenerative_disaster_recovery_cloud",
+        "name": "regenerative Disaster Recovery Cloud-Lösung",
+        "sub_node_id": "disaster_recovery",
+        "era_id": "era-04"
+      },
+      {
+        "id": "disaster_recovery_disaster_robot_fleets_console",
+        "name": "Disaster Robot Fleets Konsole",
+        "sub_node_id": "disaster_recovery",
+        "era_id": "era-01"
+      },
+      {
+        "id": "data_privacy_ai_data_privacy_studio",
+        "name": "KI Data Privacy Entwicklungsstudio",
+        "sub_node_id": "data_privacy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "data_privacy_debris_cleanup_network_service",
+        "name": "Debris Cleanup Network Service-Dienst",
+        "sub_node_id": "data_privacy",
+        "era_id": "era-02"
+      },
+      {
+        "id": "national_defense_ai_national_defense_lab",
+        "name": "KI National Defense Innovationslabor",
+        "sub_node_id": "national_defense",
+        "era_id": "era-01"
+      },
+      {
+        "id": "national_defense_lunar_property_rights_framework_cloud",
+        "name": "Lunar Property Rights Framework Cloud-Lösung",
+        "sub_node_id": "national_defense",
+        "era_id": "era-02"
+      },
+      {
+        "id": "law_enforcement_tech_regenerative_law_enforcement_tech_platform",
+        "name": "regenerative Law Enforcement Tech Plattform",
+        "sub_node_id": "law_enforcement_tech",
+        "era_id": "era-04"
+      },
+      {
+        "id": "law_enforcement_tech_disaster_robot_fleets_network",
+        "name": "Disaster Robot Fleets Netzwerk",
+        "sub_node_id": "law_enforcement_tech",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fire_safety_ai_fire_safety_network",
+        "name": "KI Fire Safety Netzwerk",
+        "sub_node_id": "fire_safety",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fire_safety_debris_cleanup_network_studio",
+        "name": "Debris Cleanup Network Entwicklungsstudio",
+        "sub_node_id": "fire_safety",
+        "era_id": "era-02"
+      },
+      {
+        "id": "fraud_detection_ai_fraud_detection_marketplace",
+        "name": "KI Fraud Detection Marktplatz",
+        "sub_node_id": "fraud_detection",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fraud_detection_debris_cleanup_network_lab",
+        "name": "Debris Cleanup Network Innovationslabor",
+        "sub_node_id": "fraud_detection",
+        "era_id": "era-02"
+      }
+    ]
+  },
+  {
+    "node_id": "communication",
+    "business_opportunities": [
+      {
+        "id": "telecommunications_autonomous_telecommunications_5g_6g_console",
+        "name": "Autonome Telecommunications (5G/6G) Konsole",
+        "sub_node_id": "telecommunications",
+        "era_id": "era-02"
+      },
+      {
+        "id": "telecommunications_quantum_communication_networks_infrastructure",
+        "name": "Quantum Communication Networks Infrastruktur",
+        "sub_node_id": "telecommunications",
+        "era_id": "era-03"
+      },
+      {
+        "id": "satellite_internet_autonomous_satellite_internet_console",
+        "name": "Autonome Satellite Internet Konsole",
+        "sub_node_id": "satellite_internet",
+        "era_id": "era-02"
+      },
+      {
+        "id": "satellite_internet_quantum_communication_networks_infrastructure",
+        "name": "Quantum Communication Networks Infrastruktur",
+        "sub_node_id": "satellite_internet",
+        "era_id": "era-03"
+      },
+      {
+        "id": "social_media_autonomous_social_media_studio",
+        "name": "Autonome Social Media Entwicklungsstudio",
+        "sub_node_id": "social_media",
+        "era_id": "era-02"
+      },
+      {
+        "id": "social_media_quantum_communication_networks_service",
+        "name": "Quantum Communication Networks Service-Dienst",
+        "sub_node_id": "social_media",
+        "era_id": "era-03"
+      },
+      {
+        "id": "enterprise_collaboration_autonomous_enterprise_collaboration_tools_operating_system",
+        "name": "Autonome Enterprise Collaboration Tools Betriebssystem",
+        "sub_node_id": "enterprise_collaboration",
+        "era_id": "era-02"
+      },
+      {
+        "id": "enterprise_collaboration_quantum_communication_networks_marketplace",
+        "name": "Quantum Communication Networks Marktplatz",
+        "sub_node_id": "enterprise_collaboration",
+        "era_id": "era-03"
+      },
+      {
+        "id": "iot_connectivity_autonomous_iot_connectivity_lab",
+        "name": "Autonome IoT Connectivity Innovationslabor",
+        "sub_node_id": "iot_connectivity",
+        "era_id": "era-02"
+      },
+      {
+        "id": "iot_connectivity_quantum_communication_networks_cloud",
+        "name": "Quantum Communication Networks Cloud-Lösung",
+        "sub_node_id": "iot_connectivity",
+        "era_id": "era-03"
+      },
+      {
+        "id": "quantum_communication_autonomous_quantum_communication_network",
+        "name": "Autonome Quantum Communication Netzwerk",
+        "sub_node_id": "quantum_communication",
+        "era_id": "era-02"
+      },
+      {
+        "id": "quantum_communication_quantum_communication_networks_studio",
+        "name": "Quantum Communication Networks Entwicklungsstudio",
+        "sub_node_id": "quantum_communication",
+        "era_id": "era-03"
+      },
+      {
+        "id": "broadcasting_autonomous_broadcasting_infrastructure_studio",
+        "name": "Autonome Broadcasting Infrastructure Entwicklungsstudio",
+        "sub_node_id": "broadcasting",
+        "era_id": "era-02"
+      },
+      {
+        "id": "broadcasting_quantum_communication_networks_service",
+        "name": "Quantum Communication Networks Service-Dienst",
+        "sub_node_id": "broadcasting",
+        "era_id": "era-03"
+      },
+      {
+        "id": "network_architecture_autonomous_network_architecture_platform",
+        "name": "Autonome Network Architektur Plattform",
+        "sub_node_id": "network_architecture",
+        "era_id": "era-02"
+      },
+      {
+        "id": "network_architecture_quantum_communication_networks_network",
+        "name": "Quantum Communication Networks Netzwerk",
+        "sub_node_id": "network_architecture",
+        "era_id": "era-03"
+      },
+      {
+        "id": "unified_communications_autonomous_unified_communications_studio",
+        "name": "Autonome Unified Communications Entwicklungsstudio",
+        "sub_node_id": "unified_communications",
+        "era_id": "era-02"
+      },
+      {
+        "id": "unified_communications_quantum_communication_networks_service",
+        "name": "Quantum Communication Networks Service-Dienst",
+        "sub_node_id": "unified_communications",
+        "era_id": "era-03"
+      },
+      {
+        "id": "interoperability_autonomous_cross_platform_interoperability_lab",
+        "name": "Autonome Cross-Platform Interoperability Innovationslabor",
+        "sub_node_id": "interoperability",
+        "era_id": "era-02"
+      },
+      {
+        "id": "interoperability_quantum_communication_networks_cloud",
+        "name": "Quantum Communication Networks Cloud-Lösung",
+        "sub_node_id": "interoperability",
+        "era_id": "era-03"
+      }
+    ]
+  },
+  {
+    "node_id": "entertainment_media",
+    "business_opportunities": [
+      {
+        "id": "streaming_services_ai_streaming_services_console",
+        "name": "KI Streaming Services Konsole",
+        "sub_node_id": "streaming_services",
+        "era_id": "era-01"
+      },
+      {
+        "id": "streaming_services_cashless_economies_dominate_most_infrastructure",
+        "name": "Cashless Economies Dominate Most Infrastruktur",
+        "sub_node_id": "streaming_services",
+        "era_id": "era-01"
+      },
+      {
+        "id": "gaming_esports_interstellar_gaming_and_esports_operating_system",
+        "name": "Interstellar Gaming & Esports Betriebssystem",
+        "sub_node_id": "gaming_esports",
+        "era_id": "era-06"
+      },
+      {
+        "id": "gaming_esports_reputation_economies_traditional_marketplace",
+        "name": "Reputation Economies Traditional Marktplatz",
+        "sub_node_id": "gaming_esports",
+        "era_id": "era-06"
+      },
+      {
+        "id": "virtual_reality_media_interstellar_vr_and_ar_media_network",
+        "name": "Interstellar VR & AR Media Netzwerk",
+        "sub_node_id": "virtual_reality_media",
+        "era_id": "era-06"
+      },
+      {
+        "id": "virtual_reality_media_reputation_economies_traditional_studio",
+        "name": "Reputation Economies Traditional Entwicklungsstudio",
+        "sub_node_id": "virtual_reality_media",
+        "era_id": "era-06"
+      },
+      {
+        "id": "generative_ai_art_galactic_generative_ai_art_and_content_cloud",
+        "name": "Galactic Generative KI Art & Content Cloud-Lösung",
+        "sub_node_id": "generative_ai_art",
+        "era_id": "era-08"
+      },
+      {
+        "id": "generative_ai_art_aigenerated_films_and_games_console",
+        "name": "AI-Generated Films And Games Konsole",
+        "sub_node_id": "generative_ai_art",
+        "era_id": "era-01"
+      },
+      {
+        "id": "digital_journalism_post_biological_digital_journalism_console",
+        "name": "Post-Biological Digital Journalism Konsole",
+        "sub_node_id": "digital_journalism",
+        "era_id": "era-07"
+      },
+      {
+        "id": "digital_journalism_aigenerated_films_and_games_infrastructure",
+        "name": "AI-Generated Films And Games Infrastruktur",
+        "sub_node_id": "digital_journalism",
+        "era_id": "era-01"
+      },
+      {
+        "id": "podcasting_audio_interstellar_podcasting_and_audio_content_lab",
+        "name": "Interstellar Podcasting & Audio Content Innovationslabor",
+        "sub_node_id": "podcasting_audio",
+        "era_id": "era-06"
+      },
+      {
+        "id": "podcasting_audio_reputation_economies_traditional_cloud",
+        "name": "Reputation Economies Traditional Cloud-Lösung",
+        "sub_node_id": "podcasting_audio",
+        "era_id": "era-06"
+      },
+      {
+        "id": "cinema_film_ai_cinema_and_film_production_network",
+        "name": "KI Cinema & Film Production Netzwerk",
+        "sub_node_id": "cinema_film",
+        "era_id": "era-01"
+      },
+      {
+        "id": "cinema_film_programmable_matter_industrial_production_studio",
+        "name": "Programmable Matter Industrial Production Entwicklungsstudio",
+        "sub_node_id": "cinema_film",
+        "era_id": "era-03"
+      },
+      {
+        "id": "music_industry_post_biological_music_industry_tech_operating_system",
+        "name": "Post-Biological Music Industry Tech Betriebssystem",
+        "sub_node_id": "music_industry",
+        "era_id": "era-07"
+      },
+      {
+        "id": "music_industry_programmable_smart_materials_marketplace",
+        "name": "Programmable Smart Materials Marktplatz",
+        "sub_node_id": "music_industry",
+        "era_id": "era-01"
+      },
+      {
+        "id": "copyright_nft_post_biological_copyright_and_digital_ownership_service",
+        "name": "Post-Biological Copyright & Digital Ownership Service-Dienst",
+        "sub_node_id": "copyright_nft",
+        "era_id": "era-07"
+      },
+      {
+        "id": "copyright_nft_ownership_evolves_shared_access_operating_system",
+        "name": "Ownership Evolves Shared Access Betriebssystem",
+        "sub_node_id": "copyright_nft",
+        "era_id": "era-07"
+      },
+      {
+        "id": "live_events_post_biological_live_events_and_concerts_network",
+        "name": "Post-Biological Live Events & Concerts Netzwerk",
+        "sub_node_id": "live_events",
+        "era_id": "era-07"
+      },
+      {
+        "id": "live_events_ai_crop_protection_studio",
+        "name": "KI-Pflanzenschutz Entwicklungsstudio",
+        "sub_node_id": "live_events",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "science_research",
+    "business_opportunities": [
+      {
+        "id": "quantum_computing_post_scarcity_quantum_computing_cloud",
+        "name": "Post-Knappheit Quantum Computing Cloud-Lösung",
+        "sub_node_id": "quantum_computing",
+        "era_id": "era-03"
+      },
+      {
+        "id": "quantum_computing_practical_quantum_computing_solves_console",
+        "name": "Practical Quantum Computing Solves Konsole",
+        "sub_node_id": "quantum_computing",
+        "era_id": "era-05"
+      },
+      {
+        "id": "biotechnology_ai_biotechnology_service",
+        "name": "KI Biotechnology Service-Dienst",
+        "sub_node_id": "biotechnology",
+        "era_id": "era-01"
+      },
+      {
+        "id": "biotechnology_artificial_womb_research_operating_system",
+        "name": "Artificial Womb Research Betriebssystem",
+        "sub_node_id": "biotechnology",
+        "era_id": "era-02"
+      },
+      {
+        "id": "artificial_intelligence_multi_world_artificial_intelligence_service",
+        "name": "Multi-Welt Artificial Intelligence Service-Dienst",
+        "sub_node_id": "artificial_intelligence",
+        "era_id": "era-05"
+      },
+      {
+        "id": "artificial_intelligence_ai_generated_medicines_operating_system",
+        "name": "AI-Generated Medicines Betriebssystem",
+        "sub_node_id": "artificial_intelligence",
+        "era_id": "era-01"
+      },
+      {
+        "id": "nanotechnology_multi_world_nanotechnology_operating_system",
+        "name": "Multi-Welt Nanotechnology Betriebssystem",
+        "sub_node_id": "nanotechnology",
+        "era_id": "era-05"
+      },
+      {
+        "id": "nanotechnology_artificial_wormhole_research_produces_marketplace",
+        "name": "Artificial Wormhole Research Produces Marktplatz",
+        "sub_node_id": "nanotechnology",
+        "era_id": "era-06"
+      },
+      {
+        "id": "neuroscience_multi_world_neuroscience_studio",
+        "name": "Multi-Welt Neuroscience Entwicklungsstudio",
+        "sub_node_id": "neuroscience",
+        "era_id": "era-05"
+      },
+      {
+        "id": "neuroscience_artificial_wormhole_research_produces_service",
+        "name": "Artificial Wormhole Research Produces Service-Dienst",
+        "sub_node_id": "neuroscience",
+        "era_id": "era-06"
+      },
+      {
+        "id": "particle_physics_multi_world_particle_physics_lab",
+        "name": "Multi-Welt Particle Physics Innovationslabor",
+        "sub_node_id": "particle_physics",
+        "era_id": "era-05"
+      },
+      {
+        "id": "particle_physics_artificial_wormhole_research_produces_cloud",
+        "name": "Artificial Wormhole Research Produces Cloud-Lösung",
+        "sub_node_id": "particle_physics",
+        "era_id": "era-06"
+      },
+      {
+        "id": "climate_science_multi_world_climate_science_marketplace",
+        "name": "Multi-Welt Climate Science Marktplatz",
+        "sub_node_id": "climate_science",
+        "era_id": "era-05"
+      },
+      {
+        "id": "climate_science_artificial_wormhole_research_produces_lab",
+        "name": "Artificial Wormhole Research Produces Innovationslabor",
+        "sub_node_id": "climate_science",
+        "era_id": "era-06"
+      },
+      {
+        "id": "genomics_multi_world_genomics_console",
+        "name": "Multi-Welt Genomics Konsole",
+        "sub_node_id": "genomics",
+        "era_id": "era-05"
+      },
+      {
+        "id": "genomics_artificial_wormhole_research_produces_infrastructure",
+        "name": "Artificial Wormhole Research Produces Infrastruktur",
+        "sub_node_id": "genomics",
+        "era_id": "era-06"
+      },
+      {
+        "id": "materials_discovery_multi_world_materials_discovery_infrastructure",
+        "name": "Multi-Welt Materials Discovery Infrastruktur",
+        "sub_node_id": "materials_discovery",
+        "era_id": "era-05"
+      },
+      {
+        "id": "materials_discovery_artificial_wormhole_research_produces_platform",
+        "name": "Artificial Wormhole Research Produces Plattform",
+        "sub_node_id": "materials_discovery",
+        "era_id": "era-06"
+      },
+      {
+        "id": "academic_publishing_multi_world_open_science_and_academic_publishing_infrastructure",
+        "name": "Multi-Welt Open Science & Academic Publishing Infrastruktur",
+        "sub_node_id": "academic_publishing",
+        "era_id": "era-05"
+      },
+      {
+        "id": "academic_publishing_artificial_wormhole_research_produces_platform",
+        "name": "Artificial Wormhole Research Produces Plattform",
+        "sub_node_id": "academic_publishing",
+        "era_id": "era-06"
+      }
+    ]
+  },
+  {
+    "node_id": "space_civilization",
+    "business_opportunities": [
+      {
+        "id": "space_exploration_ai_space_exploration_cloud",
+        "name": "KI Space Exploration Cloud-Lösung",
+        "sub_node_id": "space_exploration",
+        "era_id": "era-01"
+      },
+      {
+        "id": "space_exploration_commercial_orbital_hotel_opens_console",
+        "name": "Commercial Orbital Hotel Opens Konsole",
+        "sub_node_id": "space_exploration",
+        "era_id": "era-01"
+      },
+      {
+        "id": "satellite_deployment_ai_satellite_deployment_platform",
+        "name": "KI Satellite Deployment Plattform",
+        "sub_node_id": "satellite_deployment",
+        "era_id": "era-01"
+      },
+      {
+        "id": "satellite_deployment_commercial_orbital_hotel_opens_network",
+        "name": "Commercial Orbital Hotel Opens Netzwerk",
+        "sub_node_id": "satellite_deployment",
+        "era_id": "era-01"
+      },
+      {
+        "id": "mars_colonization_ai_mars_colonization_cloud",
+        "name": "KI Mars Colonization Cloud-Lösung",
+        "sub_node_id": "mars_colonization",
+        "era_id": "era-01"
+      },
+      {
+        "id": "mars_colonization_commercial_orbital_hotel_opens_console",
+        "name": "Commercial Orbital Hotel Opens Konsole",
+        "sub_node_id": "mars_colonization",
+        "era_id": "era-01"
+      },
+      {
+        "id": "asteroid_mining_post_scarcity_asteroid_mining_marketplace",
+        "name": "Post-Knappheit Asteroid Mining Marktplatz",
+        "sub_node_id": "asteroid_mining",
+        "era_id": "era-03"
+      },
+      {
+        "id": "asteroid_mining_asteroid_mining_a_major_lab",
+        "name": "Asteroid Mining a Major Innovationslabor",
+        "sub_node_id": "asteroid_mining",
+        "era_id": "era-04"
+      },
+      {
+        "id": "space_tourism_autonomous_space_tourism_service",
+        "name": "Autonome Space Tourism Service-Dienst",
+        "sub_node_id": "space_tourism",
+        "era_id": "era-02"
+      },
+      {
+        "id": "space_tourism_autonomous_lunar_construction_site_operating_system",
+        "name": "Autonome Lunar Bau Site Betriebssystem",
+        "sub_node_id": "space_tourism",
+        "era_id": "era-01"
+      },
+      {
+        "id": "orbital_habitats_post_scarcity_orbital_habitats_lab",
+        "name": "Post-Knappheit Orbital Habitats Innovationslabor",
+        "sub_node_id": "orbital_habitats",
+        "era_id": "era-03"
+      },
+      {
+        "id": "orbital_habitats_asteroid_mining_a_major_cloud",
+        "name": "Asteroid Mining a Major Cloud-Lösung",
+        "sub_node_id": "orbital_habitats",
+        "era_id": "era-04"
+      },
+      {
+        "id": "astrobiology_ai_astrobiology_studio",
+        "name": "KI Astrobiology Entwicklungsstudio",
+        "sub_node_id": "astrobiology",
+        "era_id": "era-01"
+      },
+      {
+        "id": "astrobiology_commercial_orbital_hotel_opens_service",
+        "name": "Commercial Orbital Hotel Opens Service-Dienst",
+        "sub_node_id": "astrobiology",
+        "era_id": "era-01"
+      },
+      {
+        "id": "space_law_ai_space_law_and_governance_infrastructure",
+        "name": "KI Space Law & Governance Infrastruktur",
+        "sub_node_id": "space_law",
+        "era_id": "era-01"
+      },
+      {
+        "id": "space_law_commercial_orbital_hotel_opens_platform",
+        "name": "Commercial Orbital Hotel Opens Plattform",
+        "sub_node_id": "space_law",
+        "era_id": "era-01"
+      },
+      {
+        "id": "propulsion_systems_ai_advanced_propulsion_systems_console",
+        "name": "KI Advanced Propulsion Systems Konsole",
+        "sub_node_id": "propulsion_systems",
+        "era_id": "era-01"
+      },
+      {
+        "id": "propulsion_systems_commercial_orbital_hotel_opens_infrastructure",
+        "name": "Commercial Orbital Hotel Opens Infrastruktur",
+        "sub_node_id": "propulsion_systems",
+        "era_id": "era-01"
+      },
+      {
+        "id": "space_debris_ai_space_debris_mitigation_studio",
+        "name": "KI Space Debris Mitigation Entwicklungsstudio",
+        "sub_node_id": "space_debris",
+        "era_id": "era-01"
+      },
+      {
+        "id": "space_debris_commercial_orbital_hotel_opens_service",
+        "name": "Commercial Orbital Hotel Opens Service-Dienst",
+        "sub_node_id": "space_debris",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "culture_lifestyle",
+    "business_opportunities": [
+      {
+        "id": "fashion_design_ai_fashion_and_design_operating_system",
+        "name": "KI Fashion & Design Betriebssystem",
+        "sub_node_id": "fashion_design",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fashion_design_ai_crop_protection_marketplace",
+        "name": "KI-Pflanzenschutz Marktplatz",
+        "sub_node_id": "fashion_design",
+        "era_id": "era-01"
+      },
+      {
+        "id": "digital_nomadism_ai_digital_nomadism_lab",
+        "name": "KI Digital Nomadism Innovationslabor",
+        "sub_node_id": "digital_nomadism",
+        "era_id": "era-01"
+      },
+      {
+        "id": "digital_nomadism_seamless_translation_cloud",
+        "name": "nahtlose Übersetzung Cloud-Lösung",
+        "sub_node_id": "digital_nomadism",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fitness_wellness_ai_fitness_and_wellness_lab",
+        "name": "KI Fitness & Wellness Innovationslabor",
+        "sub_node_id": "fitness_wellness",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fitness_wellness_ai_crop_protection_cloud",
+        "name": "KI-Pflanzenschutz Cloud-Lösung",
+        "sub_node_id": "fitness_wellness",
+        "era_id": "era-01"
+      },
+      {
+        "id": "art_museums_ai_art_and_museums_network",
+        "name": "KI Art & Museums Netzwerk",
+        "sub_node_id": "art_museums",
+        "era_id": "era-01"
+      },
+      {
+        "id": "art_museums_ai_crop_protection_studio",
+        "name": "KI-Pflanzenschutz Entwicklungsstudio",
+        "sub_node_id": "art_museums",
+        "era_id": "era-01"
+      },
+      {
+        "id": "gastronomy_ai_gastronomy_and_food_culture_platform",
+        "name": "KI Gastronomy & Food Culture Plattform",
+        "sub_node_id": "gastronomy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "gastronomy_ai_crop_protection_network",
+        "name": "KI-Pflanzenschutz Netzwerk",
+        "sub_node_id": "gastronomy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "mindfulness_ai_mindfulness_and_personal_growth_network",
+        "name": "KI Mindfulness & Personal Growth Netzwerk",
+        "sub_node_id": "mindfulness",
+        "era_id": "era-01"
+      },
+      {
+        "id": "mindfulness_ai_crop_protection_studio",
+        "name": "KI-Pflanzenschutz Entwicklungsstudio",
+        "sub_node_id": "mindfulness",
+        "era_id": "era-01"
+      },
+      {
+        "id": "subcultures_ai_digital_subcultures_network",
+        "name": "KI Digital Subcultures Netzwerk",
+        "sub_node_id": "subcultures",
+        "era_id": "era-01"
+      },
+      {
+        "id": "subcultures_seamless_translation_studio",
+        "name": "nahtlose Übersetzung Entwicklungsstudio",
+        "sub_node_id": "subcultures",
+        "era_id": "era-01"
+      },
+      {
+        "id": "heritage_preservation_ai_heritage_preservation_network",
+        "name": "KI Heritage Preservation Netzwerk",
+        "sub_node_id": "heritage_preservation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "heritage_preservation_ai_crop_protection_studio",
+        "name": "KI-Pflanzenschutz Entwicklungsstudio",
+        "sub_node_id": "heritage_preservation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "hobbies_leisure_ai_hobbies_and_leisure_marketplace",
+        "name": "KI Hobbies & Leisure Marktplatz",
+        "sub_node_id": "hobbies_leisure",
+        "era_id": "era-01"
+      },
+      {
+        "id": "hobbies_leisure_ai_crop_protection_lab",
+        "name": "KI-Pflanzenschutz Innovationslabor",
+        "sub_node_id": "hobbies_leisure",
+        "era_id": "era-01"
+      },
+      {
+        "id": "social_trends_ai_social_trends_and_dynamics_service",
+        "name": "KI Social Trends & Dynamics Service-Dienst",
+        "sub_node_id": "social_trends",
+        "era_id": "era-01"
+      },
+      {
+        "id": "social_trends_ai_crop_protection_operating_system",
+        "name": "KI-Pflanzenschutz Betriebssystem",
+        "sub_node_id": "social_trends",
+        "era_id": "era-01"
+      }
+    ]
+  }
+]

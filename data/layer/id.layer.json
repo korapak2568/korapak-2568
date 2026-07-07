@@ -1,0 +1,314 @@
+{
+  "layers": [
+    {
+      "id": "human_needs",
+      "name": "Kebutuhan Manusia"
+    },
+    {
+      "id": "industries",
+      "name": "Industri"
+    },
+    {
+      "id": "problems",
+      "name": "Masalah"
+    },
+    {
+      "id": "future-solutions",
+      "name": "Solusi Masa Depan"
+    },
+    {
+      "id": "future_civilization",
+      "name": "Peradaban Masa Depan"
+    },
+    {
+      "id": "business-opportunities",
+      "name": "Peluang Bisnis"
+    }
+  ],
+  "industries": {
+    "id": "industries",
+    "name": "Industri",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Industri | Chorn Planet",
+          "description": "Jelajahi node industri, masalah saat ini, sub-node, dan tautan solusi roadmap masa depan di Chorn Planet Civilization Graph."
+        },
+        "node": {
+          "title_template": "Masalah Industri {nodeName} | Chorn Planet",
+          "description_template": "Jelajahi masalah saat ini, sub-node, dan jalur solusi masa depan untuk {nodeName}.",
+          "fallback_title": "Industri | Chorn Planet",
+          "fallback_description": "Jelajahi node industri di Chorn Planet Civilization Graph."
+        },
+        "detail": {
+          "fallback_title": "Masalah Industri | Chorn Planet",
+          "fallback_description": "Jelajahi masalah dan solusi peradaban masa depan.",
+          "title_template": "{problemName} | {subNodeName} | Chorn Planet",
+          "description_template": "{problemName} memengaruhi {nodeName} dan {subNodeName}. Jelajahi solusi roadmap masa depan, peluang bisnis, dan tautan civilization graph terkait."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Civilization Graph",
+          "title": "Industri",
+          "description": "Indeks premium node industri, tantangan saat ini, dan jalur solusi masa depan yang dihasilkan dari manifest Civilization Graph kanonis."
+        },
+        "stats": {
+          "industry_nodes": "Node industri",
+          "linked_problem_pages": "Halaman masalah tertaut",
+          "problem_catalog": "Katalog masalah"
+        },
+        "directory_section": {
+          "eyebrow": "Peta Industri",
+          "title": "Jelajahi masalah saat ini berdasarkan node industri",
+          "card_problem_count_template": "{count} halaman masalah tertaut",
+          "card_description_template": "{subNodeCount} sub-node dan {problemCount} tantangan saat ini terhubung ke Civilization Graph."
+        }
+      },
+      "node": {
+        "hero": {
+          "eyebrow": "Node Industri",
+          "description_template": "Jelajahi {nodeName} melalui tantangan saat ini, sub-node, dan tautan solusi roadmap masa depan yang dihasilkan dari Civilization Graph."
+        },
+        "stats": {
+          "sub_nodes": "Sub-node",
+          "linked_pages": "Halaman tertaut",
+          "problem_catalog": "Katalog masalah"
+        },
+        "problem_section": {
+          "eyebrow": "Masalah Saat Ini",
+          "title": "Halaman masalah berbasis manifest"
+        },
+        "sub_nodes_section": {
+          "eyebrow": "Sub Node",
+          "title": "Area operasional"
+        }
+      },
+      "detail": {
+        "hero": {
+          "eyebrow": "Masalah Industri",
+          "description_template": "{problemName} adalah tantangan saat ini di dalam {nodeName}, terutama di sekitar {subNodeName}. Civilization Graph menghubungkan masalah ini dengan solusi roadmap masa depan, peluang bisnis, dan jalur pengetahuan terkait."
+        },
+        "overview": {
+          "eyebrow": "Masalah Saat Ini",
+          "description": "Halaman ini dihasilkan dari manifest CGD kanonis dan menggunakan hubungan masalah, node, sub-node, solusi, dan roadmap sebagai sumber kebenaran."
+        },
+        "why_it_matters": {
+          "eyebrow": "Mengapa Ini Penting",
+          "title_template": "Titik Tekanan {subNodeName}",
+          "description_template": "Menyelesaikan tantangan ini dapat membuka layanan yang lebih baik, infrastruktur yang lebih kuat, dan model operasi baru di seluruh {nodeName}."
+        },
+        "roadmap_section": {
+          "eyebrow": "Solusi Roadmap Masa Depan",
+          "title": "Item roadmap yang terhubung ke masalah ini"
+        },
+        "business_section": {
+          "eyebrow": "Peluang Bisnis",
+          "title": "Jalur komersial"
+        },
+        "technology_section": {
+          "eyebrow": "Teknologi Terkait",
+          "title": "Domain teknologi"
+        },
+        "related_problems_section": {
+          "eyebrow": "Masalah Terkait",
+          "title_template": "Tantangan lain di {nodeName}"
+        },
+        "related_industries_section": {
+          "eyebrow": "Industri Terkait",
+          "title": "Node berdekatan"
+        },
+        "internal_links_section": {
+          "eyebrow": "Tautan Internal",
+          "title": "Navigasi grafik"
+        }
+      }
+    }
+  },
+  "business_opportunities": {
+    "id": "business-opportunities",
+    "name": "Peluang Bisnis",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Peluang Bisnis | Chorn Planet",
+          "description": "Jelajahi peluang bisnis masa depan yang terhubung ke industri, sub-node, dan era roadmap peradaban masa depan."
+        },
+        "node": {
+          "title_template": "Peluang Bisnis {nodeName} | Chorn Planet",
+          "description_template": "Jelajahi peluang bisnis masa depan untuk {nodeName} di seluruh sub-node dan era roadmap.",
+          "fallback_title": "Peluang Bisnis | Chorn Planet",
+          "fallback_description": "Jelajahi peluang bisnis masa depan yang terhubung ke Civilization Graph."
+        },
+        "detail": {
+          "fallback_title": "Peluang Bisnis | Chorn Planet",
+          "fallback_description": "Jelajahi peluang bisnis peradaban masa depan.",
+          "title_template": "{opportunityName} | {nodeName} | Chorn Planet",
+          "description_template": "{opportunityName} menghubungkan {nodeName}, {subNodeName}, dan roadmap peradaban masa depan melalui Chorn Planet Civilization Graph."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Civilization Graph",
+          "title": "Peluang Bisnis",
+          "description": "Peta strategis ide bisnis berorientasi masa depan, terhubung ke industri, sub-node, dan era roadmap di dalam Chorn Planet Civilization Graph."
+        },
+        "directory_section": {
+          "eyebrow": "Peta Peluang",
+          "title": "Jelajahi peluang bisnis masa depan berdasarkan node industri",
+          "card_description_template": "{opportunityCount} ide komersial di {subNodeCount} sub-node dan {eraCount} era roadmap."
+        }
+      },
+      "node": {
+        "hero": {
+          "eyebrow": "Node Bisnis",
+          "description_template": "Jelajahi peluang bisnis di {nodeName}, dikelompokkan berdasarkan sub-node dan terhubung ke era roadmap."
+        },
+        "stats": {
+          "opportunities": "Peluang",
+          "sub_nodes": "Sub-node",
+          "roadmap_eras": "Era roadmap"
+        },
+        "opportunity_section": {
+          "eyebrow": "Peluang Bisnis",
+          "title": "Halaman peluang berbasis manifest"
+        },
+        "sub_nodes_section": {
+          "eyebrow": "Sub Node",
+          "title": "Area peluang"
+        }
+      },
+      "detail": {
+        "hero": {
+          "eyebrow": "Peluang Bisnis",
+          "description_template": "{opportunityName} adalah peluang berorientasi masa depan di {nodeName}, berfokus pada {subNodeName}. Halaman ini menghubungkan peluang tersebut ke era roadmap, masalah terkait, teknologi, dan bisnis berdekatan."
+        },
+        "overview": {
+          "eyebrow": "Ringkasan Bisnis",
+          "description_template": "Peluang ini berada di {subNodeName} dan ditautkan ke {eraId}, menjadikannya bagian dari roadmap Peradaban Masa Depan yang lebih luas."
+        },
+        "related_industry": {
+          "eyebrow": "Industri Terkait",
+          "description_template": "{nodeName} berisi {subNodeName} dan memberikan konteks pasar, operasional, dan sosial untuk peluang ini."
+        },
+        "roadmap_section": {
+          "eyebrow": "Peluang Roadmap Masa Depan",
+          "title": "Item roadmap dari era yang terhubung"
+        },
+        "related_problems_section": {
+          "eyebrow": "Masalah Terkait",
+          "title": "Tantangan saat ini di sekitar",
+          "empty_text": "Lebih banyak tautan masalah akan muncul saat grafik berkembang."
+        },
+        "technology_section": {
+          "eyebrow": "Teknologi Terkait",
+          "title": "Domain teknologi"
+        },
+        "related_business_section": {
+          "eyebrow": "Peluang Bisnis Terkait",
+          "title": "Jalur bisnis berdekatan"
+        },
+        "internal_links_section": {
+          "eyebrow": "Tautan Internal",
+          "title": "Navigasi grafik"
+        }
+      }
+    }
+  },
+  "future-solutions": {
+    "id": "future-solutions",
+    "name": "Solusi Masa Depan",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Solusi Masa Depan | Chorn Planet",
+          "description": "Jelajahi lensa solusi masa depan yang menghubungkan milestone roadmap dengan masalah saat ini, industri, peluang bisnis, kesiapan, dan dampak manusia."
+        },
+        "era": {
+          "title_template": "Solusi Masa Depan {eraTitle} | Chorn Planet",
+          "description_template": "Jelajahi {count} lensa solusi masa depan dari {eraTitle}, menghubungkan milestone roadmap dengan masalah saat ini, industri, dan peluang bisnis.",
+          "fallback_title": "Era Solusi Masa Depan | Chorn Planet",
+          "fallback_description": "Jelajahi lensa solusi masa depan berdasarkan era roadmap."
+        },
+        "detail": {
+          "fallback_title": "Solusi Masa Depan | Chorn Planet",
+          "fallback_description": "Jelajahi lensa solusi masa depan dari Civilization Graph."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Solusi Masa Depan",
+          "title": "Lensa solusi untuk roadmap Peradaban Masa Depan",
+          "description": "Jelajahi setiap milestone masa depan melalui masalah yang diselesaikannya, industri yang disentuhnya, peluang bisnis yang diciptakannya, dan kesiapan manusia yang dimintanya."
+        },
+        "directory_section": {
+          "eyebrow": "Peta Solusi",
+          "title": "Jelajahi solusi masa depan berdasarkan era roadmap",
+          "card_description_template": "{timeframe}. Terhubung di {industryCount} node industri dan tingkat kesiapan {readinessLevels}."
+        }
+      },
+      "era": {
+        "hero": {
+          "eyebrow": "Era Solusi Masa Depan",
+          "description_template": "Tampilan terfokus dari {count} lensa solusi dari {timeframe}, menghubungkan milestone roadmap dengan masalah saat ini, dampak industri, dan peluang bisnis."
+        },
+        "directory_section": {
+          "eyebrow": "Solusi Era",
+          "title": "Lensa pemecahan masalah"
+        }
+      },
+      "detail": {
+        "breadcrumbs": {
+          "future_civilization": "Peradaban Masa Depan",
+          "future_solutions": "Solusi Masa Depan"
+        },
+        "hero": {
+          "eyebrow": "Solusi Masa Depan",
+          "view_era_solutions": "Lihat solusi era",
+          "canonical_roadmap_item": "Item roadmap kanonis"
+        },
+        "solution_lens": {
+          "problem_statement": {
+            "eyebrow": "Pernyataan Masalah",
+            "title": "Apa yang diselesaikan"
+          },
+          "future_solution": {
+            "eyebrow": "Solusi Masa Depan",
+            "title": "Cara kerjanya sebagai solusi"
+          },
+          "why_it_matters": {
+            "eyebrow": "Mengapa Ini Penting",
+            "title": "Nilai manusia"
+          }
+        },
+        "readiness": {
+          "eyebrow": "Kesiapan"
+        },
+        "human_impact": {
+          "eyebrow": "Dampak Manusia",
+          "title": "Individu, bisnis, masyarakat"
+        },
+        "current_problems": {
+          "eyebrow": "Masalah Saat Ini yang Ditangani",
+          "title": "Tautan masalah"
+        },
+        "industries_impacted": {
+          "eyebrow": "Industri yang Terdampak",
+          "title": "Di mana solusinya mendarat"
+        },
+        "business_opportunities": {
+          "eyebrow": "Peluang Bisnis",
+          "title": "Jalur komersial"
+        },
+        "risks": {
+          "eyebrow": "Risiko dan Tantangan",
+          "title": "Apa yang harus dikelola"
+        },
+        "related": {
+          "eyebrow": "Lensa Solusi Terkait",
+          "title": "Lanjutkan melalui grafik"
+        }
+      }
+    }
+  }
+}

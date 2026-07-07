@@ -127,5 +127,30 @@
         "ariaLabel": "X の Chorn Planet"
       }
     ]
+  },
+  "platform": {
+    "title": "プラットフォーム",
+    "items": [
+      {
+        "label": "未来文明",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "未来ソリューション",
+        "link": "/future-solutions/"
+      },
+      {
+        "label": "ビジネス機会",
+        "link": "/business-opportunities/"
+      },
+      {
+        "label": "産業",
+        "link": "/industries/"
+      },
+      {
+        "label": "テクノロジー",
+        "link": "/technology/"
+      }
+    ]
   }
 }

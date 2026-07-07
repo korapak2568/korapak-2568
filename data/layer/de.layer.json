@@ -1,0 +1,314 @@
+{
+  "layers": [
+    {
+      "id": "human_needs",
+      "name": "Menschliche Bedürfnisse"
+    },
+    {
+      "id": "industries",
+      "name": "Branchen"
+    },
+    {
+      "id": "problems",
+      "name": "Probleme"
+    },
+    {
+      "id": "future-solutions",
+      "name": "Zukunftslösungen"
+    },
+    {
+      "id": "future_civilization",
+      "name": "Zukünftige Zivilisation"
+    },
+    {
+      "id": "business-opportunities",
+      "name": "Geschäftschancen"
+    }
+  ],
+  "industries": {
+    "id": "industries",
+    "name": "Branchen",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Branchen | Chorn Planet",
+          "description": "Durchsuchen Sie Branchenknoten, aktuelle Probleme, Subknoten und Links zu Zukunftslösungen im Chorn Planet Civilization Graph."
+        },
+        "node": {
+          "title_template": "Branchenprobleme von {nodeName} | Chorn Planet",
+          "description_template": "Durchsuchen Sie aktuelle Probleme, Subknoten und zukünftige Lösungspfade für {nodeName}.",
+          "fallback_title": "Branchen | Chorn Planet",
+          "fallback_description": "Durchsuchen Sie Branchenknoten im Chorn Planet Civilization Graph."
+        },
+        "detail": {
+          "fallback_title": "Branchenproblem | Chorn Planet",
+          "fallback_description": "Entdecken Sie Probleme und Lösungen der zukünftigen Zivilisation.",
+          "title_template": "{problemName} | {subNodeName} | Chorn Planet",
+          "description_template": "{problemName} betrifft {nodeName} und {subNodeName}. Entdecken Sie Zukunfts-Roadmap-Lösungen, Geschäftschancen und verwandte Links im Civilization Graph."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Civilization Graph",
+          "title": "Branchen",
+          "description": "Ein Premium-Index von Branchenknoten, aktuellen Herausforderungen und Zukunftslösungspfaden, generiert aus dem kanonischen Civilization-Graph-Manifest."
+        },
+        "stats": {
+          "industry_nodes": "Branchenknoten",
+          "linked_problem_pages": "Verknüpfte Problemseiten",
+          "problem_catalog": "Problemkatalog"
+        },
+        "directory_section": {
+          "eyebrow": "Branchenkarte",
+          "title": "Aktuelle Probleme nach Branchenknoten durchsuchen",
+          "card_problem_count_template": "{count} verknüpfte Problemseiten",
+          "card_description_template": "{subNodeCount} Subknoten und {problemCount} aktuelle Herausforderungen sind mit dem Civilization Graph verbunden."
+        }
+      },
+      "node": {
+        "hero": {
+          "eyebrow": "Branchenknoten",
+          "description_template": "Entdecken Sie {nodeName} über aktuelle Herausforderungen, Subknoten und Zukunfts-Roadmap-Lösungslinks, die aus dem Civilization Graph generiert wurden."
+        },
+        "stats": {
+          "sub_nodes": "Subknoten",
+          "linked_pages": "Verknüpfte Seiten",
+          "problem_catalog": "Problemkatalog"
+        },
+        "problem_section": {
+          "eyebrow": "Aktuelle Probleme",
+          "title": "Manifestbasierte Problemseiten"
+        },
+        "sub_nodes_section": {
+          "eyebrow": "Subknoten",
+          "title": "Operative Bereiche"
+        }
+      },
+      "detail": {
+        "hero": {
+          "eyebrow": "Branchenproblem",
+          "description_template": "{problemName} ist eine aktuelle Herausforderung innerhalb von {nodeName}, insbesondere rund um {subNodeName}. Der Civilization Graph verbindet dieses Problem mit Zukunfts-Roadmap-Lösungen, Geschäftschancen und verwandten Wissenspfaden."
+        },
+        "overview": {
+          "eyebrow": "Aktuelles Problem",
+          "description": "Diese Seite wird aus dem kanonischen CGD-Manifest generiert und nutzt die Beziehungen zwischen Problem, Knoten, Subknoten, Lösung und Roadmap als Quelle der Wahrheit."
+        },
+        "why_it_matters": {
+          "eyebrow": "Warum es wichtig ist",
+          "title_template": "Druckpunkt {subNodeName}",
+          "description_template": "Die Lösung dieser Herausforderung kann bessere Services, stärkere Infrastruktur und neue Betriebsmodelle in {nodeName} freisetzen."
+        },
+        "roadmap_section": {
+          "eyebrow": "Zukunfts-Roadmap-Lösungen",
+          "title": "Roadmap-Elemente, die mit diesem Problem verbunden sind"
+        },
+        "business_section": {
+          "eyebrow": "Geschäftschancen",
+          "title": "Kommerzielle Pfade"
+        },
+        "technology_section": {
+          "eyebrow": "Verwandte Technologien",
+          "title": "Technologiedomänen"
+        },
+        "related_problems_section": {
+          "eyebrow": "Verwandte Probleme",
+          "title_template": "Weitere Herausforderungen in {nodeName}"
+        },
+        "related_industries_section": {
+          "eyebrow": "Verwandte Branchen",
+          "title": "Angrenzende Knoten"
+        },
+        "internal_links_section": {
+          "eyebrow": "Interne Links",
+          "title": "Graph-Navigation"
+        }
+      }
+    }
+  },
+  "business_opportunities": {
+    "id": "business-opportunities",
+    "name": "Geschäftschancen",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Geschäftschancen | Chorn Planet",
+          "description": "Durchsuchen Sie zukünftige Geschäftschancen, die mit Branchen, Subknoten und Roadmap-Ären der zukünftigen Zivilisation verbunden sind."
+        },
+        "node": {
+          "title_template": "Geschäftschancen für {nodeName} | Chorn Planet",
+          "description_template": "Durchsuchen Sie zukünftige Geschäftschancen für {nodeName} über Subknoten und Roadmap-Ären hinweg.",
+          "fallback_title": "Geschäftschancen | Chorn Planet",
+          "fallback_description": "Durchsuchen Sie zukünftige Geschäftschancen, die mit dem Civilization Graph verbunden sind."
+        },
+        "detail": {
+          "fallback_title": "Geschäftschance | Chorn Planet",
+          "fallback_description": "Entdecken Sie Geschäftschancen der zukünftigen Zivilisation.",
+          "title_template": "{opportunityName} | {nodeName} | Chorn Planet",
+          "description_template": "{opportunityName} verbindet {nodeName}, {subNodeName} und die Roadmap der zukünftigen Zivilisation über den Chorn Planet Civilization Graph."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Civilization Graph",
+          "title": "Geschäftschancen",
+          "description": "Eine strategische Karte zukunftsorientierter Geschäftsideen, verbunden mit Branchen, Subknoten und Roadmap-Ären im Chorn Planet Civilization Graph."
+        },
+        "directory_section": {
+          "eyebrow": "Chancenkarte",
+          "title": "Zukünftige Geschäftschancen nach Branchenknoten durchsuchen",
+          "card_description_template": "{opportunityCount} kommerzielle Ideen über {subNodeCount} Subknoten und {eraCount} Roadmap-Ären."
+        }
+      },
+      "node": {
+        "hero": {
+          "eyebrow": "Business-Knoten",
+          "description_template": "Entdecken Sie Geschäftschancen in {nodeName}, gruppiert nach Subknoten und verbunden mit der jeweiligen Roadmap-Ära."
+        },
+        "stats": {
+          "opportunities": "Chancen",
+          "sub_nodes": "Subknoten",
+          "roadmap_eras": "Roadmap-Ären"
+        },
+        "opportunity_section": {
+          "eyebrow": "Geschäftschancen",
+          "title": "Manifestbasierte Chancenseiten"
+        },
+        "sub_nodes_section": {
+          "eyebrow": "Subknoten",
+          "title": "Chancenbereiche"
+        }
+      },
+      "detail": {
+        "hero": {
+          "eyebrow": "Geschäftschance",
+          "description_template": "{opportunityName} ist eine zukunftsorientierte Chance in {nodeName} mit Fokus auf {subNodeName}. Diese Seite verbindet die Chance mit Roadmap-Ären, verwandten Problemen, Technologien und angrenzenden Geschäftsbereichen."
+        },
+        "overview": {
+          "eyebrow": "Geschäftsüberblick",
+          "description_template": "Die Chance gehört zu {subNodeName} und ist an {eraId} gebunden, wodurch sie Teil der umfassenderen Roadmap der zukünftigen Zivilisation wird."
+        },
+        "related_industry": {
+          "eyebrow": "Verwandte Branche",
+          "description_template": "{nodeName} enthält {subNodeName} und liefert den Markt-, Betriebs- und Sozialkontext für diese Chance."
+        },
+        "roadmap_section": {
+          "eyebrow": "Zukunfts-Roadmap-Chancen",
+          "title": "Roadmap-Elemente aus der verbundenen Ära"
+        },
+        "related_problems_section": {
+          "eyebrow": "Verwandte Probleme",
+          "title": "Naheliegende aktuelle Herausforderungen",
+          "empty_text": "Weitere Problemlinks erscheinen, wenn der Graph wächst."
+        },
+        "technology_section": {
+          "eyebrow": "Verwandte Technologien",
+          "title": "Technologiedomänen"
+        },
+        "related_business_section": {
+          "eyebrow": "Verwandte Geschäftschancen",
+          "title": "Angrenzende Geschäftspfade"
+        },
+        "internal_links_section": {
+          "eyebrow": "Interne Links",
+          "title": "Graph-Navigation"
+        }
+      }
+    }
+  },
+  "future-solutions": {
+    "id": "future-solutions",
+    "name": "Zukunftslösungen",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Zukunftslösungen | Chorn Planet",
+          "description": "Entdecken Sie Zukunftslösungs-Linsen, die Roadmap-Meilensteine mit aktuellen Problemen, Branchen, Geschäftschancen, Bereitschaft und menschlicher Wirkung verbinden."
+        },
+        "era": {
+          "title_template": "Zukunftslösungen für {eraTitle} | Chorn Planet",
+          "description_template": "Entdecken Sie {count} Zukunftslösungs-Linsen aus {eraTitle}, die Roadmap-Meilensteine mit aktuellen Problemen, Branchen und Geschäftschancen verbinden.",
+          "fallback_title": "Ära der Zukunftslösungen | Chorn Planet",
+          "fallback_description": "Entdecken Sie Zukunftslösungs-Linsen nach Roadmap-Ära."
+        },
+        "detail": {
+          "fallback_title": "Zukunftslösung | Chorn Planet",
+          "fallback_description": "Entdecken Sie Zukunftslösungs-Linsen aus dem Civilization Graph."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Zukunftslösungen",
+          "title": "Lösungs-Linsen für die Roadmap der zukünftigen Zivilisation",
+          "description": "Entdecken Sie jeden Zukunftsmeilenstein über die Probleme, die er löst, die Branchen, die er berührt, die Geschäftschancen, die er schafft, und die menschliche Vorbereitung, die er erfordert."
+        },
+        "directory_section": {
+          "eyebrow": "Lösungskarte",
+          "title": "Zukunftslösungen nach Roadmap-Ära durchsuchen",
+          "card_description_template": "{timeframe}. Verbunden über {industryCount} Branchenknoten und Bereitschaftsstufe {readinessLevels}."
+        }
+      },
+      "era": {
+        "hero": {
+          "eyebrow": "Ära der Zukunftslösungen",
+          "description_template": "Eine fokussierte Ansicht von {count} Lösungs-Linsen aus {timeframe}, die Roadmap-Meilensteine mit aktuellen Problemen, Branchenwirkung und Geschäftschancen verbinden."
+        },
+        "directory_section": {
+          "eyebrow": "Ära-Lösungen",
+          "title": "Problemlösungs-Linsen"
+        }
+      },
+      "detail": {
+        "breadcrumbs": {
+          "future_civilization": "Zukünftige Zivilisation",
+          "future_solutions": "Zukunftslösungen"
+        },
+        "hero": {
+          "eyebrow": "Zukunftslösung",
+          "view_era_solutions": "Ära-Lösungen ansehen",
+          "canonical_roadmap_item": "Kanonisches Roadmap-Element"
+        },
+        "solution_lens": {
+          "problem_statement": {
+            "eyebrow": "Problemstellung",
+            "title": "Was dies löst"
+          },
+          "future_solution": {
+            "eyebrow": "Zukunftslösung",
+            "title": "Wie es als Lösung funktioniert"
+          },
+          "why_it_matters": {
+            "eyebrow": "Warum es wichtig ist",
+            "title": "Menschlicher Wert"
+          }
+        },
+        "readiness": {
+          "eyebrow": "Bereitschaft"
+        },
+        "human_impact": {
+          "eyebrow": "Menschliche Wirkung",
+          "title": "Individuum, Unternehmen, Gesellschaft"
+        },
+        "current_problems": {
+          "eyebrow": "Adressierte aktuelle Probleme",
+          "title": "Problemlinks"
+        },
+        "industries_impacted": {
+          "eyebrow": "Betroffene Branchen",
+          "title": "Wo es landet"
+        },
+        "business_opportunities": {
+          "eyebrow": "Geschäftschancen",
+          "title": "Kommerzielle Pfade"
+        },
+        "risks": {
+          "eyebrow": "Risiken und Herausforderungen",
+          "title": "Was gemanagt werden muss"
+        },
+        "related": {
+          "eyebrow": "Verwandte Lösungs-Linsen",
+          "title": "Weiter durch den Graphen"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "era-01",
+    "slug": "near-future-breakthroughs",
+    "title": "Những đột phá trong tương lai gần"
+  },
+  {
+    "id": "era-02",
+    "slug": "early-space-civilization",
+    "title": "Văn minh không gian sơ khai"
+  },
+  {
+    "id": "era-03",
+    "slug": "post-scarcity-foundations",
+    "title": "Nền móng hậu khan hiếm"
+  },
+  {
+    "id": "era-04",
+    "slug": "planetary-transformation",
+    "title": "Chuyển đổi hành tinh"
+  },
+  {
+    "id": "era-05",
+    "slug": "advanced-human-civilization",
+    "title": "Nền văn minh nhân loại tiên tiến"
+  },
+  {
+    "id": "era-06",
+    "slug": "interstellar-expansion",
+    "title": "Mở rộng liên sao"
+  },
+  {
+    "id": "era-07",
+    "slug": "post-biological-civilization",
+    "title": "Nền văn minh hậu sinh học"
+  },
+  {
+    "id": "era-08",
+    "slug": "galactic-coexistence",
+    "title": "Chung sống thiên hà"
+  }
+]

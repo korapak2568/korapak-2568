@@ -36,64 +36,6 @@
       }
     ]
   },
-  "project": {
-    "title": "Projects",
-    "items": [
-      {
-        "label": "Luxury Project",
-        "link": "/luxury/"
-      },
-      {
-        "label": "Smart Food System",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "Graceful Style",
-        "link": "/style/"
-      },
-      {
-        "label": "Future Chiang Mai",
-        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
-      },
-      {
-        "label": "Chorn Planet",
-        "link": "/"
-      }
-    ]
-  },
-  "smartCity": {
-    "title": "Platform",
-    "items": [
-      {
-        "label": "Future Civilization",
-        "link": "/future-civilization/"
-      },
-      {
-        "label": "Luxury",
-        "link": "/luxury/"
-      },
-      {
-        "label": "Smart Food",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "Smart City",
-        "link": "/smart-city/"
-      },
-      {
-        "label": "Smart Mobility",
-        "link": "/smart-mobility/"
-      },
-      {
-        "label": "Story",
-        "link": "/story/"
-      },
-      {
-        "label": "Style",
-        "link": "/style/"
-      }
-    ]
-  },
   "connect": {
     "title": "Connect",
     "items": [
@@ -125,6 +67,60 @@
         "label": "X",
         "link": "https://x.com/chornplanet",
         "ariaLabel": "Chorn Planet on X"
+      }
+    ]
+  },
+  "platform": {
+    "title": "Platform",
+    "items": [
+      {
+        "label": "Future Civilization",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "Future Solutions",
+        "link": "/future-solutions/"
+      },
+      {
+        "label": "Business Opportunities",
+        "link": "/business-opportunities/"
+      },
+      {
+        "label": "Industries",
+        "link": "/industries/"
+      },
+      {
+        "label": "Technology",
+        "link": "/technology/"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Lifestyle Projects",
+    "items": [
+      {
+        "label": "Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Smart City",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "Smart Mobility",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "Story",
+        "link": "/story/"
+      },
+      {
+        "label": "Style",
+        "link": "/style/"
       }
     ]
   }

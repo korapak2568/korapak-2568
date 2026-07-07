@@ -1,0 +1,2502 @@
+[
+  {
+    "node_id": "housing_real_estate",
+    "business_opportunities": [
+      {
+        "id": "smart_home_ai_smart_home_platform",
+        "name": "AI スマート ホーム プラットフォーム",
+        "sub_node_id": "smart_home",
+        "era_id": "era-01"
+      },
+      {
+        "id": "smart_home_self_healing_buildings_construction_practice_network",
+        "name": "自己 修復 建物 建設 実践 ネットワーク",
+        "sub_node_id": "smart_home",
+        "era_id": "era-04"
+      },
+      {
+        "id": "apartment_ai_apartment_infrastructure",
+        "name": "AI アパート インフラ",
+        "sub_node_id": "apartment",
+        "era_id": "era-01"
+      },
+      {
+        "id": "apartment_self_healing_buildings_construction_practice_platform",
+        "name": "自己 修復 建物 建設 実践 プラットフォーム",
+        "sub_node_id": "apartment",
+        "era_id": "era-04"
+      },
+      {
+        "id": "condominium_ai_condominium_network",
+        "name": "AI マンション ネットワーク",
+        "sub_node_id": "condominium",
+        "era_id": "era-01"
+      },
+      {
+        "id": "condominium_self_healing_buildings_construction_practice_studio",
+        "name": "自己 修復 建物 建設 実践 スタジオ",
+        "sub_node_id": "condominium",
+        "era_id": "era-04"
+      },
+      {
+        "id": "luxury_villa_ai_luxury_villa_studio",
+        "name": "AI ラグジュアリー ヴィラ スタジオ",
+        "sub_node_id": "luxury_villa",
+        "era_id": "era-01"
+      },
+      {
+        "id": "luxury_villa_self_healing_buildings_construction_practice_service",
+        "name": "自己 修復 建物 建設 実践 サービス",
+        "sub_node_id": "luxury_villa",
+        "era_id": "era-04"
+      },
+      {
+        "id": "construction_ai_construction_studio",
+        "name": "AI 建設 スタジオ",
+        "sub_node_id": "construction",
+        "era_id": "era-01"
+      },
+      {
+        "id": "construction_self_healing_buildings_construction_practice_service",
+        "name": "自己 修復 建物 建設 実践 サービス",
+        "sub_node_id": "construction",
+        "era_id": "era-04"
+      },
+      {
+        "id": "property_management_ai_property_management_infrastructure",
+        "name": "AI 不動産 管理 インフラ",
+        "sub_node_id": "property_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "property_management_self_healing_buildings_construction_practice_platform",
+        "name": "自己 修復 建物 建設 実践 プラットフォーム",
+        "sub_node_id": "property_management",
+        "era_id": "era-04"
+      },
+      {
+        "id": "facility_management_ai_facility_management_infrastructure",
+        "name": "AI 施設 管理 インフラ",
+        "sub_node_id": "facility_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "facility_management_self_healing_buildings_construction_practice_platform",
+        "name": "自己 修復 建物 建設 実践 プラットフォーム",
+        "sub_node_id": "facility_management",
+        "era_id": "era-04"
+      },
+      {
+        "id": "architecture_ai_architecture_studio",
+        "name": "AI アーキテクチャ スタジオ",
+        "sub_node_id": "architecture",
+        "era_id": "era-01"
+      },
+      {
+        "id": "architecture_self_healing_buildings_construction_practice_service",
+        "name": "自己 修復 建物 建設 実践 サービス",
+        "sub_node_id": "architecture",
+        "era_id": "era-04"
+      },
+      {
+        "id": "interior_design_ai_interior_design_marketplace",
+        "name": "AI インテリア デザイン マーケットプレイス",
+        "sub_node_id": "interior_design",
+        "era_id": "era-01"
+      },
+      {
+        "id": "interior_design_self_healing_buildings_construction_practice_lab",
+        "name": "自己 修復 建物 建設 実践 ラボ",
+        "sub_node_id": "interior_design",
+        "era_id": "era-04"
+      },
+      {
+        "id": "urban_planning_ai_urban_planning_operating_system",
+        "name": "AI 都市 計画 オペレーティングシステム",
+        "sub_node_id": "urban_planning",
+        "era_id": "era-01"
+      },
+      {
+        "id": "urban_planning_self_healing_buildings_construction_practice_marketplace",
+        "name": "自己 修復 建物 建設 実践 マーケットプレイス",
+        "sub_node_id": "urban_planning",
+        "era_id": "era-04"
+      }
+    ]
+  },
+  {
+    "node_id": "healthcare",
+    "business_opportunities": [
+      {
+        "id": "hospital_autonomous_hospital_console",
+        "name": "自律型 病院 コンソール",
+        "sub_node_id": "hospital",
+        "era_id": "era-02"
+      },
+      {
+        "id": "hospital_ai_hospital_triage_infrastructure",
+        "name": "AI 病院 Triage インフラ",
+        "sub_node_id": "hospital",
+        "era_id": "era-01"
+      },
+      {
+        "id": "clinic_ai_clinic_lab",
+        "name": "AI クリニック ラボ",
+        "sub_node_id": "clinic",
+        "era_id": "era-01"
+      },
+      {
+        "id": "clinic_organ_regeneration_patches_cloud",
+        "name": "臓器 再生 パッチ クラウド",
+        "sub_node_id": "clinic",
+        "era_id": "era-01"
+      },
+      {
+        "id": "mental_health_ai_mental_health_service",
+        "name": "AI メンタル 健康 サービス",
+        "sub_node_id": "mental_health",
+        "era_id": "era-01"
+      },
+      {
+        "id": "mental_health_lunar_emergency_hospital_operating_system",
+        "name": "月面 緊急 病院 オペレーティングシステム",
+        "sub_node_id": "mental_health",
+        "era_id": "era-02"
+      },
+      {
+        "id": "preventive_care_ai_preventive_care_marketplace",
+        "name": "AI 予防 ケア マーケットプレイス",
+        "sub_node_id": "preventive_care",
+        "era_id": "era-01"
+      },
+      {
+        "id": "preventive_care_lunar_emergency_hospital_lab",
+        "name": "月面 緊急 病院 ラボ",
+        "sub_node_id": "preventive_care",
+        "era_id": "era-02"
+      },
+      {
+        "id": "ai_diagnosis_ai_ai_diagnosis_studio",
+        "name": "AI AI 診断 スタジオ",
+        "sub_node_id": "ai_diagnosis",
+        "era_id": "era-01"
+      },
+      {
+        "id": "ai_diagnosis_lunar_emergency_hospital_service",
+        "name": "月面 緊急 病院 サービス",
+        "sub_node_id": "ai_diagnosis",
+        "era_id": "era-02"
+      },
+      {
+        "id": "longevity_ai_longevity_infrastructure",
+        "name": "AI 長寿 インフラ",
+        "sub_node_id": "longevity",
+        "era_id": "era-01"
+      },
+      {
+        "id": "longevity_longevity_drugs_extend_healthy_platform",
+        "name": "長寿 Drugs Extend Healthy プラットフォーム",
+        "sub_node_id": "longevity",
+        "era_id": "era-01"
+      },
+      {
+        "id": "genetics_ai_genetics_console",
+        "name": "AI 遺伝学 コンソール",
+        "sub_node_id": "genetics",
+        "era_id": "era-01"
+      },
+      {
+        "id": "genetics_lunar_emergency_hospital_infrastructure",
+        "name": "月面 緊急 病院 インフラ",
+        "sub_node_id": "genetics",
+        "era_id": "era-02"
+      },
+      {
+        "id": "telemedicine_ai_telemedicine_studio",
+        "name": "AI 遠隔医療 スタジオ",
+        "sub_node_id": "telemedicine",
+        "era_id": "era-01"
+      },
+      {
+        "id": "telemedicine_lunar_emergency_hospital_service",
+        "name": "月面 緊急 病院 サービス",
+        "sub_node_id": "telemedicine",
+        "era_id": "era-02"
+      },
+      {
+        "id": "pharmacy_ai_pharmacy_console",
+        "name": "AI 薬局 コンソール",
+        "sub_node_id": "pharmacy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "pharmacy_lunar_emergency_hospital_infrastructure",
+        "name": "月面 緊急 病院 インフラ",
+        "sub_node_id": "pharmacy",
+        "era_id": "era-02"
+      },
+      {
+        "id": "rehabilitation_ai_rehabilitation_operating_system",
+        "name": "AI リハビリ オペレーティングシステム",
+        "sub_node_id": "rehabilitation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "rehabilitation_lunar_emergency_hospital_marketplace",
+        "name": "月面 緊急 病院 マーケットプレイス",
+        "sub_node_id": "rehabilitation",
+        "era_id": "era-02"
+      }
+    ]
+  },
+  {
+    "node_id": "education",
+    "business_opportunities": [
+      {
+        "id": "k12_education_post_scarcity_k_12_education_service",
+        "name": "ポスト希少性 K-12 教育 サービス",
+        "sub_node_id": "k12_education",
+        "era_id": "era-03"
+      },
+      {
+        "id": "k12_education_seamless_translation_operating_system",
+        "name": "シームレス 翻訳 オペレーティングシステム",
+        "sub_node_id": "k12_education",
+        "era_id": "era-01"
+      },
+      {
+        "id": "higher_education_post_scarcity_higher_education_lab",
+        "name": "ポスト希少性 高等 教育 ラボ",
+        "sub_node_id": "higher_education",
+        "era_id": "era-03"
+      },
+      {
+        "id": "higher_education_seamless_translation_cloud",
+        "name": "シームレス 翻訳 クラウド",
+        "sub_node_id": "higher_education",
+        "era_id": "era-01"
+      },
+      {
+        "id": "online_learning_post_scarcity_online_learning_and_edtech_marketplace",
+        "name": "ポスト希少性 オンライン 学習 & EdTech マーケットプレイス",
+        "sub_node_id": "online_learning",
+        "era_id": "era-03"
+      },
+      {
+        "id": "online_learning_seamless_translation_lab",
+        "name": "シームレス 翻訳 ラボ",
+        "sub_node_id": "online_learning",
+        "era_id": "era-01"
+      },
+      {
+        "id": "vocational_training_post_scarcity_vocational_training_infrastructure",
+        "name": "ポスト希少性 職業 訓練 インフラ",
+        "sub_node_id": "vocational_training",
+        "era_id": "era-03"
+      },
+      {
+        "id": "vocational_training_seamless_translation_platform",
+        "name": "シームレス 翻訳 プラットフォーム",
+        "sub_node_id": "vocational_training",
+        "era_id": "era-01"
+      },
+      {
+        "id": "lifelong_learning_post_scarcity_lifelong_learning_cloud",
+        "name": "ポスト希少性 生涯 学習 クラウド",
+        "sub_node_id": "lifelong_learning",
+        "era_id": "era-03"
+      },
+      {
+        "id": "lifelong_learning_seamless_translation_console",
+        "name": "シームレス 翻訳 コンソール",
+        "sub_node_id": "lifelong_learning",
+        "era_id": "era-01"
+      },
+      {
+        "id": "special_education_post_scarcity_special_education_cloud",
+        "name": "ポスト希少性 特別 教育 クラウド",
+        "sub_node_id": "special_education",
+        "era_id": "era-03"
+      },
+      {
+        "id": "special_education_seamless_translation_console",
+        "name": "シームレス 翻訳 コンソール",
+        "sub_node_id": "special_education",
+        "era_id": "era-01"
+      },
+      {
+        "id": "curriculum_development_post_scarcity_curriculum_development_studio",
+        "name": "ポスト希少性 カリキュラム 開発 スタジオ",
+        "sub_node_id": "curriculum_development",
+        "era_id": "era-03"
+      },
+      {
+        "id": "curriculum_development_seamless_translation_service",
+        "name": "シームレス 翻訳 サービス",
+        "sub_node_id": "curriculum_development",
+        "era_id": "era-01"
+      },
+      {
+        "id": "language_learning_post_scarcity_language_learning_cloud",
+        "name": "ポスト希少性 言語 学習 クラウド",
+        "sub_node_id": "language_learning",
+        "era_id": "era-03"
+      },
+      {
+        "id": "language_learning_seamless_translation_console",
+        "name": "シームレス 翻訳 コンソール",
+        "sub_node_id": "language_learning",
+        "era_id": "era-01"
+      },
+      {
+        "id": "educational_gamification_post_scarcity_educational_gamification_operating_system",
+        "name": "ポスト希少性 教育 ゲーミフィケーション オペレーティングシステム",
+        "sub_node_id": "educational_gamification",
+        "era_id": "era-03"
+      },
+      {
+        "id": "educational_gamification_seamless_translation_marketplace",
+        "name": "シームレス 翻訳 マーケットプレイス",
+        "sub_node_id": "educational_gamification",
+        "era_id": "era-01"
+      },
+      {
+        "id": "corporate_training_post_scarcity_corporate_training_console",
+        "name": "ポスト希少性 企業 訓練 コンソール",
+        "sub_node_id": "corporate_training",
+        "era_id": "era-03"
+      },
+      {
+        "id": "corporate_training_seamless_translation_infrastructure",
+        "name": "シームレス 翻訳 インフラ",
+        "sub_node_id": "corporate_training",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "food_agriculture",
+    "business_opportunities": [
+      {
+        "id": "agritech_regenerative_agritech_console",
+        "name": "再生型 AgriTech コンソール",
+        "sub_node_id": "agritech",
+        "era_id": "era-04"
+      },
+      {
+        "id": "agritech_ai_crop_protection_infrastructure",
+        "name": "AI 作物 保護 インフラ",
+        "sub_node_id": "agritech",
+        "era_id": "era-01"
+      },
+      {
+        "id": "organic_farming_regenerative_organic_farming_marketplace",
+        "name": "再生型 有機 農業 マーケットプレイス",
+        "sub_node_id": "organic_farming",
+        "era_id": "era-04"
+      },
+      {
+        "id": "organic_farming_ai_crop_protection_lab",
+        "name": "AI 作物 保護 ラボ",
+        "sub_node_id": "organic_farming",
+        "era_id": "era-01"
+      },
+      {
+        "id": "vertical_farming_regenerative_vertical_farming_lab",
+        "name": "再生型 垂直 農業 ラボ",
+        "sub_node_id": "vertical_farming",
+        "era_id": "era-04"
+      },
+      {
+        "id": "vertical_farming_profitable_vertical_farms_cloud",
+        "name": "収益性ある 垂直 Farms クラウド",
+        "sub_node_id": "vertical_farming",
+        "era_id": "era-01"
+      },
+      {
+        "id": "sustainable_agriculture_regenerative_sustainable_agriculture_service",
+        "name": "再生型 持続可能 農業 サービス",
+        "sub_node_id": "sustainable_agriculture",
+        "era_id": "era-04"
+      },
+      {
+        "id": "sustainable_agriculture_ai_crop_protection_operating_system",
+        "name": "AI 作物 保護 オペレーティングシステム",
+        "sub_node_id": "sustainable_agriculture",
+        "era_id": "era-01"
+      },
+      {
+        "id": "food_processing_regenerative_food_processing_marketplace",
+        "name": "再生型 食品 加工 マーケットプレイス",
+        "sub_node_id": "food_processing",
+        "era_id": "era-04"
+      },
+      {
+        "id": "food_processing_ai_crop_protection_lab",
+        "name": "AI 作物 保護 ラボ",
+        "sub_node_id": "food_processing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "alternative_protein_regenerative_alternative_protein_infrastructure",
+        "name": "再生型 代替 タンパク質 インフラ",
+        "sub_node_id": "alternative_protein",
+        "era_id": "era-04"
+      },
+      {
+        "id": "alternative_protein_ai_crop_protection_platform",
+        "name": "AI 作物 保護 プラットフォーム",
+        "sub_node_id": "alternative_protein",
+        "era_id": "era-01"
+      },
+      {
+        "id": "supply_chain_logistics_autonomous_supply_chain_and_logistics_studio",
+        "name": "自律型 サプライ チェーン & 物流 スタジオ",
+        "sub_node_id": "supply_chain_logistics",
+        "era_id": "era-02"
+      },
+      {
+        "id": "supply_chain_logistics_fusion_cargo_ships_service",
+        "name": "核融合 貨物 船舶 サービス",
+        "sub_node_id": "supply_chain_logistics",
+        "era_id": "era-02"
+      },
+      {
+        "id": "aquaculture_regenerative_aquaculture_network",
+        "name": "再生型 養殖 ネットワーク",
+        "sub_node_id": "aquaculture",
+        "era_id": "era-04"
+      },
+      {
+        "id": "aquaculture_ai_crop_protection_studio",
+        "name": "AI 作物 保護 スタジオ",
+        "sub_node_id": "aquaculture",
+        "era_id": "era-01"
+      },
+      {
+        "id": "food_safety_regenerative_food_safety_network",
+        "name": "再生型 食品 安全 ネットワーク",
+        "sub_node_id": "food_safety",
+        "era_id": "era-04"
+      },
+      {
+        "id": "food_safety_ai_crop_protection_studio",
+        "name": "AI 作物 保護 スタジオ",
+        "sub_node_id": "food_safety",
+        "era_id": "era-01"
+      },
+      {
+        "id": "precision_farming_regenerative_precision_farming_cloud",
+        "name": "再生型 精密 農業 クラウド",
+        "sub_node_id": "precision_farming",
+        "era_id": "era-04"
+      },
+      {
+        "id": "precision_farming_precision_agriculture_dramatically_reduces_console",
+        "name": "精密 農業 大幅に 削減 コンソール",
+        "sub_node_id": "precision_farming",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "mobility_transportation",
+    "business_opportunities": [
+      {
+        "id": "electric_vehicles_ai_electric_vehicles_cloud",
+        "name": "AI 電動 車両 クラウド",
+        "sub_node_id": "electric_vehicles",
+        "era_id": "era-01"
+      },
+      {
+        "id": "electric_vehicles_urban_drone_delivery_console",
+        "name": "都市 ドローン 配送 コンソール",
+        "sub_node_id": "electric_vehicles",
+        "era_id": "era-01"
+      },
+      {
+        "id": "autonomous_driving_ai_autonomous_driving_console",
+        "name": "AI 自律型 運転 コンソール",
+        "sub_node_id": "autonomous_driving",
+        "era_id": "era-01"
+      },
+      {
+        "id": "autonomous_driving_charging_smart_roads_infrastructure",
+        "name": "充電 スマート 道路 インフラ",
+        "sub_node_id": "autonomous_driving",
+        "era_id": "era-01"
+      },
+      {
+        "id": "public_transit_ai_public_transit_operating_system",
+        "name": "AI 公共 交通 オペレーティングシステム",
+        "sub_node_id": "public_transit",
+        "era_id": "era-01"
+      },
+      {
+        "id": "public_transit_urban_drone_delivery_marketplace",
+        "name": "都市 ドローン 配送 マーケットプレイス",
+        "sub_node_id": "public_transit",
+        "era_id": "era-01"
+      },
+      {
+        "id": "ride_sharing_ai_ride_sharing_and_micro_mobility_studio",
+        "name": "AI ライド シェア & マイクロモビリティ スタジオ",
+        "sub_node_id": "ride_sharing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "ride_sharing_urban_drone_delivery_service",
+        "name": "都市 ドローン 配送 サービス",
+        "sub_node_id": "ride_sharing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "aviation_ai_aviation_console",
+        "name": "AI 航空 コンソール",
+        "sub_node_id": "aviation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "aviation_urban_drone_delivery_infrastructure",
+        "name": "都市 ドローン 配送 インフラ",
+        "sub_node_id": "aviation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "rail_transport_ai_rail_transport_operating_system",
+        "name": "AI 鉄道 輸送 オペレーティングシステム",
+        "sub_node_id": "rail_transport",
+        "era_id": "era-01"
+      },
+      {
+        "id": "rail_transport_urban_drone_delivery_marketplace",
+        "name": "都市 ドローン 配送 マーケットプレイス",
+        "sub_node_id": "rail_transport",
+        "era_id": "era-01"
+      },
+      {
+        "id": "maritime_shipping_ai_maritime_shipping_cloud",
+        "name": "AI 海運 Shipping クラウド",
+        "sub_node_id": "maritime_shipping",
+        "era_id": "era-01"
+      },
+      {
+        "id": "maritime_shipping_urban_drone_delivery_console",
+        "name": "都市 ドローン 配送 コンソール",
+        "sub_node_id": "maritime_shipping",
+        "era_id": "era-01"
+      },
+      {
+        "id": "logistics_delivery_ai_logistics_and_delivery_console",
+        "name": "AI 物流 & 配送 コンソール",
+        "sub_node_id": "logistics_delivery",
+        "era_id": "era-01"
+      },
+      {
+        "id": "logistics_delivery_charging_smart_roads_infrastructure",
+        "name": "充電 スマート 道路 インフラ",
+        "sub_node_id": "logistics_delivery",
+        "era_id": "era-01"
+      },
+      {
+        "id": "traffic_management_ai_traffic_management_console",
+        "name": "AI 交通 管理 コンソール",
+        "sub_node_id": "traffic_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "traffic_management_urban_drone_delivery_infrastructure",
+        "name": "都市 ドローン 配送 インフラ",
+        "sub_node_id": "traffic_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "hyperloop_high_speed_ai_hyperloop_and_high_speed_rail_platform",
+        "name": "AI ハイパーループ & 高速 鉄道 プラットフォーム",
+        "sub_node_id": "hyperloop_high_speed",
+        "era_id": "era-01"
+      },
+      {
+        "id": "hyperloop_high_speed_urban_drone_delivery_network",
+        "name": "都市 ドローン 配送 ネットワーク",
+        "sub_node_id": "hyperloop_high_speed",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "energy_utilities",
+    "business_opportunities": [
+      {
+        "id": "solar_energy_post_scarcity_solar_energy_studio",
+        "name": "ポスト希少性 太陽光 エネルギー スタジオ",
+        "sub_node_id": "solar_energy",
+        "era_id": "era-03"
+      },
+      {
+        "id": "solar_energy_solar_system_fusion_grid_service",
+        "name": "太陽光 System 核融合 グリッド サービス",
+        "sub_node_id": "solar_energy",
+        "era_id": "era-05"
+      },
+      {
+        "id": "wind_energy_post_scarcity_wind_energy_network",
+        "name": "ポスト希少性 風力 エネルギー ネットワーク",
+        "sub_node_id": "wind_energy",
+        "era_id": "era-03"
+      },
+      {
+        "id": "wind_energy_solar_system_fusion_grid_studio",
+        "name": "太陽光 System 核融合 グリッド スタジオ",
+        "sub_node_id": "wind_energy",
+        "era_id": "era-05"
+      },
+      {
+        "id": "smart_grid_ai_smart_grid_platform",
+        "name": "AI スマート グリッド プラットフォーム",
+        "sub_node_id": "smart_grid",
+        "era_id": "era-01"
+      },
+      {
+        "id": "smart_grid_fusion_desalination_network_network",
+        "name": "核融合 淡水化 Network ネットワーク",
+        "sub_node_id": "smart_grid",
+        "era_id": "era-03"
+      },
+      {
+        "id": "energy_storage_post_scarcity_energy_storage_operating_system",
+        "name": "ポスト希少性 エネルギー 貯蔵 オペレーティングシステム",
+        "sub_node_id": "energy_storage",
+        "era_id": "era-03"
+      },
+      {
+        "id": "energy_storage_solar_system_fusion_grid_marketplace",
+        "name": "太陽光 System 核融合 グリッド マーケットプレイス",
+        "sub_node_id": "energy_storage",
+        "era_id": "era-05"
+      },
+      {
+        "id": "nuclear_energy_post_scarcity_nuclear_energy_operating_system",
+        "name": "ポスト希少性 原子力 エネルギー オペレーティングシステム",
+        "sub_node_id": "nuclear_energy",
+        "era_id": "era-03"
+      },
+      {
+        "id": "nuclear_energy_solar_system_fusion_grid_marketplace",
+        "name": "太陽光 System 核融合 グリッド マーケットプレイス",
+        "sub_node_id": "nuclear_energy",
+        "era_id": "era-05"
+      },
+      {
+        "id": "hydrogen_fuel_post_scarcity_hydrogen_fuel_service",
+        "name": "ポスト希少性 水素 燃料 サービス",
+        "sub_node_id": "hydrogen_fuel",
+        "era_id": "era-03"
+      },
+      {
+        "id": "hydrogen_fuel_solar_system_fusion_grid_operating_system",
+        "name": "太陽光 System 核融合 グリッド オペレーティングシステム",
+        "sub_node_id": "hydrogen_fuel",
+        "era_id": "era-05"
+      },
+      {
+        "id": "water_management_post_scarcity_water_management_lab",
+        "name": "ポスト希少性 水 管理 ラボ",
+        "sub_node_id": "water_management",
+        "era_id": "era-03"
+      },
+      {
+        "id": "water_management_solar_system_fusion_grid_cloud",
+        "name": "太陽光 System 核融合 グリッド クラウド",
+        "sub_node_id": "water_management",
+        "era_id": "era-05"
+      },
+      {
+        "id": "waste_to_energy_ai_waste_to_energy_marketplace",
+        "name": "AI 廃棄物発電 マーケットプレイス",
+        "sub_node_id": "waste_to_energy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "waste_to_energy_fusion_desalination_network_lab",
+        "name": "核融合 淡水化 Network ラボ",
+        "sub_node_id": "waste_to_energy",
+        "era_id": "era-03"
+      },
+      {
+        "id": "power_distribution_post_scarcity_power_distribution_console",
+        "name": "ポスト希少性 電力 配電 コンソール",
+        "sub_node_id": "power_distribution",
+        "era_id": "era-03"
+      },
+      {
+        "id": "power_distribution_solar_system_fusion_grid_infrastructure",
+        "name": "太陽光 System 核融合 グリッド インフラ",
+        "sub_node_id": "power_distribution",
+        "era_id": "era-05"
+      },
+      {
+        "id": "geothermal_energy_post_scarcity_geothermal_energy_cloud",
+        "name": "ポスト希少性 地熱 エネルギー クラウド",
+        "sub_node_id": "geothermal_energy",
+        "era_id": "era-03"
+      },
+      {
+        "id": "geothermal_energy_solar_system_fusion_grid_console",
+        "name": "太陽光 System 核融合 グリッド コンソール",
+        "sub_node_id": "geothermal_energy",
+        "era_id": "era-05"
+      }
+    ]
+  },
+  {
+    "node_id": "environment",
+    "business_opportunities": [
+      {
+        "id": "climate_change_multi_world_climate_change_operating_system",
+        "name": "マルチワールド 気候 変動 オペレーティングシステム",
+        "sub_node_id": "climate_change",
+        "era_id": "era-05"
+      },
+      {
+        "id": "climate_change_reforestation_drones_restore_damaged_marketplace",
+        "name": "再植林 ドローン 復元 損傷 マーケットプレイス",
+        "sub_node_id": "climate_change",
+        "era_id": "era-01"
+      },
+      {
+        "id": "biodiversity_multi_world_biodiversity_studio",
+        "name": "マルチワールド 生物多様性 スタジオ",
+        "sub_node_id": "biodiversity",
+        "era_id": "era-05"
+      },
+      {
+        "id": "biodiversity_biodiversity_loss_stops_and_service",
+        "name": "生物多様性 Loss Stops and サービス",
+        "sub_node_id": "biodiversity",
+        "era_id": "era-03"
+      },
+      {
+        "id": "waste_management_multi_world_waste_management_lab",
+        "name": "マルチワールド 廃棄物 管理 ラボ",
+        "sub_node_id": "waste_management",
+        "era_id": "era-05"
+      },
+      {
+        "id": "waste_management_reforestation_drones_restore_damaged_cloud",
+        "name": "再植林 ドローン 復元 損傷 クラウド",
+        "sub_node_id": "waste_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "pollution_control_ai_pollution_control_cloud",
+        "name": "AI 汚染 制御 クラウド",
+        "sub_node_id": "pollution_control",
+        "era_id": "era-01"
+      },
+      {
+        "id": "pollution_control_ocean_biodiversity_fully_recovers_console",
+        "name": "海洋 生物多様性 Fully Recovers コンソール",
+        "sub_node_id": "pollution_control",
+        "era_id": "era-05"
+      },
+      {
+        "id": "circular_economy_regenerative_circular_economy_lab",
+        "name": "再生型 循環 経済 ラボ",
+        "sub_node_id": "circular_economy",
+        "era_id": "era-04"
+      },
+      {
+        "id": "circular_economy_ocean_biodiversity_fully_recovers_cloud",
+        "name": "海洋 生物多様性 Fully Recovers クラウド",
+        "sub_node_id": "circular_economy",
+        "era_id": "era-05"
+      },
+      {
+        "id": "carbon_capture_autonomous_carbon_capture_operating_system",
+        "name": "自律型 炭素 回収 オペレーティングシステム",
+        "sub_node_id": "carbon_capture",
+        "era_id": "era-02"
+      },
+      {
+        "id": "carbon_capture_ocean_biodiversity_fully_recovers_marketplace",
+        "name": "海洋 生物多様性 Fully Recovers マーケットプレイス",
+        "sub_node_id": "carbon_capture",
+        "era_id": "era-05"
+      },
+      {
+        "id": "ocean_conservation_multi_world_ocean_conservation_console",
+        "name": "マルチワールド 海洋 保全 コンソール",
+        "sub_node_id": "ocean_conservation",
+        "era_id": "era-05"
+      },
+      {
+        "id": "ocean_conservation_reforestation_drones_restore_damaged_infrastructure",
+        "name": "再植林 ドローン 復元 損傷 インフラ",
+        "sub_node_id": "ocean_conservation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "reforestation_ai_reforestation_service",
+        "name": "AI 再植林 サービス",
+        "sub_node_id": "reforestation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "reforestation_ocean_biodiversity_fully_recovers_operating_system",
+        "name": "海洋 生物多様性 Fully Recovers オペレーティングシステム",
+        "sub_node_id": "reforestation",
+        "era_id": "era-05"
+      },
+      {
+        "id": "environmental_policy_multi_world_environmental_policy_platform",
+        "name": "マルチワールド 環境 政策 プラットフォーム",
+        "sub_node_id": "environmental_policy",
+        "era_id": "era-05"
+      },
+      {
+        "id": "environmental_policy_reforestation_drones_restore_damaged_network",
+        "name": "再植林 ドローン 復元 損傷 ネットワーク",
+        "sub_node_id": "environmental_policy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "renewable_resources_multi_world_renewable_resources_infrastructure",
+        "name": "マルチワールド 再生可能 資源 インフラ",
+        "sub_node_id": "renewable_resources",
+        "era_id": "era-05"
+      },
+      {
+        "id": "renewable_resources_reforestation_drones_restore_damaged_platform",
+        "name": "再植林 ドローン 復元 損傷 プラットフォーム",
+        "sub_node_id": "renewable_resources",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "economy_finance",
+    "business_opportunities": [
+      {
+        "id": "fintech_ai_fintech_cloud",
+        "name": "AI FinTech クラウド",
+        "sub_node_id": "fintech",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fintech_earth_moon_digital_currency_gains_console",
+        "name": "地球 月 デジタル 通貨 獲得 コンソール",
+        "sub_node_id": "fintech",
+        "era_id": "era-02"
+      },
+      {
+        "id": "banking_ai_banking_cloud",
+        "name": "AI 銀行 クラウド",
+        "sub_node_id": "banking",
+        "era_id": "era-01"
+      },
+      {
+        "id": "banking_earth_moon_digital_currency_gains_console",
+        "name": "地球 月 デジタル 通貨 獲得 コンソール",
+        "sub_node_id": "banking",
+        "era_id": "era-02"
+      },
+      {
+        "id": "investment_wealth_ai_investment_and_wealth_management_cloud",
+        "name": "AI 投資 & 資産 管理 クラウド",
+        "sub_node_id": "investment_wealth",
+        "era_id": "era-01"
+      },
+      {
+        "id": "investment_wealth_earth_moon_digital_currency_gains_console",
+        "name": "地球 月 デジタル 通貨 獲得 コンソール",
+        "sub_node_id": "investment_wealth",
+        "era_id": "era-02"
+      },
+      {
+        "id": "cryptocurrency_blockchain_ai_cryptocurrency_and_blockchain_marketplace",
+        "name": "AI 暗号資産 & ブロックチェーン マーケットプレイス",
+        "sub_node_id": "cryptocurrency_blockchain",
+        "era_id": "era-01"
+      },
+      {
+        "id": "cryptocurrency_blockchain_earth_moon_digital_currency_gains_lab",
+        "name": "地球 月 デジタル 通貨 獲得 ラボ",
+        "sub_node_id": "cryptocurrency_blockchain",
+        "era_id": "era-02"
+      },
+      {
+        "id": "insurance_autonomous_insurance_infrastructure",
+        "name": "自律型 保険 インフラ",
+        "sub_node_id": "insurance",
+        "era_id": "era-02"
+      },
+      {
+        "id": "insurance_cashless_economies_dominate_most_platform",
+        "name": "キャッシュレス 経済 支配 大半 プラットフォーム",
+        "sub_node_id": "insurance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "macroeconomics_ai_macroeconomics_operating_system",
+        "name": "AI マクロ経済 オペレーティングシステム",
+        "sub_node_id": "macroeconomics",
+        "era_id": "era-01"
+      },
+      {
+        "id": "macroeconomics_earth_moon_digital_currency_gains_marketplace",
+        "name": "地球 月 デジタル 通貨 獲得 マーケットプレイス",
+        "sub_node_id": "macroeconomics",
+        "era_id": "era-02"
+      },
+      {
+        "id": "venture_capital_ai_venture_capital_marketplace",
+        "name": "AI ベンチャー 資本 マーケットプレイス",
+        "sub_node_id": "venture_capital",
+        "era_id": "era-01"
+      },
+      {
+        "id": "venture_capital_earth_moon_digital_currency_gains_lab",
+        "name": "地球 月 デジタル 通貨 獲得 ラボ",
+        "sub_node_id": "venture_capital",
+        "era_id": "era-02"
+      },
+      {
+        "id": "e_commerce_finance_ai_e_commerce_finance_console",
+        "name": "AI E-commerce 金融 コンソール",
+        "sub_node_id": "e_commerce_finance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "e_commerce_finance_earth_moon_digital_currency_gains_infrastructure",
+        "name": "地球 月 デジタル 通貨 獲得 インフラ",
+        "sub_node_id": "e_commerce_finance",
+        "era_id": "era-02"
+      },
+      {
+        "id": "sustainable_finance_ai_sustainable_finance_infrastructure",
+        "name": "AI 持続可能 金融 インフラ",
+        "sub_node_id": "sustainable_finance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "sustainable_finance_earth_moon_digital_currency_gains_platform",
+        "name": "地球 月 デジタル 通貨 獲得 プラットフォーム",
+        "sub_node_id": "sustainable_finance",
+        "era_id": "era-02"
+      },
+      {
+        "id": "financial_regulation_ai_financial_regulation_platform",
+        "name": "AI 金融 規制 プラットフォーム",
+        "sub_node_id": "financial_regulation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "financial_regulation_earth_moon_digital_currency_gains_network",
+        "name": "地球 月 デジタル 通貨 獲得 ネットワーク",
+        "sub_node_id": "financial_regulation",
+        "era_id": "era-02"
+      }
+    ]
+  },
+  {
+    "node_id": "work_careers",
+    "business_opportunities": [
+      {
+        "id": "remote_work_ai_remote_work_network",
+        "name": "AI リモート 仕事 ネットワーク",
+        "sub_node_id": "remote_work",
+        "era_id": "era-01"
+      },
+      {
+        "id": "remote_work_optional_physical_work_studio",
+        "name": "任意 物理的 仕事 スタジオ",
+        "sub_node_id": "remote_work",
+        "era_id": "era-04"
+      },
+      {
+        "id": "gig_economy_ai_gig_economy_network",
+        "name": "AI ギグ 経済 ネットワーク",
+        "sub_node_id": "gig_economy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "gig_economy_optional_physical_work_studio",
+        "name": "任意 物理的 仕事 スタジオ",
+        "sub_node_id": "gig_economy",
+        "era_id": "era-04"
+      },
+      {
+        "id": "talent_acquisition_ai_talent_acquisition_console",
+        "name": "AI 人材 獲得 コンソール",
+        "sub_node_id": "talent_acquisition",
+        "era_id": "era-01"
+      },
+      {
+        "id": "talent_acquisition_optional_physical_work_infrastructure",
+        "name": "任意 物理的 仕事 インフラ",
+        "sub_node_id": "talent_acquisition",
+        "era_id": "era-04"
+      },
+      {
+        "id": "upskilling_reskilling_ai_upskilling_and_reskilling_network",
+        "name": "AI スキル向上 & 再スキル化 ネットワーク",
+        "sub_node_id": "upskilling_reskilling",
+        "era_id": "era-01"
+      },
+      {
+        "id": "upskilling_reskilling_optional_physical_work_studio",
+        "name": "任意 物理的 仕事 スタジオ",
+        "sub_node_id": "upskilling_reskilling",
+        "era_id": "era-04"
+      },
+      {
+        "id": "workspace_design_ai_workspace_design_lab",
+        "name": "AI ワークスペース デザイン ラボ",
+        "sub_node_id": "workspace_design",
+        "era_id": "era-01"
+      },
+      {
+        "id": "workspace_design_autonomous_ai_scientists_design_cloud",
+        "name": "自律型 AI 科学者 デザイン クラウド",
+        "sub_node_id": "workspace_design",
+        "era_id": "era-06"
+      },
+      {
+        "id": "employee_wellbeing_ai_employee_wellbeing_console",
+        "name": "AI 従業員 ウェルビーイング コンソール",
+        "sub_node_id": "employee_wellbeing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "employee_wellbeing_optional_physical_work_infrastructure",
+        "name": "任意 物理的 仕事 インフラ",
+        "sub_node_id": "employee_wellbeing",
+        "era_id": "era-04"
+      },
+      {
+        "id": "hr_tech_ai_hr_tech_cloud",
+        "name": "AI HR テック クラウド",
+        "sub_node_id": "hr_tech",
+        "era_id": "era-01"
+      },
+      {
+        "id": "hr_tech_optional_physical_work_console",
+        "name": "任意 物理的 仕事 コンソール",
+        "sub_node_id": "hr_tech",
+        "era_id": "era-04"
+      },
+      {
+        "id": "career_coaching_ai_career_coaching_marketplace",
+        "name": "AI キャリア コーチング マーケットプレイス",
+        "sub_node_id": "career_coaching",
+        "era_id": "era-01"
+      },
+      {
+        "id": "career_coaching_optional_physical_work_lab",
+        "name": "任意 物理的 仕事 ラボ",
+        "sub_node_id": "career_coaching",
+        "era_id": "era-04"
+      },
+      {
+        "id": "labor_relations_ai_labor_relations_marketplace",
+        "name": "AI 労働 関係 マーケットプレイス",
+        "sub_node_id": "labor_relations",
+        "era_id": "era-01"
+      },
+      {
+        "id": "labor_relations_optional_physical_work_lab",
+        "name": "任意 物理的 仕事 ラボ",
+        "sub_node_id": "labor_relations",
+        "era_id": "era-04"
+      },
+      {
+        "id": "diversity_inclusion_ai_diversity_and_inclusion_infrastructure",
+        "name": "AI 多様性 & 包摂 インフラ",
+        "sub_node_id": "diversity_inclusion",
+        "era_id": "era-01"
+      },
+      {
+        "id": "diversity_inclusion_artificial_coral_reefs_platform",
+        "name": "人工 サンゴ 礁 プラットフォーム",
+        "sub_node_id": "diversity_inclusion",
+        "era_id": "era-04"
+      }
+    ]
+  },
+  {
+    "node_id": "manufacturing",
+    "business_opportunities": [
+      {
+        "id": "industry_4_0_multi_world_industry_4_0_studio",
+        "name": "マルチワールド 産業 4.0 スタジオ",
+        "sub_node_id": "industry_4_0",
+        "era_id": "era-05"
+      },
+      {
+        "id": "industry_4_0_3dprinted_buildings_mainstream_service",
+        "name": "3D-Printed 建物 Mainstream サービス",
+        "sub_node_id": "industry_4_0",
+        "era_id": "era-01"
+      },
+      {
+        "id": "robotics_automation_ai_robotics_and_automation_infrastructure",
+        "name": "AI ロボティクス & 自動化 インフラ",
+        "sub_node_id": "robotics_automation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "robotics_automation_3dprinted_buildings_mainstream_platform",
+        "name": "3D-Printed 建物 Mainstream プラットフォーム",
+        "sub_node_id": "robotics_automation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "3d_printing_autonomous_3d_printing_network",
+        "name": "自律型 3D 印刷 ネットワーク",
+        "sub_node_id": "3d_printing",
+        "era_id": "era-02"
+      },
+      {
+        "id": "3d_printing_3dprinted_buildings_mainstream_studio",
+        "name": "3D-Printed 建物 Mainstream スタジオ",
+        "sub_node_id": "3d_printing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "supply_chain_ai_supply_chain_management_studio",
+        "name": "AI サプライ チェーン 管理 スタジオ",
+        "sub_node_id": "supply_chain",
+        "era_id": "era-01"
+      },
+      {
+        "id": "supply_chain_carbon_negative_concrete_service",
+        "name": "カーボンネガティブ コンクリート サービス",
+        "sub_node_id": "supply_chain",
+        "era_id": "era-01"
+      },
+      {
+        "id": "smart_factories_ai_smart_factories_marketplace",
+        "name": "AI スマート 工場 マーケットプレイス",
+        "sub_node_id": "smart_factories",
+        "era_id": "era-01"
+      },
+      {
+        "id": "smart_factories_carbon_negative_concrete_lab",
+        "name": "カーボンネガティブ コンクリート ラボ",
+        "sub_node_id": "smart_factories",
+        "era_id": "era-01"
+      },
+      {
+        "id": "materials_science_ai_materials_science_cloud",
+        "name": "AI 材料 科学 クラウド",
+        "sub_node_id": "materials_science",
+        "era_id": "era-01"
+      },
+      {
+        "id": "materials_science_co2_absorbing_material_console",
+        "name": "CO2 吸収 材料 コンソール",
+        "sub_node_id": "materials_science",
+        "era_id": "era-01"
+      },
+      {
+        "id": "quality_control_ai_quality_control_marketplace",
+        "name": "AI 品質 制御 マーケットプレイス",
+        "sub_node_id": "quality_control",
+        "era_id": "era-01"
+      },
+      {
+        "id": "quality_control_carbon_negative_concrete_lab",
+        "name": "カーボンネガティブ コンクリート ラボ",
+        "sub_node_id": "quality_control",
+        "era_id": "era-01"
+      },
+      {
+        "id": "sustainable_manufacturing_ai_sustainable_manufacturing_marketplace",
+        "name": "AI 持続可能 Manufacturing マーケットプレイス",
+        "sub_node_id": "sustainable_manufacturing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "sustainable_manufacturing_carbon_negative_concrete_lab",
+        "name": "カーボンネガティブ コンクリート ラボ",
+        "sub_node_id": "sustainable_manufacturing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "predictive_maintenance_ai_predictive_maintenance_studio",
+        "name": "AI 予測 保守 スタジオ",
+        "sub_node_id": "predictive_maintenance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "predictive_maintenance_carbon_negative_concrete_service",
+        "name": "カーボンネガティブ コンクリート サービス",
+        "sub_node_id": "predictive_maintenance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "industrial_iot_ai_industrial_iot_operating_system",
+        "name": "AI 産業用 IoT オペレーティングシステム",
+        "sub_node_id": "industrial_iot",
+        "era_id": "era-01"
+      },
+      {
+        "id": "industrial_iot_carbon_negative_concrete_marketplace",
+        "name": "カーボンネガティブ コンクリート マーケットプレイス",
+        "sub_node_id": "industrial_iot",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "retail_commerce",
+    "business_opportunities": [
+      {
+        "id": "e_commerce_ai_e_commerce_platform",
+        "name": "AI E-commerce プラットフォーム",
+        "sub_node_id": "e_commerce",
+        "era_id": "era-01"
+      },
+      {
+        "id": "e_commerce_ai_health_monitors_network",
+        "name": "AI 健康 モニター ネットワーク",
+        "sub_node_id": "e_commerce",
+        "era_id": "era-01"
+      },
+      {
+        "id": "omnichannel_retail_ai_omnichannel_retail_console",
+        "name": "AI オムニチャネル 小売 コンソール",
+        "sub_node_id": "omnichannel_retail",
+        "era_id": "era-01"
+      },
+      {
+        "id": "omnichannel_retail_ai_health_monitors_infrastructure",
+        "name": "AI 健康 モニター インフラ",
+        "sub_node_id": "omnichannel_retail",
+        "era_id": "era-01"
+      },
+      {
+        "id": "supply_chain_retail_autonomous_supply_chain_and_logistics_infrastructure",
+        "name": "自律型 サプライ チェーン & 物流 インフラ",
+        "sub_node_id": "supply_chain_retail",
+        "era_id": "era-02"
+      },
+      {
+        "id": "supply_chain_retail_urban_drone_delivery_platform",
+        "name": "都市 ドローン 配送 プラットフォーム",
+        "sub_node_id": "supply_chain_retail",
+        "era_id": "era-01"
+      },
+      {
+        "id": "consumer_behavior_ai_consumer_behavior_cloud",
+        "name": "AI 消費者 行動 クラウド",
+        "sub_node_id": "consumer_behavior",
+        "era_id": "era-01"
+      },
+      {
+        "id": "consumer_behavior_ai_health_monitors_console",
+        "name": "AI 健康 モニター コンソール",
+        "sub_node_id": "consumer_behavior",
+        "era_id": "era-01"
+      },
+      {
+        "id": "digital_payment_ai_digital_payment_systems_marketplace",
+        "name": "AI デジタル 決済 システム マーケットプレイス",
+        "sub_node_id": "digital_payment",
+        "era_id": "era-01"
+      },
+      {
+        "id": "digital_payment_aigenerated_films_and_games_lab",
+        "name": "AI-Generated 映画 And ゲーム ラボ",
+        "sub_node_id": "digital_payment",
+        "era_id": "era-01"
+      },
+      {
+        "id": "brick_and_mortar_post_scarcity_brick_and_mortar_innovation_lab",
+        "name": "ポスト希少性 Brick-and-Mortar イノベーション ラボ",
+        "sub_node_id": "brick_and_mortar",
+        "era_id": "era-03"
+      },
+      {
+        "id": "brick_and_mortar_urban_drone_delivery_cloud",
+        "name": "都市 ドローン 配送 クラウド",
+        "sub_node_id": "brick_and_mortar",
+        "era_id": "era-01"
+      },
+      {
+        "id": "personalized_marketing_ai_personalized_marketing_studio",
+        "name": "AI パーソナライズ マーケティング スタジオ",
+        "sub_node_id": "personalized_marketing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "personalized_marketing_ai_health_monitors_service",
+        "name": "AI 健康 モニター サービス",
+        "sub_node_id": "personalized_marketing",
+        "era_id": "era-01"
+      },
+      {
+        "id": "inventory_management_ai_inventory_management_platform",
+        "name": "AI 在庫 管理 プラットフォーム",
+        "sub_node_id": "inventory_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "inventory_management_ai_health_monitors_network",
+        "name": "AI 健康 モニター ネットワーク",
+        "sub_node_id": "inventory_management",
+        "era_id": "era-01"
+      },
+      {
+        "id": "direct_to_consumer_ai_direct_to_consumer_d2c_console",
+        "name": "AI Direct-to-Consumer (D2C) コンソール",
+        "sub_node_id": "direct_to_consumer",
+        "era_id": "era-01"
+      },
+      {
+        "id": "direct_to_consumer_ai_health_monitors_infrastructure",
+        "name": "AI 健康 モニター インフラ",
+        "sub_node_id": "direct_to_consumer",
+        "era_id": "era-01"
+      },
+      {
+        "id": "retail_analytics_ai_retail_analytics_lab",
+        "name": "AI 小売 分析 ラボ",
+        "sub_node_id": "retail_analytics",
+        "era_id": "era-01"
+      },
+      {
+        "id": "retail_analytics_ai_health_monitors_cloud",
+        "name": "AI 健康 モニター クラウド",
+        "sub_node_id": "retail_analytics",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "hospitality_tourism",
+    "business_opportunities": [
+      {
+        "id": "hotels_ai_hotels_lab",
+        "name": "AI ホテル ラボ",
+        "sub_node_id": "hotels",
+        "era_id": "era-01"
+      },
+      {
+        "id": "hotels_orbital_hotel_cloud",
+        "name": "軌道 Hotel クラウド",
+        "sub_node_id": "hotels",
+        "era_id": "era-02"
+      },
+      {
+        "id": "spa_autonomous_spa_service",
+        "name": "自律型 スパ サービス",
+        "sub_node_id": "spa",
+        "era_id": "era-02"
+      },
+      {
+        "id": "spa_orbital_maintenance_robots_service_operating_system",
+        "name": "軌道 保守 ロボット Service オペレーティングシステム",
+        "sub_node_id": "spa",
+        "era_id": "era-02"
+      },
+      {
+        "id": "resorts_autonomous_resorts_cloud",
+        "name": "自律型 リゾート クラウド",
+        "sub_node_id": "resorts",
+        "era_id": "era-02"
+      },
+      {
+        "id": "resorts_orbital_maintenance_robots_service_console",
+        "name": "軌道 保守 ロボット Service コンソール",
+        "sub_node_id": "resorts",
+        "era_id": "era-02"
+      },
+      {
+        "id": "restaurants_autonomous_restaurants_network",
+        "name": "自律型 レストラン ネットワーク",
+        "sub_node_id": "restaurants",
+        "era_id": "era-02"
+      },
+      {
+        "id": "restaurants_orbital_maintenance_robots_service_studio",
+        "name": "軌道 保守 ロボット Service スタジオ",
+        "sub_node_id": "restaurants",
+        "era_id": "era-02"
+      },
+      {
+        "id": "cafes_autonomous_cafes_marketplace",
+        "name": "自律型 カフェ マーケットプレイス",
+        "sub_node_id": "cafes",
+        "era_id": "era-02"
+      },
+      {
+        "id": "cafes_orbital_maintenance_robots_service_lab",
+        "name": "軌道 保守 ロボット Service ラボ",
+        "sub_node_id": "cafes",
+        "era_id": "era-02"
+      },
+      {
+        "id": "theme_parks_autonomous_theme_parks_network",
+        "name": "自律型 テーマ パーク ネットワーク",
+        "sub_node_id": "theme_parks",
+        "era_id": "era-02"
+      },
+      {
+        "id": "theme_parks_orbital_maintenance_robots_service_studio",
+        "name": "軌道 保守 ロボット Service スタジオ",
+        "sub_node_id": "theme_parks",
+        "era_id": "era-02"
+      },
+      {
+        "id": "cruise_autonomous_cruise_lab",
+        "name": "自律型 クルーズ ラボ",
+        "sub_node_id": "cruise",
+        "era_id": "era-02"
+      },
+      {
+        "id": "cruise_orbital_maintenance_robots_service_cloud",
+        "name": "軌道 保守 ロボット Service クラウド",
+        "sub_node_id": "cruise",
+        "era_id": "era-02"
+      },
+      {
+        "id": "eco_tourism_autonomous_eco_tourism_network",
+        "name": "自律型 エコ 観光 ネットワーク",
+        "sub_node_id": "eco_tourism",
+        "era_id": "era-02"
+      },
+      {
+        "id": "eco_tourism_orbital_maintenance_robots_service_studio",
+        "name": "軌道 保守 ロボット Service スタジオ",
+        "sub_node_id": "eco_tourism",
+        "era_id": "era-02"
+      },
+      {
+        "id": "luxury_travel_autonomous_luxury_travel_service",
+        "name": "自律型 ラグジュアリー 旅行 サービス",
+        "sub_node_id": "luxury_travel",
+        "era_id": "era-02"
+      },
+      {
+        "id": "luxury_travel_orbital_maintenance_robots_service_operating_system",
+        "name": "軌道 保守 ロボット Service オペレーティングシステム",
+        "sub_node_id": "luxury_travel",
+        "era_id": "era-02"
+      },
+      {
+        "id": "wellness_retreat_autonomous_wellness_retreat_lab",
+        "name": "自律型 ウェルネス リトリート ラボ",
+        "sub_node_id": "wellness_retreat",
+        "era_id": "era-02"
+      },
+      {
+        "id": "wellness_retreat_orbital_maintenance_robots_service_cloud",
+        "name": "軌道 保守 ロボット Service クラウド",
+        "sub_node_id": "wellness_retreat",
+        "era_id": "era-02"
+      }
+    ]
+  },
+  {
+    "node_id": "cities_communities",
+    "business_opportunities": [
+      {
+        "id": "smart_cities_post_scarcity_smart_cities_studio",
+        "name": "ポスト希少性 スマート 都市 スタジオ",
+        "sub_node_id": "smart_cities",
+        "era_id": "era-03"
+      },
+      {
+        "id": "smart_cities_self_healing_materials_service",
+        "name": "Self-Healing 材料 サービス",
+        "sub_node_id": "smart_cities",
+        "era_id": "era-01"
+      },
+      {
+        "id": "public_spaces_regenerative_public_spaces_service",
+        "name": "再生型 公共 空間 サービス",
+        "sub_node_id": "public_spaces",
+        "era_id": "era-04"
+      },
+      {
+        "id": "public_spaces_autonomous_city_district_operating_system",
+        "name": "自律型 City 地区 オペレーティングシステム",
+        "sub_node_id": "public_spaces",
+        "era_id": "era-03"
+      },
+      {
+        "id": "affordable_housing_regenerative_affordable_housing_console",
+        "name": "再生型 手頃な 住宅 コンソール",
+        "sub_node_id": "affordable_housing",
+        "era_id": "era-04"
+      },
+      {
+        "id": "affordable_housing_autonomous_city_district_infrastructure",
+        "name": "自律型 City 地区 インフラ",
+        "sub_node_id": "affordable_housing",
+        "era_id": "era-03"
+      },
+      {
+        "id": "community_engagement_regenerative_community_engagement_platform",
+        "name": "再生型 コミュニティ 参加 プラットフォーム",
+        "sub_node_id": "community_engagement",
+        "era_id": "era-04"
+      },
+      {
+        "id": "community_engagement_autonomous_city_district_network",
+        "name": "自律型 City 地区 ネットワーク",
+        "sub_node_id": "community_engagement",
+        "era_id": "era-03"
+      },
+      {
+        "id": "urban_mobility_regenerative_urban_mobility_operating_system",
+        "name": "再生型 都市 モビリティ オペレーティングシステム",
+        "sub_node_id": "urban_mobility",
+        "era_id": "era-04"
+      },
+      {
+        "id": "urban_mobility_autonomous_city_district_marketplace",
+        "name": "自律型 City 地区 マーケットプレイス",
+        "sub_node_id": "urban_mobility",
+        "era_id": "era-03"
+      },
+      {
+        "id": "sustainable_infrastructure_regenerative_sustainable_infrastructure_lab",
+        "name": "再生型 持続可能 インフラ ラボ",
+        "sub_node_id": "sustainable_infrastructure",
+        "era_id": "era-04"
+      },
+      {
+        "id": "sustainable_infrastructure_autonomous_city_district_cloud",
+        "name": "自律型 City 地区 クラウド",
+        "sub_node_id": "sustainable_infrastructure",
+        "era_id": "era-03"
+      },
+      {
+        "id": "disaster_resilience_regenerative_disaster_resilience_infrastructure",
+        "name": "再生型 災害 レジリエンス インフラ",
+        "sub_node_id": "disaster_resilience",
+        "era_id": "era-04"
+      },
+      {
+        "id": "disaster_resilience_autonomous_city_district_platform",
+        "name": "自律型 City 地区 プラットフォーム",
+        "sub_node_id": "disaster_resilience",
+        "era_id": "era-03"
+      },
+      {
+        "id": "waste_recycling_regenerative_waste_and_recycling_systems_marketplace",
+        "name": "再生型 廃棄物 & リサイクル システム マーケットプレイス",
+        "sub_node_id": "waste_recycling",
+        "era_id": "era-04"
+      },
+      {
+        "id": "waste_recycling_profitable_vertical_farms_lab",
+        "name": "収益性ある 垂直 Farms ラボ",
+        "sub_node_id": "waste_recycling",
+        "era_id": "era-01"
+      },
+      {
+        "id": "urban_agriculture_regenerative_urban_agriculture_cloud",
+        "name": "再生型 都市 農業 クラウド",
+        "sub_node_id": "urban_agriculture",
+        "era_id": "era-04"
+      },
+      {
+        "id": "urban_agriculture_autonomous_city_district_console",
+        "name": "自律型 City 地区 コンソール",
+        "sub_node_id": "urban_agriculture",
+        "era_id": "era-03"
+      },
+      {
+        "id": "digital_twins_regenerative_urban_digital_twins_service",
+        "name": "再生型 都市 デジタル ツイン サービス",
+        "sub_node_id": "digital_twins",
+        "era_id": "era-04"
+      },
+      {
+        "id": "digital_twins_autonomous_city_district_operating_system",
+        "name": "自律型 City 地区 オペレーティングシステム",
+        "sub_node_id": "digital_twins",
+        "era_id": "era-03"
+      }
+    ]
+  },
+  {
+    "node_id": "government_public_services",
+    "business_opportunities": [
+      {
+        "id": "e_government_ai_e_government_and_digital_identity_studio",
+        "name": "AI E-Government & デジタル アイデンティティ スタジオ",
+        "sub_node_id": "e_government",
+        "era_id": "era-01"
+      },
+      {
+        "id": "e_government_earth_moon_digital_currency_gains_service",
+        "name": "地球 月 デジタル 通貨 獲得 サービス",
+        "sub_node_id": "e_government",
+        "era_id": "era-02"
+      },
+      {
+        "id": "public_policy_ai_public_policy_service",
+        "name": "AI 公共 政策 サービス",
+        "sub_node_id": "public_policy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "public_policy_lunar_property_rights_framework_operating_system",
+        "name": "月面 不動産 Rights Framework オペレーティングシステム",
+        "sub_node_id": "public_policy",
+        "era_id": "era-02"
+      },
+      {
+        "id": "civic_tech_ai_civic_tech_platform",
+        "name": "AI 市民 テック プラットフォーム",
+        "sub_node_id": "civic_tech",
+        "era_id": "era-01"
+      },
+      {
+        "id": "civic_tech_lunar_property_rights_framework_network",
+        "name": "月面 不動産 Rights Framework ネットワーク",
+        "sub_node_id": "civic_tech",
+        "era_id": "era-02"
+      },
+      {
+        "id": "public_healthcare_systems_ai_public_healthcare_systems_marketplace",
+        "name": "AI 公共 Healthcare システム マーケットプレイス",
+        "sub_node_id": "public_healthcare_systems",
+        "era_id": "era-01"
+      },
+      {
+        "id": "public_healthcare_systems_lunar_property_rights_framework_lab",
+        "name": "月面 不動産 Rights Framework ラボ",
+        "sub_node_id": "public_healthcare_systems",
+        "era_id": "era-02"
+      },
+      {
+        "id": "infrastructure_funding_regenerative_infrastructure_funding_studio",
+        "name": "再生型 インフラ 資金調達 スタジオ",
+        "sub_node_id": "infrastructure_funding",
+        "era_id": "era-04"
+      },
+      {
+        "id": "infrastructure_funding_autonomous_ai_governments_manage_service",
+        "name": "自律型 AI Governments Manage サービス",
+        "sub_node_id": "infrastructure_funding",
+        "era_id": "era-05"
+      },
+      {
+        "id": "social_welfare_ai_social_welfare_operating_system",
+        "name": "AI 社会 福祉 オペレーティングシステム",
+        "sub_node_id": "social_welfare",
+        "era_id": "era-01"
+      },
+      {
+        "id": "social_welfare_lunar_property_rights_framework_marketplace",
+        "name": "月面 不動産 Rights Framework マーケットプレイス",
+        "sub_node_id": "social_welfare",
+        "era_id": "era-02"
+      },
+      {
+        "id": "regulatory_compliance_ai_regulatory_compliance_network",
+        "name": "AI 規制 コンプライアンス ネットワーク",
+        "sub_node_id": "regulatory_compliance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "regulatory_compliance_lunar_property_rights_framework_studio",
+        "name": "月面 不動産 Rights Framework スタジオ",
+        "sub_node_id": "regulatory_compliance",
+        "era_id": "era-02"
+      },
+      {
+        "id": "emergency_services_ai_emergency_response_services_console",
+        "name": "AI 緊急 対応 サービス コンソール",
+        "sub_node_id": "emergency_services",
+        "era_id": "era-01"
+      },
+      {
+        "id": "emergency_services_interplanetary_emergency_response_alliance_infrastructure",
+        "name": "Interplanetary 緊急 対応 同盟 インフラ",
+        "sub_node_id": "emergency_services",
+        "era_id": "era-02"
+      },
+      {
+        "id": "smart_governance_ai_smart_governance_lab",
+        "name": "AI スマート ガバナンス ラボ",
+        "sub_node_id": "smart_governance",
+        "era_id": "era-01"
+      },
+      {
+        "id": "smart_governance_lunar_property_rights_framework_cloud",
+        "name": "月面 不動産 Rights Framework クラウド",
+        "sub_node_id": "smart_governance",
+        "era_id": "era-02"
+      },
+      {
+        "id": "open_data_ai_open_data_initiatives_infrastructure",
+        "name": "AI オープン データ イニシアチブ インフラ",
+        "sub_node_id": "open_data",
+        "era_id": "era-01"
+      },
+      {
+        "id": "open_data_lunar_property_rights_framework_platform",
+        "name": "月面 不動産 Rights Framework プラットフォーム",
+        "sub_node_id": "open_data",
+        "era_id": "era-02"
+      }
+    ]
+  },
+  {
+    "node_id": "security_safety",
+    "business_opportunities": [
+      {
+        "id": "cybersecurity_ai_cybersecurity_service",
+        "name": "AI サイバーセキュリティ サービス",
+        "sub_node_id": "cybersecurity",
+        "era_id": "era-01"
+      },
+      {
+        "id": "cybersecurity_debris_cleanup_network_operating_system",
+        "name": "デブリ 清掃 Network オペレーティングシステム",
+        "sub_node_id": "cybersecurity",
+        "era_id": "era-02"
+      },
+      {
+        "id": "physical_security_ai_physical_security_cloud",
+        "name": "AI 物理的 セキュリティ クラウド",
+        "sub_node_id": "physical_security",
+        "era_id": "era-01"
+      },
+      {
+        "id": "physical_security_debris_cleanup_network_console",
+        "name": "デブリ 清掃 Network コンソール",
+        "sub_node_id": "physical_security",
+        "era_id": "era-02"
+      },
+      {
+        "id": "surveillance_systems_ai_surveillance_systems_platform",
+        "name": "AI 監視 システム プラットフォーム",
+        "sub_node_id": "surveillance_systems",
+        "era_id": "era-01"
+      },
+      {
+        "id": "surveillance_systems_aigenerated_films_and_games_network",
+        "name": "AI-Generated 映画 And ゲーム ネットワーク",
+        "sub_node_id": "surveillance_systems",
+        "era_id": "era-01"
+      },
+      {
+        "id": "biometrics_ai_biometrics_platform",
+        "name": "AI 生体認証 プラットフォーム",
+        "sub_node_id": "biometrics",
+        "era_id": "era-01"
+      },
+      {
+        "id": "biometrics_debris_cleanup_network_network",
+        "name": "デブリ 清掃 Network ネットワーク",
+        "sub_node_id": "biometrics",
+        "era_id": "era-02"
+      },
+      {
+        "id": "disaster_recovery_regenerative_disaster_recovery_cloud",
+        "name": "再生型 災害 復旧 クラウド",
+        "sub_node_id": "disaster_recovery",
+        "era_id": "era-04"
+      },
+      {
+        "id": "disaster_recovery_disaster_robot_fleets_console",
+        "name": "災害 Robot Fleets コンソール",
+        "sub_node_id": "disaster_recovery",
+        "era_id": "era-01"
+      },
+      {
+        "id": "data_privacy_ai_data_privacy_studio",
+        "name": "AI データ プライバシー スタジオ",
+        "sub_node_id": "data_privacy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "data_privacy_debris_cleanup_network_service",
+        "name": "デブリ 清掃 Network サービス",
+        "sub_node_id": "data_privacy",
+        "era_id": "era-02"
+      },
+      {
+        "id": "national_defense_ai_national_defense_lab",
+        "name": "AI 国家 防衛 ラボ",
+        "sub_node_id": "national_defense",
+        "era_id": "era-01"
+      },
+      {
+        "id": "national_defense_lunar_property_rights_framework_cloud",
+        "name": "月面 不動産 Rights Framework クラウド",
+        "sub_node_id": "national_defense",
+        "era_id": "era-02"
+      },
+      {
+        "id": "law_enforcement_tech_regenerative_law_enforcement_tech_platform",
+        "name": "再生型 法 執行 テック プラットフォーム",
+        "sub_node_id": "law_enforcement_tech",
+        "era_id": "era-04"
+      },
+      {
+        "id": "law_enforcement_tech_disaster_robot_fleets_network",
+        "name": "災害 Robot Fleets ネットワーク",
+        "sub_node_id": "law_enforcement_tech",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fire_safety_ai_fire_safety_network",
+        "name": "AI 火災 安全 ネットワーク",
+        "sub_node_id": "fire_safety",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fire_safety_debris_cleanup_network_studio",
+        "name": "デブリ 清掃 Network スタジオ",
+        "sub_node_id": "fire_safety",
+        "era_id": "era-02"
+      },
+      {
+        "id": "fraud_detection_ai_fraud_detection_marketplace",
+        "name": "AI 不正 検知 マーケットプレイス",
+        "sub_node_id": "fraud_detection",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fraud_detection_debris_cleanup_network_lab",
+        "name": "デブリ 清掃 Network ラボ",
+        "sub_node_id": "fraud_detection",
+        "era_id": "era-02"
+      }
+    ]
+  },
+  {
+    "node_id": "communication",
+    "business_opportunities": [
+      {
+        "id": "telecommunications_autonomous_telecommunications_5g_6g_console",
+        "name": "自律型 通信 (5G/6G) コンソール",
+        "sub_node_id": "telecommunications",
+        "era_id": "era-02"
+      },
+      {
+        "id": "telecommunications_quantum_communication_networks_infrastructure",
+        "name": "量子 通信 ネットワーク インフラ",
+        "sub_node_id": "telecommunications",
+        "era_id": "era-03"
+      },
+      {
+        "id": "satellite_internet_autonomous_satellite_internet_console",
+        "name": "自律型 衛星 インターネット コンソール",
+        "sub_node_id": "satellite_internet",
+        "era_id": "era-02"
+      },
+      {
+        "id": "satellite_internet_quantum_communication_networks_infrastructure",
+        "name": "量子 通信 ネットワーク インフラ",
+        "sub_node_id": "satellite_internet",
+        "era_id": "era-03"
+      },
+      {
+        "id": "social_media_autonomous_social_media_studio",
+        "name": "自律型 社会 メディア スタジオ",
+        "sub_node_id": "social_media",
+        "era_id": "era-02"
+      },
+      {
+        "id": "social_media_quantum_communication_networks_service",
+        "name": "量子 通信 ネットワーク サービス",
+        "sub_node_id": "social_media",
+        "era_id": "era-03"
+      },
+      {
+        "id": "enterprise_collaboration_autonomous_enterprise_collaboration_tools_operating_system",
+        "name": "自律型 企業 協働 ツール オペレーティングシステム",
+        "sub_node_id": "enterprise_collaboration",
+        "era_id": "era-02"
+      },
+      {
+        "id": "enterprise_collaboration_quantum_communication_networks_marketplace",
+        "name": "量子 通信 ネットワーク マーケットプレイス",
+        "sub_node_id": "enterprise_collaboration",
+        "era_id": "era-03"
+      },
+      {
+        "id": "iot_connectivity_autonomous_iot_connectivity_lab",
+        "name": "自律型 IoT 接続 ラボ",
+        "sub_node_id": "iot_connectivity",
+        "era_id": "era-02"
+      },
+      {
+        "id": "iot_connectivity_quantum_communication_networks_cloud",
+        "name": "量子 通信 ネットワーク クラウド",
+        "sub_node_id": "iot_connectivity",
+        "era_id": "era-03"
+      },
+      {
+        "id": "quantum_communication_autonomous_quantum_communication_network",
+        "name": "自律型 量子 通信 ネットワーク",
+        "sub_node_id": "quantum_communication",
+        "era_id": "era-02"
+      },
+      {
+        "id": "quantum_communication_quantum_communication_networks_studio",
+        "name": "量子 通信 ネットワーク スタジオ",
+        "sub_node_id": "quantum_communication",
+        "era_id": "era-03"
+      },
+      {
+        "id": "broadcasting_autonomous_broadcasting_infrastructure_studio",
+        "name": "自律型 放送 インフラ スタジオ",
+        "sub_node_id": "broadcasting",
+        "era_id": "era-02"
+      },
+      {
+        "id": "broadcasting_quantum_communication_networks_service",
+        "name": "量子 通信 ネットワーク サービス",
+        "sub_node_id": "broadcasting",
+        "era_id": "era-03"
+      },
+      {
+        "id": "network_architecture_autonomous_network_architecture_platform",
+        "name": "自律型 Network アーキテクチャ プラットフォーム",
+        "sub_node_id": "network_architecture",
+        "era_id": "era-02"
+      },
+      {
+        "id": "network_architecture_quantum_communication_networks_network",
+        "name": "量子 通信 ネットワーク ネットワーク",
+        "sub_node_id": "network_architecture",
+        "era_id": "era-03"
+      },
+      {
+        "id": "unified_communications_autonomous_unified_communications_studio",
+        "name": "自律型 統合 Communications スタジオ",
+        "sub_node_id": "unified_communications",
+        "era_id": "era-02"
+      },
+      {
+        "id": "unified_communications_quantum_communication_networks_service",
+        "name": "量子 通信 ネットワーク サービス",
+        "sub_node_id": "unified_communications",
+        "era_id": "era-03"
+      },
+      {
+        "id": "interoperability_autonomous_cross_platform_interoperability_lab",
+        "name": "自律型 Cross-Platform 相互運用性 ラボ",
+        "sub_node_id": "interoperability",
+        "era_id": "era-02"
+      },
+      {
+        "id": "interoperability_quantum_communication_networks_cloud",
+        "name": "量子 通信 ネットワーク クラウド",
+        "sub_node_id": "interoperability",
+        "era_id": "era-03"
+      }
+    ]
+  },
+  {
+    "node_id": "entertainment_media",
+    "business_opportunities": [
+      {
+        "id": "streaming_services_ai_streaming_services_console",
+        "name": "AI ストリーミング サービス コンソール",
+        "sub_node_id": "streaming_services",
+        "era_id": "era-01"
+      },
+      {
+        "id": "streaming_services_cashless_economies_dominate_most_infrastructure",
+        "name": "キャッシュレス 経済 支配 大半 インフラ",
+        "sub_node_id": "streaming_services",
+        "era_id": "era-01"
+      },
+      {
+        "id": "gaming_esports_interstellar_gaming_and_esports_operating_system",
+        "name": "星間 ゲーム & eスポーツ オペレーティングシステム",
+        "sub_node_id": "gaming_esports",
+        "era_id": "era-06"
+      },
+      {
+        "id": "gaming_esports_reputation_economies_traditional_marketplace",
+        "name": "評判 経済 伝統的 マーケットプレイス",
+        "sub_node_id": "gaming_esports",
+        "era_id": "era-06"
+      },
+      {
+        "id": "virtual_reality_media_interstellar_vr_and_ar_media_network",
+        "name": "星間 VR & AR メディア ネットワーク",
+        "sub_node_id": "virtual_reality_media",
+        "era_id": "era-06"
+      },
+      {
+        "id": "virtual_reality_media_reputation_economies_traditional_studio",
+        "name": "評判 経済 伝統的 スタジオ",
+        "sub_node_id": "virtual_reality_media",
+        "era_id": "era-06"
+      },
+      {
+        "id": "generative_ai_art_galactic_generative_ai_art_and_content_cloud",
+        "name": "Galactic 生成 AI アート & コンテンツ クラウド",
+        "sub_node_id": "generative_ai_art",
+        "era_id": "era-08"
+      },
+      {
+        "id": "generative_ai_art_aigenerated_films_and_games_console",
+        "name": "AI-Generated 映画 And ゲーム コンソール",
+        "sub_node_id": "generative_ai_art",
+        "era_id": "era-01"
+      },
+      {
+        "id": "digital_journalism_post_biological_digital_journalism_console",
+        "name": "Post-Biological デジタル ジャーナリズム コンソール",
+        "sub_node_id": "digital_journalism",
+        "era_id": "era-07"
+      },
+      {
+        "id": "digital_journalism_aigenerated_films_and_games_infrastructure",
+        "name": "AI-Generated 映画 And ゲーム インフラ",
+        "sub_node_id": "digital_journalism",
+        "era_id": "era-01"
+      },
+      {
+        "id": "podcasting_audio_interstellar_podcasting_and_audio_content_lab",
+        "name": "星間 ポッドキャスト & 音声 コンテンツ ラボ",
+        "sub_node_id": "podcasting_audio",
+        "era_id": "era-06"
+      },
+      {
+        "id": "podcasting_audio_reputation_economies_traditional_cloud",
+        "name": "評判 経済 伝統的 クラウド",
+        "sub_node_id": "podcasting_audio",
+        "era_id": "era-06"
+      },
+      {
+        "id": "cinema_film_ai_cinema_and_film_production_network",
+        "name": "AI 映画 & 映画 制作 ネットワーク",
+        "sub_node_id": "cinema_film",
+        "era_id": "era-01"
+      },
+      {
+        "id": "cinema_film_programmable_matter_industrial_production_studio",
+        "name": "プログラム可能 物質 産業用 制作 スタジオ",
+        "sub_node_id": "cinema_film",
+        "era_id": "era-03"
+      },
+      {
+        "id": "music_industry_post_biological_music_industry_tech_operating_system",
+        "name": "Post-Biological 音楽 産業 テック オペレーティングシステム",
+        "sub_node_id": "music_industry",
+        "era_id": "era-07"
+      },
+      {
+        "id": "music_industry_programmable_smart_materials_marketplace",
+        "name": "プログラム可能 スマート 材料 マーケットプレイス",
+        "sub_node_id": "music_industry",
+        "era_id": "era-01"
+      },
+      {
+        "id": "copyright_nft_post_biological_copyright_and_digital_ownership_service",
+        "name": "Post-Biological 著作権 & デジタル 所有権 サービス",
+        "sub_node_id": "copyright_nft",
+        "era_id": "era-07"
+      },
+      {
+        "id": "copyright_nft_ownership_evolves_shared_access_operating_system",
+        "name": "所有権 Evolves 共有 アクセス オペレーティングシステム",
+        "sub_node_id": "copyright_nft",
+        "era_id": "era-07"
+      },
+      {
+        "id": "live_events_post_biological_live_events_and_concerts_network",
+        "name": "Post-Biological ライブ イベント & コンサート ネットワーク",
+        "sub_node_id": "live_events",
+        "era_id": "era-07"
+      },
+      {
+        "id": "live_events_ai_crop_protection_studio",
+        "name": "AI 作物 保護 スタジオ",
+        "sub_node_id": "live_events",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "science_research",
+    "business_opportunities": [
+      {
+        "id": "quantum_computing_post_scarcity_quantum_computing_cloud",
+        "name": "ポスト希少性 量子 コンピューティング クラウド",
+        "sub_node_id": "quantum_computing",
+        "era_id": "era-03"
+      },
+      {
+        "id": "quantum_computing_practical_quantum_computing_solves_console",
+        "name": "実用 量子 コンピューティング 解決 コンソール",
+        "sub_node_id": "quantum_computing",
+        "era_id": "era-05"
+      },
+      {
+        "id": "biotechnology_ai_biotechnology_service",
+        "name": "AI バイオテクノロジー サービス",
+        "sub_node_id": "biotechnology",
+        "era_id": "era-01"
+      },
+      {
+        "id": "biotechnology_artificial_womb_research_operating_system",
+        "name": "人工 子宮 研究 オペレーティングシステム",
+        "sub_node_id": "biotechnology",
+        "era_id": "era-02"
+      },
+      {
+        "id": "artificial_intelligence_multi_world_artificial_intelligence_service",
+        "name": "マルチワールド 人工 知能 サービス",
+        "sub_node_id": "artificial_intelligence",
+        "era_id": "era-05"
+      },
+      {
+        "id": "artificial_intelligence_ai_generated_medicines_operating_system",
+        "name": "AI-Generated 医薬品 オペレーティングシステム",
+        "sub_node_id": "artificial_intelligence",
+        "era_id": "era-01"
+      },
+      {
+        "id": "nanotechnology_multi_world_nanotechnology_operating_system",
+        "name": "マルチワールド ナノテクノロジー オペレーティングシステム",
+        "sub_node_id": "nanotechnology",
+        "era_id": "era-05"
+      },
+      {
+        "id": "nanotechnology_artificial_wormhole_research_produces_marketplace",
+        "name": "人工 ワームホール 研究 生成 マーケットプレイス",
+        "sub_node_id": "nanotechnology",
+        "era_id": "era-06"
+      },
+      {
+        "id": "neuroscience_multi_world_neuroscience_studio",
+        "name": "マルチワールド 神経科学 スタジオ",
+        "sub_node_id": "neuroscience",
+        "era_id": "era-05"
+      },
+      {
+        "id": "neuroscience_artificial_wormhole_research_produces_service",
+        "name": "人工 ワームホール 研究 生成 サービス",
+        "sub_node_id": "neuroscience",
+        "era_id": "era-06"
+      },
+      {
+        "id": "particle_physics_multi_world_particle_physics_lab",
+        "name": "マルチワールド 粒子 物理学 ラボ",
+        "sub_node_id": "particle_physics",
+        "era_id": "era-05"
+      },
+      {
+        "id": "particle_physics_artificial_wormhole_research_produces_cloud",
+        "name": "人工 ワームホール 研究 生成 クラウド",
+        "sub_node_id": "particle_physics",
+        "era_id": "era-06"
+      },
+      {
+        "id": "climate_science_multi_world_climate_science_marketplace",
+        "name": "マルチワールド 気候 科学 マーケットプレイス",
+        "sub_node_id": "climate_science",
+        "era_id": "era-05"
+      },
+      {
+        "id": "climate_science_artificial_wormhole_research_produces_lab",
+        "name": "人工 ワームホール 研究 生成 ラボ",
+        "sub_node_id": "climate_science",
+        "era_id": "era-06"
+      },
+      {
+        "id": "genomics_multi_world_genomics_console",
+        "name": "マルチワールド ゲノミクス コンソール",
+        "sub_node_id": "genomics",
+        "era_id": "era-05"
+      },
+      {
+        "id": "genomics_artificial_wormhole_research_produces_infrastructure",
+        "name": "人工 ワームホール 研究 生成 インフラ",
+        "sub_node_id": "genomics",
+        "era_id": "era-06"
+      },
+      {
+        "id": "materials_discovery_multi_world_materials_discovery_infrastructure",
+        "name": "マルチワールド 材料 発見 インフラ",
+        "sub_node_id": "materials_discovery",
+        "era_id": "era-05"
+      },
+      {
+        "id": "materials_discovery_artificial_wormhole_research_produces_platform",
+        "name": "人工 ワームホール 研究 生成 プラットフォーム",
+        "sub_node_id": "materials_discovery",
+        "era_id": "era-06"
+      },
+      {
+        "id": "academic_publishing_multi_world_open_science_and_academic_publishing_infrastructure",
+        "name": "マルチワールド オープン 科学 & 学術 出版 インフラ",
+        "sub_node_id": "academic_publishing",
+        "era_id": "era-05"
+      },
+      {
+        "id": "academic_publishing_artificial_wormhole_research_produces_platform",
+        "name": "人工 ワームホール 研究 生成 プラットフォーム",
+        "sub_node_id": "academic_publishing",
+        "era_id": "era-06"
+      }
+    ]
+  },
+  {
+    "node_id": "space_civilization",
+    "business_opportunities": [
+      {
+        "id": "space_exploration_ai_space_exploration_cloud",
+        "name": "AI 宇宙 探査 クラウド",
+        "sub_node_id": "space_exploration",
+        "era_id": "era-01"
+      },
+      {
+        "id": "space_exploration_commercial_orbital_hotel_opens_console",
+        "name": "商業 軌道 Hotel 開業 コンソール",
+        "sub_node_id": "space_exploration",
+        "era_id": "era-01"
+      },
+      {
+        "id": "satellite_deployment_ai_satellite_deployment_platform",
+        "name": "AI 衛星 展開 プラットフォーム",
+        "sub_node_id": "satellite_deployment",
+        "era_id": "era-01"
+      },
+      {
+        "id": "satellite_deployment_commercial_orbital_hotel_opens_network",
+        "name": "商業 軌道 Hotel 開業 ネットワーク",
+        "sub_node_id": "satellite_deployment",
+        "era_id": "era-01"
+      },
+      {
+        "id": "mars_colonization_ai_mars_colonization_cloud",
+        "name": "AI 火星 植民 クラウド",
+        "sub_node_id": "mars_colonization",
+        "era_id": "era-01"
+      },
+      {
+        "id": "mars_colonization_commercial_orbital_hotel_opens_console",
+        "name": "商業 軌道 Hotel 開業 コンソール",
+        "sub_node_id": "mars_colonization",
+        "era_id": "era-01"
+      },
+      {
+        "id": "asteroid_mining_post_scarcity_asteroid_mining_marketplace",
+        "name": "ポスト希少性 小惑星 採掘 マーケットプレイス",
+        "sub_node_id": "asteroid_mining",
+        "era_id": "era-03"
+      },
+      {
+        "id": "asteroid_mining_asteroid_mining_a_major_lab",
+        "name": "小惑星 採掘 a Major ラボ",
+        "sub_node_id": "asteroid_mining",
+        "era_id": "era-04"
+      },
+      {
+        "id": "space_tourism_autonomous_space_tourism_service",
+        "name": "自律型 宇宙 観光 サービス",
+        "sub_node_id": "space_tourism",
+        "era_id": "era-02"
+      },
+      {
+        "id": "space_tourism_autonomous_lunar_construction_site_operating_system",
+        "name": "自律型 月面 建設 Site オペレーティングシステム",
+        "sub_node_id": "space_tourism",
+        "era_id": "era-01"
+      },
+      {
+        "id": "orbital_habitats_post_scarcity_orbital_habitats_lab",
+        "name": "ポスト希少性 軌道 居住地 ラボ",
+        "sub_node_id": "orbital_habitats",
+        "era_id": "era-03"
+      },
+      {
+        "id": "orbital_habitats_asteroid_mining_a_major_cloud",
+        "name": "小惑星 採掘 a Major クラウド",
+        "sub_node_id": "orbital_habitats",
+        "era_id": "era-04"
+      },
+      {
+        "id": "astrobiology_ai_astrobiology_studio",
+        "name": "AI 宇宙生物学 スタジオ",
+        "sub_node_id": "astrobiology",
+        "era_id": "era-01"
+      },
+      {
+        "id": "astrobiology_commercial_orbital_hotel_opens_service",
+        "name": "商業 軌道 Hotel 開業 サービス",
+        "sub_node_id": "astrobiology",
+        "era_id": "era-01"
+      },
+      {
+        "id": "space_law_ai_space_law_and_governance_infrastructure",
+        "name": "AI 宇宙 法 & ガバナンス インフラ",
+        "sub_node_id": "space_law",
+        "era_id": "era-01"
+      },
+      {
+        "id": "space_law_commercial_orbital_hotel_opens_platform",
+        "name": "商業 軌道 Hotel 開業 プラットフォーム",
+        "sub_node_id": "space_law",
+        "era_id": "era-01"
+      },
+      {
+        "id": "propulsion_systems_ai_advanced_propulsion_systems_console",
+        "name": "AI Advanced 推進 システム コンソール",
+        "sub_node_id": "propulsion_systems",
+        "era_id": "era-01"
+      },
+      {
+        "id": "propulsion_systems_commercial_orbital_hotel_opens_infrastructure",
+        "name": "商業 軌道 Hotel 開業 インフラ",
+        "sub_node_id": "propulsion_systems",
+        "era_id": "era-01"
+      },
+      {
+        "id": "space_debris_ai_space_debris_mitigation_studio",
+        "name": "AI 宇宙 デブリ 軽減 スタジオ",
+        "sub_node_id": "space_debris",
+        "era_id": "era-01"
+      },
+      {
+        "id": "space_debris_commercial_orbital_hotel_opens_service",
+        "name": "商業 軌道 Hotel 開業 サービス",
+        "sub_node_id": "space_debris",
+        "era_id": "era-01"
+      }
+    ]
+  },
+  {
+    "node_id": "culture_lifestyle",
+    "business_opportunities": [
+      {
+        "id": "fashion_design_ai_fashion_and_design_operating_system",
+        "name": "AI ファッション & デザイン オペレーティングシステム",
+        "sub_node_id": "fashion_design",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fashion_design_ai_crop_protection_marketplace",
+        "name": "AI 作物 保護 マーケットプレイス",
+        "sub_node_id": "fashion_design",
+        "era_id": "era-01"
+      },
+      {
+        "id": "digital_nomadism_ai_digital_nomadism_lab",
+        "name": "AI デジタル ノマド ラボ",
+        "sub_node_id": "digital_nomadism",
+        "era_id": "era-01"
+      },
+      {
+        "id": "digital_nomadism_seamless_translation_cloud",
+        "name": "シームレス 翻訳 クラウド",
+        "sub_node_id": "digital_nomadism",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fitness_wellness_ai_fitness_and_wellness_lab",
+        "name": "AI フィットネス & ウェルネス ラボ",
+        "sub_node_id": "fitness_wellness",
+        "era_id": "era-01"
+      },
+      {
+        "id": "fitness_wellness_ai_crop_protection_cloud",
+        "name": "AI 作物 保護 クラウド",
+        "sub_node_id": "fitness_wellness",
+        "era_id": "era-01"
+      },
+      {
+        "id": "art_museums_ai_art_and_museums_network",
+        "name": "AI アート & 博物館 ネットワーク",
+        "sub_node_id": "art_museums",
+        "era_id": "era-01"
+      },
+      {
+        "id": "art_museums_ai_crop_protection_studio",
+        "name": "AI 作物 保護 スタジオ",
+        "sub_node_id": "art_museums",
+        "era_id": "era-01"
+      },
+      {
+        "id": "gastronomy_ai_gastronomy_and_food_culture_platform",
+        "name": "AI 美食 & 食品 文化 プラットフォーム",
+        "sub_node_id": "gastronomy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "gastronomy_ai_crop_protection_network",
+        "name": "AI 作物 保護 ネットワーク",
+        "sub_node_id": "gastronomy",
+        "era_id": "era-01"
+      },
+      {
+        "id": "mindfulness_ai_mindfulness_and_personal_growth_network",
+        "name": "AI マインドフルネス & 個人 成長 ネットワーク",
+        "sub_node_id": "mindfulness",
+        "era_id": "era-01"
+      },
+      {
+        "id": "mindfulness_ai_crop_protection_studio",
+        "name": "AI 作物 保護 スタジオ",
+        "sub_node_id": "mindfulness",
+        "era_id": "era-01"
+      },
+      {
+        "id": "subcultures_ai_digital_subcultures_network",
+        "name": "AI デジタル サブカルチャー ネットワーク",
+        "sub_node_id": "subcultures",
+        "era_id": "era-01"
+      },
+      {
+        "id": "subcultures_seamless_translation_studio",
+        "name": "シームレス 翻訳 スタジオ",
+        "sub_node_id": "subcultures",
+        "era_id": "era-01"
+      },
+      {
+        "id": "heritage_preservation_ai_heritage_preservation_network",
+        "name": "AI 遺産 保存 ネットワーク",
+        "sub_node_id": "heritage_preservation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "heritage_preservation_ai_crop_protection_studio",
+        "name": "AI 作物 保護 スタジオ",
+        "sub_node_id": "heritage_preservation",
+        "era_id": "era-01"
+      },
+      {
+        "id": "hobbies_leisure_ai_hobbies_and_leisure_marketplace",
+        "name": "AI 趣味 & 余暇 マーケットプレイス",
+        "sub_node_id": "hobbies_leisure",
+        "era_id": "era-01"
+      },
+      {
+        "id": "hobbies_leisure_ai_crop_protection_lab",
+        "name": "AI 作物 保護 ラボ",
+        "sub_node_id": "hobbies_leisure",
+        "era_id": "era-01"
+      },
+      {
+        "id": "social_trends_ai_social_trends_and_dynamics_service",
+        "name": "AI 社会 トレンド & ダイナミクス サービス",
+        "sub_node_id": "social_trends",
+        "era_id": "era-01"
+      },
+      {
+        "id": "social_trends_ai_crop_protection_operating_system",
+        "name": "AI 作物 保護 オペレーティングシステム",
+        "sub_node_id": "social_trends",
+        "era_id": "era-01"
+      }
+    ]
+  }
+]

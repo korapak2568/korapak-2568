@@ -13,11 +13,8 @@ export function IsActiveNavbar(pathname: string, navbar: INavbar): boolean {
 
         const withoutQuery = path.split('?')[0].split('#')[0];
         const withLeadingSlash = withoutQuery.startsWith('/') ? withoutQuery : `/${withoutQuery}`;
-        const withoutTrailingSlash = withLeadingSlash.length > 1 && withLeadingSlash.endsWith('/')
-            ? withLeadingSlash.slice(0, -1)
-            : withLeadingSlash;
 
-        return withoutTrailingSlash;
+        return withLeadingSlash.endsWith('/') ? withLeadingSlash : `${withLeadingSlash}/`;
     };
     const stripLocale = (path: string): string => {
         const normalizedPath = normalizePath(path);
@@ -25,8 +22,7 @@ export function IsActiveNavbar(pathname: string, navbar: INavbar): boolean {
         const localePattern = /^[a-z]{2}(?:-[a-z]{2})?$/i;
 
         if (segments.length > 0 && localePattern.test(segments[0])) {
-            const strippedPath = `/${segments.slice(1).join('/')}`;
-            return strippedPath === '/' ? '/' : normalizePath(strippedPath);
+            return normalizePath(`/${segments.slice(1).join('/')}`);
         }
 
         return normalizedPath;
@@ -41,7 +37,7 @@ export function IsActiveNavbar(pathname: string, navbar: INavbar): boolean {
         return normalizedPathname === '/';
     }
 
-    if (activeCandidates.some((link) => normalizedPathname === link || normalizedPathname.startsWith(`${link}/`))) {
+    if (activeCandidates.some((link) => normalizedPathname === link || normalizedPathname.startsWith(link))) {
         return true;
     }
 

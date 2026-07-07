@@ -1,0 +1,922 @@
+[
+  {
+    "id": "housing_real_estate",
+    "name": "Perumahan dan Properti",
+    "sub_nodes": [
+      {
+        "id": "smart_home",
+        "name": "Rumah Cerdas"
+      },
+      {
+        "id": "apartment",
+        "name": "Apartemen"
+      },
+      {
+        "id": "condominium",
+        "name": "Kondominium"
+      },
+      {
+        "id": "luxury_villa",
+        "name": "Vila Mewah"
+      },
+      {
+        "id": "construction",
+        "name": "Konstruksi"
+      },
+      {
+        "id": "property_management",
+        "name": "Manajemen Properti"
+      },
+      {
+        "id": "facility_management",
+        "name": "Manajemen Fasilitas"
+      },
+      {
+        "id": "architecture",
+        "name": "Arsitektur"
+      },
+      {
+        "id": "interior_design",
+        "name": "Desain Interior"
+      },
+      {
+        "id": "urban_planning",
+        "name": "Perencanaan Kota"
+      }
+    ]
+  },
+  {
+    "id": "healthcare",
+    "name": "Kesehatan",
+    "sub_nodes": [
+      {
+        "id": "hospital",
+        "name": "Rumah Sakit"
+      },
+      {
+        "id": "clinic",
+        "name": "Klinik"
+      },
+      {
+        "id": "mental_health",
+        "name": "Kesehatan Mental"
+      },
+      {
+        "id": "preventive_care",
+        "name": "Perawatan Preventif"
+      },
+      {
+        "id": "ai_diagnosis",
+        "name": "Diagnosis AI"
+      },
+      {
+        "id": "longevity",
+        "name": "Umur Panjang Sehat"
+      },
+      {
+        "id": "genetics",
+        "name": "Genetika"
+      },
+      {
+        "id": "telemedicine",
+        "name": "Telemedisin"
+      },
+      {
+        "id": "pharmacy",
+        "name": "Farmasi"
+      },
+      {
+        "id": "rehabilitation",
+        "name": "Rehabilitasi"
+      }
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Pendidikan",
+    "sub_nodes": [
+      {
+        "id": "k12_education",
+        "name": "Pendidikan K-12"
+      },
+      {
+        "id": "higher_education",
+        "name": "Pendidikan Tinggi"
+      },
+      {
+        "id": "online_learning",
+        "name": "Pembelajaran Online dan EdTech"
+      },
+      {
+        "id": "vocational_training",
+        "name": "Pelatihan Vokasi"
+      },
+      {
+        "id": "lifelong_learning",
+        "name": "Pembelajaran Sepanjang Hayat"
+      },
+      {
+        "id": "special_education",
+        "name": "Pendidikan Khusus"
+      },
+      {
+        "id": "curriculum_development",
+        "name": "Pengembangan Kurikulum"
+      },
+      {
+        "id": "language_learning",
+        "name": "Pembelajaran Bahasa"
+      },
+      {
+        "id": "educational_gamification",
+        "name": "Gamifikasi Pendidikan"
+      },
+      {
+        "id": "corporate_training",
+        "name": "Pelatihan Korporat"
+      }
+    ]
+  },
+  {
+    "id": "food_agriculture",
+    "name": "Pangan dan Pertanian",
+    "sub_nodes": [
+      {
+        "id": "agritech",
+        "name": "AgriTech"
+      },
+      {
+        "id": "organic_farming",
+        "name": "Pertanian Organik"
+      },
+      {
+        "id": "vertical_farming",
+        "name": "Pertanian Vertikal"
+      },
+      {
+        "id": "sustainable_agriculture",
+        "name": "Pertanian Berkelanjutan"
+      },
+      {
+        "id": "food_processing",
+        "name": "Pengolahan Pangan"
+      },
+      {
+        "id": "alternative_protein",
+        "name": "Protein Alternatif"
+      },
+      {
+        "id": "supply_chain_logistics",
+        "name": "Rantai Pasok dan Logistik"
+      },
+      {
+        "id": "aquaculture",
+        "name": "Akuakultur"
+      },
+      {
+        "id": "food_safety",
+        "name": "Keamanan Pangan"
+      },
+      {
+        "id": "precision_farming",
+        "name": "Pertanian Presisi"
+      }
+    ]
+  },
+  {
+    "id": "mobility_transportation",
+    "name": "Mobilitas dan Transportasi",
+    "sub_nodes": [
+      {
+        "id": "electric_vehicles",
+        "name": "Kendaraan Listrik"
+      },
+      {
+        "id": "autonomous_driving",
+        "name": "Mengemudi Otonom"
+      },
+      {
+        "id": "public_transit",
+        "name": "Transportasi Publik"
+      },
+      {
+        "id": "ride_sharing",
+        "name": "Berbagi Tumpangan dan Mikromobilitas"
+      },
+      {
+        "id": "aviation",
+        "name": "Penerbangan"
+      },
+      {
+        "id": "rail_transport",
+        "name": "Transportasi Rel"
+      },
+      {
+        "id": "maritime_shipping",
+        "name": "Pelayaran Maritim"
+      },
+      {
+        "id": "logistics_delivery",
+        "name": "Logistik dan Pengiriman"
+      },
+      {
+        "id": "traffic_management",
+        "name": "Manajemen Lalu Lintas"
+      },
+      {
+        "id": "hyperloop_high_speed",
+        "name": "Hyperloop dan Kereta Cepat"
+      }
+    ]
+  },
+  {
+    "id": "energy_utilities",
+    "name": "Energi dan Utilitas",
+    "sub_nodes": [
+      {
+        "id": "solar_energy",
+        "name": "Energi Surya"
+      },
+      {
+        "id": "wind_energy",
+        "name": "Energi Angin"
+      },
+      {
+        "id": "smart_grid",
+        "name": "Jaringan Listrik Cerdas"
+      },
+      {
+        "id": "energy_storage",
+        "name": "Penyimpanan Energi"
+      },
+      {
+        "id": "nuclear_energy",
+        "name": "Energi Nuklir"
+      },
+      {
+        "id": "hydrogen_fuel",
+        "name": "Bahan Bakar Hidrogen"
+      },
+      {
+        "id": "water_management",
+        "name": "Manajemen Air"
+      },
+      {
+        "id": "waste_to_energy",
+        "name": "Energi dari Limbah"
+      },
+      {
+        "id": "power_distribution",
+        "name": "Distribusi Daya"
+      },
+      {
+        "id": "geothermal_energy",
+        "name": "Energi Panas Bumi"
+      }
+    ]
+  },
+  {
+    "id": "environment",
+    "name": "Lingkungan",
+    "sub_nodes": [
+      {
+        "id": "climate_change",
+        "name": "Perubahan Iklim"
+      },
+      {
+        "id": "biodiversity",
+        "name": "Keanekaragaman Hayati"
+      },
+      {
+        "id": "waste_management",
+        "name": "Manajemen Limbah"
+      },
+      {
+        "id": "pollution_control",
+        "name": "Pengendalian Polusi"
+      },
+      {
+        "id": "circular_economy",
+        "name": "Ekonomi Sirkular"
+      },
+      {
+        "id": "carbon_capture",
+        "name": "Penangkapan Karbon"
+      },
+      {
+        "id": "ocean_conservation",
+        "name": "Konservasi Laut"
+      },
+      {
+        "id": "reforestation",
+        "name": "Reforestasi"
+      },
+      {
+        "id": "environmental_policy",
+        "name": "Kebijakan Lingkungan"
+      },
+      {
+        "id": "renewable_resources",
+        "name": "Sumber Daya Terbarukan"
+      }
+    ]
+  },
+  {
+    "id": "economy_finance",
+    "name": "Ekonomi dan Keuangan",
+    "sub_nodes": [
+      {
+        "id": "fintech",
+        "name": "FinTech"
+      },
+      {
+        "id": "banking",
+        "name": "Perbankan"
+      },
+      {
+        "id": "investment_wealth",
+        "name": "Investasi dan Manajemen Kekayaan"
+      },
+      {
+        "id": "cryptocurrency_blockchain",
+        "name": "Mata Uang Kripto dan Blockchain"
+      },
+      {
+        "id": "insurance",
+        "name": "Asuransi"
+      },
+      {
+        "id": "macroeconomics",
+        "name": "Makroekonomi"
+      },
+      {
+        "id": "venture_capital",
+        "name": "Modal Ventura"
+      },
+      {
+        "id": "e_commerce_finance",
+        "name": "Keuangan E-commerce"
+      },
+      {
+        "id": "sustainable_finance",
+        "name": "Keuangan Berkelanjutan"
+      },
+      {
+        "id": "financial_regulation",
+        "name": "Regulasi Keuangan"
+      }
+    ]
+  },
+  {
+    "id": "work_careers",
+    "name": "Pekerjaan dan Karier",
+    "sub_nodes": [
+      {
+        "id": "remote_work",
+        "name": "Kerja Jarak Jauh"
+      },
+      {
+        "id": "gig_economy",
+        "name": "Ekonomi Gig"
+      },
+      {
+        "id": "talent_acquisition",
+        "name": "Akuisisi Talenta"
+      },
+      {
+        "id": "upskilling_reskilling",
+        "name": "Peningkatan Keterampilan dan Pelatihan Ulang Keterampilan"
+      },
+      {
+        "id": "workspace_design",
+        "name": "Desain Ruang Kerja"
+      },
+      {
+        "id": "employee_wellbeing",
+        "name": "Kesejahteraan Karyawan"
+      },
+      {
+        "id": "hr_tech",
+        "name": "Teknologi HR"
+      },
+      {
+        "id": "career_coaching",
+        "name": "Coaching Karier"
+      },
+      {
+        "id": "labor_relations",
+        "name": "Hubungan Industrial"
+      },
+      {
+        "id": "diversity_inclusion",
+        "name": "Keberagaman dan Inklusi"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing",
+    "name": "Manufaktur",
+    "sub_nodes": [
+      {
+        "id": "industry_4_0",
+        "name": "Industri 4.0"
+      },
+      {
+        "id": "robotics_automation",
+        "name": "Robotika dan Otomasi"
+      },
+      {
+        "id": "3d_printing",
+        "name": "Pencetakan 3D"
+      },
+      {
+        "id": "supply_chain",
+        "name": "Manajemen Rantai Pasok"
+      },
+      {
+        "id": "smart_factories",
+        "name": "Pabrik Cerdas"
+      },
+      {
+        "id": "materials_science",
+        "name": "Ilmu Material"
+      },
+      {
+        "id": "quality_control",
+        "name": "Kontrol Kualitas"
+      },
+      {
+        "id": "sustainable_manufacturing",
+        "name": "Manufaktur Berkelanjutan"
+      },
+      {
+        "id": "predictive_maintenance",
+        "name": "Pemeliharaan Prediktif"
+      },
+      {
+        "id": "industrial_iot",
+        "name": "IoT Industri"
+      }
+    ]
+  },
+  {
+    "id": "retail_commerce",
+    "name": "Ritel dan Perdagangan",
+    "sub_nodes": [
+      {
+        "id": "e_commerce",
+        "name": "E-commerce"
+      },
+      {
+        "id": "omnichannel_retail",
+        "name": "Ritel Omnichannel"
+      },
+      {
+        "id": "supply_chain_retail",
+        "name": "Rantai Pasok dan Logistik"
+      },
+      {
+        "id": "consumer_behavior",
+        "name": "Perilaku Konsumen"
+      },
+      {
+        "id": "digital_payment",
+        "name": "Sistem Pembayaran Digital"
+      },
+      {
+        "id": "brick_and_mortar",
+        "name": "Inovasi Ritel Fisik"
+      },
+      {
+        "id": "personalized_marketing",
+        "name": "Pemasaran Personal"
+      },
+      {
+        "id": "inventory_management",
+        "name": "Manajemen Inventaris"
+      },
+      {
+        "id": "direct_to_consumer",
+        "name": "Langsung ke Konsumen (D2C)"
+      },
+      {
+        "id": "retail_analytics",
+        "name": "Analitik Ritel"
+      }
+    ]
+  },
+  {
+    "id": "hospitality_tourism",
+    "name": "Hospitalitas dan Pariwisata",
+    "sub_nodes": [
+      {
+        "id": "hotels",
+        "name": "Hotel"
+      },
+      {
+        "id": "spa",
+        "name": "Spa"
+      },
+      {
+        "id": "resorts",
+        "name": "Resor"
+      },
+      {
+        "id": "restaurants",
+        "name": "Restoran"
+      },
+      {
+        "id": "cafes",
+        "name": "Kafe"
+      },
+      {
+        "id": "theme_parks",
+        "name": "Taman Hiburan"
+      },
+      {
+        "id": "cruise",
+        "name": "Kapal Pesiar"
+      },
+      {
+        "id": "eco_tourism",
+        "name": "Ekowisata"
+      },
+      {
+        "id": "luxury_travel",
+        "name": "Perjalanan Mewah"
+      },
+      {
+        "id": "wellness_retreat",
+        "name": "Retret Wellness"
+      }
+    ]
+  },
+  {
+    "id": "cities_communities",
+    "name": "Kota dan Komunitas",
+    "sub_nodes": [
+      {
+        "id": "smart_cities",
+        "name": "Kota Cerdas"
+      },
+      {
+        "id": "public_spaces",
+        "name": "Ruang Publik"
+      },
+      {
+        "id": "affordable_housing",
+        "name": "Hunian Terjangkau"
+      },
+      {
+        "id": "community_engagement",
+        "name": "Keterlibatan Komunitas"
+      },
+      {
+        "id": "urban_mobility",
+        "name": "Mobilitas Perkotaan"
+      },
+      {
+        "id": "sustainable_infrastructure",
+        "name": "Infrastruktur Berkelanjutan"
+      },
+      {
+        "id": "disaster_resilience",
+        "name": "Ketangguhan Bencana"
+      },
+      {
+        "id": "waste_recycling",
+        "name": "Limbah dan Sistem Daur Ulang"
+      },
+      {
+        "id": "urban_agriculture",
+        "name": "Pertanian Perkotaan"
+      },
+      {
+        "id": "digital_twins",
+        "name": "Kembar Digital Perkotaan"
+      }
+    ]
+  },
+  {
+    "id": "government_public_services",
+    "name": "Pemerintahan dan Layanan Publik",
+    "sub_nodes": [
+      {
+        "id": "e_government",
+        "name": "E-Government dan Identitas Digital"
+      },
+      {
+        "id": "public_policy",
+        "name": "Kebijakan Publik"
+      },
+      {
+        "id": "civic_tech",
+        "name": "Teknologi Sipil"
+      },
+      {
+        "id": "public_healthcare_systems",
+        "name": "Sistem Kesehatan Publik"
+      },
+      {
+        "id": "infrastructure_funding",
+        "name": "Pendanaan Infrastruktur"
+      },
+      {
+        "id": "social_welfare",
+        "name": "Kesejahteraan Sosial"
+      },
+      {
+        "id": "regulatory_compliance",
+        "name": "Kepatuhan Regulasi"
+      },
+      {
+        "id": "emergency_services",
+        "name": "Layanan Tanggap Darurat"
+      },
+      {
+        "id": "smart_governance",
+        "name": "Tata Kelola Cerdas"
+      },
+      {
+        "id": "open_data",
+        "name": "Inisiatif Data Terbuka"
+      }
+    ]
+  },
+  {
+    "id": "security_safety",
+    "name": "Keamanan dan Keselamatan",
+    "sub_nodes": [
+      {
+        "id": "cybersecurity",
+        "name": "Keamanan Siber"
+      },
+      {
+        "id": "physical_security",
+        "name": "Keamanan Fisik"
+      },
+      {
+        "id": "surveillance_systems",
+        "name": "Sistem Pengawasan"
+      },
+      {
+        "id": "biometrics",
+        "name": "Biometrik"
+      },
+      {
+        "id": "disaster_recovery",
+        "name": "Pemulihan Bencana"
+      },
+      {
+        "id": "data_privacy",
+        "name": "Privasi Data"
+      },
+      {
+        "id": "national_defense",
+        "name": "Pertahanan Nasional"
+      },
+      {
+        "id": "law_enforcement_tech",
+        "name": "Teknologi Penegakan Hukum"
+      },
+      {
+        "id": "fire_safety",
+        "name": "Keselamatan Kebakaran"
+      },
+      {
+        "id": "fraud_detection",
+        "name": "Deteksi Penipuan"
+      }
+    ]
+  },
+  {
+    "id": "communication",
+    "name": "Komunikasi",
+    "sub_nodes": [
+      {
+        "id": "telecommunications",
+        "name": "Telekomunikasi (5G/6G)"
+      },
+      {
+        "id": "satellite_internet",
+        "name": "Internet Satelit"
+      },
+      {
+        "id": "social_media",
+        "name": "Media Sosial"
+      },
+      {
+        "id": "enterprise_collaboration",
+        "name": "Alat Kolaborasi Perusahaan"
+      },
+      {
+        "id": "iot_connectivity",
+        "name": "Konektivitas IoT"
+      },
+      {
+        "id": "quantum_communication",
+        "name": "Komunikasi Kuantum"
+      },
+      {
+        "id": "broadcasting",
+        "name": "Infrastruktur Penyiaran"
+      },
+      {
+        "id": "network_architecture",
+        "name": "Arsitektur Jaringan"
+      },
+      {
+        "id": "unified_communications",
+        "name": "Komunikasi Terpadu"
+      },
+      {
+        "id": "interoperability",
+        "name": "Interoperabilitas Lintas Platform"
+      }
+    ]
+  },
+  {
+    "id": "entertainment_media",
+    "name": "Hiburan dan Media",
+    "sub_nodes": [
+      {
+        "id": "streaming_services",
+        "name": "Layanan Streaming"
+      },
+      {
+        "id": "gaming_esports",
+        "name": "Game dan Esports"
+      },
+      {
+        "id": "virtual_reality_media",
+        "name": "VR dan Media AR"
+      },
+      {
+        "id": "generative_ai_art",
+        "name": "Seni AI Generatif dan Konten"
+      },
+      {
+        "id": "digital_journalism",
+        "name": "Jurnalisme Digital"
+      },
+      {
+        "id": "podcasting_audio",
+        "name": "Podcasting dan Konten Audio"
+      },
+      {
+        "id": "cinema_film",
+        "name": "Sinema dan Produksi Film"
+      },
+      {
+        "id": "music_industry",
+        "name": "Teknologi Industri Musik"
+      },
+      {
+        "id": "copyright_nft",
+        "name": "Hak Cipta dan Kepemilikan Digital"
+      },
+      {
+        "id": "live_events",
+        "name": "Acara Langsung dan Konser"
+      }
+    ]
+  },
+  {
+    "id": "science_research",
+    "name": "Sains dan Riset",
+    "sub_nodes": [
+      {
+        "id": "quantum_computing",
+        "name": "Komputasi Kuantum"
+      },
+      {
+        "id": "biotechnology",
+        "name": "Bioteknologi"
+      },
+      {
+        "id": "artificial_intelligence",
+        "name": "Kecerdasan Buatan"
+      },
+      {
+        "id": "nanotechnology",
+        "name": "Nanoteknologi"
+      },
+      {
+        "id": "neuroscience",
+        "name": "Neurosains"
+      },
+      {
+        "id": "particle_physics",
+        "name": "Fisika Partikel"
+      },
+      {
+        "id": "climate_science",
+        "name": "Ilmu Iklim"
+      },
+      {
+        "id": "genomics",
+        "name": "Genomik"
+      },
+      {
+        "id": "materials_discovery",
+        "name": "Penemuan Material"
+      },
+      {
+        "id": "academic_publishing",
+        "name": "Sains Terbuka dan Publikasi Akademik"
+      }
+    ]
+  },
+  {
+    "id": "space_civilization",
+    "name": "Peradaban Antariksa",
+    "sub_nodes": [
+      {
+        "id": "space_exploration",
+        "name": "Eksplorasi Antariksa"
+      },
+      {
+        "id": "satellite_deployment",
+        "name": "Penerapan Satelit"
+      },
+      {
+        "id": "mars_colonization",
+        "name": "Kolonisasi Mars"
+      },
+      {
+        "id": "asteroid_mining",
+        "name": "Penambangan Asteroid"
+      },
+      {
+        "id": "space_tourism",
+        "name": "Pariwisata Antariksa"
+      },
+      {
+        "id": "orbital_habitats",
+        "name": "Habitat Orbital"
+      },
+      {
+        "id": "astrobiology",
+        "name": "Astrobiologi"
+      },
+      {
+        "id": "space_law",
+        "name": "Hukum Antariksa dan Tata Kelola"
+      },
+      {
+        "id": "propulsion_systems",
+        "name": "Sistem Propulsi Lanjutan"
+      },
+      {
+        "id": "space_debris",
+        "name": "Mitigasi Sampah Antariksa"
+      }
+    ]
+  },
+  {
+    "id": "culture_lifestyle",
+    "name": "Budaya dan Gaya Hidup",
+    "sub_nodes": [
+      {
+        "id": "fashion_design",
+        "name": "Mode dan Desain"
+      },
+      {
+        "id": "digital_nomadism",
+        "name": "Nomadisme Digital"
+      },
+      {
+        "id": "fitness_wellness",
+        "name": "Kebugaran dan Kesehatan Holistik"
+      },
+      {
+        "id": "art_museums",
+        "name": "Seni dan Museum"
+      },
+      {
+        "id": "gastronomy",
+        "name": "Gastronomi dan Budaya Pangan"
+      },
+      {
+        "id": "mindfulness",
+        "name": "Mindfulness dan Pengembangan Diri"
+      },
+      {
+        "id": "subcultures",
+        "name": "Subkultur Digital"
+      },
+      {
+        "id": "heritage_preservation",
+        "name": "Pelestarian Warisan"
+      },
+      {
+        "id": "hobbies_leisure",
+        "name": "Hobi dan Rekreasi"
+      },
+      {
+        "id": "social_trends",
+        "name": "Tren Sosial dan Dinamika"
+      }
+    ]
+  }
+]

@@ -127,5 +127,30 @@
         "ariaLabel": "X 上的 Chorn Planet"
       }
     ]
+  },
+  "platform": {
+    "title": "平台",
+    "items": [
+      {
+        "label": "未来文明",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "未来解决方案",
+        "link": "/future-solutions/"
+      },
+      {
+        "label": "商业机会",
+        "link": "/business-opportunities/"
+      },
+      {
+        "label": "行业",
+        "link": "/industries/"
+      },
+      {
+        "label": "技术",
+        "link": "/technology/"
+      }
+    ]
   }
 }

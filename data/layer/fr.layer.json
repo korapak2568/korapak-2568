@@ -1,0 +1,314 @@
+{
+  "layers": [
+    {
+      "id": "human_needs",
+      "name": "Besoins humains"
+    },
+    {
+      "id": "industries",
+      "name": "Industries"
+    },
+    {
+      "id": "problems",
+      "name": "Problèmes"
+    },
+    {
+      "id": "future-solutions",
+      "name": "Solutions futures"
+    },
+    {
+      "id": "future_civilization",
+      "name": "Civilisation future"
+    },
+    {
+      "id": "business-opportunities",
+      "name": "Opportunités d’affaires"
+    }
+  ],
+  "industries": {
+    "id": "industries",
+    "name": "Industries",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Industries | Chorn Planet",
+          "description": "Parcourez les nœuds d’industrie, les problèmes actuels, les sous-nœuds et les liens vers les solutions de la feuille de route future dans le Chorn Planet Civilization Graph."
+        },
+        "node": {
+          "title_template": "Problèmes industriels de {nodeName} | Chorn Planet",
+          "description_template": "Parcourez les problèmes actuels, les sous-nœuds et les chemins de solutions futures pour {nodeName}.",
+          "fallback_title": "Industries | Chorn Planet",
+          "fallback_description": "Parcourez les nœuds d’industrie dans le Chorn Planet Civilization Graph."
+        },
+        "detail": {
+          "fallback_title": "Problème industriel | Chorn Planet",
+          "fallback_description": "Explorez les problèmes et les solutions de la civilisation future.",
+          "title_template": "{problemName} | {subNodeName} | Chorn Planet",
+          "description_template": "{problemName} affecte {nodeName} et {subNodeName}. Explorez les solutions de la feuille de route future, les opportunités d’affaires et les liens associés du Civilization Graph."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Civilization Graph",
+          "title": "Industries",
+          "description": "Un index premium des nœuds d’industrie, des défis actuels et des chemins de solutions futures, généré à partir du manifeste canonique du Civilization Graph."
+        },
+        "stats": {
+          "industry_nodes": "Nœuds d’industrie",
+          "linked_problem_pages": "Pages de problèmes liées",
+          "problem_catalog": "Catalogue des problèmes"
+        },
+        "directory_section": {
+          "eyebrow": "Carte des industries",
+          "title": "Parcourir les problèmes actuels par nœud d’industrie",
+          "card_problem_count_template": "{count} pages de problèmes liées",
+          "card_description_template": "{subNodeCount} sous-nœuds et {problemCount} défis actuels connectés au Civilization Graph."
+        }
+      },
+      "node": {
+        "hero": {
+          "eyebrow": "Nœud d’industrie",
+          "description_template": "Explorez {nodeName} à travers les défis actuels, les sous-nœuds et les liens de solutions de la feuille de route future générés depuis le Civilization Graph."
+        },
+        "stats": {
+          "sub_nodes": "Sous-nœuds",
+          "linked_pages": "Pages liées",
+          "problem_catalog": "Catalogue des problèmes"
+        },
+        "problem_section": {
+          "eyebrow": "Problèmes actuels",
+          "title": "Pages de problèmes adossées au manifeste"
+        },
+        "sub_nodes_section": {
+          "eyebrow": "Sous-nœuds",
+          "title": "Domaines opérationnels"
+        }
+      },
+      "detail": {
+        "hero": {
+          "eyebrow": "Problème industriel",
+          "description_template": "{problemName} est un défi actuel au sein de {nodeName}, en particulier autour de {subNodeName}. Le Civilization Graph relie ce problème aux solutions de la feuille de route future, aux opportunités d’affaires et aux chemins de connaissance associés."
+        },
+        "overview": {
+          "eyebrow": "Problème actuel",
+          "description": "Cette page est générée depuis le manifeste CGD canonique et utilise les relations entre problème, nœud, sous-nœud, solution et feuille de route comme source de vérité."
+        },
+        "why_it_matters": {
+          "eyebrow": "Pourquoi c’est important",
+          "title_template": "Point de pression {subNodeName}",
+          "description_template": "Résoudre ce défi peut libérer de meilleurs services, une infrastructure plus solide et de nouveaux modèles opérationnels dans {nodeName}."
+        },
+        "roadmap_section": {
+          "eyebrow": "Solutions de la feuille de route future",
+          "title": "Éléments de feuille de route connectés à ce problème"
+        },
+        "business_section": {
+          "eyebrow": "Opportunités d’affaires",
+          "title": "Chemins commerciaux"
+        },
+        "technology_section": {
+          "eyebrow": "Technologies associées",
+          "title": "Domaines technologiques"
+        },
+        "related_problems_section": {
+          "eyebrow": "Problèmes associés",
+          "title_template": "Autres défis dans {nodeName}"
+        },
+        "related_industries_section": {
+          "eyebrow": "Industries associées",
+          "title": "Nœuds adjacents"
+        },
+        "internal_links_section": {
+          "eyebrow": "Liens internes",
+          "title": "Navigation du graphe"
+        }
+      }
+    }
+  },
+  "business_opportunities": {
+    "id": "business-opportunities",
+    "name": "Opportunités d’affaires",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Opportunités d’affaires | Chorn Planet",
+          "description": "Parcourez les opportunités d’affaires futures connectées aux industries, aux sous-nœuds et aux ères de la feuille de route de la civilisation future."
+        },
+        "node": {
+          "title_template": "Opportunités d’affaires pour {nodeName} | Chorn Planet",
+          "description_template": "Parcourez les opportunités d’affaires futures pour {nodeName} à travers les sous-nœuds et les ères de la feuille de route.",
+          "fallback_title": "Opportunités d’affaires | Chorn Planet",
+          "fallback_description": "Parcourez les opportunités d’affaires futures connectées au Civilization Graph."
+        },
+        "detail": {
+          "fallback_title": "Opportunité d’affaires | Chorn Planet",
+          "fallback_description": "Explorez les opportunités d’affaires de la civilisation future.",
+          "title_template": "{opportunityName} | {nodeName} | Chorn Planet",
+          "description_template": "{opportunityName} relie {nodeName}, {subNodeName} et la feuille de route de la civilisation future via le Chorn Planet Civilization Graph."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Civilization Graph",
+          "title": "Opportunités d’affaires",
+          "description": "Une carte stratégique d’idées d’affaires tournées vers l’avenir, connectées aux industries, aux sous-nœuds et aux ères de la feuille de route dans le Chorn Planet Civilization Graph."
+        },
+        "directory_section": {
+          "eyebrow": "Carte des opportunités",
+          "title": "Parcourir les opportunités d’affaires futures par nœud d’industrie",
+          "card_description_template": "{opportunityCount} idées commerciales sur {subNodeCount} sous-nœuds et {eraCount} ères de feuille de route."
+        }
+      },
+      "node": {
+        "hero": {
+          "eyebrow": "Nœud business",
+          "description_template": "Explorez les opportunités d’affaires dans {nodeName}, regroupées par sous-nœud et connectées à l’ère de feuille de route associée."
+        },
+        "stats": {
+          "opportunities": "Opportunités",
+          "sub_nodes": "Sous-nœuds",
+          "roadmap_eras": "Ères de feuille de route"
+        },
+        "opportunity_section": {
+          "eyebrow": "Opportunités d’affaires",
+          "title": "Pages d’opportunités adossées au manifeste"
+        },
+        "sub_nodes_section": {
+          "eyebrow": "Sous-nœuds",
+          "title": "Domaines d’opportunité"
+        }
+      },
+      "detail": {
+        "hero": {
+          "eyebrow": "Opportunité d’affaires",
+          "description_template": "{opportunityName} est une opportunité tournée vers l’avenir dans {nodeName}, axée sur {subNodeName}. Cette page relie l’opportunité aux ères de feuille de route, aux problèmes associés, aux technologies et aux activités adjacentes."
+        },
+        "overview": {
+          "eyebrow": "Vue d’ensemble business",
+          "description_template": "L’opportunité appartient à {subNodeName} et est ancrée dans {eraId}, ce qui en fait une partie de la feuille de route plus large de la Civilisation future."
+        },
+        "related_industry": {
+          "eyebrow": "Industrie associée",
+          "description_template": "{nodeName} contient {subNodeName} et fournit le contexte de marché, opérationnel et social pour cette opportunité."
+        },
+        "roadmap_section": {
+          "eyebrow": "Opportunités de la feuille de route future",
+          "title": "Éléments de feuille de route de l’ère connectée"
+        },
+        "related_problems_section": {
+          "eyebrow": "Problèmes associés",
+          "title": "Défis actuels à proximité",
+          "empty_text": "D’autres liens de problèmes apparaîtront à mesure que le graphe s’étendra."
+        },
+        "technology_section": {
+          "eyebrow": "Technologies associées",
+          "title": "Domaines technologiques"
+        },
+        "related_business_section": {
+          "eyebrow": "Opportunités d’affaires associées",
+          "title": "Chemins business adjacents"
+        },
+        "internal_links_section": {
+          "eyebrow": "Liens internes",
+          "title": "Navigation du graphe"
+        }
+      }
+    }
+  },
+  "future-solutions": {
+    "id": "future-solutions",
+    "name": "Solutions futures",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Solutions futures | Chorn Planet",
+          "description": "Explorez les lentilles de solutions futures qui relient les jalons de la feuille de route aux problèmes actuels, aux industries, aux opportunités d’affaires, à la préparation et à l’impact humain."
+        },
+        "era": {
+          "title_template": "Solutions futures de {eraTitle} | Chorn Planet",
+          "description_template": "Explorez {count} lentilles de solutions futures issues de {eraTitle}, reliant les jalons de la feuille de route aux problèmes actuels, aux industries et aux opportunités d’affaires.",
+          "fallback_title": "Ère des solutions futures | Chorn Planet",
+          "fallback_description": "Explorez les lentilles de solutions futures par ère de feuille de route."
+        },
+        "detail": {
+          "fallback_title": "Solution future | Chorn Planet",
+          "fallback_description": "Explorez les lentilles de solutions futures depuis le Civilization Graph."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Solutions futures",
+          "title": "Lentilles de solution pour la feuille de route de la Civilisation future",
+          "description": "Explorez chaque jalon futur à travers les problèmes qu’il résout, les industries qu’il touche, les opportunités d’affaires qu’il crée et la préparation humaine qu’il demande."
+        },
+        "directory_section": {
+          "eyebrow": "Carte des solutions",
+          "title": "Parcourir les solutions futures par ère de feuille de route",
+          "card_description_template": "{timeframe}. Connecté à {industryCount} nœuds d’industrie et au niveau de préparation {readinessLevels}."
+        }
+      },
+      "era": {
+        "hero": {
+          "eyebrow": "Ère des solutions futures",
+          "description_template": "Une vue ciblée de {count} lentilles de solution issues de {timeframe}, reliant les jalons de la feuille de route aux problèmes actuels, à l’impact industriel et aux opportunités d’affaires."
+        },
+        "directory_section": {
+          "eyebrow": "Solutions par ère",
+          "title": "Lentilles de résolution de problèmes"
+        }
+      },
+      "detail": {
+        "breadcrumbs": {
+          "future_civilization": "Civilisation future",
+          "future_solutions": "Solutions futures"
+        },
+        "hero": {
+          "eyebrow": "Solution future",
+          "view_era_solutions": "Voir les solutions de l’ère",
+          "canonical_roadmap_item": "Élément canonique de la feuille de route"
+        },
+        "solution_lens": {
+          "problem_statement": {
+            "eyebrow": "Énoncé du problème",
+            "title": "Ce que cela résout"
+          },
+          "future_solution": {
+            "eyebrow": "Solution future",
+            "title": "Comment cela fonctionne comme solution"
+          },
+          "why_it_matters": {
+            "eyebrow": "Pourquoi c’est important",
+            "title": "Valeur humaine"
+          }
+        },
+        "readiness": {
+          "eyebrow": "Préparation"
+        },
+        "human_impact": {
+          "eyebrow": "Impact humain",
+          "title": "Individu, entreprise, société"
+        },
+        "current_problems": {
+          "eyebrow": "Problèmes actuels traités",
+          "title": "Liens de problèmes"
+        },
+        "industries_impacted": {
+          "eyebrow": "Industries touchées",
+          "title": "Là où cela s’applique"
+        },
+        "business_opportunities": {
+          "eyebrow": "Opportunités d’affaires",
+          "title": "Chemins commerciaux"
+        },
+        "risks": {
+          "eyebrow": "Risques et défis",
+          "title": "Ce qui doit être géré"
+        },
+        "related": {
+          "eyebrow": "Lentilles de solution associées",
+          "title": "Continuer dans le graphe"
+        }
+      }
+    }
+  }
+}

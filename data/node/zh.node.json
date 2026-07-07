@@ -1,0 +1,922 @@
+[
+  {
+    "id": "housing_real_estate",
+    "name": "住房与房地产",
+    "sub_nodes": [
+      {
+        "id": "smart_home",
+        "name": "智能家居"
+      },
+      {
+        "id": "apartment",
+        "name": "公寓"
+      },
+      {
+        "id": "condominium",
+        "name": "共管公寓"
+      },
+      {
+        "id": "luxury_villa",
+        "name": "豪华别墅"
+      },
+      {
+        "id": "construction",
+        "name": "建筑施工"
+      },
+      {
+        "id": "property_management",
+        "name": "物业管理"
+      },
+      {
+        "id": "facility_management",
+        "name": "设施管理"
+      },
+      {
+        "id": "architecture",
+        "name": "建筑设计"
+      },
+      {
+        "id": "interior_design",
+        "name": "室内设计"
+      },
+      {
+        "id": "urban_planning",
+        "name": "城市规划"
+      }
+    ]
+  },
+  {
+    "id": "healthcare",
+    "name": "医疗健康",
+    "sub_nodes": [
+      {
+        "id": "hospital",
+        "name": "医院"
+      },
+      {
+        "id": "clinic",
+        "name": "诊所"
+      },
+      {
+        "id": "mental_health",
+        "name": "心理健康"
+      },
+      {
+        "id": "preventive_care",
+        "name": "预防性护理"
+      },
+      {
+        "id": "ai_diagnosis",
+        "name": "AI诊断"
+      },
+      {
+        "id": "longevity",
+        "name": "长寿健康"
+      },
+      {
+        "id": "genetics",
+        "name": "遗传学"
+      },
+      {
+        "id": "telemedicine",
+        "name": "远程医疗"
+      },
+      {
+        "id": "pharmacy",
+        "name": "药房"
+      },
+      {
+        "id": "rehabilitation",
+        "name": "康复"
+      }
+    ]
+  },
+  {
+    "id": "education",
+    "name": "教育",
+    "sub_nodes": [
+      {
+        "id": "k12_education",
+        "name": "K-12教育"
+      },
+      {
+        "id": "higher_education",
+        "name": "高等教育"
+      },
+      {
+        "id": "online_learning",
+        "name": "在线学习与教育科技"
+      },
+      {
+        "id": "vocational_training",
+        "name": "职业培训"
+      },
+      {
+        "id": "lifelong_learning",
+        "name": "终身学习"
+      },
+      {
+        "id": "special_education",
+        "name": "特殊教育"
+      },
+      {
+        "id": "curriculum_development",
+        "name": "课程开发"
+      },
+      {
+        "id": "language_learning",
+        "name": "语言学习"
+      },
+      {
+        "id": "educational_gamification",
+        "name": "教育游戏化"
+      },
+      {
+        "id": "corporate_training",
+        "name": "企业培训"
+      }
+    ]
+  },
+  {
+    "id": "food_agriculture",
+    "name": "食品与农业",
+    "sub_nodes": [
+      {
+        "id": "agritech",
+        "name": "农业科技"
+      },
+      {
+        "id": "organic_farming",
+        "name": "有机农业"
+      },
+      {
+        "id": "vertical_farming",
+        "name": "垂直农业"
+      },
+      {
+        "id": "sustainable_agriculture",
+        "name": "可持续农业"
+      },
+      {
+        "id": "food_processing",
+        "name": "食品加工"
+      },
+      {
+        "id": "alternative_protein",
+        "name": "替代蛋白"
+      },
+      {
+        "id": "supply_chain_logistics",
+        "name": "供应链与物流"
+      },
+      {
+        "id": "aquaculture",
+        "name": "水产养殖"
+      },
+      {
+        "id": "food_safety",
+        "name": "食品安全"
+      },
+      {
+        "id": "precision_farming",
+        "name": "精准农业"
+      }
+    ]
+  },
+  {
+    "id": "mobility_transportation",
+    "name": "出行与交通运输",
+    "sub_nodes": [
+      {
+        "id": "electric_vehicles",
+        "name": "电动汽车"
+      },
+      {
+        "id": "autonomous_driving",
+        "name": "自动驾驶"
+      },
+      {
+        "id": "public_transit",
+        "name": "公共交通"
+      },
+      {
+        "id": "ride_sharing",
+        "name": "拼车出行与微出行"
+      },
+      {
+        "id": "aviation",
+        "name": "航空"
+      },
+      {
+        "id": "rail_transport",
+        "name": "铁路运输"
+      },
+      {
+        "id": "maritime_shipping",
+        "name": "海运"
+      },
+      {
+        "id": "logistics_delivery",
+        "name": "物流与配送"
+      },
+      {
+        "id": "traffic_management",
+        "name": "交通管理"
+      },
+      {
+        "id": "hyperloop_high_speed",
+        "name": "超级高铁与高速铁路"
+      }
+    ]
+  },
+  {
+    "id": "energy_utilities",
+    "name": "能源与公用事业",
+    "sub_nodes": [
+      {
+        "id": "solar_energy",
+        "name": "太阳能"
+      },
+      {
+        "id": "wind_energy",
+        "name": "风能"
+      },
+      {
+        "id": "smart_grid",
+        "name": "智能电网"
+      },
+      {
+        "id": "energy_storage",
+        "name": "储能"
+      },
+      {
+        "id": "nuclear_energy",
+        "name": "核能"
+      },
+      {
+        "id": "hydrogen_fuel",
+        "name": "氢燃料"
+      },
+      {
+        "id": "water_management",
+        "name": "水务管理"
+      },
+      {
+        "id": "waste_to_energy",
+        "name": "垃圾发电"
+      },
+      {
+        "id": "power_distribution",
+        "name": "电力分配"
+      },
+      {
+        "id": "geothermal_energy",
+        "name": "地热能"
+      }
+    ]
+  },
+  {
+    "id": "environment",
+    "name": "环境",
+    "sub_nodes": [
+      {
+        "id": "climate_change",
+        "name": "气候变化"
+      },
+      {
+        "id": "biodiversity",
+        "name": "生物多样性"
+      },
+      {
+        "id": "waste_management",
+        "name": "废弃物管理"
+      },
+      {
+        "id": "pollution_control",
+        "name": "污染控制"
+      },
+      {
+        "id": "circular_economy",
+        "name": "循环经济"
+      },
+      {
+        "id": "carbon_capture",
+        "name": "碳捕集"
+      },
+      {
+        "id": "ocean_conservation",
+        "name": "海洋保护"
+      },
+      {
+        "id": "reforestation",
+        "name": "再造林"
+      },
+      {
+        "id": "environmental_policy",
+        "name": "环境政策"
+      },
+      {
+        "id": "renewable_resources",
+        "name": "可再生资源"
+      }
+    ]
+  },
+  {
+    "id": "economy_finance",
+    "name": "经济与金融",
+    "sub_nodes": [
+      {
+        "id": "fintech",
+        "name": "金融科技"
+      },
+      {
+        "id": "banking",
+        "name": "银行业"
+      },
+      {
+        "id": "investment_wealth",
+        "name": "投资与财富管理"
+      },
+      {
+        "id": "cryptocurrency_blockchain",
+        "name": "加密货币与区块链"
+      },
+      {
+        "id": "insurance",
+        "name": "保险"
+      },
+      {
+        "id": "macroeconomics",
+        "name": "宏观经济学"
+      },
+      {
+        "id": "venture_capital",
+        "name": "风险投资"
+      },
+      {
+        "id": "e_commerce_finance",
+        "name": "电子商务金融"
+      },
+      {
+        "id": "sustainable_finance",
+        "name": "可持续金融"
+      },
+      {
+        "id": "financial_regulation",
+        "name": "金融监管"
+      }
+    ]
+  },
+  {
+    "id": "work_careers",
+    "name": "工作与职业",
+    "sub_nodes": [
+      {
+        "id": "remote_work",
+        "name": "远程工作"
+      },
+      {
+        "id": "gig_economy",
+        "name": "零工经济"
+      },
+      {
+        "id": "talent_acquisition",
+        "name": "人才招聘"
+      },
+      {
+        "id": "upskilling_reskilling",
+        "name": "技能提升与再技能培训"
+      },
+      {
+        "id": "workspace_design",
+        "name": "工作空间设计"
+      },
+      {
+        "id": "employee_wellbeing",
+        "name": "员工福祉"
+      },
+      {
+        "id": "hr_tech",
+        "name": "人力资源科技"
+      },
+      {
+        "id": "career_coaching",
+        "name": "职业教练"
+      },
+      {
+        "id": "labor_relations",
+        "name": "劳动关系"
+      },
+      {
+        "id": "diversity_inclusion",
+        "name": "多样性与包容性"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing",
+    "name": "制造业",
+    "sub_nodes": [
+      {
+        "id": "industry_4_0",
+        "name": "工业4.0"
+      },
+      {
+        "id": "robotics_automation",
+        "name": "机器人与自动化"
+      },
+      {
+        "id": "3d_printing",
+        "name": "3D打印"
+      },
+      {
+        "id": "supply_chain",
+        "name": "供应链管理"
+      },
+      {
+        "id": "smart_factories",
+        "name": "智能工厂"
+      },
+      {
+        "id": "materials_science",
+        "name": "材料科学"
+      },
+      {
+        "id": "quality_control",
+        "name": "质量控制"
+      },
+      {
+        "id": "sustainable_manufacturing",
+        "name": "可持续制造"
+      },
+      {
+        "id": "predictive_maintenance",
+        "name": "预测性维护"
+      },
+      {
+        "id": "industrial_iot",
+        "name": "工业物联网"
+      }
+    ]
+  },
+  {
+    "id": "retail_commerce",
+    "name": "零售与商业",
+    "sub_nodes": [
+      {
+        "id": "e_commerce",
+        "name": "电子商务"
+      },
+      {
+        "id": "omnichannel_retail",
+        "name": "全渠道零售"
+      },
+      {
+        "id": "supply_chain_retail",
+        "name": "供应链与物流"
+      },
+      {
+        "id": "consumer_behavior",
+        "name": "消费者行为"
+      },
+      {
+        "id": "digital_payment",
+        "name": "数字支付系统"
+      },
+      {
+        "id": "brick_and_mortar",
+        "name": "实体零售创新"
+      },
+      {
+        "id": "personalized_marketing",
+        "name": "个性化营销"
+      },
+      {
+        "id": "inventory_management",
+        "name": "库存管理"
+      },
+      {
+        "id": "direct_to_consumer",
+        "name": "直面消费者（D2C）"
+      },
+      {
+        "id": "retail_analytics",
+        "name": "零售分析"
+      }
+    ]
+  },
+  {
+    "id": "hospitality_tourism",
+    "name": "酒店与服务业与旅游",
+    "sub_nodes": [
+      {
+        "id": "hotels",
+        "name": "酒店"
+      },
+      {
+        "id": "spa",
+        "name": "水疗"
+      },
+      {
+        "id": "resorts",
+        "name": "度假村"
+      },
+      {
+        "id": "restaurants",
+        "name": "餐厅"
+      },
+      {
+        "id": "cafes",
+        "name": "咖啡馆"
+      },
+      {
+        "id": "theme_parks",
+        "name": "主题公园"
+      },
+      {
+        "id": "cruise",
+        "name": "邮轮"
+      },
+      {
+        "id": "eco_tourism",
+        "name": "生态旅游"
+      },
+      {
+        "id": "luxury_travel",
+        "name": "奢华旅行"
+      },
+      {
+        "id": "wellness_retreat",
+        "name": "健康疗养"
+      }
+    ]
+  },
+  {
+    "id": "cities_communities",
+    "name": "城市与社区",
+    "sub_nodes": [
+      {
+        "id": "smart_cities",
+        "name": "智慧城市"
+      },
+      {
+        "id": "public_spaces",
+        "name": "公共空间"
+      },
+      {
+        "id": "affordable_housing",
+        "name": "可负担住房"
+      },
+      {
+        "id": "community_engagement",
+        "name": "社区参与"
+      },
+      {
+        "id": "urban_mobility",
+        "name": "城市出行"
+      },
+      {
+        "id": "sustainable_infrastructure",
+        "name": "可持续基础设施"
+      },
+      {
+        "id": "disaster_resilience",
+        "name": "灾害韧性"
+      },
+      {
+        "id": "waste_recycling",
+        "name": "废弃物与回收系统"
+      },
+      {
+        "id": "urban_agriculture",
+        "name": "城市农业"
+      },
+      {
+        "id": "digital_twins",
+        "name": "城市数字孪生"
+      }
+    ]
+  },
+  {
+    "id": "government_public_services",
+    "name": "政府与公共服务",
+    "sub_nodes": [
+      {
+        "id": "e_government",
+        "name": "电子政务与数字身份"
+      },
+      {
+        "id": "public_policy",
+        "name": "公共政策"
+      },
+      {
+        "id": "civic_tech",
+        "name": "公民科技"
+      },
+      {
+        "id": "public_healthcare_systems",
+        "name": "公共医疗系统"
+      },
+      {
+        "id": "infrastructure_funding",
+        "name": "基础设施融资"
+      },
+      {
+        "id": "social_welfare",
+        "name": "社会福利"
+      },
+      {
+        "id": "regulatory_compliance",
+        "name": "法规合规"
+      },
+      {
+        "id": "emergency_services",
+        "name": "应急响应服务"
+      },
+      {
+        "id": "smart_governance",
+        "name": "智慧治理"
+      },
+      {
+        "id": "open_data",
+        "name": "开放数据倡议"
+      }
+    ]
+  },
+  {
+    "id": "security_safety",
+    "name": "安全与安全保障",
+    "sub_nodes": [
+      {
+        "id": "cybersecurity",
+        "name": "网络安全"
+      },
+      {
+        "id": "physical_security",
+        "name": "物理安全"
+      },
+      {
+        "id": "surveillance_systems",
+        "name": "监控系统"
+      },
+      {
+        "id": "biometrics",
+        "name": "生物识别"
+      },
+      {
+        "id": "disaster_recovery",
+        "name": "灾难恢复"
+      },
+      {
+        "id": "data_privacy",
+        "name": "数据隐私"
+      },
+      {
+        "id": "national_defense",
+        "name": "国防"
+      },
+      {
+        "id": "law_enforcement_tech",
+        "name": "执法科技"
+      },
+      {
+        "id": "fire_safety",
+        "name": "消防安全"
+      },
+      {
+        "id": "fraud_detection",
+        "name": "欺诈检测"
+      }
+    ]
+  },
+  {
+    "id": "communication",
+    "name": "通信",
+    "sub_nodes": [
+      {
+        "id": "telecommunications",
+        "name": "电信（5G/6G）"
+      },
+      {
+        "id": "satellite_internet",
+        "name": "卫星互联网"
+      },
+      {
+        "id": "social_media",
+        "name": "社交媒体"
+      },
+      {
+        "id": "enterprise_collaboration",
+        "name": "企业协作工具"
+      },
+      {
+        "id": "iot_connectivity",
+        "name": "物联网连接"
+      },
+      {
+        "id": "quantum_communication",
+        "name": "量子通信"
+      },
+      {
+        "id": "broadcasting",
+        "name": "广播基础设施"
+      },
+      {
+        "id": "network_architecture",
+        "name": "网络架构"
+      },
+      {
+        "id": "unified_communications",
+        "name": "统一通信"
+      },
+      {
+        "id": "interoperability",
+        "name": "跨平台互操作性"
+      }
+    ]
+  },
+  {
+    "id": "entertainment_media",
+    "name": "娱乐与媒体",
+    "sub_nodes": [
+      {
+        "id": "streaming_services",
+        "name": "流媒体服务"
+      },
+      {
+        "id": "gaming_esports",
+        "name": "游戏与电竞"
+      },
+      {
+        "id": "virtual_reality_media",
+        "name": "VR与AR媒体"
+      },
+      {
+        "id": "generative_ai_art",
+        "name": "生成式AI艺术与内容"
+      },
+      {
+        "id": "digital_journalism",
+        "name": "数字新闻"
+      },
+      {
+        "id": "podcasting_audio",
+        "name": "播客与音频内容"
+      },
+      {
+        "id": "cinema_film",
+        "name": "电影与电影制作"
+      },
+      {
+        "id": "music_industry",
+        "name": "音乐产业科技"
+      },
+      {
+        "id": "copyright_nft",
+        "name": "版权与数字所有权"
+      },
+      {
+        "id": "live_events",
+        "name": "现场活动与音乐会"
+      }
+    ]
+  },
+  {
+    "id": "science_research",
+    "name": "科学与研究",
+    "sub_nodes": [
+      {
+        "id": "quantum_computing",
+        "name": "量子计算"
+      },
+      {
+        "id": "biotechnology",
+        "name": "生物技术"
+      },
+      {
+        "id": "artificial_intelligence",
+        "name": "人工智能"
+      },
+      {
+        "id": "nanotechnology",
+        "name": "纳米技术"
+      },
+      {
+        "id": "neuroscience",
+        "name": "神经科学"
+      },
+      {
+        "id": "particle_physics",
+        "name": "粒子物理"
+      },
+      {
+        "id": "climate_science",
+        "name": "气候科学"
+      },
+      {
+        "id": "genomics",
+        "name": "基因组学"
+      },
+      {
+        "id": "materials_discovery",
+        "name": "材料发现"
+      },
+      {
+        "id": "academic_publishing",
+        "name": "开放科学与学术出版"
+      }
+    ]
+  },
+  {
+    "id": "space_civilization",
+    "name": "太空文明",
+    "sub_nodes": [
+      {
+        "id": "space_exploration",
+        "name": "太空探索"
+      },
+      {
+        "id": "satellite_deployment",
+        "name": "卫星部署"
+      },
+      {
+        "id": "mars_colonization",
+        "name": "火星殖民"
+      },
+      {
+        "id": "asteroid_mining",
+        "name": "小行星采矿"
+      },
+      {
+        "id": "space_tourism",
+        "name": "太空旅游"
+      },
+      {
+        "id": "orbital_habitats",
+        "name": "轨道栖息地"
+      },
+      {
+        "id": "astrobiology",
+        "name": "天体生物学"
+      },
+      {
+        "id": "space_law",
+        "name": "太空法与治理"
+      },
+      {
+        "id": "propulsion_systems",
+        "name": "先进推进系统"
+      },
+      {
+        "id": "space_debris",
+        "name": "空间碎片缓解"
+      }
+    ]
+  },
+  {
+    "id": "culture_lifestyle",
+    "name": "文化与生活方式",
+    "sub_nodes": [
+      {
+        "id": "fashion_design",
+        "name": "时尚与设计"
+      },
+      {
+        "id": "digital_nomadism",
+        "name": "数字游牧"
+      },
+      {
+        "id": "fitness_wellness",
+        "name": "健身与健康生活"
+      },
+      {
+        "id": "art_museums",
+        "name": "艺术与博物馆"
+      },
+      {
+        "id": "gastronomy",
+        "name": "美食学与饮食文化"
+      },
+      {
+        "id": "mindfulness",
+        "name": "正念与个人成长"
+      },
+      {
+        "id": "subcultures",
+        "name": "数字亚文化"
+      },
+      {
+        "id": "heritage_preservation",
+        "name": "遗产保护"
+      },
+      {
+        "id": "hobbies_leisure",
+        "name": "爱好与休闲"
+      },
+      {
+        "id": "social_trends",
+        "name": "社会趋势与动态"
+      }
+    ]
+  }
+]

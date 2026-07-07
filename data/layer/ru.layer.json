@@ -1,0 +1,314 @@
+{
+  "layers": [
+    {
+      "id": "human_needs",
+      "name": "Потребности человека"
+    },
+    {
+      "id": "industries",
+      "name": "Отрасли"
+    },
+    {
+      "id": "problems",
+      "name": "Проблемы"
+    },
+    {
+      "id": "future-solutions",
+      "name": "Будущие решения"
+    },
+    {
+      "id": "future_civilization",
+      "name": "Будущая цивилизация"
+    },
+    {
+      "id": "business-opportunities",
+      "name": "Бизнес-возможности"
+    }
+  ],
+  "industries": {
+    "id": "industries",
+    "name": "Отрасли",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Отрасли | Chorn Planet",
+          "description": "Просматривайте отраслевые узлы, текущие проблемы, подузлы и ссылки на решения будущей дорожной карты в Chorn Planet Civilization Graph."
+        },
+        "node": {
+          "title_template": "Отраслевые проблемы {nodeName} | Chorn Planet",
+          "description_template": "Просматривайте текущие проблемы, подузлы и пути будущих решений для {nodeName}.",
+          "fallback_title": "Отрасли | Chorn Planet",
+          "fallback_description": "Просматривайте отраслевые узлы в Chorn Planet Civilization Graph."
+        },
+        "detail": {
+          "fallback_title": "Отраслевая проблема | Chorn Planet",
+          "fallback_description": "Изучайте проблемы и решения будущей цивилизации.",
+          "title_template": "{problemName} | {subNodeName} | Chorn Planet",
+          "description_template": "{problemName} влияет на {nodeName} и {subNodeName}. Изучайте решения будущей дорожной карты, бизнес-возможности и связанные ссылки Civilization Graph."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Civilization Graph",
+          "title": "Отрасли",
+          "description": "Премиальный индекс отраслевых узлов, текущих вызовов и путей будущих решений, созданный на основе канонического манифеста Civilization Graph."
+        },
+        "stats": {
+          "industry_nodes": "Отраслевые узлы",
+          "linked_problem_pages": "Связанные страницы проблем",
+          "problem_catalog": "Каталог проблем"
+        },
+        "directory_section": {
+          "eyebrow": "Карта отраслей",
+          "title": "Просмотр текущих проблем по отраслевому узлу",
+          "card_problem_count_template": "{count} связанных страниц проблем",
+          "card_description_template": "{subNodeCount} подузлов и {problemCount} текущих вызовов подключены к Civilization Graph."
+        }
+      },
+      "node": {
+        "hero": {
+          "eyebrow": "Отраслевой узел",
+          "description_template": "Изучайте {nodeName} через текущие вызовы, подузлы и ссылки на решения будущей дорожной карты, созданные из Civilization Graph."
+        },
+        "stats": {
+          "sub_nodes": "Подузлы",
+          "linked_pages": "Связанные страницы",
+          "problem_catalog": "Каталог проблем"
+        },
+        "problem_section": {
+          "eyebrow": "Текущие проблемы",
+          "title": "Страницы проблем на основе манифеста"
+        },
+        "sub_nodes_section": {
+          "eyebrow": "Подузлы",
+          "title": "Операционные области"
+        }
+      },
+      "detail": {
+        "hero": {
+          "eyebrow": "Отраслевая проблема",
+          "description_template": "{problemName} — текущий вызов внутри {nodeName}, особенно вокруг {subNodeName}. Civilization Graph связывает эту проблему с решениями будущей дорожной карты, бизнес-возможностями и связанными путями знаний."
+        },
+        "overview": {
+          "eyebrow": "Текущая проблема",
+          "description": "Эта страница создана из канонического манифеста CGD и использует связи между проблемой, узлом, подузлом, решением и дорожной картой как источник истины."
+        },
+        "why_it_matters": {
+          "eyebrow": "Почему это важно",
+          "title_template": "Точка давления {subNodeName}",
+          "description_template": "Решение этой задачи может открыть более качественные сервисы, более сильную инфраструктуру и новые операционные модели в {nodeName}."
+        },
+        "roadmap_section": {
+          "eyebrow": "Решения будущей дорожной карты",
+          "title": "Элементы дорожной карты, связанные с этой проблемой"
+        },
+        "business_section": {
+          "eyebrow": "Бизнес-возможности",
+          "title": "Коммерческие пути"
+        },
+        "technology_section": {
+          "eyebrow": "Связанные технологии",
+          "title": "Технологические домены"
+        },
+        "related_problems_section": {
+          "eyebrow": "Связанные проблемы",
+          "title_template": "Другие вызовы в {nodeName}"
+        },
+        "related_industries_section": {
+          "eyebrow": "Связанные отрасли",
+          "title": "Соседние узлы"
+        },
+        "internal_links_section": {
+          "eyebrow": "Внутренние ссылки",
+          "title": "Навигация по графу"
+        }
+      }
+    }
+  },
+  "business_opportunities": {
+    "id": "business-opportunities",
+    "name": "Бизнес-возможности",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Бизнес-возможности | Chorn Planet",
+          "description": "Просматривайте будущие бизнес-возможности, связанные с отраслями, подузлами и эрами дорожной карты будущей цивилизации."
+        },
+        "node": {
+          "title_template": "Бизнес-возможности {nodeName} | Chorn Planet",
+          "description_template": "Просматривайте будущие бизнес-возможности для {nodeName} по подузлам и эрам дорожной карты.",
+          "fallback_title": "Бизнес-возможности | Chorn Planet",
+          "fallback_description": "Просматривайте будущие бизнес-возможности, связанные с Civilization Graph."
+        },
+        "detail": {
+          "fallback_title": "Бизнес-возможность | Chorn Planet",
+          "fallback_description": "Изучайте бизнес-возможности будущей цивилизации.",
+          "title_template": "{opportunityName} | {nodeName} | Chorn Planet",
+          "description_template": "{opportunityName} соединяет {nodeName}, {subNodeName} и дорожную карту будущей цивилизации через Chorn Planet Civilization Graph."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Civilization Graph",
+          "title": "Бизнес-возможности",
+          "description": "Стратегическая карта бизнес-идей, ориентированных на будущее, связанных с отраслями, подузлами и эрами дорожной карты внутри Chorn Planet Civilization Graph."
+        },
+        "directory_section": {
+          "eyebrow": "Карта возможностей",
+          "title": "Просмотр будущих бизнес-возможностей по отраслевому узлу",
+          "card_description_template": "{opportunityCount} коммерческих идей в {subNodeCount} подузлах и {eraCount} эрах дорожной карты."
+        }
+      },
+      "node": {
+        "hero": {
+          "eyebrow": "Бизнес-узел",
+          "description_template": "Изучайте бизнес-возможности в {nodeName}, сгруппированные по подузлам и связанные с эрой дорожной карты."
+        },
+        "stats": {
+          "opportunities": "Возможности",
+          "sub_nodes": "Подузлы",
+          "roadmap_eras": "Эры дорожной карты"
+        },
+        "opportunity_section": {
+          "eyebrow": "Бизнес-возможности",
+          "title": "Страницы возможностей на основе манифеста"
+        },
+        "sub_nodes_section": {
+          "eyebrow": "Подузлы",
+          "title": "Области возможностей"
+        }
+      },
+      "detail": {
+        "hero": {
+          "eyebrow": "Бизнес-возможность",
+          "description_template": "{opportunityName} — ориентированная на будущее возможность в {nodeName}, сфокусированная на {subNodeName}. Эта страница связывает возможность с эрами дорожной карты, связанными проблемами, технологиями и смежными бизнесами."
+        },
+        "overview": {
+          "eyebrow": "Бизнес-обзор",
+          "description_template": "Эта возможность относится к {subNodeName} и привязана к {eraId}, поэтому является частью более широкой дорожной карты будущей цивилизации."
+        },
+        "related_industry": {
+          "eyebrow": "Связанная отрасль",
+          "description_template": "{nodeName} включает {subNodeName} и предоставляет рыночный, операционный и социальный контекст для этой возможности."
+        },
+        "roadmap_section": {
+          "eyebrow": "Возможности будущей дорожной карты",
+          "title": "Элементы дорожной карты из связанной эры"
+        },
+        "related_problems_section": {
+          "eyebrow": "Связанные проблемы",
+          "title": "Близкие текущие вызовы",
+          "empty_text": "По мере расширения графа появится больше ссылок на проблемы."
+        },
+        "technology_section": {
+          "eyebrow": "Связанные технологии",
+          "title": "Технологические домены"
+        },
+        "related_business_section": {
+          "eyebrow": "Связанные бизнес-возможности",
+          "title": "Смежные бизнес-пути"
+        },
+        "internal_links_section": {
+          "eyebrow": "Внутренние ссылки",
+          "title": "Навигация по графу"
+        }
+      }
+    }
+  },
+  "future-solutions": {
+    "id": "future-solutions",
+    "name": "Будущие решения",
+    "page_info": {
+      "metadata": {
+        "index": {
+          "title": "Будущие решения | Chorn Planet",
+          "description": "Изучайте линзы будущих решений, которые связывают вехи дорожной карты с текущими проблемами, отраслями, бизнес-возможностями, готовностью и влиянием на человека."
+        },
+        "era": {
+          "title_template": "Будущие решения {eraTitle} | Chorn Planet",
+          "description_template": "Изучайте {count} линз будущих решений из {eraTitle}, связывающих вехи дорожной карты с текущими проблемами, отраслями и бизнес-возможностями.",
+          "fallback_title": "Эра будущих решений | Chorn Planet",
+          "fallback_description": "Изучайте линзы будущих решений по эрам дорожной карты."
+        },
+        "detail": {
+          "fallback_title": "Будущее решение | Chorn Planet",
+          "fallback_description": "Изучайте линзы будущих решений из Civilization Graph."
+        }
+      },
+      "index": {
+        "hero": {
+          "eyebrow": "Будущие решения",
+          "title": "Линзы решений для дорожной карты будущей цивилизации",
+          "description": "Изучайте каждую будущую веху через проблемы, которые она решает, отрасли, которых она касается, бизнес-возможности, которые она создает, и человеческую подготовку, которую она требует."
+        },
+        "directory_section": {
+          "eyebrow": "Карта решений",
+          "title": "Просмотр будущих решений по эре дорожной карты",
+          "card_description_template": "{timeframe}. Связано с {industryCount} отраслевыми узлами и уровнем готовности {readinessLevels}."
+        }
+      },
+      "era": {
+        "hero": {
+          "eyebrow": "Эра будущих решений",
+          "description_template": "Сфокусированный обзор {count} линз решений из {timeframe}, связывающий вехи дорожной карты с текущими проблемами, влиянием на отрасли и бизнес-возможностями."
+        },
+        "directory_section": {
+          "eyebrow": "Решения по эрам",
+          "title": "Линзы решения проблем"
+        }
+      },
+      "detail": {
+        "breadcrumbs": {
+          "future_civilization": "Будущая цивилизация",
+          "future_solutions": "Будущие решения"
+        },
+        "hero": {
+          "eyebrow": "Будущее решение",
+          "view_era_solutions": "Посмотреть решения эры",
+          "canonical_roadmap_item": "Канонический элемент дорожной карты"
+        },
+        "solution_lens": {
+          "problem_statement": {
+            "eyebrow": "Постановка проблемы",
+            "title": "Что это решает"
+          },
+          "future_solution": {
+            "eyebrow": "Будущее решение",
+            "title": "Как это работает как решение"
+          },
+          "why_it_matters": {
+            "eyebrow": "Почему это важно",
+            "title": "Ценность для человека"
+          }
+        },
+        "readiness": {
+          "eyebrow": "Готовность"
+        },
+        "human_impact": {
+          "eyebrow": "Влияние на человека",
+          "title": "Индивид, бизнес, общество"
+        },
+        "current_problems": {
+          "eyebrow": "Решаемые текущие проблемы",
+          "title": "Ссылки на проблемы"
+        },
+        "industries_impacted": {
+          "eyebrow": "Затронутые отрасли",
+          "title": "Где это применяется"
+        },
+        "business_opportunities": {
+          "eyebrow": "Бизнес-возможности",
+          "title": "Коммерческие пути"
+        },
+        "risks": {
+          "eyebrow": "Риски и вызовы",
+          "title": "Чем необходимо управлять"
+        },
+        "related": {
+          "eyebrow": "Связанные линзы решений",
+          "title": "Продолжить по графу"
+        }
+      }
+    }
+  }
+}
