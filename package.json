@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "npm run generate:cgd-indexes && next build",
+    "build": "node scripts/validate-build-env.cjs && npm run generate:cgd-indexes && next build",
     "start": "npx serve@latest out",
     "lint": "eslint .",
     "test:e2e": "playwright test",
