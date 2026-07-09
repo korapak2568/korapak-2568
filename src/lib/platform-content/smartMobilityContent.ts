@@ -122,19 +122,46 @@ function getSmartMobilityPath(path: string, locale = DEFAULT_LOCALE): string {
   return `/smart-mobility/${path}/${locale}.json`;
 }
 
+function readLocalizedRemoteJson<T>(
+  path: string,
+  locale = DEFAULT_LOCALE,
+): Promise<T> {
+  const resolvedLocale = resolveSmartMobilityLocale(locale);
+  const jsonPath = getSmartMobilityPath(path, resolvedLocale);
+  const cachedContent = remoteContentCache.get(jsonPath);
+
+  if (cachedContent) {
+    return cachedContent as Promise<T>;
+  }
+
+  const contentPromise = fetchData<T>(jsonPath).catch((error) => {
+    remoteContentCache.delete(jsonPath);
+
+    if (resolvedLocale !== DEFAULT_LOCALE) {
+      return readRemoteJson<T>(getSmartMobilityPath(path, DEFAULT_LOCALE));
+    }
+
+    throw error;
+  });
+  remoteContentCache.set(jsonPath, contentPromise as Promise<unknown>);
+
+  return contentPromise;
+}
+
 async function getCoastalStations(locale = DEFAULT_LOCALE): Promise<MtsStation[]> {
-  return readRemoteJson<MtsStation[]>(getSmartMobilityPath("coastal", locale));
+  return readLocalizedRemoteJson<MtsStation[]>("coastal", locale);
 }
 
 async function getValleyStations(locale = DEFAULT_LOCALE): Promise<MtsStation[]> {
-  return readRemoteJson<MtsStation[]>(getSmartMobilityPath("valley", locale));
+  return readLocalizedRemoteJson<MtsStation[]>("valley", locale);
 }
 
 async function getMtsContent(
   locale = DEFAULT_LOCALE,
 ): Promise<{ detail: SmartMobilityMtsDetailContent }> {
-  return readRemoteJson<{ detail: SmartMobilityMtsDetailContent }>(
-    getSmartMobilityPath("mts", locale),
+  return readLocalizedRemoteJson<{ detail: SmartMobilityMtsDetailContent }>(
+    "mts",
+    locale,
   );
 }
 
@@ -338,7 +365,7 @@ export async function getSmartMobilityMetadata(
   return {
     title: content.seo.title,
     description: content.seo.description,
-    alternates: getLocalizedAlternates("/smart-mobility/"),
+    alternates: getLocalizedAlternates("/smart-mobility/", locale ?? undefined),
     openGraph: {
       title: content.seo.title,
       description: content.seo.description,
@@ -381,7 +408,7 @@ export async function getSmartMobilityStationMetadata({
   return {
     title: `${station.name} | Chorn Planet MTS`,
     description: station.story,
-    alternates: getLocalizedAlternates(`/smart-mobility/mts/${station.slug}/`),
+    alternates: getLocalizedAlternates(`/smart-mobility/mts/${station.slug}/`, locale ?? undefined),
     openGraph: {
       title: station.name,
       description: station.story,
@@ -404,3 +431,4 @@ export async function getSmartMobilityStationMetadata({
     },
   };
 }
+
