@@ -1,1 +1,1 @@
-export const CDN = "https://cdn.chornplanet.com"
+export const CDN = "https://assets.chornplanet.com"

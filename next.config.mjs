@@ -5,6 +5,8 @@ import {
   redirectIncorrectPublic,
 } from "./config/publicRedirects.mjs";
 
+const STRONG_IMAGE_CACHE_CONTROL = "public, max-age=31536000, immutable";
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   trailingSlash: true,
@@ -43,7 +45,7 @@ const nextConfig = {
               "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com",
               "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
               "font-src 'self' https://fonts.gstatic.com data:",
-              "img-src 'self' data: blob: https://cdn.chornplanet.com https://assets.chornplanet.com https://scdn.line-apps.com https://www.google-analytics.com",
+              "img-src 'self' data: blob: https://assets.chornplanet.com https://scdn.line-apps.com https://www.google-analytics.com",
               "connect-src 'self' https://vitals.vercel-insights.com https://www.google-analytics.com",
               "frame-src 'self' https://www.google.com",
               "frame-ancestors 'none'",
@@ -68,13 +70,22 @@ const nextConfig = {
           },
         ],
       },
-      // Headers for static assets
+      // Headers for image assets
       {
         source: "/assets/:path*",
         headers: [
           {
             key: "Cache-Control",
-            value: "public, max-age=31536000, immutable",
+            value: STRONG_IMAGE_CACHE_CONTROL,
+          },
+        ],
+      },
+      {
+        source: "/images/:path*",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: STRONG_IMAGE_CACHE_CONTROL,
           },
         ],
       },
@@ -83,7 +94,16 @@ const nextConfig = {
         headers: [
           {
             key: "Cache-Control",
-            value: "public, max-age=86400, s-maxage=86400",
+            value: STRONG_IMAGE_CACHE_CONTROL,
+          },
+        ],
+      },
+      {
+        source: "/images-opengraph/:path*",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: STRONG_IMAGE_CACHE_CONTROL,
           },
         ],
       },
@@ -102,11 +122,6 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "scdn.line-apps.com",
-      },
-      // Keep this for legacy support of old image URLs
-      {
-        protocol: "https",
-        hostname: "cdn.chornplanet.com",
       },
     ],
     minimumCacheTTL: 31536000,
