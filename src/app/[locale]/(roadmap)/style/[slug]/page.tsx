@@ -2,8 +2,6 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ShoppingBag } from "lucide-react";
-import { FaTiktok } from "react-icons/fa";
 import {
   getPlatformOutfitContent,
   getPlatformOutfitDetailMetadata,
@@ -61,25 +59,6 @@ export default async function Page({ params }: PageParams) {
               <span key={tag}>{tag}</span>
             ))}
           </div>
-          <a
-            className="platform-outfit-detail-cta"
-            href={outfitSet.tiktok_url}
-            target="_blank"
-            rel="noreferrer"
-          >
-            <span
-              className="platform-outfit-detail-cta__icons"
-              aria-hidden="true"
-            >
-              <ShoppingBag
-                className="platform-outfit-detail-cta__shopping-icon"
-                size={18}
-                strokeWidth={2.4}
-              />
-              <FaTiktok className="platform-outfit-detail-cta__tiktok-icon" />
-            </span>
-            <span>{detailPage.externalCta}</span>
-          </a>
         </div>
         <div className="platform-outfit-detail-hero__media">
           <Image
