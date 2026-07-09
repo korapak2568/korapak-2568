@@ -1,20 +1,19 @@
-import { NextRequest, NextResponse } from "next/server";
+import { NextResponse } from "next/server";
 import { getSmartMobilityStationDetailContent } from "@/lib/platform-content/smartMobilityContent";
 
-export async function GET(request: NextRequest) {
-  const slug = request.nextUrl.searchParams.get("slug");
+export async function GET(request: Request) {
+  const { searchParams } = new URL(request.url);
+  const slug = searchParams.get("slug");
+  const locale = searchParams.get("locale") || "en";
 
   if (!slug) {
-    return NextResponse.json({ error: "slug is required" }, { status: 400 });
+    return NextResponse.json({ error: "Missing slug" }, { status: 400 });
   }
 
-  const content = getSmartMobilityStationDetailContent(slug);
+  const content = await getSmartMobilityStationDetailContent(slug, locale);
 
   if (!content) {
-    return NextResponse.json(
-      { error: "MTS station not found" },
-      { status: 404 },
-    );
+    return NextResponse.json({ error: "Station not found" }, { status: 404 });
   }
 
   return NextResponse.json(content);

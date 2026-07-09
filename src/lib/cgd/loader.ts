@@ -1,5 +1,4 @@
-﻿import fs from "node:fs";
-import path from "node:path";
+import { fetchData } from "@/lib/chornplanet-data/fetchData";
 import { DEFAULT_LOCALE } from "@/lib/SiteUrlLocales";
 import { getFutureSolutions } from "@/lib/future-solutions/futureSolutionsContent";
 import {
@@ -10,7 +9,7 @@ import {
 } from "@/lib/platform-content/futureRoadmapContent";
 
 const CGD_LOCALE = DEFAULT_LOCALE;
-const DATA_DIR = path.join(process.cwd(), "data");
+const remoteDataCache = new Map<string, Promise<unknown>>();
 
 export type CgdPageType =
   | "industry-problem"
@@ -150,25 +149,29 @@ export type FutureSolutionRelations = {
   relatedSubNodes: Array<CgdNode["sub_nodes"][number] & { node_id: string }>;
 };
 
-function readJson<T>(...segments: string[]): T {
-  const sourcePath = path.join(DATA_DIR, ...segments);
-  const rawContent = fs.readFileSync(sourcePath, "utf8").replace(/^\uFEFF/, "");
+function readRemoteJson<T>(jsonPath: string): Promise<T> {
+  const cachedData = remoteDataCache.get(jsonPath);
 
-  return JSON.parse(rawContent) as T;
+  if (cachedData) {
+    return cachedData as Promise<T>;
+  }
+
+  const dataPromise = fetchData<T>(jsonPath);
+  remoteDataCache.set(jsonPath, dataPromise as Promise<unknown>);
+
+  return dataPromise;
 }
 
-function readLocalizedJson<T>(
-  segments: string[],
+async function readLocalizedRemoteJson<T>(
+  pathTemplate: string,
   locale = CGD_LOCALE,
   fallbackLocale = CGD_LOCALE,
-): T {
+): Promise<T> {
   try {
-    return readJson<T>(...segments.map((segment) => segment.replace("{locale}", locale)));
+    return await readRemoteJson<T>(pathTemplate.replace("{locale}", locale));
   } catch (error) {
     if (locale !== fallbackLocale) {
-      return readJson<T>(
-        ...segments.map((segment) => segment.replace("{locale}", fallbackLocale)),
-      );
+      return readRemoteJson<T>(pathTemplate.replace("{locale}", fallbackLocale));
     }
 
     throw error;
@@ -184,95 +187,87 @@ function normalizeRoute(route: string): string {
   return normalizedRoute.endsWith("/") ? normalizedRoute : `${normalizedRoute}/`;
 }
 
-export function getCgdPageIndex(): CgdPageIndexRecord[] {
-  return readJson<CgdPageIndexRecord[]>(
-    "civilization-graph",
-    "pages",
-    "page-index.json",
+export function getCgdPageIndex(): Promise<CgdPageIndexRecord[]> {
+  return readRemoteJson<CgdPageIndexRecord[]>(
+    "/civilization-graph/pages/page-index.json",
   );
 }
 
-export function getCgdSearchIndex(locale = CGD_LOCALE): CgdSearchIndexRecord[] {
-  return readLocalizedJson<CgdSearchIndexRecord[]>([
-    "civilization-graph",
-    "search",
-    "{locale}.search-index.json",
-  ], locale);
+export function getCgdSearchIndex(locale = CGD_LOCALE): Promise<CgdSearchIndexRecord[]> {
+  return readLocalizedRemoteJson<CgdSearchIndexRecord[]>(
+    "/civilization-graph/search/{locale}.search-index.json",
+    locale,
+  );
 }
 
-export function getCgdSearchRecordByRoute(
+export async function getCgdSearchRecordByRoute(
   route: string,
   pageType: CgdPageType,
   locale = CGD_LOCALE,
-): CgdSearchIndexRecord | undefined {
+): Promise<CgdSearchIndexRecord | undefined> {
   const normalizedRoute = normalizeRoute(route);
 
-  return getCgdSearchIndex(locale).find(
+  return (await getCgdSearchIndex(locale)).find(
     (page) => page.pageType === pageType && page.route === normalizedRoute,
   );
 }
-export function getCgdNodes(): CgdNode[] {
-  return readJson<CgdNode[]>("node", "en.node.json");
+export function getCgdNodes(locale = CGD_LOCALE): Promise<CgdNode[]> {
+  return readLocalizedRemoteJson<CgdNode[]>("/node/{locale}.node.json", locale);
 }
 
-export function getCgdProblemGroups(): CgdProblemGroup[] {
-  return readJson<CgdProblemGroup[]>("problem", "en.problem.json");
+export function getCgdProblemGroups(locale = CGD_LOCALE): Promise<CgdProblemGroup[]> {
+  return readLocalizedRemoteJson<CgdProblemGroup[]>("/problem/{locale}.problem.json", locale);
 }
 
 
-export function getCgdBusinessGroups(): CgdBusinessGroup[] {
-  return readJson<CgdBusinessGroup[]>("business_opportunities", "en.business.json");
+export function getCgdBusinessGroups(locale = CGD_LOCALE): Promise<CgdBusinessGroup[]> {
+  return readLocalizedRemoteJson<CgdBusinessGroup[]>(
+    "/business_opportunities/{locale}.business.json",
+    locale,
+  );
 }
 
-export function getCgdEras(locale = CGD_LOCALE): CgdEra[] {
-  try {
-    return readJson<CgdEra[]>("era", locale + ".era.json");
-  } catch (error) {
-    if (locale !== CGD_LOCALE) {
-      return readJson<CgdEra[]>("era", CGD_LOCALE + ".era.json");
-    }
-
-    throw error;
-  }
+export function getCgdEras(locale = CGD_LOCALE): Promise<CgdEra[]> {
+  return readLocalizedRemoteJson<CgdEra[]>("/era/{locale}.era.json", locale);
 }
 
-export function getCgdPageByRoute(
+export async function getCgdPageByRoute(
   route: string,
   pageType: CgdPageType,
-): CgdPageIndexRecord | undefined {
+): Promise<CgdPageIndexRecord | undefined> {
   const normalizedRoute = normalizeRoute(route);
 
-  return getCgdPageIndex().find(
+  return (await getCgdPageIndex()).find(
     (page) => page.pageType === pageType && page.route === normalizedRoute,
   );
 }
 
-export function getCgdStaticParams(pageType: CgdPageType) {
-  return getCgdPageIndex()
+export async function getCgdStaticParams(pageType: CgdPageType) {
+  return (await getCgdPageIndex())
     .filter((page) => page.pageType === pageType)
     .map((page) => page.route.split("/").filter(Boolean));
 }
 
-function getNode(nodeId: string): CgdNode | undefined {
-  return getCgdNodes().find((node) => node.id === nodeId);
+async function getNode(nodeId: string, locale = CGD_LOCALE): Promise<CgdNode | undefined> {
+  return (await getCgdNodes(locale)).find((node) => node.id === nodeId);
 }
 
 function getSubNode(node: CgdNode, subNodeId: string) {
   return node.sub_nodes.find((subNode) => subNode.id === subNodeId);
 }
 
-function getProblem(nodeId: string, problemId: string) {
-  return getCgdProblemGroups()
+async function getProblem(nodeId: string, problemId: string, locale = CGD_LOCALE) {
+  return (await getCgdProblemGroups(locale))
     .find((group) => group.id === nodeId)
     ?.problems.find((problem) => problem.id === problemId);
 }
 
-function getFutureSolutionRecordsForProblem(
+async function getFutureSolutionRecordsForProblem(
   nodeId: string,
   subNodeId: string,
   problemId: string,
 ) {
-  return getFutureSolutions().filter((solution) =>
+  return (await getFutureSolutions()).filter((solution) =>
     solution.current_problems_addressed.some(
       (problem) =>
         problem.node_id === nodeId &&
@@ -282,21 +277,21 @@ function getFutureSolutionRecordsForProblem(
   );
 }
 
-function getFutureSolutionRecordsForSubNode(nodeId: string, subNodeId: string) {
-  return getFutureSolutions().filter((solution) =>
+async function getFutureSolutionRecordsForSubNode(nodeId: string, subNodeId: string) {
+  return (await getFutureSolutions()).filter((solution) =>
     solution.current_problems_addressed.some(
       (problem) => problem.node_id === nodeId && problem.sub_node_id === subNodeId,
     ),
   );
 }
 
-function getFutureSolutionRecordByRoadmapItem(eraId: string, eraItemId: string) {
-  return getFutureSolutions().find(
+async function getFutureSolutionRecordByRoadmapItem(eraId: string, eraItemId: string) {
+  return (await getFutureSolutions()).find(
     (solution) => solution.era_id === eraId && solution.era_item_id === eraItemId,
   );
 }
-function getRoadmapItemById(eraItemId: string): RoadmapItemRef | undefined {
-  for (const { era, items } of getFutureRoadmapEras(CGD_LOCALE)) {
+async function getRoadmapItemById(eraItemId: string): Promise<RoadmapItemRef | undefined> {
+  for (const { era, items } of await getFutureRoadmapEras(CGD_LOCALE)) {
     const item = items.find((candidate) => candidate.id === eraItemId);
 
     if (item) {
@@ -311,8 +306,8 @@ function getRoadmapItemById(eraItemId: string): RoadmapItemRef | undefined {
   return undefined;
 }
 
-function getRoadmapItemsByEra(eraId: string, limit = 8): RoadmapItemRef[] {
-  const roadmapEra = getFutureRoadmapEras(CGD_LOCALE).find(
+async function getRoadmapItemsByEra(eraId: string, limit = 8): Promise<RoadmapItemRef[]> {
+  const roadmapEra = (await getFutureRoadmapEras(CGD_LOCALE)).find(
     ({ era }) => era.id === eraId,
   );
 
@@ -379,14 +374,14 @@ function getRoadmapThumbnail(item?: FutureRoadmapItem): CgdLinkThumbnail | undef
     : undefined;
 }
 
-function getFutureCivilizationLandingThumbnail(locale = CGD_LOCALE) {
-  const eras = getFutureRoadmapEras(locale);
+async function getFutureCivilizationLandingThumbnail(locale = CGD_LOCALE) {
+  const eras = await getFutureRoadmapEras(locale);
   const signalCount = eras.reduce(
     (totalSignals, roadmapEra) => totalSignals + roadmapEra.items.length,
     0,
   );
   const heroItem = getMixedRoadmapItems(
-    getFutureRoadmapFeaturedItems(signalCount, locale),
+    await getFutureRoadmapFeaturedItems(signalCount, locale),
     1,
     "landing-hero",
   )[0];
@@ -407,41 +402,49 @@ function getIndustryProblemUrl(
   )}/`;
 }
 
-export function getIndustryProblemPageData(
+export async function getIndustryProblemPageData(
   nodeSlug: string,
   subNodeSlug: string,
   problemSlug: string,
   locale = CGD_LOCALE,
-): IndustryProblemPageData | undefined {
+): Promise<IndustryProblemPageData | undefined> {
   const route = `/industries/${nodeSlug}/${subNodeSlug}/${problemSlug}/`;
-  const page = getCgdPageByRoute(route, "industry-problem");
-  const search = getCgdSearchRecordByRoute(route, "industry-problem", locale);
+  const [page, search] = await Promise.all([
+    getCgdPageByRoute(route, "industry-problem"),
+    getCgdSearchRecordByRoute(route, "industry-problem", locale),
+  ]);
 
   if (!page?.source.node_id || !page.source.sub_node_id || !page.source.problem_id) {
     return undefined;
   }
 
-  const node = getNode(page.source.node_id);
+  const node = await getNode(page.source.node_id, locale);
   const subNode = node ? getSubNode(node, page.source.sub_node_id) : undefined;
-  const problem = getProblem(page.source.node_id, page.source.problem_id);
+  const problem = await getProblem(page.source.node_id, page.source.problem_id, locale);
 
   if (!node || !subNode || !problem) {
     return undefined;
   }
 
   const solutionItems = uniqueBy(
-    getFutureSolutionRecordsForProblem(
-      page.source.node_id,
-      page.source.sub_node_id,
-      page.source.problem_id,
-    )
-      .map((solution) => getRoadmapItemById(solution.era_item_id))
-      .filter((item): item is RoadmapItemRef => Boolean(item)),
+    (
+      await Promise.all(
+        (await getFutureSolutionRecordsForProblem(
+          page.source.node_id,
+          page.source.sub_node_id,
+          page.source.problem_id,
+        )).map((solution) => getRoadmapItemById(solution.era_item_id)),
+      )
+    ).filter((item): item is RoadmapItemRef => Boolean(item)),
     ({ item }) => item.id,
   );
-  const eraTitleById = new Map(getCgdEras(locale).map((era) => [era.id, era.title]));
+  const [eras, businessGroups] = await Promise.all([
+    getCgdEras(locale),
+    getCgdBusinessGroups(locale),
+  ]);
+  const eraTitleById = new Map(eras.map((era) => [era.id, era.title]));
   const businessOpportunities =
-    getCgdBusinessGroups()
+    businessGroups
       .find((group) => group.node_id === node.id)
       ?.business_opportunities.filter(
         (opportunity) => opportunity.sub_node_id === subNode.id,
@@ -451,7 +454,7 @@ export function getIndustryProblemPageData(
         era_title: eraTitleById.get(opportunity.era_id) ?? opportunity.era_id,
       })) ?? [];
   const relatedProblems =
-    getCgdProblemGroups()
+    (await getCgdProblemGroups(locale))
       .find((group) => group.id === node.id)
       ?.problems.filter((candidate) => candidate.id !== problem.id)
       .slice(0, 6) ?? [];
@@ -469,13 +472,13 @@ export function getIndustryProblemPageData(
     solutionItems,
     businessOpportunities,
     relatedProblems,
-    relatedIndustries: getCgdNodes().filter((candidate) => candidate.id !== node.id).slice(0, 6),
+    relatedIndustries: (await getCgdNodes(locale)).filter((candidate) => candidate.id !== node.id).slice(0, 6),
     relatedTechnologies,
     internalLinks: [
       {
         label: "Future Civilization Roadmap",
         href: "/future-civilization/",
-        thumbnail: getFutureCivilizationLandingThumbnail(locale),
+        thumbnail: await getFutureCivilizationLandingThumbnail(locale),
       },
       ...solutionItems.slice(0, 5).map(({ item, url }) => ({
         label: item.shortTitle,
@@ -490,14 +493,16 @@ export function getIndustryProblemPageData(
   };
 }
 
-export function getBusinessOpportunityPageData(
+export async function getBusinessOpportunityPageData(
   nodeSlug: string,
   businessSlug: string,
   locale = CGD_LOCALE,
-): BusinessOpportunityPageData | undefined {
+): Promise<BusinessOpportunityPageData | undefined> {
   const route = `/business-opportunities/${nodeSlug}/${businessSlug}/`;
-  const page = getCgdPageByRoute(route, "business-opportunity");
-  const search = getCgdSearchRecordByRoute(route, "business-opportunity", locale);
+  const [page, search] = await Promise.all([
+    getCgdPageByRoute(route, "business-opportunity"),
+    getCgdSearchRecordByRoute(route, "business-opportunity", locale),
+  ]);
 
   if (
     !page?.source.node_id ||
@@ -508,9 +513,13 @@ export function getBusinessOpportunityPageData(
     return undefined;
   }
 
-  const node = getNode(page.source.node_id);
+  const [eras, businessGroups] = await Promise.all([
+    getCgdEras(locale),
+    getCgdBusinessGroups(locale),
+  ]);
+  const node = await getNode(page.source.node_id, locale);
   const subNode = node ? getSubNode(node, page.source.sub_node_id) : undefined;
-  const opportunity = getCgdBusinessGroups()
+  const opportunity = businessGroups
     .find((group) => group.node_id === page.source.node_id)
     ?.business_opportunities.find(
       (candidate) => candidate.id === page.source.business_opportunity_id,
@@ -520,26 +529,30 @@ export function getBusinessOpportunityPageData(
     return undefined;
   }
 
-  const roadmapItems = getRoadmapItemsByEra(opportunity.era_id, 8);
+  const roadmapItems = await getRoadmapItemsByEra(opportunity.era_id, 8);
   const relatedProblems = uniqueBy(
-    getFutureSolutionRecordsForSubNode(node.id, opportunity.sub_node_id)
-      .flatMap((solution) => solution.current_problems_addressed)
-      .filter(
-        (problem) => problem.node_id === node.id && problem.sub_node_id === opportunity.sub_node_id,
+    (
+      await Promise.all(
+        (await getFutureSolutionRecordsForSubNode(node.id, opportunity.sub_node_id))
+          .flatMap((solution) => solution.current_problems_addressed)
+          .filter(
+            (problem) =>
+              problem.node_id === node.id && problem.sub_node_id === opportunity.sub_node_id,
+          )
+          .map((problem) => getProblem(problem.node_id, problem.problem_id, locale)),
       )
-      .map((problem) => getProblem(problem.node_id, problem.problem_id))
-      .filter((problem): problem is CgdProblemGroup["problems"][number] =>
-        Boolean(problem),
-      ),
+    ).filter((problem): problem is CgdProblemGroup["problems"][number] =>
+      Boolean(problem),
+    ),
     (problem) => problem.id,
   );
   const relatedTechnologies = uniqueBy(
     roadmapItems.flatMap(({ item }) => item.domains),
     (domain) => domain,
   ).slice(0, 10);
-  const eraTitleById = new Map(getCgdEras(locale).map((era) => [era.id, era.title]));
+  const eraTitleById = new Map(eras.map((era) => [era.id, era.title]));
   const relatedBusinessOpportunities =
-    getCgdBusinessGroups()
+    businessGroups
       .find((group) => group.node_id === node.id)
       ?.business_opportunities.filter((candidate) => candidate.id !== opportunity.id)
       .slice(0, 8)
@@ -571,17 +584,19 @@ export function getBusinessOpportunityPageData(
   };
 }
 
-export function getFutureSolutionRelations(
+export async function getFutureSolutionRelations(
   eraId: string,
   eraItemId: string,
-): FutureSolutionRelations {
-  const nodes = getCgdNodes();
-  const solvedProblems =
-    getFutureSolutionRecordByRoadmapItem(eraId, eraItemId)?.current_problems_addressed
-      .map((link) => {
+): Promise<FutureSolutionRelations> {
+  const nodes = await getCgdNodes();
+  const solvedProblemLinks =
+    (await getFutureSolutionRecordByRoadmapItem(eraId, eraItemId))?.current_problems_addressed ?? [];
+  const solvedProblems = (
+    await Promise.all(
+      solvedProblemLinks.map(async (link) => {
         const node = nodes.find((candidate) => candidate.id === link.node_id);
         const subNode = node ? getSubNode(node, link.sub_node_id) : undefined;
-        const problem = getProblem(link.node_id, link.problem_id);
+        const problem = await getProblem(link.node_id, link.problem_id);
 
         return node && subNode && problem
           ? {
@@ -591,11 +606,12 @@ export function getFutureSolutionRelations(
               url: getIndustryProblemUrl(node.id, subNode.id, problem.id),
             }
           : undefined;
-      })
-      .filter((item): item is FutureSolutionRelations["solvedProblems"][number] =>
-        Boolean(item),
-      ) ?? [];
-  const businessOpportunities = getCgdBusinessGroups().flatMap((group) => {
+      }),
+    )
+  ).filter((item): item is FutureSolutionRelations["solvedProblems"][number] =>
+    Boolean(item),
+  );
+  const businessOpportunities = (await getCgdBusinessGroups()).flatMap((group) => {
     const node = nodes.find((candidate) => candidate.id === group.node_id);
 
     if (!node) {
@@ -649,10 +665,12 @@ export type CgdBusinessDirectoryNode = {
   >;
 };
 
-export function getIndustryDirectoryData(): CgdIndustryDirectoryNode[] {
-  const nodes = getCgdNodes();
-  const problemGroups = getCgdProblemGroups();
-  const industryPages = getCgdPageIndex().filter(
+export async function getIndustryDirectoryData(locale = CGD_LOCALE): Promise<CgdIndustryDirectoryNode[]> {
+  const [nodes, problemGroups] = await Promise.all([
+    getCgdNodes(locale),
+    getCgdProblemGroups(locale),
+  ]);
+  const industryPages = (await getCgdPageIndex()).filter(
     (page) => page.pageType === "industry-problem",
   );
 
@@ -666,7 +684,9 @@ export function getIndustryDirectoryData(): CgdIndustryDirectoryNode[] {
       const subNode = node.sub_nodes.find(
         (candidate) => candidate.id === page.source.sub_node_id,
       );
-      const problem = getProblem(node.id, page.source.problem_id);
+      const problem = problemGroups
+        .find((group) => group.id === node.id)
+        ?.problems.find((candidate) => candidate.id === page.source.problem_id);
 
       return subNode && problem
         ? [{ problem, subNode, url: page.route }]
@@ -685,18 +705,21 @@ export function getIndustryDirectoryData(): CgdIndustryDirectoryNode[] {
   });
 }
 
-export function getIndustryNodeDirectoryData(nodeSlug: string) {
-  return getIndustryDirectoryData().find(
+export async function getIndustryNodeDirectoryData(nodeSlug: string, locale = CGD_LOCALE) {
+  return (await getIndustryDirectoryData(locale)).find(
     ({ node }) => routeSegment(node.id) === nodeSlug,
   );
 }
 
-export function getBusinessOpportunityDirectoryData(
+export async function getBusinessOpportunityDirectoryData(
   locale = CGD_LOCALE,
-): CgdBusinessDirectoryNode[] {
-  const nodes = getCgdNodes();
-  const groups = getCgdBusinessGroups();
-  const eraTitleById = new Map(getCgdEras(locale).map((era) => [era.id, era.title]));
+): Promise<CgdBusinessDirectoryNode[]> {
+  const [groups, eras] = await Promise.all([
+    getCgdBusinessGroups(locale),
+    getCgdEras(locale),
+  ]);
+  const nodes = await getCgdNodes(locale);
+  const eraTitleById = new Map(eras.map((era) => [era.id, era.title]));
 
   return nodes.map((node) => {
     const opportunities =
@@ -719,11 +742,11 @@ export function getBusinessOpportunityDirectoryData(
   });
 }
 
-export function getBusinessOpportunityNodeDirectoryData(
+export async function getBusinessOpportunityNodeDirectoryData(
   nodeSlug: string,
   locale = CGD_LOCALE,
 ) {
-  return getBusinessOpportunityDirectoryData(locale).find(
+  return (await getBusinessOpportunityDirectoryData(locale)).find(
     ({ node }) => routeSegment(node.id) === nodeSlug,
   );
 }

@@ -14,5 +14,5 @@ export default async function Page() {
     const headersList = await headers();
     const lang = headersList.get("x-locale") || DEFAULT_LOCALE;
 
-    return <PlatformOutfitLandingPage lang={lang} content={getPlatformOutfitContent(lang)}/>;
+    return <PlatformOutfitLandingPage lang={lang} content={await getPlatformOutfitContent(lang)}/>;
 }

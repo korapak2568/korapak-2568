@@ -1,28 +1,30 @@
 import Image from "next/image";
 import Link from "next/link";
-import type { FutureRoadmapEra } from "@/lib/platform-content/futureRoadmapContent";
 import {
-  getFutureRoadmapEraSummaries,
-  getFutureRoadmapLayer,
-  getFutureRoadmapManifest,
+  getFutureRoadmapContent,
+  type FutureRoadmapEra,
 } from "@/lib/platform-content/futureRoadmapContent";
 import {
   getPlatformImageAlt,
   getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
 
-export default function FutureCivilizationEraPage({
+export default async function FutureCivilizationEraPage({
   lang,
   roadmapEra,
 }: {
   lang: string;
   roadmapEra: FutureRoadmapEra;
 }) {
-  const manifest = getFutureRoadmapManifest(lang);
+  const { eras, manifest } = await getFutureRoadmapContent(lang);
   const { era, items } = roadmapEra;
   const heroItem = items[0];
-  const eras = getFutureRoadmapEraSummaries(lang);
-  const otherEras = eras.filter((summary) => summary.slug !== era.slug);
+  const eraSummaries = eras.map(({ era: summaryEra, items: summaryItems }) => ({
+    ...summaryEra,
+    coverItem: summaryItems[0],
+    featuredItems: summaryItems.slice(0, 5),
+  }));
+  const otherEras = eraSummaries.filter((summary) => summary.slug !== era.slug);
 
   return (
     <main className="platform-page future-civilization-page future-civilization-era-page">
@@ -56,21 +58,21 @@ export default function FutureCivilizationEraPage({
             {manifest.ui.navigation.indexLabel}
           </Link>
 
-          {eras.map((roadmapEra) => {
-            const isActive = roadmapEra.slug === era.slug;
+          {eraSummaries.map((roadmapEraSummary) => {
+            const isActive = roadmapEraSummary.slug === era.slug;
 
             return (
               <Link
-                key={roadmapEra.id}
+                key={roadmapEraSummary.id}
                 className={
                   isActive
                     ? "platform-mts-hero__action platform-mts-hero__action--active"
                     : "platform-mts-hero__action"
                 }
-                href={`/${lang}/future-civilization/${roadmapEra.slug}/`}
+                href={`/${lang}/future-civilization/${roadmapEraSummary.slug}/`}
                 aria-current={isActive ? "page" : undefined}
               >
-                {roadmapEra.title}
+                {roadmapEraSummary.title}
               </Link>
             );
           })}
@@ -92,7 +94,9 @@ export default function FutureCivilizationEraPage({
 
       <section className="platform-shell future-civilization-signal-grid">
         {items.map((item, index) => {
-          const layer = getFutureRoadmapLayer(item.layerId, lang);
+          const layer = manifest.taxonomy.layers.find(
+            (candidate) => candidate.id === item.layerId,
+          );
 
           return (
             <Link

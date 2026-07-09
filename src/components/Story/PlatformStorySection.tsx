@@ -5,7 +5,8 @@ import Link from "next/link";
 import { ShoppingBag } from "lucide-react";
 import { FaTiktok } from "react-icons/fa";
 import SmartMobilityActions from "@/components/SmartMobility/SmartMobilityActions";
-import type { PlatformStoryContent } from "@/lib/platform-content/storyContent";
+import type { SmartMobilityNavigationAction } from "@/lib/platform-content/smartMobilityContent";
+import type { PlatformStoryContent } from "@/lib/platform-content/storyShared";
 import {
   getPlatformImageAlt,
   getPlatformImageSrc,
@@ -15,11 +16,13 @@ import { usePlatformStoryContent } from "@/lib/platform-content/usePlatformStory
 export default function PlatformStorySection({
   lang,
   content,
+  navigationActions,
   showStoryLink = true,
   showTiktokLink = false,
 }: {
   lang: string;
   content: PlatformStoryContent;
+  navigationActions: SmartMobilityNavigationAction[];
   showStoryLink?: boolean;
   showTiktokLink?: boolean;
 }) {
@@ -43,6 +46,7 @@ export default function PlatformStorySection({
       <section className="platform-shell platform-mts-action-nav">
         <SmartMobilityActions
           locale={lang}
+          actions={navigationActions}
           activeHref="/story/"
           style={{ marginBottom: 18 }}
         />
@@ -135,3 +139,6 @@ export default function PlatformStorySection({
     </>
   );
 }
+
+
+

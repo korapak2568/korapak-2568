@@ -1,8 +1,11 @@
-import technicalExpertiseFrontendSeed from "@/data/technical-expertise/frontend/en.json";
-import technicalExpertiseFullstackSeed from "@/data/technical-expertise/fullstack/en.json";
 import type { IFrontEnd } from "@/lib/model/IFrontEnd";
 import type { IFullStack } from "@/lib/model/IFullStack";
-import { getFrontendRoutes, type FrontendRouteConfig } from "@/lib/platform-content/frontendRoutes";
+import {
+  getFrontendRoutes,
+  getFrontendSeed,
+  type FrontendRouteConfig,
+} from "@/lib/platform-content/frontendRoutes";
+import { getFullstackSeed } from "@/lib/platform-content/fullstackRoutes";
 
 export type PlatformTechnicalExpertiseSchema = {
   name: string;
@@ -21,15 +24,21 @@ export type PlatformFrontendContent = {
 };
 
 export async function getPlatformFrontendContent(
-  _locale: string,
+  locale: string,
 ): Promise<PlatformFrontendContent> {
+  const [frontendSeed, fullstackSeed, frontendRoutes] = await Promise.all([
+    getFrontendSeed(locale),
+    getFullstackSeed(locale),
+    getFrontendRoutes(locale),
+  ]);
+
   return {
-    locale: "en",
-    frontEnd: technicalExpertiseFrontendSeed.frontEnd as IFrontEnd,
-    fullStack: technicalExpertiseFullstackSeed.fullStack as IFullStack,
-    frontendRoutes: getFrontendRoutes(),
+    locale,
+    frontEnd: frontendSeed.frontEnd,
+    fullStack: fullstackSeed.fullStack,
+    frontendRoutes,
     frontendPage: {
-      schema: technicalExpertiseFrontendSeed.schema,
+      schema: frontendSeed.schema,
     },
   };
 }

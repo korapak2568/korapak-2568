@@ -1,4 +1,4 @@
-import chiangMaiContent from "@/data/smart-mobility/chaingmai/en.json";
+import { fetchData } from "@/lib/chornplanet-data/fetchData";
 import type { SmartMobilityChiangMaiContentPayload } from "@/lib/model/ISmartMobilityChiangMai";
 
 type SmartMobilityChiangMaiSource = {
@@ -21,39 +21,75 @@ export type SmartMobilityChiangMaiMetadata = {
   type?: "article" | "website";
 };
 
-const source = chiangMaiContent as SmartMobilityChiangMaiSource;
+const DEFAULT_LOCALE = "en";
+const sourceCache = new Map<string, Promise<SmartMobilityChiangMaiSource>>();
 
 function clone<T>(value: T): T {
   return JSON.parse(JSON.stringify(value)) as T;
 }
 
-export function getSmartMobilityChiangMaiSource(): SmartMobilityChiangMaiSource {
-  return source;
+export async function getSmartMobilityChiangMaiSource(
+  locale = DEFAULT_LOCALE,
+): Promise<SmartMobilityChiangMaiSource> {
+  const cachedSource = sourceCache.get(locale);
+
+  if (cachedSource) {
+    return cachedSource;
+  }
+
+  const sourcePromise = fetchData<SmartMobilityChiangMaiSource>(
+    `/smart-mobility/chaingmai/${locale}.json`,
+  ).catch((error) => {
+    sourceCache.delete(locale);
+
+    if (locale !== DEFAULT_LOCALE) {
+      return getSmartMobilityChiangMaiSource(DEFAULT_LOCALE);
+    }
+
+    throw error;
+  });
+  sourceCache.set(locale, sourcePromise);
+
+  return sourcePromise;
 }
 
-export function getSmartMobilityChiangMaiDefaultSlug(): string {
-  return source.defaultSlug;
+export async function getSmartMobilityChiangMaiDefaultSlug(
+  locale = DEFAULT_LOCALE,
+): Promise<string> {
+  return (await getSmartMobilityChiangMaiSource(locale)).defaultSlug;
 }
 
-export function getSmartMobilityChiangMaiSlugs(): string[] {
-  return Object.keys(source.pages);
+export async function getSmartMobilityChiangMaiSlugs(
+  locale = DEFAULT_LOCALE,
+): Promise<string[]> {
+  return Object.keys((await getSmartMobilityChiangMaiSource(locale)).pages);
 }
 
-export function isSmartMobilityChiangMaiContentSlug(slug: string): boolean {
-  return slug in source.pages;
-}
-
-export function getSmartMobilityChiangMaiRouteLabels(): Record<string, string> {
-  return { ...source.routeLabels };
-}
-
-export function getSmartMobilityChiangMaiActionsFromJson(): Array<{ label: string; href: string }> {
-  return source.actions.map((action) => ({ ...action }));
-}
-
-export function getSmartMobilityChiangMaiMetadataFromJson(
+export async function isSmartMobilityChiangMaiContentSlug(
   slug: string,
-): SmartMobilityChiangMaiMetadata | undefined {
+  locale = DEFAULT_LOCALE,
+): Promise<boolean> {
+  return slug in (await getSmartMobilityChiangMaiSource(locale)).pages;
+}
+
+export async function getSmartMobilityChiangMaiRouteLabels(
+  locale = DEFAULT_LOCALE,
+): Promise<Record<string, string>> {
+  return { ...(await getSmartMobilityChiangMaiSource(locale)).routeLabels };
+}
+
+export async function getSmartMobilityChiangMaiActionsFromJson(
+  locale = DEFAULT_LOCALE,
+): Promise<Array<{ label: string; href: string }>> {
+  return (await getSmartMobilityChiangMaiSource(locale)).actions.map((action) => ({ ...action }));
+}
+
+export async function getSmartMobilityChiangMaiMetadataFromJson(
+  slug: string,
+  locale = DEFAULT_LOCALE,
+): Promise<SmartMobilityChiangMaiMetadata | undefined> {
+  const source = await getSmartMobilityChiangMaiSource(locale);
+
   return source.pages[slug]?.metadata ? clone(source.pages[slug].metadata) : undefined;
 }
 
@@ -61,10 +97,11 @@ export async function getSmartMobilityChiangMaiContent(
   locale: string,
   slug: string,
 ): Promise<SmartMobilityChiangMaiContentPayload> {
+  const source = await getSmartMobilityChiangMaiSource(locale || DEFAULT_LOCALE);
   const page = source.pages[slug];
 
   if (!page) {
-    throw new Error(`Smart Mobility Chiang Mai content not found in data/smart-mobility/chaingmai/en.json for slug "${slug}"`);
+    throw new Error(`Smart Mobility Chiang Mai content not found for slug "${slug}"`);
   }
 
   const { metadata: _metadata, ...content } = clone(page);
@@ -84,8 +121,10 @@ export async function getSmartMobilityChiangMaiContentForPublicPage(
 }
 
 export async function getAllSmartMobilityChiangMaiContent(): Promise<SmartMobilityChiangMaiContentPayload[]> {
+  const source = await getSmartMobilityChiangMaiSource();
+
   return Promise.all(
-    getSmartMobilityChiangMaiSlugs().map((slug) =>
+    Object.keys(source.pages).map((slug) =>
       getSmartMobilityChiangMaiContent(source.locale, slug),
     ),
   );

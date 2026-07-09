@@ -15,8 +15,8 @@ type PageParams = {
 export async function generateMetadata({
   params,
 }: PageParams): Promise<Metadata> {
-  const { slug } = await params;
-  const route = getFullstackRouteBySlug(slug);
+  const { locale, slug } = await params;
+  const route = await getFullstackRouteBySlug(slug, locale);
 
   if (!route) {
     return {};
@@ -29,15 +29,15 @@ export async function generateMetadata({
 }
 
 export default async function Page({ params }: PageParams) {
-  const { slug } = await params;
-  const route = getFullstackRouteBySlug(slug);
+  const { locale, slug } = await params;
+  const route = await getFullstackRouteBySlug(slug, locale);
 
   if (!route) {
     notFound();
   }
 
   const headersList = await headers();
-  const lang = headersList.get("x-locale") || "en";
+  const lang = headersList.get("x-locale") || locale || "en";
   const content = await getPlatformFullstackContent(lang);
 
   return <PlatformFullStackDetailPage lang={lang} slug={slug} content={content} />;

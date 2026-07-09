@@ -25,7 +25,7 @@ export async function generateMetadata({
 
 export default async function Page({ params }: PageParams) {
   const { locale, slug } = await params;
-  const content = getSmartMobilityStationDetailContent(slug);
+  const content = await getSmartMobilityStationDetailContent(slug, locale);
 
   if (!content) {
     notFound();

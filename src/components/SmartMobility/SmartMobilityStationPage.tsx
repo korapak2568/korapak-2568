@@ -88,6 +88,7 @@ export default function SmartMobilityStationPage({
         <div className="platform-outfit-detail-hero__copy">
           <SmartMobilityActions
             locale={locale}
+            actions={stationContent.navigationActions}
             activeHref={
               activeGatewaySlug
                 ? `/smart-mobility/mts/${activeGatewaySlug}/`
@@ -135,3 +136,6 @@ export default function SmartMobilityStationPage({
     </main>
   );
 }
+
+
+

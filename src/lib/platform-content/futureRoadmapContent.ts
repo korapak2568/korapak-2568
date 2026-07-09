@@ -1,24 +1,9 @@
-import fs from "node:fs";
-import path from "node:path";
 import { DEFAULT_LOCALE } from "@/lib/SiteUrlLocales";
+import { fetchData } from "@/lib/chornplanet-data/fetchData";
 import type { PlatformResponsiveImage } from "@/lib/platform-content/platformImageVariants";
 
 const DEFAULT_FUTURE_ROADMAP_LOCALE = DEFAULT_LOCALE;
-const FUTURE_ROADMAP_DATA_DIR = path.join(
-  process.cwd(),
-  "data",
-  "future-roadmap",
-);
-const FUTURE_ROADMAP_ERA_DIRS = [
-  "era01",
-  "era02",
-  "era03",
-  "era04",
-  "era05",
-  "era06",
-  "era07",
-  "era08",
-] as const;
+const FUTURE_ROADMAP_BASE_PATH = "/future-roadmap";
 
 export type FutureRoadmapLayer = {
   id: string;
@@ -187,106 +172,122 @@ export type FutureRoadmapItemDetail = {
   relatedItems: FutureRoadmapItem[];
 };
 
-type FutureRoadmapLocaleContent = {
+export type FutureRoadmapLocaleContent = {
   manifest: FutureRoadmapManifest;
   eras: FutureRoadmapEra[];
 };
-
-const localeContentCache = new Map<string, FutureRoadmapLocaleContent>();
-const shouldUseFutureRoadmapCache = process.env.NODE_ENV === "production";
 
 function normalizeRoadmapLocale(locale?: string): string {
   return locale?.trim().toLowerCase() || DEFAULT_FUTURE_ROADMAP_LOCALE;
 }
 
-
-function readFutureRoadmapJson<T>(segments: string[], locale?: string): T {
-  const normalizedLocale = normalizeRoadmapLocale(locale);
-  const requestedPath = path.join(
-    FUTURE_ROADMAP_DATA_DIR,
-    ...segments,
-    `${normalizedLocale}.json`,
-  );
-  const fallbackPath = path.join(
-    FUTURE_ROADMAP_DATA_DIR,
-    ...segments,
-    `${DEFAULT_FUTURE_ROADMAP_LOCALE}.json`,
-  );
-  const sourcePath = fs.existsSync(requestedPath) ? requestedPath : fallbackPath;
-  const rawContent = fs.readFileSync(sourcePath, "utf8").replace(/^\uFEFF/, "");
-
-  return JSON.parse(rawContent) as T;
+function getManifestPath(locale: string): string {
+  return `${FUTURE_ROADMAP_BASE_PATH}/manifest/${locale}.json`;
 }
+
+function getRoadmapDataPath(filePath: string): string {
+  return filePath
+    .replace(/^\/content\/future-roadmap\//, `${FUTURE_ROADMAP_BASE_PATH}/`)
+    .replace(/^future-roadmap\//, `${FUTURE_ROADMAP_BASE_PATH}/`);
+}
+
+async function fetchFutureRoadmapJson<T>(jsonPath: string): Promise<T> {
+  try {
+    return await fetchData<T>(jsonPath);
+  } catch (error) {
+    if (jsonPath.includes("/era01/")) {
+      return fetchData<T>(jsonPath.replace("/era01/", "/era-01/"));
+    }
+
+    throw error;
+  }
+}
+
+async function fetchFutureRoadmapContent(
+  locale?: string,
+): Promise<FutureRoadmapLocaleContent> {
+  const normalizedLocale = normalizeRoadmapLocale(locale);
+  const manifest = await fetchFutureRoadmapJson<FutureRoadmapManifest>(
+    getManifestPath(normalizedLocale),
+  );
+  const eras = await Promise.all(
+    manifest.eras.map((era) =>
+      fetchFutureRoadmapJson<FutureRoadmapEra>(getRoadmapDataPath(era.file)),
+    ),
+  );
+
+  return {
+    manifest,
+    eras: eras.sort((a, b) => a.era.order - b.era.order),
+  };
+}
+
+const futureRoadmapContentCache = new Map<string, Promise<FutureRoadmapLocaleContent>>();
 
 export function getFutureRoadmapContent(
   locale?: string,
-): FutureRoadmapLocaleContent {
+): Promise<FutureRoadmapLocaleContent> {
   const normalizedLocale = normalizeRoadmapLocale(locale);
-  const cachedContent = shouldUseFutureRoadmapCache
-    ? localeContentCache.get(normalizedLocale)
-    : undefined;
+  const cachedContent = futureRoadmapContentCache.get(normalizedLocale);
 
   if (cachedContent) {
     return cachedContent;
   }
 
-  const content: FutureRoadmapLocaleContent = {
-    manifest: readFutureRoadmapJson<FutureRoadmapManifest>(["manifest"], normalizedLocale),
-    eras: FUTURE_ROADMAP_ERA_DIRS.map((eraDirectory) =>
-      readFutureRoadmapJson<FutureRoadmapEra>([eraDirectory], normalizedLocale),
-    ).sort((a, b) => a.era.order - b.era.order),
-  };
+  const contentPromise = fetchFutureRoadmapContent(normalizedLocale);
+  futureRoadmapContentCache.set(normalizedLocale, contentPromise);
 
-  if (shouldUseFutureRoadmapCache) {
-    localeContentCache.set(normalizedLocale, content);
-  }
-
-  return content;
+  return contentPromise;
 }
 
-export const futureRoadmapManifest = getFutureRoadmapContent().manifest;
-export const futureRoadmapTaxonomy = getFutureRoadmapContent().manifest.taxonomy;
-
-export function getFutureRoadmapManifest(locale?: string): FutureRoadmapManifest {
-  return getFutureRoadmapContent(locale).manifest;
-}
-
-export function getFutureRoadmapTaxonomy(locale?: string): FutureRoadmapTaxonomy {
-  return getFutureRoadmapContent(locale).manifest.taxonomy;
-}
-
-export function getFutureRoadmapEras(locale?: string): FutureRoadmapEra[] {
-  return [...getFutureRoadmapContent(locale).eras];
-}
-
-export function getFutureRoadmapEraSummaries(
+export async function getFutureRoadmapManifest(
   locale?: string,
-): FutureRoadmapEraSummary[] {
-  return getFutureRoadmapEras(locale).map(({ era, items }) => ({
+): Promise<FutureRoadmapManifest> {
+  return (await getFutureRoadmapContent(locale)).manifest;
+}
+
+export async function getFutureRoadmapTaxonomy(
+  locale?: string,
+): Promise<FutureRoadmapTaxonomy> {
+  return (await getFutureRoadmapContent(locale)).manifest.taxonomy;
+}
+
+export async function getFutureRoadmapEras(
+  locale?: string,
+): Promise<FutureRoadmapEra[]> {
+  return [...(await getFutureRoadmapContent(locale)).eras];
+}
+
+export async function getFutureRoadmapEraSummaries(
+  locale?: string,
+): Promise<FutureRoadmapEraSummary[]> {
+  return (await getFutureRoadmapEras(locale)).map(({ era, items }) => ({
     ...era,
     coverItem: items[0],
     featuredItems: items.slice(0, 5),
   }));
 }
 
-export function getFutureRoadmapEraBySlug(
+export async function getFutureRoadmapEraBySlug(
   slug: string,
   locale?: string,
-): FutureRoadmapEra | undefined {
-  return getFutureRoadmapEras(locale).find(({ era }) => era.slug === slug);
+): Promise<FutureRoadmapEra | undefined> {
+  return (await getFutureRoadmapEras(locale)).find(
+    ({ era }) => era.slug === slug,
+  );
 }
 
-export function getFutureRoadmapFeaturedItems(
+export async function getFutureRoadmapFeaturedItems(
   count = 5,
   locale?: string,
-): FutureRoadmapFeaturedItem[] {
-  return getFutureRoadmapActiveItems(locale).slice(0, count);
+): Promise<FutureRoadmapFeaturedItem[]> {
+  return (await getFutureRoadmapActiveItems(locale)).slice(0, count);
 }
 
-export function getFutureRoadmapActiveItems(
+export async function getFutureRoadmapActiveItems(
   locale?: string,
-): FutureRoadmapFeaturedItem[] {
-  return getFutureRoadmapEras(locale)
+): Promise<FutureRoadmapFeaturedItem[]> {
+  return (await getFutureRoadmapEras(locale))
     .filter(({ era }) => era.order >= 1 && era.order <= 8)
     .flatMap(({ era, items }) =>
       items.map((item) => ({
@@ -296,18 +297,20 @@ export function getFutureRoadmapActiveItems(
     );
 }
 
-export function getFutureRoadmapItemBySlugs(
+export async function getFutureRoadmapItemBySlugs(
   eraSlug: string,
   itemSlug: string,
   locale?: string,
-): FutureRoadmapItemDetail | undefined {
-  const roadmapEra = getFutureRoadmapEraBySlug(eraSlug, locale);
+): Promise<FutureRoadmapItemDetail | undefined> {
+  const roadmapEra = await getFutureRoadmapEraBySlug(eraSlug, locale);
 
   if (!roadmapEra) {
     return undefined;
   }
 
-  const item = roadmapEra.items.find((candidate) => candidate.slug === itemSlug);
+  const item = roadmapEra.items.find(
+    (candidate) => candidate.slug === itemSlug,
+  );
 
   if (!item) {
     return undefined;
@@ -316,12 +319,14 @@ export function getFutureRoadmapItemBySlugs(
   return {
     era: roadmapEra.era,
     item,
-    relatedItems: roadmapEra.items.filter((candidate) => candidate.slug !== itemSlug),
+    relatedItems: roadmapEra.items.filter(
+      (candidate) => candidate.slug !== itemSlug,
+    ),
   };
 }
 
-export function getFutureRoadmapItemStaticParams(locale?: string) {
-  return getFutureRoadmapEras(locale).flatMap(({ era, items }) =>
+export async function getFutureRoadmapItemStaticParams(locale?: string) {
+  return (await getFutureRoadmapEras(locale)).flatMap(({ era, items }) =>
     items.map((item) => ({
       eraSlug: era.slug,
       slug: item.slug,
@@ -329,7 +334,8 @@ export function getFutureRoadmapItemStaticParams(locale?: string) {
   );
 }
 
-export function getFutureRoadmapLayer(layerId: string, locale?: string) {
-  return getFutureRoadmapTaxonomy(locale).layers.find((layer) => layer.id === layerId);
+export async function getFutureRoadmapLayer(layerId: string, locale?: string) {
+  return (await getFutureRoadmapTaxonomy(locale)).layers.find(
+    (layer) => layer.id === layerId,
+  );
 }
-

@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import { fetchData } from "@/lib/chornplanet-data/fetchData";
+import { getLocalizedAlternates } from "@/lib/metadata/alternates";
 import type { SmartCityChiangMaiContentPayload } from "@/lib/model/ISmartCityChiangMai";
 import type { ISmartCityItem } from "@/lib/model/ISmartCity";
 import type { SmartCityLandingContentPayload } from "@/lib/model/ISmartCityLandingContent";
@@ -14,9 +16,6 @@ import type {
   ISystemExplainers,
   IUrbanSignals,
 } from "@/lib/model/ISmartCityMedia";
-import smartCityContent from "@/data/smart-city/en.json";
-import smartCityLandingContent from "@/data/smart-city/landing/en.json";
-import { getLocalizedAlternates } from "@/lib/metadata/alternates";
 import { hydratePlatformImageVariants } from "@/lib/platform-content/platformImageVariants";
 
 type SmartCityLandingPageMetadata = {
@@ -75,21 +74,68 @@ export type PlatformSmartCityContent = {
   smartCityHighlight: ISmartCityItem;
   smartCityTags: string[];
 };
+
 type SmartCitySource = PlatformSmartCityContent;
 type SmartCityLandingPagesSource = Record<string, SmartCityLandingPageContent>;
 
-const sourceContent = smartCityContent as unknown as SmartCitySource;
-const sourceLandingPages = smartCityLandingContent as unknown as SmartCityLandingPagesSource;
+const DEFAULT_SMART_CITY_LOCALE = "en";
+const smartCityContentCache = new Map<string, Promise<SmartCitySource>>();
+const smartCityLandingPagesCache = new Map<string, Promise<SmartCityLandingPagesSource>>();
 
-function cloneSmartCityContent(locale: string): PlatformSmartCityContent {
-  return {
-    ...JSON.parse(JSON.stringify(sourceContent)),
-    locale,
-  } as PlatformSmartCityContent;
+function resolveSmartCityLocale(locale?: string | null): string {
+  return locale || DEFAULT_SMART_CITY_LOCALE;
 }
 
-function cloneSmartCityLandingPages(): SmartCityLandingPagesSource {
-  return JSON.parse(JSON.stringify(sourceLandingPages)) as SmartCityLandingPagesSource;
+async function readSmartCityContent(
+  locale = DEFAULT_SMART_CITY_LOCALE,
+): Promise<SmartCitySource> {
+  const resolvedLocale = resolveSmartCityLocale(locale);
+  const cachedContent = smartCityContentCache.get(resolvedLocale);
+
+  if (cachedContent) {
+    return cachedContent;
+  }
+
+  const contentPromise = fetchData<SmartCitySource>(
+    `/smart-city/${resolvedLocale}.json`,
+  ).catch((error) => {
+    smartCityContentCache.delete(resolvedLocale);
+
+    if (resolvedLocale !== DEFAULT_SMART_CITY_LOCALE) {
+      return readSmartCityContent(DEFAULT_SMART_CITY_LOCALE);
+    }
+
+    throw error;
+  });
+  smartCityContentCache.set(resolvedLocale, contentPromise);
+
+  return contentPromise;
+}
+
+async function readSmartCityLandingPages(
+  locale = DEFAULT_SMART_CITY_LOCALE,
+): Promise<SmartCityLandingPagesSource> {
+  const resolvedLocale = resolveSmartCityLocale(locale);
+  const cachedContent = smartCityLandingPagesCache.get(resolvedLocale);
+
+  if (cachedContent) {
+    return cachedContent;
+  }
+
+  const contentPromise = fetchData<SmartCityLandingPagesSource>(
+    `/smart-city/landing/${resolvedLocale}.json`,
+  ).catch((error) => {
+    smartCityLandingPagesCache.delete(resolvedLocale);
+
+    if (resolvedLocale !== DEFAULT_SMART_CITY_LOCALE) {
+      return readSmartCityLandingPages(DEFAULT_SMART_CITY_LOCALE);
+    }
+
+    throw error;
+  });
+  smartCityLandingPagesCache.set(resolvedLocale, contentPromise);
+
+  return contentPromise;
 }
 
 function getChiangMaiSlugFromUrl(url?: string): string | null {
@@ -154,11 +200,21 @@ function toMetadata({
 export async function getPlatformSmartCityContent(
   locale: string,
 ): Promise<PlatformSmartCityContent> {
-  return hydratePlatformImageVariants(cloneSmartCityContent(locale)) as PlatformSmartCityContent;
+  const resolvedLocale = resolveSmartCityLocale(locale);
+  const content = await readSmartCityContent(resolvedLocale);
+
+  return hydratePlatformImageVariants({
+    ...content,
+    locale: resolvedLocale,
+  }) as PlatformSmartCityContent;
 }
 
-export async function getPlatformSmartCityLandingPages(): Promise<SmartCityLandingPagesSource> {
-  return hydratePlatformImageVariants(cloneSmartCityLandingPages()) as SmartCityLandingPagesSource;
+export async function getPlatformSmartCityLandingPages(
+  locale = DEFAULT_SMART_CITY_LOCALE,
+): Promise<SmartCityLandingPagesSource> {
+  return hydratePlatformImageVariants(
+    await readSmartCityLandingPages(locale),
+  ) as SmartCityLandingPagesSource;
 }
 
 export async function getSmartCityRootMetadata(lang: string): Promise<Metadata> {
@@ -179,7 +235,7 @@ export async function getSmartCityLandingContentFromJson(
   locale: string,
   slug: string,
 ): Promise<SmartCityLandingContentPayload | null> {
-  const landingPages = await getPlatformSmartCityLandingPages();
+  const landingPages = await getPlatformSmartCityLandingPages(locale);
   const landingPage = landingPages[slug];
 
   if (!landingPage) {
@@ -205,7 +261,7 @@ export async function getSmartCityLandingMetadataFromJson(
   }
 
   const content = await getPlatformSmartCityContent(lang);
-  const landingPages = await getPlatformSmartCityLandingPages();
+  const landingPages = await getPlatformSmartCityLandingPages(lang);
   const hero = data.content.heroObservation;
   const landingMetadata = landingPages[slug]?.metadata;
 
@@ -268,9 +324,9 @@ export async function getSmartCityChiangMaiMetadataFromJson(
 }
 
 export async function getAllSmartCityLandingContentFromJson(
-  locale = "en",
+  locale = DEFAULT_SMART_CITY_LOCALE,
 ): Promise<SmartCityLandingContentPayload[]> {
-  const landingPages = await getPlatformSmartCityLandingPages();
+  const landingPages = await getPlatformSmartCityLandingPages(locale);
 
   return Object.entries(landingPages).map(([slug, landingPage]) => {
     const { metadata: _metadata, ...pageContent } = landingPage;
@@ -284,7 +340,7 @@ export async function getAllSmartCityLandingContentFromJson(
 }
 
 export async function getAllSmartCityChiangMaiContentFromJson(
-  locale = "en",
+  locale = DEFAULT_SMART_CITY_LOCALE,
 ): Promise<SmartCityChiangMaiContentPayload[]> {
   const content = await getPlatformSmartCityContent(locale);
   const item = content.smartCityHighlight as ISmartCityItem;

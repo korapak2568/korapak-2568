@@ -22,14 +22,15 @@ type BusinessPageInfo = {
   };
 };
 
-const pageInfo = getLayerPageInfo<BusinessPageInfo>("business_opportunities");
-const indexMetadata = pageInfo.metadata?.index;
+export async function generateMetadata(): Promise<Metadata> {
+  const pageInfo = await getLayerPageInfo<BusinessPageInfo>("business_opportunities");
+  const indexMetadata = pageInfo.metadata?.index;
 
-export const metadata: Metadata = {
-  title: indexMetadata?.title ?? "",
-  description:
-    indexMetadata?.description ?? "",
-};
+  return {
+    title: indexMetadata?.title ?? "",
+    description: indexMetadata?.description ?? "",
+  };
+}
 
 type PageParams = {
   params: Promise<{ locale: string }>;
@@ -37,8 +38,8 @@ type PageParams = {
 
 export default async function Page({ params }: PageParams) {
   const { locale } = await params;
-  const items = getBusinessOpportunityDirectoryData();
-  const localePageInfo = getLayerPageInfo<BusinessPageInfo>("business_opportunities", locale);
+  const items = await getBusinessOpportunityDirectoryData(locale);
+  const localePageInfo = await getLayerPageInfo<BusinessPageInfo>("business_opportunities", locale);
   const hero = localePageInfo.index?.hero;
 
   return (

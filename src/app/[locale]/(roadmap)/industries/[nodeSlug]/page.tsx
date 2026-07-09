@@ -26,9 +26,11 @@ type PageParams = {
   params: Promise<{ locale: string; nodeSlug: string }>;
 };
 
-export function generateStaticParams() {
+export async function generateStaticParams() {
+  const items = await getIndustryDirectoryData();
+
   return LOCALES.flatMap((locale) =>
-    getIndustryDirectoryData().map((item) => ({
+    items.map((item) => ({
       locale,
       nodeSlug: item.url.split("/").filter(Boolean)[1],
     })),
@@ -37,8 +39,8 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: PageParams): Promise<Metadata> {
   const { locale, nodeSlug } = await params;
-  const data = getIndustryNodeDirectoryData(nodeSlug);
-  const nodeMetadata = getLayerPageInfo<IndustryPageInfo>("industries", locale).metadata?.node;
+  const data = await getIndustryNodeDirectoryData(nodeSlug);
+  const nodeMetadata = (await getLayerPageInfo<IndustryPageInfo>("industries", locale)).metadata?.node;
 
   return {
     title: data
@@ -60,7 +62,7 @@ export async function generateMetadata({ params }: PageParams): Promise<Metadata
 
 export default async function Page({ params }: PageParams) {
   const { locale, nodeSlug } = await params;
-  const data = getIndustryNodeDirectoryData(nodeSlug);
+  const data = await getIndustryNodeDirectoryData(nodeSlug);
 
   if (!data) {
     notFound();

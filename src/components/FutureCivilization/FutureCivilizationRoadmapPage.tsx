@@ -1,13 +1,11 @@
 import Image from "next/image";
 import Link from "next/link";
 import {
-  getFutureRoadmapEras,
-  getFutureRoadmapFeaturedItems,
-  getFutureRoadmapLayer,
-  getFutureRoadmapManifest,
-  getFutureRoadmapTaxonomy,
+  getFutureRoadmapContent,
   type FutureRoadmapEra,
   type FutureRoadmapItem,
+  type FutureRoadmapManifest,
+  type FutureRoadmapTaxonomy,
 } from "@/lib/platform-content/futureRoadmapContent";
 import {
   getPlatformImageAlt,
@@ -38,17 +36,24 @@ function getMixedItems(
     .slice(0, count);
 }
 
+function getRoadmapLayer(taxonomy: FutureRoadmapTaxonomy, layerId: string) {
+  return taxonomy.layers.find((layer) => layer.id === layerId);
+}
+
 function FutureCivilizationSignalCard({
   item,
   lang,
+  manifest,
   roadmapEra,
+  taxonomy,
 }: {
   item: FutureRoadmapItem;
   lang: string;
+  manifest: FutureRoadmapManifest;
   roadmapEra: FutureRoadmapEra;
+  taxonomy: FutureRoadmapTaxonomy;
 }) {
-  const manifest = getFutureRoadmapManifest(lang);
-  const layer = getFutureRoadmapLayer(item.layerId, lang);
+  const layer = getRoadmapLayer(taxonomy, item.layerId);
 
   return (
     <article className="platform-outfit-card platform-mts-card future-civilization-random-card">
@@ -85,12 +90,15 @@ function FutureCivilizationSignalCard({
 
 function FutureCivilizationEraSignalSection({
   lang,
+  manifest,
   roadmapEra,
+  taxonomy,
 }: {
   lang: string;
+  manifest: FutureRoadmapManifest;
   roadmapEra: FutureRoadmapEra;
+  taxonomy: FutureRoadmapTaxonomy;
 }) {
-  const manifest = getFutureRoadmapManifest(lang);
   const randomItems = getMixedItems(roadmapEra.items, 9, roadmapEra.era.slug);
 
   return (
@@ -111,7 +119,9 @@ function FutureCivilizationEraSignalSection({
             key={item.id}
             item={item}
             lang={lang}
+            manifest={manifest}
             roadmapEra={roadmapEra}
+            taxonomy={taxonomy}
           />
         ))}
       </div>
@@ -119,20 +129,21 @@ function FutureCivilizationEraSignalSection({
   );
 }
 
-export default function FutureCivilizationRoadmapPage({
+export default async function FutureCivilizationRoadmapPage({
   lang,
 }: {
   lang: string;
 }) {
-  const manifest = getFutureRoadmapManifest(lang);
-  const taxonomy = getFutureRoadmapTaxonomy(lang);
-  const eras = getFutureRoadmapEras(lang);
+  const { eras, manifest } = await getFutureRoadmapContent(lang);
+  const taxonomy = manifest.taxonomy;
   const signalCount = eras.reduce(
     (totalSignals, roadmapEra) => totalSignals + roadmapEra.items.length,
     0,
   );
-  const featuredItems = getFutureRoadmapFeaturedItems(signalCount, lang);
-  const heroItem = getMixedItems(featuredItems, 1, "landing-hero")[0];
+  const featuredItems = eras
+    .filter(({ era }) => era.order >= 1 && era.order <= 8)
+    .flatMap(({ era, items }) => items.map((item) => ({ ...item, era })));
+  const heroItem = getMixedItems(featuredItems, signalCount, "landing-hero")[0];
 
   return (
     <main className="platform-page future-civilization-page">
@@ -185,7 +196,9 @@ export default function FutureCivilizationRoadmapPage({
         <FutureCivilizationEraSignalSection
           key={roadmapEra.era.id}
           lang={lang}
+          manifest={manifest}
           roadmapEra={roadmapEra}
+          taxonomy={taxonomy}
         />
       ))}
 

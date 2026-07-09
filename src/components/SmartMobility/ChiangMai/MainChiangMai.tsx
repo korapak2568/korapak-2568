@@ -7,6 +7,7 @@ import {
   IVertiport,
 } from "@/lib/model/ISmartMobility";
 import SmartMobilityActions from "../SmartMobilityActions";
+import type { SmartMobilityNavigationAction } from "@/lib/platform-content/smartMobilityContent";
 import BottomChiangMai from "./BottomChiangMai";
 import RightChiangMai from "./RightChiangMai";
 import {
@@ -65,9 +66,11 @@ function renderBottomChiangMai({
 export default function MainChiangMai({
   lang,
   content,
+  navigationActions,
 }: {
   lang: string;
   content: SmartMobilityChiangMaiContentPayload;
+  navigationActions: SmartMobilityNavigationAction[];
 }) {
   const primaryContent = getPrimaryContent(content);
   const primaryImage = primaryContent.image;
@@ -87,6 +90,7 @@ export default function MainChiangMai({
 
         <SmartMobilityActions
           locale={lang}
+          actions={navigationActions}
           activeSlug={content.slug}
           style={{ marginBottom: 18 }}
         />
@@ -119,3 +123,7 @@ export default function MainChiangMai({
     </div>
   );
 }
+
+
+
+

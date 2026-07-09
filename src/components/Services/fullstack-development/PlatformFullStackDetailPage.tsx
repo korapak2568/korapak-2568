@@ -9,11 +9,7 @@ import ServicesDetailsPython from "@/components/Services/fullstack-development/p
 import type { IFrontEnd } from "@/lib/model/IFrontEnd";
 import type { IFullStack, IFullStackStack } from "@/lib/model/IFullStack";
 import type { PlatformFullstackContent } from "@/lib/platform-content/fullstackContent";
-import {
-  getFullstackRouteBySlug,
-  getFullstackStack,
-  type FullstackStackKey,
-} from "@/lib/platform-content/fullstackRoutes";
+import type { FullstackStackKey } from "@/lib/platform-content/fullstackRoutes";
 import { usePlatformFullstackContent } from "@/lib/platform-content/usePlatformFullstackContent";
 import type { ComponentType } from "react";
 
@@ -43,14 +39,14 @@ export default function PlatformFullStackDetailPage({
 }) {
   const { data: cachedContent } = usePlatformFullstackContent(lang, content);
   const fullstackContent = cachedContent ?? content;
-  const route = getFullstackRouteBySlug(slug);
+  const route = fullstackContent.fullstackRoutes.find((candidate) => candidate.slug === slug);
 
   if (!route) {
     return null;
   }
 
   const DetailComponent = detailComponents[route.stackKey];
-  const stack = getFullstackStack(fullstackContent.fullStack, route);
+  const stack = fullstackContent.fullStack[route.stackKey] as IFullStackStack;
 
   return (
     <div>

@@ -1,15 +1,6 @@
-import luxuryDeContent from "@/data/luxury/de.json";
-import luxuryEnContent from "@/data/luxury/en.json";
-import luxuryFrContent from "@/data/luxury/fr.json";
-import luxuryIdContent from "@/data/luxury/id.json";
-import luxuryJaContent from "@/data/luxury/ja.json";
-import luxuryKoContent from "@/data/luxury/ko.json";
-import luxuryRuContent from "@/data/luxury/ru.json";
-import luxuryThContent from "@/data/luxury/th.json";
-import luxuryViContent from "@/data/luxury/vi.json";
-import luxuryZhContent from "@/data/luxury/zh.json";
+import { fetchData } from "@/lib/chornplanet-data/fetchData";
 import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
-import type { SiteLocale } from "@/lib/SiteUrlLocales";
+import { DEFAULT_LOCALE, LOCALES, type SiteLocale } from "@/lib/SiteUrlLocales";
 
 export type AiLuxuryMetadataContent = {
   title: string;
@@ -83,19 +74,25 @@ export type AiLuxuryContent = {
   businessSignals: AiLuxurySignal[];
 };
 
-const contentByLocale: Record<SiteLocale, AiLuxuryContent> = {
-  de: luxuryDeContent as AiLuxuryContent,
-  en: luxuryEnContent as AiLuxuryContent,
-  fr: luxuryFrContent as AiLuxuryContent,
-  id: luxuryIdContent as AiLuxuryContent,
-  ja: luxuryJaContent as AiLuxuryContent,
-  ko: luxuryKoContent as AiLuxuryContent,
-  ru: luxuryRuContent as AiLuxuryContent,
-  th: luxuryThContent as AiLuxuryContent,
-  vi: luxuryViContent as AiLuxuryContent,
-  zh: luxuryZhContent as AiLuxuryContent,
-};
+const contentCache = new Map<SiteLocale, Promise<AiLuxuryContent>>();
 
-export function getAiLuxuryContent(locale: string): AiLuxuryContent {
-  return contentByLocale[locale as SiteLocale] ?? contentByLocale.en;
+function resolveLuxuryLocale(locale?: string | null): SiteLocale {
+  return LOCALES.includes(locale as SiteLocale) ? (locale as SiteLocale) : DEFAULT_LOCALE;
+}
+
+async function getAiLuxuryContentSeed(locale: SiteLocale): Promise<AiLuxuryContent> {
+  const cachedContent = contentCache.get(locale);
+
+  if (cachedContent) {
+    return cachedContent;
+  }
+
+  const contentPromise = fetchData<AiLuxuryContent>(`/luxury/${locale}.json`);
+  contentCache.set(locale, contentPromise);
+
+  return contentPromise;
+}
+
+export async function getAiLuxuryContent(locale: string): Promise<AiLuxuryContent> {
+  return getAiLuxuryContentSeed(resolveLuxuryLocale(locale));
 }

@@ -34,10 +34,13 @@ function getFutureRoadmapOpenGraphImageMetadata(
   };
 }
 
-export function getFutureCivilizationMetadata(locale?: string): Metadata {
-  const manifest = getFutureRoadmapManifest(locale);
+export async function getFutureCivilizationMetadata(locale?: string): Promise<Metadata> {
+  const [manifest, eras] = await Promise.all([
+    getFutureRoadmapManifest(locale),
+    getFutureRoadmapEras(locale),
+  ]);
   const title = manifest.ui.metadata.fallbackTitle;
-  const openGraphImages = getFutureRoadmapEras(locale)
+  const openGraphImages = eras
     .map(({ era, items }) => {
       const coverImage = items[0]?.image;
 
@@ -67,12 +70,14 @@ export function getFutureCivilizationMetadata(locale?: string): Metadata {
   };
 }
 
-export function getFutureCivilizationEraMetadata(
+export async function getFutureCivilizationEraMetadata(
   eraSlug: string,
   locale?: string,
-): Metadata {
-  const manifest = getFutureRoadmapManifest(locale);
-  const era = getFutureRoadmapEraBySlug(eraSlug, locale);
+): Promise<Metadata> {
+  const [manifest, era] = await Promise.all([
+    getFutureRoadmapManifest(locale),
+    getFutureRoadmapEraBySlug(eraSlug, locale),
+  ]);
 
   if (!era) {
     return {
@@ -109,13 +114,15 @@ export function getFutureCivilizationEraMetadata(
   };
 }
 
-export function getFutureCivilizationItemMetadata(
+export async function getFutureCivilizationItemMetadata(
   eraSlug: string,
   itemSlug: string,
   locale?: string,
-): Metadata {
-  const manifest = getFutureRoadmapManifest(locale);
-  const detail = getFutureRoadmapItemBySlugs(eraSlug, itemSlug, locale);
+): Promise<Metadata> {
+  const [manifest, detail] = await Promise.all([
+    getFutureRoadmapManifest(locale),
+    getFutureRoadmapItemBySlugs(eraSlug, itemSlug, locale),
+  ]);
 
   if (!detail) {
     return {
@@ -126,7 +133,7 @@ export function getFutureCivilizationItemMetadata(
 
   const { era, item } = detail;
   const targetPath = `/future-civilization/${era.slug}/${item.slug}/`;
-  const search = getCgdSearchRecordByRoute(targetPath, "future-solution", locale);
+  const search = await getCgdSearchRecordByRoute(targetPath, "future-solution", locale);
   const title = search?.title ?? `${item.title} | ${era.title}`;
   const description = search?.description ?? item.description;
   const openGraphImage = getFutureRoadmapOpenGraphImageMetadata(

@@ -5,11 +5,7 @@ import ServicesDetailsNextJS from "@/components/Services/frontend-development/ne
 import ServicesDetailsReact from "@/components/Services/frontend-development/react/ServicesDetailsReact";
 import ServicesDetailsTypeScript from "@/components/Services/frontend-development/typescript/ServicesDetailsTypeScript";
 import { SchemaMarkupServicePage } from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {
-  getFrontendRouteBySlug,
-  getFrontendStack,
-  type FrontendStackKey,
-} from "@/lib/platform-content/frontendRoutes";
+import type { FrontendStackKey } from "@/lib/platform-content/frontendRoutes";
 import type { PlatformFrontendContent } from "@/lib/platform-content/frontendContent";
 import { usePlatformFrontendContent } from "@/lib/platform-content/usePlatformFrontendContent";
 import type { IFrontEnd, IFrontEndStack } from "@/lib/model/IFrontEnd";
@@ -40,14 +36,14 @@ export default function PlatformFrontEndDetailPage({
 }) {
   const { data: cachedContent } = usePlatformFrontendContent(lang, content);
   const frontendContent = cachedContent ?? content;
-  const route = getFrontendRouteBySlug(slug);
+  const route = frontendContent.frontendRoutes.find((candidate) => candidate.slug === slug);
 
   if (!route) {
     notFound();
   }
 
   const DetailComponent = detailComponents[route.stackKey];
-  const stack = getFrontendStack(frontendContent.frontEnd, route);
+  const stack = frontendContent.frontEnd[route.stackKey] as IFrontEndStack;
 
   return (
     <div>

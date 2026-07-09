@@ -94,7 +94,7 @@ export async function getSmartFoodAiContent(locale: string): Promise<SmartFoodAi
 
 export async function getSmartFoodAiContentForPublicPage(locale: string): Promise<SmartFoodAiContentPayload> {
     const normalizedLocale = normalizeSmartFoodAiContentLocale(locale);
-    const content = getSmartFoodAiStaticFallback(normalizedLocale);
+    const content = await getSmartFoodAiStaticFallback(normalizedLocale);
 
     return hydratePlatformImageVariants(content);
 }

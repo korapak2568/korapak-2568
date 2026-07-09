@@ -16,9 +16,11 @@ type PageParams = {
   }>;
 };
 
-export function generateStaticParams() {
+export async function generateStaticParams() {
+  const staticParams = await getCgdStaticParams("business-opportunity");
+
   return LOCALES.flatMap((locale) =>
-    getCgdStaticParams("business-opportunity").map((segments) => ({
+    staticParams.map((segments) => ({
       locale,
       nodeSlug: segments[1],
       businessSlug: segments[2],
@@ -37,7 +39,7 @@ export async function generateMetadata({
 export default async function Page({ params }: PageParams) {
   const { locale, nodeSlug, businessSlug } = await params;
 
-  const data = getBusinessOpportunityPageData(nodeSlug, businessSlug, locale);
+  const data = await getBusinessOpportunityPageData(nodeSlug, businessSlug, locale);
 
   if (!data) {
     notFound();

@@ -1,4 +1,4 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { FutureSolutionDetailPage } from "@/components/FutureSolutions/FutureSolutionsPages";
 import {
@@ -26,23 +26,27 @@ type PageParams = {
   }>;
 };
 
-export function generateStaticParams() {
-  return LOCALES.flatMap((locale) =>
-    getFutureSolutionStaticParams(locale).map((item) => ({
-      locale,
-      eraSlug: item.eraSlug,
-      eraItemSlug: item.eraItemSlug,
-    })),
+export async function generateStaticParams() {
+  const params = await Promise.all(
+    LOCALES.map(async (locale) =>
+      (await getFutureSolutionStaticParams(locale)).map((item) => ({
+        locale,
+        eraSlug: item.eraSlug,
+        eraItemSlug: item.eraItemSlug,
+      })),
+    ),
   );
+
+  return params.flat();
 }
 
 export async function generateMetadata({ params }: PageParams): Promise<Metadata> {
   const { eraSlug, eraItemSlug, locale } = await params;
-  const data = getFutureSolutionBySlug(eraSlug, eraItemSlug, locale);
-  const detailMetadata = getLayerPageInfo<FutureSolutionsPageInfo>(
+  const data = await getFutureSolutionBySlug(eraSlug, eraItemSlug, locale);
+  const detailMetadata = (await getLayerPageInfo<FutureSolutionsPageInfo>(
     "future-solutions",
     locale,
-  ).metadata?.detail;
+  )).metadata?.detail;
 
   if (!data) {
     return {
@@ -79,7 +83,7 @@ export async function generateMetadata({ params }: PageParams): Promise<Metadata
 
 export default async function Page({ params }: PageParams) {
   const { eraSlug, eraItemSlug, locale } = await params;
-  const data = getFutureSolutionBySlug(eraSlug, eraItemSlug, locale);
+  const data = await getFutureSolutionBySlug(eraSlug, eraItemSlug, locale);
 
   if (!data) {
     notFound();

@@ -23,7 +23,7 @@ export async function generateMetadata({
 
 export default async function Page({ params }: PageParams) {
   const { locale, eraSlug } = await params;
-  const roadmapEra = getFutureRoadmapEraBySlug(eraSlug, locale);
+  const roadmapEra = await getFutureRoadmapEraBySlug(eraSlug, locale);
 
   if (!roadmapEra) {
     notFound();

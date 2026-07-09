@@ -1,4 +1,4 @@
-﻿const fs = require("fs");
+const fs = require("fs");
 const path = require("path");
 
 const root = process.cwd();
@@ -41,6 +41,23 @@ const capitalizeFirstLetter = (value) =>
   String(value ?? "").replace(/^\s*([a-z])/, (match, firstLetter) =>
     match.replace(firstLetter, firstLetter.toUpperCase()),
   );
+
+const futureRoadmapDir = path.join(root, "data", "future-roadmap");
+
+if (!fs.existsSync(futureRoadmapDir)) {
+  console.log(
+    JSON.stringify(
+      {
+        skipped: true,
+        reason: "data/future-roadmap is not present; using remote civilization-graph data",
+      },
+      null,
+      2,
+    ),
+  );
+  process.exit(0);
+}
+
 const pageIndexPath = "data/civilization-graph/pages/page-index.json";
 const pageIndex = read(pageIndexPath);
 const eraSlugById = new Map();

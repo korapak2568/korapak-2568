@@ -17,7 +17,7 @@ import { normalizeLayoutContentLocale } from "@/core/domain/layout-content.entit
 import { normalizePolicyContentLocale } from "@/core/domain/policy-content.entity";
 import { normalizeSmartFoodAiContentLocale } from "@/core/domain/smart-food-ai-content.entity";
 import { LanguageOptionList } from "@/lib/constants/languageOptions";
-import homeFallbackContent from "@/data/home/en.json";
+import { fetchData } from "@/lib/chornplanet-data/fetchData";
 
 const STATIC_FALLBACK_IMAGE_SRC =
   "/images/home/chorn-workplace-001-image-1200.webp";
@@ -541,14 +541,18 @@ export function getFallbackGalleryContent(
   };
 }
 
-export function getFallbackHomePageContent(
+export async function getFallbackHomePageContent(
   locale: string,
-): HomePageContentPayload {
+): Promise<HomePageContentPayload> {
   const normalizedLocale = normalizeHomePageLocale(locale);
   logStaticFallback("homepage content", normalizedLocale);
-  const content = JSON.parse(
-    JSON.stringify(homeFallbackContent),
-  ) as HomePageContentPayload;
+  const content = await fetchData<HomePageContentPayload>(`/home/${normalizedLocale}.json`).catch((error) => {
+    if (normalizedLocale !== "en") {
+      return fetchData<HomePageContentPayload>("/home/en.json");
+    }
+
+    throw error;
+  });
 
   return {
     ...content,

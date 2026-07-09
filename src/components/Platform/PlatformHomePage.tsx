@@ -17,16 +17,16 @@ import type {
   PlatformHomeContent,
   PlatformSection,
 } from "@/lib/platform-content/homeContent";
+import type { PlatformSofaCoupleStory } from "@/lib/platform-content/storyShared";
 import {
   getPlatformOutfitLocalizedText,
-  getPlatformOutfitSets,
-} from "@/lib/platform-content/styleContent";
+  type PlatformOutfitSet,
+} from "@/lib/platform-content/styleShared";
 import {
   getPlatformImageAlt,
   getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
 import { usePlatformHomeContent } from "@/lib/platform-content/usePlatformHomeContent";
-import sofaCoupleStory from "@/data/story/sofa-couple/en.sofa-couple.json";
 
 function PlatformHomeSection({
   lang,
@@ -60,11 +60,13 @@ function PlatformHomeSection({
 export function PlatformHomeCircularSystemSection({
   lang,
   circular,
+  sofaCoupleStory,
   showStoryLink = true,
   showTiktokLink = false,
 }: {
   lang: string;
   circular: PlatformCircularContent;
+  sofaCoupleStory: PlatformSofaCoupleStory;
   showStoryLink?: boolean;
   showTiktokLink?: boolean;
 }) {
@@ -134,12 +136,13 @@ export function PlatformHomeCircularSystemSection({
 
 function PlatformHomeOutfitSection({
   lang,
+  outfitSets,
   section,
 }: {
   lang: string;
+  outfitSets: PlatformOutfitSet[];
   section?: PlatformSection;
 }) {
-  const outfitSets = getPlatformOutfitSets(lang).slice(0, 9);
 
   return (
     <section className="platform-shell platform-outfit-detail-related platform-home-sofa-story platform-home-sofa-story--outfits">
@@ -195,6 +198,8 @@ export default function PlatformHomePage({
   futureRoadmapItems,
   futureRoadmapHeroItem,
   futureRoadmapManifest,
+  outfitSets,
+  sofaCoupleStory,
 }: {
   lang: string;
   content: PlatformHomeContent;
@@ -202,6 +207,8 @@ export default function PlatformHomePage({
   futureRoadmapItems: FutureRoadmapFeaturedItem[];
   futureRoadmapHeroItem: FutureRoadmapFeaturedItem;
   futureRoadmapManifest: FutureRoadmapManifest;
+  outfitSets: PlatformOutfitSet[];
+  sofaCoupleStory: PlatformSofaCoupleStory;
 }) {
   const { data: cachedContent } = usePlatformHomeContent(lang, content);
   const homeContent = cachedContent ?? content;
@@ -246,9 +253,15 @@ export default function PlatformHomePage({
       <PlatformHomeCircularSystemSection
         lang={lang}
         circular={homeContent.circular}
+        sofaCoupleStory={sofaCoupleStory}
       />
 
-      <PlatformHomeOutfitSection lang={lang} section={outfitSection} />
+      <PlatformHomeOutfitSection
+        lang={lang}
+        outfitSets={outfitSets}
+        section={outfitSection}
+      />
     </main>
   );
 }
+

@@ -58,7 +58,7 @@ const DYNAMIC_ROUTE_RESOLVERS: Record<string, DynamicRouteResolver> = {
     "/smart-mobility/mts/[slug]/": async () => {
         const sourceFile = getSourceFileForRoute("/smart-mobility/mts/[slug]/");
 
-        return getSmartMobilityStations().map((station) => ({
+        return (await getSmartMobilityStations()).map((station) => ({
             path: `/smart-mobility/mts/${station.slug}/`,
             sourceFile,
         }));
@@ -66,7 +66,7 @@ const DYNAMIC_ROUTE_RESOLVERS: Record<string, DynamicRouteResolver> = {
     "/future-civilization/[eraSlug]/": async () => {
         const sourceFile = getSourceFileForRoute("/future-civilization/[eraSlug]/");
 
-        return getFutureRoadmapEras().map(({era}) => ({
+        return (await getFutureRoadmapEras()).map(({era}) => ({
             path: `/future-civilization/${era.slug}/`,
             sourceFile,
         }));
@@ -74,7 +74,7 @@ const DYNAMIC_ROUTE_RESOLVERS: Record<string, DynamicRouteResolver> = {
     "/future-civilization/[eraSlug]/[slug]/": async () => {
         const sourceFile = getSourceFileForRoute("/future-civilization/[eraSlug]/[slug]/");
 
-        return getFutureRoadmapItemStaticParams().map(({eraSlug, slug}) => ({
+        return (await getFutureRoadmapItemStaticParams()).map(({eraSlug, slug}) => ({
             path: `/future-civilization/${eraSlug}/${slug}/`,
             sourceFile,
         }));
@@ -82,7 +82,7 @@ const DYNAMIC_ROUTE_RESOLVERS: Record<string, DynamicRouteResolver> = {
     "/industries/[nodeSlug]/": async () => {
         const sourceFile = getSourceFileForRoute("/industries/[nodeSlug]/");
 
-        return getIndustryDirectoryData().map((item) => ({
+        return (await getIndustryDirectoryData()).map((item) => ({
             path: item.url,
             sourceFile,
         }));
@@ -90,7 +90,7 @@ const DYNAMIC_ROUTE_RESOLVERS: Record<string, DynamicRouteResolver> = {
     "/business-opportunities/[nodeSlug]/": async () => {
         const sourceFile = getSourceFileForRoute("/business-opportunities/[nodeSlug]/");
 
-        return getBusinessOpportunityDirectoryData().map((item) => ({
+        return (await getBusinessOpportunityDirectoryData()).map((item) => ({
             path: item.url,
             sourceFile,
         }));
@@ -98,7 +98,7 @@ const DYNAMIC_ROUTE_RESOLVERS: Record<string, DynamicRouteResolver> = {
     "/industries/[nodeSlug]/[subNodeSlug]/[problemSlug]/": async () => {
         const sourceFile = getSourceFileForRoute("/industries/[nodeSlug]/[subNodeSlug]/[problemSlug]/");
 
-        return getCgdPageIndex()
+        return (await getCgdPageIndex())
             .filter((page) => page.pageType === "industry-problem")
             .map((page) => ({
                 path: page.route,
@@ -108,7 +108,7 @@ const DYNAMIC_ROUTE_RESOLVERS: Record<string, DynamicRouteResolver> = {
     "/business-opportunities/[nodeSlug]/[businessSlug]/": async () => {
         const sourceFile = getSourceFileForRoute("/business-opportunities/[nodeSlug]/[businessSlug]/");
 
-        return getCgdPageIndex()
+        return (await getCgdPageIndex())
             .filter((page) => page.pageType === "business-opportunity")
             .map((page) => ({
                 path: page.route,
@@ -118,7 +118,7 @@ const DYNAMIC_ROUTE_RESOLVERS: Record<string, DynamicRouteResolver> = {
     "/future-solutions/[eraSlug]/": async () => {
         const sourceFile = getSourceFileForRoute("/future-solutions/[eraSlug]/");
 
-        return getFutureSolutionEraSummaries().map((era) => ({
+        return (await getFutureSolutionEraSummaries()).map((era) => ({
             path: era.url,
             sourceFile,
         }));
@@ -126,7 +126,7 @@ const DYNAMIC_ROUTE_RESOLVERS: Record<string, DynamicRouteResolver> = {
     "/future-solutions/[eraSlug]/[eraItemSlug]/": async () => {
         const sourceFile = getSourceFileForRoute("/future-solutions/[eraSlug]/[eraItemSlug]/");
 
-        return getFutureSolutionStaticParams().map((item) => ({
+        return (await getFutureSolutionStaticParams()).map((item) => ({
             path: `/future-solutions/${item.eraSlug}/${item.eraItemSlug}/`,
             sourceFile,
         }));
@@ -134,7 +134,7 @@ const DYNAMIC_ROUTE_RESOLVERS: Record<string, DynamicRouteResolver> = {
     "/style/[slug]/": async () => {
         const sourceFile = getSourceFileForRoute("/style/[slug]/");
 
-        return getPlatformOutfitSets().map((outfitSet) => ({
+        return (await getPlatformOutfitSets()).map((outfitSet) => ({
             path: `/style/${outfitSet.id}/`,
             sourceFile,
         }));
@@ -289,3 +289,4 @@ export async function getLocalizedSitemapEntries(locales: readonly string[]): Pr
         }));
     });
 }
+

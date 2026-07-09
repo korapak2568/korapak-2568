@@ -47,8 +47,8 @@ type PlatformMetadataSource = {
   };
 };
 
-function loadSmartFoodMetadata(locale: string): PlatformMetadataSource {
-  const content = getSmartFoodAiStaticFallback(locale);
+async function loadSmartFoodMetadata(locale: string): Promise<PlatformMetadataSource> {
+  const content = await getSmartFoodAiStaticFallback(locale);
   const openGraphImage = content.hero.visual.open_graph;
 
   return {
@@ -66,8 +66,8 @@ function loadSmartFoodMetadata(locale: string): PlatformMetadataSource {
   };
 }
 
-function loadLuxuryMetadata(locale: string): PlatformMetadataSource {
-  const content = getAiLuxuryContent(locale);
+async function loadLuxuryMetadata(locale: string): Promise<PlatformMetadataSource> {
+  const content = await getAiLuxuryContent(locale);
   const openGraphImage = content.heroImage.open_graph;
 
   return {
@@ -85,12 +85,15 @@ function loadLuxuryMetadata(locale: string): PlatformMetadataSource {
   };
 }
 
-function loadDefaultPlatformMetadata(locale: string, routeKey: PlatformRouteKey): PlatformMetadataSource {
-  const content = getPlatformContent(locale);
+async function loadDefaultPlatformMetadata(locale: string, routeKey: PlatformRouteKey): Promise<PlatformMetadataSource> {
+  const [content, defaultContent] = await Promise.all([
+    getPlatformContent(locale),
+    getPlatformContent("en"),
+  ]);
   const meta =
     content.meta[routeKey] ??
-    getPlatformContent("en").meta[routeKey] ??
-    getPlatformContent("en").meta.home;
+    defaultContent.meta[routeKey] ??
+    defaultContent.meta.home;
   const resolvedMeta = meta ?? {
     title: "Chorn Planet",
     description: "Chorn Planet platform.",
@@ -103,7 +106,7 @@ function loadDefaultPlatformMetadata(locale: string, routeKey: PlatformRouteKey)
   };
 }
 
-function loadRouteMetadata(locale: string, routeKey: PlatformRouteKey): PlatformMetadataSource {
+function loadRouteMetadata(locale: string, routeKey: PlatformRouteKey): Promise<PlatformMetadataSource> {
   if (routeKey === "smart-food") {
     return loadSmartFoodMetadata(locale);
   }
@@ -120,7 +123,7 @@ export async function getPlatformMetadata(
   routeKey: PlatformRouteKey,
 ): Promise<Metadata> {
   const targetPath = routeKey === "home" ? "/" : `/${routeKey}/`;
-  const source = loadRouteMetadata(locale, routeKey);
+  const source = await loadRouteMetadata(locale, routeKey);
   const imageMetadata = source.image ? { images: [source.image] } : {};
   const twitterImageMetadata = source.image ? { images: [source.image.url] } : {};
   const openGraphTitle = source.openGraphTitle ?? source.title;

@@ -1,4 +1,4 @@
-﻿import {
+import {
   CgdBreadcrumbs,
   CgdLinkList,
   CgdTagList,
@@ -42,14 +42,14 @@ function getRoadmapThumbnail(item: BusinessRoadmapItem) {
     : undefined;
 }
 
-export default function BusinessOpportunityPage({
+export default async function BusinessOpportunityPage({
   data,
   lang,
 }: {
   data: BusinessOpportunityPageData;
   lang: string;
 }) {
-  const pageInfo = getLayerPageInfo<BusinessPageInfo>("business_opportunities", lang).detail;
+  const pageInfo = (await getLayerPageInfo<BusinessPageInfo>("business_opportunities", lang)).detail;
   const opportunityName = getSearchTitlePart(data.search?.title, data.opportunity.name, 0);
   const subNodeName = getSearchTitlePart(data.search?.title, data.subNode.name, 1);
   const nodeName = getSearchTitlePart(data.search?.title, data.node.name, 2);

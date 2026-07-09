@@ -1,59 +1,52 @@
-import sofaCoupleStorySeed from "@/data/story/sofa-couple/en.sofa-couple.json";
-import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
-
-export type PlatformStoryImageGenerationSize = {
-  width: number;
-  height: number;
-  aspectRatio: string;
-  positionKey: string;
-};
-
-export type PlatformStoryImage = {
-  src: string;
-  alt: string;
-  aspectRatio?: string;
-  mobile?: PlatformResponsiveImageVariant;
-  thumbnail?: PlatformResponsiveImageVariant;
-  desktop?: PlatformResponsiveImageVariant;
-};
-
-export type PlatformStoryCard = {
-  title: string;
-  description: string;
-  image: PlatformStoryImage;
-  imageGenerationSize: PlatformStoryImageGenerationSize;
-};
-
-export type PlatformSofaCoupleStory = {
-  title: string;
-  story: string;
-  imageLandscape: PlatformStoryImage;
-  imagePortrait: PlatformStoryImage;
-  openGraphImage: {
-    src: string;
-    imageGenerationSize: PlatformStoryImageGenerationSize;
-  };
-  tiktok: string;
-  images: PlatformStoryCard[];
-};
-
-export type PlatformStoryContent = {
-  locale: string;
-  sofaCoupleStory: PlatformSofaCoupleStory;
-};
+import { fetchData } from "@/lib/chornplanet-data/fetchData";
+import type {
+  PlatformSofaCoupleStory,
+  PlatformStoryContent,
+} from "@/lib/platform-content/storyShared";
 
 const DEFAULT_LOCALE = "en";
-const sofaCoupleStory = sofaCoupleStorySeed as PlatformSofaCoupleStory;
+const storyCache = new Map<string, Promise<PlatformSofaCoupleStory>>();
+
+export type {
+  PlatformSofaCoupleStory,
+  PlatformStoryContent,
+} from "@/lib/platform-content/storyShared";
 
 export function resolvePlatformStoryLocale(locale?: string | null): string {
   return locale || DEFAULT_LOCALE;
 }
 
-export function getPlatformStoryContent(
+async function getSofaCoupleStory(locale = DEFAULT_LOCALE): Promise<PlatformSofaCoupleStory> {
+  const resolvedLocale = resolvePlatformStoryLocale(locale);
+  const cachedStory = storyCache.get(resolvedLocale);
+
+  if (cachedStory) {
+    return cachedStory;
+  }
+
+  const storyPromise = fetchData<PlatformSofaCoupleStory>(
+    `/story/sofa-couple/${resolvedLocale}.sofa-couple.json`,
+  ).catch((error) => {
+    storyCache.delete(resolvedLocale);
+
+    if (resolvedLocale !== DEFAULT_LOCALE) {
+      return getSofaCoupleStory(DEFAULT_LOCALE);
+    }
+
+    throw error;
+  });
+  storyCache.set(resolvedLocale, storyPromise);
+
+  return storyPromise;
+}
+
+export async function getPlatformStoryContent(
   locale?: string | null,
-): PlatformStoryContent {
+): Promise<PlatformStoryContent> {
+  const resolvedLocale = resolvePlatformStoryLocale(locale);
+
   return {
-    locale: resolvePlatformStoryLocale(locale),
-    sofaCoupleStory,
+    locale: resolvedLocale,
+    sofaCoupleStory: await getSofaCoupleStory(resolvedLocale),
   };
 }

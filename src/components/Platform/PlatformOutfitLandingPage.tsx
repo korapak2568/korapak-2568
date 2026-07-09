@@ -6,8 +6,8 @@ import type {
   PlatformOutfitHeroImage,
   PlatformOutfitSet,
   ResolvedPlatformOutfitContent,
-} from "@/lib/platform-content/styleContent";
-import { getPlatformOutfitLocalizedText } from "@/lib/platform-content/styleContent";
+} from "@/lib/platform-content/styleShared";
+import { getPlatformOutfitLocalizedText } from "@/lib/platform-content/styleShared";
 import {
   getPlatformImageAlt,
   getPlatformImageSrc,

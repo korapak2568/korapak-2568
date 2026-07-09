@@ -57,14 +57,14 @@ export function CgdDirectoryHero({
   );
 }
 
-export function IndustryDirectoryGrid({
+export async function IndustryDirectoryGrid({
   items,
   lang,
 }: {
   items: CgdIndustryDirectoryNode[];
   lang: string;
 }) {
-  const pageInfo = getLayerPageInfo<DirectoryPageInfo>("industries", lang);
+  const pageInfo = await getLayerPageInfo<DirectoryPageInfo>("industries", lang);
   const section = pageInfo.index?.directory_section;
 
   return (
@@ -102,14 +102,14 @@ export function IndustryDirectoryGrid({
   );
 }
 
-export function BusinessDirectoryGrid({
+export async function BusinessDirectoryGrid({
   items,
   lang,
 }: {
   items: CgdBusinessDirectoryNode[];
   lang: string;
 }) {
-  const pageInfo = getLayerPageInfo<DirectoryPageInfo>("business_opportunities", lang);
+  const pageInfo = await getLayerPageInfo<DirectoryPageInfo>("business_opportunities", lang);
   const section = pageInfo.index?.directory_section;
 
   return (
@@ -145,14 +145,14 @@ export function BusinessDirectoryGrid({
   );
 }
 
-export function IndustryNodeDirectory({
+export async function IndustryNodeDirectory({
   item,
   lang,
 }: {
   item: CgdIndustryDirectoryNode;
   lang: string;
 }) {
-  const pageInfo = getLayerPageInfo<DirectoryPageInfo>("industries", lang);
+  const pageInfo = await getLayerPageInfo<DirectoryPageInfo>("industries", lang);
   const nodeInfo = pageInfo.node;
 
   return (
@@ -200,14 +200,14 @@ export function IndustryNodeDirectory({
   );
 }
 
-export function BusinessNodeDirectory({
+export async function BusinessNodeDirectory({
   item,
   lang,
 }: {
   item: CgdBusinessDirectoryNode;
   lang: string;
 }) {
-  const pageInfo = getLayerPageInfo<DirectoryPageInfo>("business_opportunities", lang);
+  const pageInfo = await getLayerPageInfo<DirectoryPageInfo>("business_opportunities", lang);
   const nodeInfo = pageInfo.node;
 
   return (

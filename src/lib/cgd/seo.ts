@@ -31,17 +31,17 @@ type BusinessPageInfo = {
   };
 };
 
-export function getIndustryProblemMetadata(
+export async function getIndustryProblemMetadata(
   nodeSlug: string,
   subNodeSlug: string,
   problemSlug: string,
   locale?: string,
-): Metadata {
-  const data = getIndustryProblemPageData(nodeSlug, subNodeSlug, problemSlug, locale);
-  const detailMetadata = getLayerPageInfo<IndustryPageInfo>(
+): Promise<Metadata> {
+  const data = await getIndustryProblemPageData(nodeSlug, subNodeSlug, problemSlug, locale);
+  const detailMetadata = (await getLayerPageInfo<IndustryPageInfo>(
     "industries",
     locale,
-  ).metadata?.detail;
+  )).metadata?.detail;
 
   if (!data) {
     return {
@@ -91,16 +91,16 @@ export function getIndustryProblemMetadata(
   };
 }
 
-export function getBusinessOpportunityMetadata(
+export async function getBusinessOpportunityMetadata(
   nodeSlug: string,
   businessSlug: string,
   locale?: string,
-): Metadata {
-  const data = getBusinessOpportunityPageData(nodeSlug, businessSlug, locale);
-  const detailMetadata = getLayerPageInfo<BusinessPageInfo>(
+): Promise<Metadata> {
+  const data = await getBusinessOpportunityPageData(nodeSlug, businessSlug, locale);
+  const detailMetadata = (await getLayerPageInfo<BusinessPageInfo>(
     "business_opportunities",
     locale,
-  ).metadata?.detail;
+  )).metadata?.detail;
 
   if (!data) {
     return {

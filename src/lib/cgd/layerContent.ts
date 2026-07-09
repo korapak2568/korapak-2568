@@ -1,9 +1,8 @@
-import fs from "node:fs";
-import path from "node:path";
-import { DEFAULT_LOCALE } from "@/lib/SiteUrlLocales";
+import { fetchData } from "@/lib/chornplanet-data/fetchData";
+import { DEFAULT_LOCALE, LOCALES, type SiteLocale } from "@/lib/SiteUrlLocales";
 
-const DATA_DIR = path.join(process.cwd(), "data", "layer");
 const DEFAULT_LAYER_LOCALE = DEFAULT_LOCALE;
+const layerContentCache = new Map<SiteLocale, Promise<LayerContentFile>>();
 
 type LayerRecord = {
   id: string;
@@ -25,17 +24,34 @@ export type LayerContent = {
 
 type LayerContentFile = LayerRecord[] | LayerContent;
 
-function readLayerJson(locale = DEFAULT_LAYER_LOCALE): LayerContentFile {
-  const requestedPath = path.join(DATA_DIR, `${locale}.layer.json`);
-  const fallbackPath = path.join(DATA_DIR, `${DEFAULT_LAYER_LOCALE}.layer.json`);
-  const sourcePath = fs.existsSync(requestedPath) ? requestedPath : fallbackPath;
-  const rawContent = fs.readFileSync(sourcePath, "utf8").replace(/^\uFEFF/, "");
-
-  return JSON.parse(rawContent) as LayerContentFile;
+function resolveLayerLocale(locale = DEFAULT_LAYER_LOCALE): SiteLocale {
+  return LOCALES.includes(locale as SiteLocale) ? (locale as SiteLocale) : DEFAULT_LAYER_LOCALE;
 }
 
-export function getLayerContent(locale = DEFAULT_LAYER_LOCALE): LayerContent {
-  const content = readLayerJson(locale);
+async function readLayerJson(locale = DEFAULT_LAYER_LOCALE): Promise<LayerContentFile> {
+  const resolvedLocale = resolveLayerLocale(locale);
+  const cachedContent = layerContentCache.get(resolvedLocale);
+
+  if (cachedContent) {
+    return cachedContent;
+  }
+
+  const contentPromise = fetchData<LayerContentFile>(`/layer/${resolvedLocale}.layer.json`).catch((error) => {
+    layerContentCache.delete(resolvedLocale);
+
+    if (resolvedLocale !== DEFAULT_LAYER_LOCALE) {
+      return readLayerJson(DEFAULT_LAYER_LOCALE);
+    }
+
+    throw error;
+  });
+  layerContentCache.set(resolvedLocale, contentPromise);
+
+  return contentPromise;
+}
+
+export async function getLayerContent(locale = DEFAULT_LAYER_LOCALE): Promise<LayerContent> {
+  const content = await readLayerJson(locale);
 
   if (Array.isArray(content)) {
     return { layers: content };
@@ -44,15 +60,15 @@ export function getLayerContent(locale = DEFAULT_LAYER_LOCALE): LayerContent {
   return content;
 }
 
-export function getLayers(locale = DEFAULT_LAYER_LOCALE): LayerRecord[] {
-  return getLayerContent(locale).layers;
+export async function getLayers(locale = DEFAULT_LAYER_LOCALE): Promise<LayerRecord[]> {
+  return (await getLayerContent(locale)).layers;
 }
 
-export function getLayerPageInfo<T extends PageInfo>(
+export async function getLayerPageInfo<T extends PageInfo>(
   key: keyof Omit<LayerContent, "layers">,
   locale = DEFAULT_LAYER_LOCALE,
-): T {
-  return (getLayerContent(locale)[key]?.page_info ?? {}) as T;
+): Promise<T> {
+  return ((await getLayerContent(locale))[key]?.page_info ?? {}) as T;
 }
 
 export function formatPageInfoTemplate(

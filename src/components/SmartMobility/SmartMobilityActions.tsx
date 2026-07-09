@@ -1,9 +1,6 @@
 import Link from "next/link";
 import type { CSSProperties } from "react";
-import {
-  getSmartMobilityChiangMaiActions,
-  isSmartMobilityChiangMaiSlug,
-} from "./ChiangMai/ChiangMaiRoutes";
+import type { SmartMobilityNavigationAction } from "@/lib/platform-content/smartMobilityContent";
 
 function getLocalizedHref(locale: string, href: string) {
   if (/^https?:\/\//.test(href)) {
@@ -19,24 +16,25 @@ function normalizeHref(href: string) {
 
 export default function SmartMobilityActions({
   locale,
+  actions,
   activeSlug,
   activeHref,
   activeLabel,
   style,
 }: {
   locale: string;
+  actions: SmartMobilityNavigationAction[];
   activeSlug?: string | null;
   activeHref?: string;
   activeLabel?: string;
   style?: CSSProperties;
 }) {
-  const currentSlug =
-    activeSlug && isSmartMobilityChiangMaiSlug(activeSlug) ? activeSlug : null;
+  const currentSlug = activeSlug ?? null;
   const currentHref = activeHref ? normalizeHref(activeHref) : null;
 
   return (
     <div className="platform-mts-hero__actions" style={style}>
-      {getSmartMobilityChiangMaiActions().map((action) => {
+      {actions.map((action) => {
         const isActiveBySlug = Boolean(
           action.slug && action.slug === currentSlug,
         );

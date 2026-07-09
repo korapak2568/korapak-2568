@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { getFutureSolutionRelations } from "@/lib/cgd/loader";
 
-export default function FutureSolutionCgdRelations({
+export default async function FutureSolutionCgdRelations({
   eraId,
   eraItemId,
   lang,
@@ -10,7 +10,7 @@ export default function FutureSolutionCgdRelations({
   eraItemId: string;
   lang: string;
 }) {
-  const relations = getFutureSolutionRelations(eraId, eraItemId);
+  const relations = await getFutureSolutionRelations(eraId, eraItemId);
 
   if (
     relations.solvedProblems.length === 0 &&

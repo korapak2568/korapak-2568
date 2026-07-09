@@ -1,63 +1,33 @@
 import type { Metadata } from "next";
 import { getLocalizedAlternates } from "@/lib/metadata/alternates";
 import {
-  getSmartMobilityChiangMaiActionsFromJson,
   getSmartMobilityChiangMaiDefaultSlug,
   getSmartMobilityChiangMaiMetadataFromJson,
-  getSmartMobilityChiangMaiRouteLabels,
-  getSmartMobilityChiangMaiSlugs as getSmartMobilityChiangMaiContentSlugs,
   isSmartMobilityChiangMaiContentSlug,
 } from "@/lib/smart-mobility-chiang-mai-content/smartMobilityChiangMaiContent.service";
-import type { SmartMobilityMtsDetailAction } from "@/lib/platform-content/smartMobilityContent";
-
-export const SMART_MOBILITY_CHIANG_MAI_DEFAULT_SLUG =
-  getSmartMobilityChiangMaiDefaultSlug();
+import type { SmartMobilityNavigationAction } from "@/lib/platform-content/smartMobilityContent";
 
 export type SmartMobilityChiangMaiSlug = string;
+export type SmartMobilityChiangMaiAction = SmartMobilityNavigationAction;
 
-export type SmartMobilityChiangMaiAction = SmartMobilityMtsDetailAction & {
-  slug?: SmartMobilityChiangMaiSlug;
-};
+export async function getSmartMobilityChiangMaiDefaultRouteSlug(
+  locale: string,
+): Promise<SmartMobilityChiangMaiSlug> {
+  return getSmartMobilityChiangMaiDefaultSlug(locale);
+}
 
-export const SMART_MOBILITY_CHIANG_MAI_ROUTE_LABELS =
-  getSmartMobilityChiangMaiRouteLabels();
-
-export function isSmartMobilityChiangMaiSlug(
+export async function isSmartMobilityChiangMaiSlug(
   slug: string,
-): slug is SmartMobilityChiangMaiSlug {
-  return isSmartMobilityChiangMaiContentSlug(slug);
-}
-
-export function getSmartMobilityChiangMaiSlugs(): SmartMobilityChiangMaiSlug[] {
-  return getSmartMobilityChiangMaiContentSlugs();
-}
-
-function getSmartMobilityChiangMaiSlugFromHref(
-  href: string,
-): SmartMobilityChiangMaiSlug | undefined {
-  return getSmartMobilityChiangMaiSlugs().find((slug) =>
-    href.includes(`/smart-mobility/chiang-mai/${slug}/`),
-  );
-}
-
-export function getSmartMobilityChiangMaiActions(): SmartMobilityChiangMaiAction[] {
-  const actionsByHref = new Map<string, SmartMobilityChiangMaiAction>();
-
-  for (const action of getSmartMobilityChiangMaiActionsFromJson()) {
-    actionsByHref.set(action.href, {
-      ...action,
-      slug: getSmartMobilityChiangMaiSlugFromHref(action.href),
-    });
-  }
-
-  return [...actionsByHref.values()];
+  locale: string,
+): Promise<boolean> {
+  return isSmartMobilityChiangMaiContentSlug(slug, locale);
 }
 
 export async function generateSmartMobilityChiangMaiMetadata(
   slug: SmartMobilityChiangMaiSlug,
   locale: string,
 ): Promise<Metadata> {
-  const metadata = getSmartMobilityChiangMaiMetadataFromJson(slug);
+  const metadata = await getSmartMobilityChiangMaiMetadataFromJson(slug, locale);
 
   if (!metadata) {
     return { title: "Smart Mobility Chiang Mai page not found" };

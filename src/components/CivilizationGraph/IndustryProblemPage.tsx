@@ -1,4 +1,4 @@
-﻿import {
+import {
   CgdBreadcrumbs,
   CgdLinkList,
   CgdTagList,
@@ -32,14 +32,14 @@ type IndustryPageInfo = {
   };
 };
 
-export default function IndustryProblemPage({
+export default async function IndustryProblemPage({
   data,
   lang,
 }: {
   data: IndustryProblemPageData;
   lang: string;
 }) {
-  const pageInfo = getLayerPageInfo<IndustryPageInfo>("industries", lang).detail;
+  const pageInfo = (await getLayerPageInfo<IndustryPageInfo>("industries", lang)).detail;
   const problemName = getSearchTitlePart(data.search?.title, data.problem.name, 0);
   const subNodeName = getSearchTitlePart(data.search?.title, data.subNode.name, 1);
   const nodeName = getSearchTitlePart(data.search?.title, data.node.name, 2);

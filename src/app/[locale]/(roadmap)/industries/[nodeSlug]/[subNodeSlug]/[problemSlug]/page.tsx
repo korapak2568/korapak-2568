@@ -17,9 +17,11 @@ type PageParams = {
   }>;
 };
 
-export function generateStaticParams() {
+export async function generateStaticParams() {
+  const staticParams = await getCgdStaticParams("industry-problem");
+
   return LOCALES.flatMap((locale) =>
-    getCgdStaticParams("industry-problem").map((segments) => ({
+    staticParams.map((segments) => ({
       locale,
       nodeSlug: segments[1],
       subNodeSlug: segments[2],
@@ -40,7 +42,7 @@ export default async function Page({ params }: PageParams) {
   const { locale, nodeSlug, subNodeSlug, problemSlug } = await params;
 
 
-  const data = getIndustryProblemPageData(nodeSlug, subNodeSlug, problemSlug, locale);
+  const data = await getIndustryProblemPageData(nodeSlug, subNodeSlug, problemSlug, locale);
 
   if (!data) {
     notFound();

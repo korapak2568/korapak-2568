@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 import {
   generateSmartMobilityChiangMaiMetadata,
-  SMART_MOBILITY_CHIANG_MAI_DEFAULT_SLUG,
+  getSmartMobilityChiangMaiDefaultRouteSlug,
 } from "@/components/SmartMobility/ChiangMai/ChiangMaiRoutes";
 import { SmartMobilityChiangMaiPage } from "@/components/SmartMobility/ChiangMai/ChiangMaiPage";
+import { getSmartMobilityNavigationActions } from "@/lib/platform-content/smartMobilityContent";
 import { getSmartMobilityChiangMaiContentForPublicPage } from "@/lib/smart-mobility-chiang-mai-content/smartMobilityChiangMaiContent.service";
 
 export async function generateMetadata({
@@ -12,10 +13,9 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  return generateSmartMobilityChiangMaiMetadata(
-    SMART_MOBILITY_CHIANG_MAI_DEFAULT_SLUG,
-    locale,
-  );
+  const defaultSlug = await getSmartMobilityChiangMaiDefaultRouteSlug(locale);
+
+  return generateSmartMobilityChiangMaiMetadata(defaultSlug, locale);
 }
 
 export default async function Page({
@@ -24,16 +24,18 @@ export default async function Page({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  const content = await getSmartMobilityChiangMaiContentForPublicPage(
-    locale,
-    SMART_MOBILITY_CHIANG_MAI_DEFAULT_SLUG,
-  );
+  const defaultSlug = await getSmartMobilityChiangMaiDefaultRouteSlug(locale);
+  const [content, navigationActions] = await Promise.all([
+    getSmartMobilityChiangMaiContentForPublicPage(locale, defaultSlug),
+    getSmartMobilityNavigationActions(locale),
+  ]);
 
   return (
     <SmartMobilityChiangMaiPage
       locale={locale}
-      slug={SMART_MOBILITY_CHIANG_MAI_DEFAULT_SLUG}
+      slug={defaultSlug}
       content={content}
+      navigationActions={navigationActions}
     />
   );
 }

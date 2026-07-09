@@ -84,6 +84,7 @@ export default function SmartMobilityPage({
       <section className="platform-shell platform-mts-action-nav">
         <SmartMobilityActions
           locale={locale}
+          actions={smartMobilityContent.navigationActions}
           activeHref="/smart-mobility/"
           style={{ marginBottom: 18 }}
         />
@@ -114,3 +115,6 @@ export default function SmartMobilityPage({
     </main>
   );
 }
+
+
+

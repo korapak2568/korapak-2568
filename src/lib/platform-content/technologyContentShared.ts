@@ -1,10 +1,32 @@
-import technologyPageContent from "@/data/technology/en.json";
-import technicalExpertiseFrontendSeed from "@/data/technical-expertise/frontend/en.json";
-import technicalExpertiseFullstackSeed from "@/data/technical-expertise/fullstack/en.json";
+import { fetchData } from "@/lib/chornplanet-data/fetchData";
+import type { SystemCapabilityItem } from "@/components/Services/WebDevelopment/SystemCapability";
 import type { IFrontEnd, IFrontEndStack } from "@/lib/model/IFrontEnd";
 import type { IFullStack, IFullStackStack } from "@/lib/model/IFullStack";
+import { getFrontendSeed } from "@/lib/platform-content/frontendRoutes";
+import { getFullstackSeed } from "@/lib/platform-content/fullstackRoutes";
 
-export type PlatformTechnologyPageContent = typeof technologyPageContent;
+export type PlatformTechnologyPageContent = {
+  title: string;
+  hero: {
+    subtitle: string;
+    body: string;
+  };
+  summary: {
+    label: string;
+    value: string;
+    caption: string;
+  };
+  sections: {
+    systemCapability: {
+      ariaLabel: string;
+      title: string;
+      items: SystemCapabilityItem[];
+    };
+    deliveryStack: {
+      title: string;
+    };
+  };
+};
 export type PlatformTechnologyContent = {
   locale: string;
   page: PlatformTechnologyPageContent;
@@ -16,6 +38,8 @@ const PLATFORM_TECHNOLOGY_STACK_KEYS = {
   frontEnd: ["nextjs", "react", "typescript"],
   fullStack: ["python", "nodejs", "go"],
 } as const;
+
+const technologyContentCache = new Map<string, Promise<PlatformTechnologyPageContent>>();
 
 type StackSection<TStack> = {
   stacks: TStack[];
@@ -77,15 +101,41 @@ function normalizeStackSection<TSection extends StackSection<TStack>, TStack>(
   };
 }
 
-export function getNormalizedPlatformTechnologyContent(
+async function getTechnologyPageContent(locale = "en"): Promise<PlatformTechnologyPageContent> {
+  const cachedContent = technologyContentCache.get(locale);
+
+  if (cachedContent) {
+    return cachedContent;
+  }
+
+  const contentPromise = fetchData<PlatformTechnologyPageContent>(`/technology/${locale}.json`).catch((error) => {
+    technologyContentCache.delete(locale);
+
+    if (locale !== "en") {
+      return getTechnologyPageContent("en");
+    }
+
+    throw error;
+  });
+  technologyContentCache.set(locale, contentPromise);
+
+  return contentPromise;
+}
+
+export async function getNormalizedPlatformTechnologyContent(
   locale = "en",
-): PlatformTechnologyContent {
-  const frontEnd = technicalExpertiseFrontendSeed.frontEnd as IFrontEnd;
-  const fullStack = technicalExpertiseFullstackSeed.fullStack as IFullStack;
+): Promise<PlatformTechnologyContent> {
+  const [page, frontendSeed, fullstackSeed] = await Promise.all([
+    getTechnologyPageContent(locale),
+    getFrontendSeed("en"),
+    getFullstackSeed("en"),
+  ]);
+  const frontEnd = frontendSeed.frontEnd as IFrontEnd;
+  const fullStack = fullstackSeed.fullStack as IFullStack;
 
   return {
     locale,
-    page: technologyPageContent,
+    page,
     frontEnd: normalizeStackSection<IFrontEnd, IFrontEndStack>(
       frontEnd,
       PLATFORM_TECHNOLOGY_STACK_KEYS.frontEnd,

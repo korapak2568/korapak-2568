@@ -13,7 +13,7 @@ export async function generateMetadata(): Promise<Metadata> {
 export default async function Page() {
     const headersList = await headers();
     const lang = headersList.get("x-locale") || "en";
-    const content = getAiLuxuryContent(lang);
+    const content = await getAiLuxuryContent(lang);
 
     return <AiLuxuryLandingPage lang={lang} content={content}/>;
 }

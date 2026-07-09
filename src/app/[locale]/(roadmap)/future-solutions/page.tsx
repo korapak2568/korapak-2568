@@ -1,4 +1,4 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import { FutureSolutionsIndexPage } from "@/components/FutureSolutions/FutureSolutionsPages";
 import { getFutureSolutionEraSummaries } from "@/lib/future-solutions/futureSolutionsContent";
 import { getLocalizedAlternates } from "@/lib/metadata/alternates";
@@ -21,10 +21,10 @@ type PageParams = {
 
 export async function generateMetadata({ params }: PageParams): Promise<Metadata> {
   const { locale } = await params;
-  const metadata = getLayerPageInfo<FutureSolutionsPageInfo>(
+  const metadata = (await getLayerPageInfo<FutureSolutionsPageInfo>(
     "future-solutions",
     locale,
-  ).metadata?.index;
+  )).metadata?.index;
   const title = metadata?.title ?? "";
   const description =
     metadata?.description ??
@@ -50,5 +50,5 @@ export async function generateMetadata({ params }: PageParams): Promise<Metadata
 export default async function Page({ params }: PageParams) {
   const { locale } = await params;
 
-  return <FutureSolutionsIndexPage eras={getFutureSolutionEraSummaries(locale)} lang={locale} />;
+  return <FutureSolutionsIndexPage eras={await getFutureSolutionEraSummaries(locale)} lang={locale} />;
 }

@@ -1,4 +1,4 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { FutureSolutionsEraPage } from "@/components/FutureSolutions/FutureSolutionsPages";
 import {
@@ -30,22 +30,26 @@ type PageParams = {
   }>;
 };
 
-export function generateStaticParams() {
-  return LOCALES.flatMap((locale) =>
-    getFutureSolutionEraSummaries(locale).map((era) => ({
-      locale,
-      eraSlug: era.era_slug,
-    })),
+export async function generateStaticParams() {
+  const params = await Promise.all(
+    LOCALES.map(async (locale) =>
+      (await getFutureSolutionEraSummaries(locale)).map((era) => ({
+        locale,
+        eraSlug: era.era_slug,
+      })),
+    ),
   );
+
+  return params.flat();
 }
 
 export async function generateMetadata({ params }: PageParams): Promise<Metadata> {
   const { eraSlug, locale } = await params;
-  const era = getFutureSolutionEra(eraSlug, locale);
-  const eraMetadata = getLayerPageInfo<FutureSolutionsPageInfo>(
+  const era = await getFutureSolutionEra(eraSlug, locale);
+  const eraMetadata = (await getLayerPageInfo<FutureSolutionsPageInfo>(
     "future-solutions",
     locale,
-  ).metadata?.era;
+  )).metadata?.era;
 
   if (!era) {
     return {
@@ -85,7 +89,7 @@ export async function generateMetadata({ params }: PageParams): Promise<Metadata
 
 export default async function Page({ params }: PageParams) {
   const { eraSlug, locale } = await params;
-  const era = getFutureSolutionEra(eraSlug, locale);
+  const era = await getFutureSolutionEra(eraSlug, locale);
 
   if (!era) {
     notFound();

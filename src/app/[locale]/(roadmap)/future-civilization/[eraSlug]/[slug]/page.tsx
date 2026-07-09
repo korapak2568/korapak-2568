@@ -24,7 +24,7 @@ export async function generateMetadata({
 
 export default async function Page({ params }: PageParams) {
   const { locale, eraSlug, slug } = await params;
-  const detail = getFutureRoadmapItemBySlugs(eraSlug, slug, locale);
+  const detail = await getFutureRoadmapItemBySlugs(eraSlug, slug, locale);
 
   if (!detail) {
     notFound();

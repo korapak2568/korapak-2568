@@ -5,6 +5,7 @@ import Link from "next/link";
 import PlatformStorySection from "@/components/Story/PlatformStorySection";
 import {
   getSmartMobilityContent,
+  getSmartMobilityNavigationActions,
   type MtsStation,
 } from "@/lib/platform-content/smartMobilityContent";
 import { getPlatformStoryContent } from "@/lib/platform-content/storyContent";
@@ -59,7 +60,7 @@ export async function generateMetadata({
   params,
 }: PageParams): Promise<Metadata> {
   const { locale } = await params;
-  const storyContent = getPlatformStoryContent(locale);
+  const storyContent = await getPlatformStoryContent(locale);
   const sofaCoupleStory = storyContent.sofaCoupleStory;
   const title = `${sofaCoupleStory.title} | Chorn Planet Story`;
   const description = sofaCoupleStory.story;
@@ -94,8 +95,11 @@ export async function generateMetadata({
 
 export default async function Page({ params }: PageParams) {
   const { locale } = await params;
-  const storyContent = getPlatformStoryContent(locale);
-  const smartMobilityContent = getSmartMobilityContent(locale);
+  const [storyContent, smartMobilityContent, navigationActions] = await Promise.all([
+    getPlatformStoryContent(locale),
+    getSmartMobilityContent(locale),
+    getSmartMobilityNavigationActions(locale),
+  ]);
   const valleyStations =
     smartMobilityContent.lines.find((line) => line.id === "valley")?.stations ??
     [];
@@ -112,6 +116,7 @@ export default async function Page({ params }: PageParams) {
       <PlatformStorySection
         lang={locale}
         content={storyContent}
+        navigationActions={navigationActions}
         showStoryLink={false}
         showTiktokLink
       />
@@ -138,3 +143,4 @@ export default async function Page({ params }: PageParams) {
     </main>
   );
 }
+

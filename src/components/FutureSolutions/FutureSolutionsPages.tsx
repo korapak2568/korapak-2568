@@ -65,7 +65,7 @@ function tagLabel(value: string) {
   return value.replaceAll("_", " ").replaceAll("-", " ");
 }
 
-function getFutureSolutionsPageInfo(lang: string) {
+async function getFutureSolutionsPageInfo(lang: string) {
   return getLayerPageInfo<FutureSolutionsPageInfo>("future-solutions", lang);
 }
 
@@ -93,14 +93,14 @@ function SolutionCard({ lang, solution }: { lang: string; solution: FutureSoluti
   );
 }
 
-export function FutureSolutionsIndexPage({
+export async function FutureSolutionsIndexPage({
   eras,
   lang,
 }: {
   eras: FutureSolutionEraSummary[];
   lang: string;
 }) {
-  const pageInfo = getFutureSolutionsPageInfo(lang);
+  const pageInfo = await getFutureSolutionsPageInfo(lang);
   const hero = pageInfo.index?.hero;
   const directorySection = pageInfo.index?.directory_section;
 
@@ -145,14 +145,14 @@ export function FutureSolutionsIndexPage({
   );
 }
 
-export function FutureSolutionsEraPage({
+export async function FutureSolutionsEraPage({
   era,
   lang,
 }: {
   era: FutureSolutionEraSummary & { solutions: FutureSolutionRecord[] };
   lang: string;
 }) {
-  const pageInfo = getFutureSolutionsPageInfo(lang);
+  const pageInfo = await getFutureSolutionsPageInfo(lang);
   const hero = pageInfo.era?.hero;
   const directorySection = pageInfo.era?.directory_section;
 
@@ -185,7 +185,7 @@ export function FutureSolutionsEraPage({
   );
 }
 
-export function FutureSolutionDetailPage({
+export async function FutureSolutionDetailPage({
   lang,
   relatedSolutions,
   solution,
@@ -194,7 +194,7 @@ export function FutureSolutionDetailPage({
   relatedSolutions: FutureSolutionRecord[];
   solution: FutureSolutionRecord;
 }) {
-  const pageInfo = getFutureSolutionsPageInfo(lang);
+  const pageInfo = await getFutureSolutionsPageInfo(lang);
   const detail = pageInfo.detail;
   const breadcrumbs = detail?.breadcrumbs;
   const hero = detail?.hero;

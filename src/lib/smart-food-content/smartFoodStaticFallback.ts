@@ -3,45 +3,45 @@ import {
     SmartFoodAiContentLocale,
     SmartFoodAiContentPayload,
 } from "@/core/domain/smart-food-ai-content.entity";
-import deSmartFoodContent from "@/data/smart-food/de.json";
-import enSmartFoodContent from "@/data/smart-food/en.json";
-import frSmartFoodContent from "@/data/smart-food/fr.json";
-import idSmartFoodContent from "@/data/smart-food/id.json";
-import jaSmartFoodContent from "@/data/smart-food/ja.json";
-import koSmartFoodContent from "@/data/smart-food/ko.json";
-import ruSmartFoodContent from "@/data/smart-food/ru.json";
-import thSmartFoodContent from "@/data/smart-food/th.json";
-import viSmartFoodContent from "@/data/smart-food/vi.json";
-import zhSmartFoodContent from "@/data/smart-food/zh.json";
+import { fetchData } from "@/lib/chornplanet-data/fetchData";
 import {ISmartFoodAiMetadataContent} from "@/lib/model/ISmartFoodAiContent";
 
-const SMART_FOOD_AI_STATIC_FALLBACK_BY_LOCALE: Record<SmartFoodAiContentLocale, SmartFoodAiContentPayload> = {
-    de: deSmartFoodContent as SmartFoodAiContentPayload,
-    en: enSmartFoodContent as SmartFoodAiContentPayload,
-    fr: frSmartFoodContent as SmartFoodAiContentPayload,
-    id: idSmartFoodContent as SmartFoodAiContentPayload,
-    ja: jaSmartFoodContent as SmartFoodAiContentPayload,
-    ko: koSmartFoodContent as SmartFoodAiContentPayload,
-    ru: ruSmartFoodContent as SmartFoodAiContentPayload,
-    th: thSmartFoodContent as SmartFoodAiContentPayload,
-    vi: viSmartFoodContent as SmartFoodAiContentPayload,
-    zh: zhSmartFoodContent as SmartFoodAiContentPayload,
-};
+const SMART_FOOD_AI_DEFAULT_LOCALE: SmartFoodAiContentLocale = "en";
+const smartFoodFallbackCache = new Map<SmartFoodAiContentLocale, Promise<SmartFoodAiContentPayload>>();
 
-const SMART_FOOD_AI_STATIC_FALLBACK = SMART_FOOD_AI_STATIC_FALLBACK_BY_LOCALE.en;
+async function loadSmartFoodAiStaticFallback(locale: SmartFoodAiContentLocale): Promise<SmartFoodAiContentPayload> {
+    const cachedContent = smartFoodFallbackCache.get(locale);
 
-export const SMART_FOOD_AI_STATIC_METADATA_FALLBACK: ISmartFoodAiMetadataContent =
-    SMART_FOOD_AI_STATIC_FALLBACK.metadata!;
+    if (cachedContent) {
+        return cachedContent;
+    }
 
-export function getSmartFoodAiStaticMetadataFallback(locale: string): ISmartFoodAiMetadataContent {
-    const fallbackContent = getSmartFoodAiStaticFallback(locale);
+    const contentPromise = fetchData<SmartFoodAiContentPayload>(`/smart-food/${locale}.json`).catch((error) => {
+        smartFoodFallbackCache.delete(locale);
 
-    return fallbackContent.metadata ?? SMART_FOOD_AI_STATIC_METADATA_FALLBACK;
+        if (locale !== SMART_FOOD_AI_DEFAULT_LOCALE) {
+            return loadSmartFoodAiStaticFallback(SMART_FOOD_AI_DEFAULT_LOCALE);
+        }
+
+        throw error;
+    });
+    smartFoodFallbackCache.set(locale, contentPromise);
+
+    return contentPromise;
 }
 
-export function getSmartFoodAiStaticFallback(locale: string): SmartFoodAiContentPayload {
+export async function getSmartFoodAiStaticMetadataFallback(locale: string): Promise<ISmartFoodAiMetadataContent> {
+    const fallbackContent = await getSmartFoodAiStaticFallback(locale);
+    const defaultContent = locale === SMART_FOOD_AI_DEFAULT_LOCALE
+        ? fallbackContent
+        : await getSmartFoodAiStaticFallback(SMART_FOOD_AI_DEFAULT_LOCALE);
+
+    return fallbackContent.metadata ?? defaultContent.metadata!;
+}
+
+export async function getSmartFoodAiStaticFallback(locale: string): Promise<SmartFoodAiContentPayload> {
     const normalizedLocale = normalizeSmartFoodAiContentLocale(locale);
-    const fallbackContent = SMART_FOOD_AI_STATIC_FALLBACK_BY_LOCALE[normalizedLocale] ?? SMART_FOOD_AI_STATIC_FALLBACK;
+    const fallbackContent = await loadSmartFoodAiStaticFallback(normalizedLocale);
 
     return {
         ...fallbackContent,

@@ -1,10 +1,8 @@
-﻿import fs from "node:fs";
-import path from "node:path";
 import { DEFAULT_LOCALE } from "@/lib/SiteUrlLocales";
-import { getFutureRoadmapItemBySlugs } from "@/lib/platform-content/futureRoadmapContent";
+import { fetchData } from "@/lib/chornplanet-data/fetchData";
+import { getFutureRoadmapEras } from "@/lib/platform-content/futureRoadmapContent";
 import type { PlatformResponsiveImage } from "@/lib/platform-content/platformImageVariants";
 
-const DATA_DIR = path.join(process.cwd(), "data");
 const DEFAULT_FUTURE_SOLUTIONS_LOCALE = DEFAULT_LOCALE;
 
 type EraRecord = {
@@ -83,54 +81,77 @@ export type FutureSolutionEraSummary = {
   readinessLevels: string[];
 };
 
-function readJson<T>(...segments: string[]): T {
-  const sourcePath = path.join(DATA_DIR, ...segments);
-  const rawContent = fs.readFileSync(sourcePath, "utf8").replace(/^\uFEFF/, "");
+const eraRecordsCache = new Map<string, Promise<EraRecord[]>>();
+const futureSolutionsCache = new Map<string, Promise<FutureSolutionRecord[]>>();
 
-  return JSON.parse(rawContent) as T;
+function getEraRecords(locale = DEFAULT_FUTURE_SOLUTIONS_LOCALE): Promise<EraRecord[]> {
+  const cachedRecords = eraRecordsCache.get(locale);
+
+  if (cachedRecords) {
+    return cachedRecords;
+  }
+
+  const recordsPromise = fetchData<EraRecord[]>(`/era/${locale}.era.json`);
+  eraRecordsCache.set(locale, recordsPromise);
+
+  return recordsPromise;
 }
 
-function getEraRecords(locale = DEFAULT_FUTURE_SOLUTIONS_LOCALE): EraRecord[] {
-  return readJson<EraRecord[]>("era", `${locale}.era.json`);
+async function getEraById(locale = DEFAULT_FUTURE_SOLUTIONS_LOCALE) {
+  return new Map((await getEraRecords(locale)).map((era) => [era.id, era]));
 }
 
-function getEraById(locale = DEFAULT_FUTURE_SOLUTIONS_LOCALE) {
-  return new Map(getEraRecords(locale).map((era) => [era.id, era]));
+async function getEraBySlug(locale = DEFAULT_FUTURE_SOLUTIONS_LOCALE) {
+  return new Map((await getEraRecords(locale)).map((era) => [era.slug, era]));
 }
 
-function getEraBySlug(locale = DEFAULT_FUTURE_SOLUTIONS_LOCALE) {
-  return new Map(getEraRecords(locale).map((era) => [era.slug, era]));
-}
-
-export function getFutureSolutions(
+async function fetchFutureSolutions(
   locale = DEFAULT_FUTURE_SOLUTIONS_LOCALE,
-): FutureSolutionRecord[] {
-  const eraById = getEraById(locale);
+): Promise<FutureSolutionRecord[]> {
+  const [eraById, roadmapEras, records] = await Promise.all([
+    getEraById(locale),
+    getFutureRoadmapEras(locale),
+    fetchData<Omit<FutureSolutionRecord, "era_slug" | "roadmap_image">[]>(
+      `/future-solutions/${locale}.future-solutions.json`,
+    ),
+  ]);
+  const roadmapImageBySlug = new Map(
+    roadmapEras.flatMap(({ era, items }) =>
+      items.map((item) => [`${era.slug}:${item.slug}`, item.image] as const),
+    ),
+  );
 
-  return readJson<Omit<FutureSolutionRecord, "era_slug" | "roadmap_image">[]>(
-    "future-solutions",
-    `${locale}.future-solutions.json`,
-  ).map((record) => {
+  return records.map((record) => {
     const eraSlug = eraById.get(record.era_id)?.slug ?? record.era_id;
-    const roadmapImage = getFutureRoadmapItemBySlugs(
-      eraSlug,
-      record.era_item_slug,
-      locale,
-    )?.item.image;
 
     return {
       ...record,
       era_slug: eraSlug,
-      roadmap_image: roadmapImage,
+      roadmap_image: roadmapImageBySlug.get(`${eraSlug}:${record.era_item_slug}`),
     };
   });
 }
 
-export function getFutureSolutionEraSummaries(
+export function getFutureSolutions(
   locale = DEFAULT_FUTURE_SOLUTIONS_LOCALE,
-): FutureSolutionEraSummary[] {
-  const records = getFutureSolutions(locale);
-  const eraById = getEraById(locale);
+): Promise<FutureSolutionRecord[]> {
+  const cachedSolutions = futureSolutionsCache.get(locale);
+
+  if (cachedSolutions) {
+    return cachedSolutions;
+  }
+
+  const solutionsPromise = fetchFutureSolutions(locale);
+  futureSolutionsCache.set(locale, solutionsPromise);
+
+  return solutionsPromise;
+}
+
+export async function getFutureSolutionEraSummaries(
+  locale = DEFAULT_FUTURE_SOLUTIONS_LOCALE,
+): Promise<FutureSolutionEraSummary[]> {
+  const records = await getFutureSolutions(locale);
+  const eraById = await getEraById(locale);
   const grouped = new Map<string, FutureSolutionRecord[]>();
 
   for (const record of records) {
@@ -162,24 +183,24 @@ export function getFutureSolutionEraSummaries(
   });
 }
 
-function getEraIdFromSlug(
+async function getEraIdFromSlug(
   eraSlug: string,
   locale = DEFAULT_FUTURE_SOLUTIONS_LOCALE,
 ) {
-  return getEraBySlug(locale).get(eraSlug)?.id;
+  return (await getEraBySlug(locale)).get(eraSlug)?.id;
 }
 
-export function getFutureSolutionEra(
+export async function getFutureSolutionEra(
   eraSlug: string,
   locale = DEFAULT_FUTURE_SOLUTIONS_LOCALE,
 ) {
-  const eraId = getEraIdFromSlug(eraSlug, locale);
+  const eraId = await getEraIdFromSlug(eraSlug, locale);
 
   if (!eraId) {
     return undefined;
   }
 
-  const summary = getFutureSolutionEraSummaries(locale).find((era) => era.era_id === eraId);
+  const summary = (await getFutureSolutionEraSummaries(locale)).find((era) => era.era_id === eraId);
 
   if (!summary) {
     return undefined;
@@ -187,22 +208,22 @@ export function getFutureSolutionEra(
 
   return {
     ...summary,
-    solutions: getFutureSolutions(locale).filter((solution) => solution.era_id === eraId),
+    solutions: (await getFutureSolutions(locale)).filter((solution) => solution.era_id === eraId),
   };
 }
 
-export function getFutureSolutionBySlug(
+export async function getFutureSolutionBySlug(
   eraSlug: string,
   eraItemSlug: string,
   locale = DEFAULT_FUTURE_SOLUTIONS_LOCALE,
 ) {
-  const eraId = getEraIdFromSlug(eraSlug, locale);
+  const eraId = await getEraIdFromSlug(eraSlug, locale);
 
   if (!eraId) {
     return undefined;
   }
 
-  const solutions = getFutureSolutions(locale);
+  const solutions = await getFutureSolutions(locale);
   const solution = solutions.find(
     (record) => record.era_id === eraId && record.era_item_slug === eraItemSlug,
   );
@@ -230,10 +251,10 @@ export function getFutureSolutionBySlug(
   };
 }
 
-export function getFutureSolutionStaticParams(
+export async function getFutureSolutionStaticParams(
   locale = DEFAULT_FUTURE_SOLUTIONS_LOCALE,
 ) {
-  return getFutureSolutions(locale).map((solution) => ({
+  return (await getFutureSolutions(locale)).map((solution) => ({
     eraSlug: solution.era_slug,
     eraItemSlug: solution.era_item_slug,
   }));

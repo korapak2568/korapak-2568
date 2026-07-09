@@ -26,9 +26,16 @@ type PageParams = {
   params: Promise<{ locale: string; nodeSlug: string }>;
 };
 
-export function generateStaticParams() {
-  return LOCALES.flatMap((locale) =>
-    getBusinessOpportunityDirectoryData(locale).map((item) => ({
+export async function generateStaticParams() {
+  const directories = await Promise.all(
+    LOCALES.map(async (locale) => ({
+      locale,
+      items: await getBusinessOpportunityDirectoryData(locale),
+    })),
+  );
+
+  return directories.flatMap(({ locale, items }) =>
+    items.map((item) => ({
       locale,
       nodeSlug: item.url.split("/").filter(Boolean)[1],
     })),
@@ -37,11 +44,11 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: PageParams): Promise<Metadata> {
   const { locale, nodeSlug } = await params;
-  const data = getBusinessOpportunityNodeDirectoryData(nodeSlug, locale);
-  const nodeMetadata = getLayerPageInfo<BusinessPageInfo>(
+  const data = await getBusinessOpportunityNodeDirectoryData(nodeSlug, locale);
+  const nodeMetadata = (await getLayerPageInfo<BusinessPageInfo>(
     "business_opportunities",
     locale,
-  ).metadata?.node;
+  )).metadata?.node;
 
   return {
     title: data
@@ -61,7 +68,7 @@ export async function generateMetadata({ params }: PageParams): Promise<Metadata
 
 export default async function Page({ params }: PageParams) {
   const { locale, nodeSlug } = await params;
-  const data = getBusinessOpportunityNodeDirectoryData(nodeSlug, locale);
+  const data = await getBusinessOpportunityNodeDirectoryData(nodeSlug, locale);
 
   if (!data) {
     notFound();

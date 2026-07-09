@@ -21,7 +21,7 @@ export async function generateMetadata({
 
 export default async function Page({ params }: PageParams) {
   const { locale } = await params;
-  const content = getSmartMobilityLandingContent(locale);
+  const content = await getSmartMobilityLandingContent(locale);
 
   return <SmartMobilityPage locale={locale} content={content} />;
 }

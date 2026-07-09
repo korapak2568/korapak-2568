@@ -1,29 +1,8 @@
-import platformHomeDeSeed from "@/data/home/de.json";
-import platformHomeEnSeed from "@/data/home/en.json";
-import platformHomeFrSeed from "@/data/home/fr.json";
-import platformHomeIdSeed from "@/data/home/id.json";
-import platformHomeJaSeed from "@/data/home/ja.json";
-import platformHomeKoSeed from "@/data/home/ko.json";
-import platformHomeRuSeed from "@/data/home/ru.json";
-import platformHomeThSeed from "@/data/home/th.json";
-import platformHomeViSeed from "@/data/home/vi.json";
-import platformHomeZhSeed from "@/data/home/zh.json";
+import { fetchData } from "@/lib/chornplanet-data/fetchData";
 import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
+import { DEFAULT_LOCALE, LOCALES, type SiteLocale } from "@/lib/SiteUrlLocales";
 
-const platformContent = {
-  de: platformHomeDeSeed,
-  en: platformHomeEnSeed,
-  fr: platformHomeFrSeed,
-  id: platformHomeIdSeed,
-  ja: platformHomeJaSeed,
-  ko: platformHomeKoSeed,
-  ru: platformHomeRuSeed,
-  th: platformHomeThSeed,
-  vi: platformHomeViSeed,
-  zh: platformHomeZhSeed,
-};
-
-export type PlatformLocale = keyof typeof platformContent;
+export type PlatformLocale = SiteLocale;
 export type PlatformRouteKey =
   | "home"
   | "about"
@@ -136,11 +115,35 @@ type PlatformContentInput = Partial<
   channels?: PlatformContent["channels"];
 };
 
-const contentByLocale = platformContent as unknown as Record<string, PlatformContentInput>;
-const defaultContent = contentByLocale.en as PlatformContent;
+const contentCache = new Map<PlatformLocale, Promise<PlatformContentInput>>();
 
-export function getPlatformContent(locale: string): PlatformContent {
-  const localeContent = contentByLocale[locale] ?? defaultContent;
+function resolvePlatformLocale(locale?: string | null): PlatformLocale {
+  return LOCALES.includes(locale as SiteLocale) ? (locale as SiteLocale) : DEFAULT_LOCALE;
+}
+
+async function getPlatformContentSeed(locale: PlatformLocale): Promise<PlatformContentInput> {
+  const cachedContent = contentCache.get(locale);
+
+  if (cachedContent) {
+    return cachedContent;
+  }
+
+  const contentPromise = fetchData<PlatformContentInput>(`/home/${locale}.json`);
+  contentCache.set(locale, contentPromise);
+
+  return contentPromise;
+}
+
+async function getDefaultPlatformContent(): Promise<PlatformContent> {
+  return (await getPlatformContentSeed(DEFAULT_LOCALE)) as PlatformContent;
+}
+
+export async function getPlatformContent(locale: string): Promise<PlatformContent> {
+  const resolvedLocale = resolvePlatformLocale(locale);
+  const [defaultContent, localeContent] = await Promise.all([
+    getDefaultPlatformContent(),
+    getPlatformContentSeed(resolvedLocale),
+  ]);
 
   return {
     ...defaultContent,
@@ -156,10 +159,14 @@ export function getPlatformContent(locale: string): PlatformContent {
   } as PlatformContent;
 }
 
-export function getPlatformChannelContent(
+export async function getPlatformChannelContent(
   locale: string,
   routeKey: Exclude<PlatformRouteKey, "home" | "about" | "history">,
-): PlatformChannelContent {
-  const content = getPlatformContent(locale);
+): Promise<PlatformChannelContent> {
+  const [content, defaultContent] = await Promise.all([
+    getPlatformContent(locale),
+    getDefaultPlatformContent(),
+  ]);
+
   return content.channels[routeKey] ?? defaultContent.channels[routeKey]!;
 }

@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
+import { fetchData } from "@/lib/chornplanet-data/fetchData";
 import { getLocalizedAlternates } from "@/lib/metadata/alternates";
-import coastalStationsSeed from "@/data/smart-mobility/coastal/en.json";
-import mtsContentSeed from "@/data/smart-mobility/mts/en.json";
-import valleyStationsSeed from "@/data/smart-mobility/valley/en.json";
+import {
+  getSmartMobilityChiangMaiActionsFromJson,
+  getSmartMobilityChiangMaiSlugs,
+} from "@/lib/smart-mobility-chiang-mai-content/smartMobilityChiangMaiContent.service";
 import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
-
 
 export type MtsStation = {
   type: "MTS";
@@ -54,6 +55,15 @@ export type SmartMobilityContent = {
   lines: MtsLine[];
 };
 
+export type SmartMobilityMtsDetailAction = {
+  label: string;
+  href: string;
+};
+
+export type SmartMobilityNavigationAction = SmartMobilityMtsDetailAction & {
+  slug?: string;
+};
+
 export type SmartMobilityLandingLine = Omit<MtsLine, "stations"> & {
   stations: MtsStation[];
 };
@@ -61,11 +71,7 @@ export type SmartMobilityLandingLine = Omit<MtsLine, "stations"> & {
 export type SmartMobilityLandingContent = Omit<SmartMobilityContent, "lines"> & {
   heroStation: MtsStation;
   lines: SmartMobilityLandingLine[];
-};
-
-export type SmartMobilityMtsDetailAction = {
-  label: string;
-  href: string;
+  navigationActions: SmartMobilityNavigationAction[];
 };
 
 export type SmartMobilityMtsDetailContent = {
@@ -84,25 +90,99 @@ export type SmartMobilityStationDetailContent = {
   detail: SmartMobilityMtsDetailContent;
   station: MtsStation;
   relatedStations: MtsStation[];
+  navigationActions: SmartMobilityNavigationAction[];
 };
 
 const DEFAULT_LOCALE = "en";
-const coastalStations = coastalStationsSeed as MtsStation[];
-const mtsContent = mtsContentSeed as { detail: SmartMobilityMtsDetailContent };
-const valleyStations = valleyStationsSeed as MtsStation[];
-const allStations = [...coastalStations, ...valleyStations];
+const remoteContentCache = new Map<string, Promise<unknown>>();
 const smartMobilityOgImage =
   "/images-opengraph/images-platform/smart-mobility/mts-coastal10-grand-coastal-terminal.png";
 
-export function resolveSmartMobilityLocale(locale?: string | null): string {
+function resolveSmartMobilityLocale(locale?: string | null): string {
   return locale || DEFAULT_LOCALE;
 }
 
-export function getSmartMobilityContent(
+function readRemoteJson<T>(jsonPath: string): Promise<T> {
+  const cachedContent = remoteContentCache.get(jsonPath);
+
+  if (cachedContent) {
+    return cachedContent as Promise<T>;
+  }
+
+  const contentPromise = fetchData<T>(jsonPath).catch((error) => {
+    remoteContentCache.delete(jsonPath);
+    throw error;
+  });
+  remoteContentCache.set(jsonPath, contentPromise as Promise<unknown>);
+
+  return contentPromise;
+}
+
+function getSmartMobilityPath(path: string, locale = DEFAULT_LOCALE): string {
+  return `/smart-mobility/${path}/${locale}.json`;
+}
+
+async function getCoastalStations(locale = DEFAULT_LOCALE): Promise<MtsStation[]> {
+  return readRemoteJson<MtsStation[]>(getSmartMobilityPath("coastal", locale));
+}
+
+async function getValleyStations(locale = DEFAULT_LOCALE): Promise<MtsStation[]> {
+  return readRemoteJson<MtsStation[]>(getSmartMobilityPath("valley", locale));
+}
+
+async function getMtsContent(
+  locale = DEFAULT_LOCALE,
+): Promise<{ detail: SmartMobilityMtsDetailContent }> {
+  return readRemoteJson<{ detail: SmartMobilityMtsDetailContent }>(
+    getSmartMobilityPath("mts", locale),
+  );
+}
+
+function getSlugFromHref(href: string, slugs: string[]): string | undefined {
+  return slugs.find((slug) => href.includes(`/smart-mobility/chiang-mai/${slug}/`));
+}
+
+export async function getSmartMobilityNavigationActions(
+  locale = DEFAULT_LOCALE,
+): Promise<SmartMobilityNavigationAction[]> {
+  const [actions, slugs] = await Promise.all([
+    getSmartMobilityChiangMaiActionsFromJson(locale),
+    getSmartMobilityChiangMaiSlugs(locale),
+  ]);
+  const actionsByHref = new Map<string, SmartMobilityNavigationAction>();
+
+  for (const action of actions) {
+    actionsByHref.set(action.href, {
+      ...action,
+      slug: getSlugFromHref(action.href, slugs),
+    });
+  }
+
+  return [...actionsByHref.values()];
+}
+
+export async function getAllSmartMobilityStations(
+  locale = DEFAULT_LOCALE,
+): Promise<MtsStation[]> {
+  const [coastalStations, valleyStations] = await Promise.all([
+    getCoastalStations(locale),
+    getValleyStations(locale),
+  ]);
+
+  return [...coastalStations, ...valleyStations];
+}
+
+export async function getSmartMobilityContent(
   locale?: string | null,
-): SmartMobilityContent {
+): Promise<SmartMobilityContent> {
+  const resolvedLocale = resolveSmartMobilityLocale(locale);
+  const [coastalStations, valleyStations] = await Promise.all([
+    getCoastalStations(resolvedLocale),
+    getValleyStations(resolvedLocale),
+  ]);
+
   return {
-    locale: resolveSmartMobilityLocale(locale),
+    locale: resolvedLocale,
     seo: {
       title: "MTS Future Civilization Platform | Chorn Planet",
       description:
@@ -143,21 +223,28 @@ export function getSmartMobilityContent(
   };
 }
 
-export function getSmartMobilityStations(): MtsStation[] {
-  return [...allStations];
+export async function getSmartMobilityStations(
+  locale = DEFAULT_LOCALE,
+): Promise<MtsStation[]> {
+  return getAllSmartMobilityStations(locale);
 }
 
-export function getSmartMobilityStationBySlug(
+export async function getSmartMobilityStationBySlug(
   slug: string,
-): MtsStation | undefined {
-  return allStations.find((station) => station.slug === slug);
+  locale = DEFAULT_LOCALE,
+): Promise<MtsStation | undefined> {
+  return (await getAllSmartMobilityStations(locale)).find(
+    (station) => station.slug === slug,
+  );
 }
 
-export function getRelatedSmartMobilityStations(
+export async function getRelatedSmartMobilityStations(
   slug: string,
   limit = 9,
-): MtsStation[] {
-  const current = getSmartMobilityStationBySlug(slug);
+  locale = DEFAULT_LOCALE,
+): Promise<MtsStation[]> {
+  const allStations = await getAllSmartMobilityStations(locale);
+  const current = allStations.find((station) => station.slug === slug);
   const sameLineStations = current
     ? allStations.filter(
         (station) =>
@@ -173,10 +260,16 @@ export function getRelatedSmartMobilityStations(
   return [...sameLineStations, ...otherStations].slice(0, limit);
 }
 
-export function getSmartMobilityStationDetailContent(
+export async function getSmartMobilityStationDetailContent(
   slug: string,
-): SmartMobilityStationDetailContent | undefined {
-  const station = getSmartMobilityStationBySlug(slug);
+  locale = DEFAULT_LOCALE,
+): Promise<SmartMobilityStationDetailContent | undefined> {
+  const resolvedLocale = resolveSmartMobilityLocale(locale);
+  const [station, mtsContent, navigationActions] = await Promise.all([
+    getSmartMobilityStationBySlug(slug, resolvedLocale),
+    getMtsContent(resolvedLocale),
+    getSmartMobilityNavigationActions(resolvedLocale),
+  ]);
 
   if (!station) {
     return undefined;
@@ -185,12 +278,15 @@ export function getSmartMobilityStationDetailContent(
   return {
     detail: mtsContent.detail,
     station,
-    relatedStations: getRelatedSmartMobilityStations(station.slug),
+    relatedStations: await getRelatedSmartMobilityStations(station.slug, 9, resolvedLocale),
+    navigationActions,
   };
 }
 
-export function getSmartMobilityMtsDetailActions(): SmartMobilityMtsDetailAction[] {
-  return [...mtsContent.detail.actions];
+export async function getSmartMobilityMtsDetailActions(
+  locale = DEFAULT_LOCALE,
+): Promise<SmartMobilityMtsDetailAction[]> {
+  return [...(await getMtsContent(locale)).detail.actions];
 }
 
 export function getRandomSmartMobilityStations(
@@ -204,18 +300,28 @@ export function getRandomSmartMobilityStations(
     .map(({ station }) => station);
 }
 
-export function getRandomSmartMobilityStation(): MtsStation {
+export async function getRandomSmartMobilityStation(
+  locale = DEFAULT_LOCALE,
+): Promise<MtsStation> {
+  const allStations = await getAllSmartMobilityStations(locale);
+
   return allStations[Math.floor(Math.random() * allStations.length)] ?? allStations[0];
 }
 
-export function getSmartMobilityLandingContent(
+export async function getSmartMobilityLandingContent(
   locale?: string | null,
-): SmartMobilityLandingContent {
-  const content = getSmartMobilityContent(locale);
+): Promise<SmartMobilityLandingContent> {
+  const resolvedLocale = resolveSmartMobilityLocale(locale);
+  const [content, heroStation, navigationActions] = await Promise.all([
+    getSmartMobilityContent(resolvedLocale),
+    getRandomSmartMobilityStation(resolvedLocale),
+    getSmartMobilityNavigationActions(resolvedLocale),
+  ]);
 
   return {
     ...content,
-    heroStation: getRandomSmartMobilityStation(),
+    heroStation,
+    navigationActions,
     lines: content.lines.map((line) => ({
       ...line,
       stations: getRandomSmartMobilityStations(line.stations, 6),
@@ -223,10 +329,11 @@ export function getSmartMobilityLandingContent(
   };
 }
 
-export function getSmartMobilityMetadata(
+export async function getSmartMobilityMetadata(
   locale?: string | null,
-): Metadata {
-  const content = getSmartMobilityContent(locale);
+): Promise<Metadata> {
+  const resolvedLocale = resolveSmartMobilityLocale(locale);
+  const content = await getSmartMobilityContent(resolvedLocale);
 
   return {
     title: content.seo.title,
@@ -236,7 +343,7 @@ export function getSmartMobilityMetadata(
       title: content.seo.title,
       description: content.seo.description,
       type: "website",
-      url: `/${resolveSmartMobilityLocale(locale)}/smart-mobility/`,
+      url: `/${resolvedLocale}/smart-mobility/`,
       images: [
         {
           url: smartMobilityOgImage,
@@ -255,14 +362,15 @@ export function getSmartMobilityMetadata(
   };
 }
 
-export function getSmartMobilityStationMetadata({
+export async function getSmartMobilityStationMetadata({
   locale,
   slug,
 }: {
   locale?: string | null;
   slug: string;
-}): Metadata {
-  const station = getSmartMobilityStationBySlug(slug);
+}): Promise<Metadata> {
+  const resolvedLocale = resolveSmartMobilityLocale(locale);
+  const station = await getSmartMobilityStationBySlug(slug, resolvedLocale);
 
   if (!station) {
     return {
@@ -278,7 +386,7 @@ export function getSmartMobilityStationMetadata({
       title: station.name,
       description: station.story,
       type: "article",
-      url: `/${resolveSmartMobilityLocale(locale)}/smart-mobility/mts/${station.slug}/`,
+      url: `/${resolvedLocale}/smart-mobility/mts/${station.slug}/`,
       images: [
         {
           url: station.image.open_graph?.src ?? station.image.src,

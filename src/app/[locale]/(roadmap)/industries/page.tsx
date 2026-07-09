@@ -27,14 +27,15 @@ type IndustryPageInfo = {
   };
 };
 
-const pageInfo = getLayerPageInfo<IndustryPageInfo>("industries");
-const indexMetadata = pageInfo.metadata?.index;
+export async function generateMetadata(): Promise<Metadata> {
+  const pageInfo = await getLayerPageInfo<IndustryPageInfo>("industries");
+  const indexMetadata = pageInfo.metadata?.index;
 
-export const metadata: Metadata = {
-  title: indexMetadata?.title ?? "",
-  description:
-    indexMetadata?.description ?? "",
-};
+  return {
+    title: indexMetadata?.title ?? "",
+    description: indexMetadata?.description ?? "",
+  };
+}
 
 type PageParams = {
   params: Promise<{ locale: string }>;
@@ -42,10 +43,10 @@ type PageParams = {
 
 export default async function Page({ params }: PageParams) {
   const { locale } = await params;
-  const items = getIndustryDirectoryData();
+  const items = await getIndustryDirectoryData();
   const linkedProblems = items.reduce((total, item) => total + item.linkedProblemCount, 0);
   const problemCatalog = items.reduce((total, item) => total + item.totalProblemCount, 0);
-  const localePageInfo = getLayerPageInfo<IndustryPageInfo>("industries", locale);
+  const localePageInfo = await getLayerPageInfo<IndustryPageInfo>("industries", locale);
   const hero = localePageInfo.index?.hero;
   const stats = localePageInfo.index?.stats;
 

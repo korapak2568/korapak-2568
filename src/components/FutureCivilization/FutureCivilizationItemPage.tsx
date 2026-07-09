@@ -3,12 +3,9 @@ import Link from "next/link";
 import type {
   FutureRoadmapItem,
   FutureRoadmapItemDetail,
+  FutureRoadmapManifest,
 } from "@/lib/platform-content/futureRoadmapContent";
-import {
-  getFutureRoadmapEraSummaries,
-  getFutureRoadmapLayer,
-  getFutureRoadmapManifest,
-} from "@/lib/platform-content/futureRoadmapContent";
+import { getFutureRoadmapContent } from "@/lib/platform-content/futureRoadmapContent";
 import {
   getPlatformImageAlt,
   getPlatformImageSrc,
@@ -18,13 +15,16 @@ function RelatedFutureSignalCard({
   eraSlug,
   item,
   lang,
+  manifest,
 }: {
   eraSlug: string;
   item: FutureRoadmapItem;
   lang: string;
+  manifest: FutureRoadmapManifest;
 }) {
-  const manifest = getFutureRoadmapManifest(lang);
-  const layer = getFutureRoadmapLayer(item.layerId, lang);
+  const layer = manifest.taxonomy.layers.find(
+    (candidate) => candidate.id === item.layerId,
+  );
 
   return (
     <article className="platform-outfit-card platform-mts-card future-civilization-related-mts-card">
@@ -55,17 +55,23 @@ function RelatedFutureSignalCard({
   );
 }
 
-export default function FutureCivilizationItemPage({
+export default async function FutureCivilizationItemPage({
   lang,
   detail,
 }: {
   lang: string;
   detail: FutureRoadmapItemDetail;
 }) {
-  const manifest = getFutureRoadmapManifest(lang);
+  const { eras, manifest } = await getFutureRoadmapContent(lang);
   const { era, item, relatedItems } = detail;
-  const layer = getFutureRoadmapLayer(item.layerId, lang);
-  const eras = getFutureRoadmapEraSummaries(lang);
+  const layer = manifest.taxonomy.layers.find(
+    (candidate) => candidate.id === item.layerId,
+  );
+  const eraSummaries = eras.map(({ era: summaryEra, items: summaryItems }) => ({
+    ...summaryEra,
+    coverItem: summaryItems[0],
+    featuredItems: summaryItems.slice(0, 5),
+  }));
   const detailLabels = manifest.ui.itemPage.detail;
   const timeframeLabel = `${item.timeframe.startYear} - ${item.timeframe.endYear}`;
 
@@ -81,7 +87,7 @@ export default function FutureCivilizationItemPage({
               {manifest.ui.navigation.indexLabel}
             </Link>
 
-            {eras.map((roadmapEra) => {
+            {eraSummaries.map((roadmapEra) => {
               const isActive = roadmapEra.slug === era.slug;
 
               return (
@@ -177,6 +183,7 @@ export default function FutureCivilizationItemPage({
               eraSlug={era.slug}
               item={relatedItem}
               lang={lang}
+              manifest={manifest}
             />
           ))}
         </div>

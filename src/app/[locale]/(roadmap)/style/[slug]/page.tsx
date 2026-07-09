@@ -7,10 +7,10 @@ import { FaTiktok } from "react-icons/fa";
 import {
   getPlatformOutfitContent,
   getPlatformOutfitDetailMetadata,
-  getPlatformOutfitLocalizedText,
   getPlatformOutfitSetById,
   getPlatformOutfitSets,
 } from "@/lib/platform-content/styleContent";
+import { getPlatformOutfitLocalizedText } from "@/lib/platform-content/styleShared";
 import {
   getPlatformImageAlt,
   getPlatformImageSrc,
@@ -33,9 +33,9 @@ export async function generateMetadata({
 
 export default async function Page({ params }: PageParams) {
   const { locale, slug } = await params;
-  const content = getPlatformOutfitContent(locale);
+  const content = await getPlatformOutfitContent(locale);
   const { detailPage } = content;
-  const outfitSet = getPlatformOutfitSetById(slug, locale);
+  const outfitSet = await getPlatformOutfitSetById(slug, locale);
 
   if (!outfitSet) {
     notFound();
@@ -43,7 +43,7 @@ export default async function Page({ params }: PageParams) {
 
   const title = getPlatformOutfitLocalizedText(outfitSet.title, locale);
   const story = getPlatformOutfitLocalizedText(outfitSet.story, locale);
-  const relatedOutfits = getPlatformOutfitSets(locale).filter(
+  const relatedOutfits = (await getPlatformOutfitSets(locale)).filter(
     (relatedOutfitSet) => relatedOutfitSet.id !== outfitSet.id,
   );
 
