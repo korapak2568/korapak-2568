@@ -1,6 +1,7 @@
 import { fetchData } from "@/lib/chornplanet-data/fetchData";
 import type { IFullStack, IFullStackStack } from "@/lib/model/IFullStack";
 import type { PlatformTechnicalExpertiseSchema } from "@/lib/platform-content/frontendContent";
+import { LOCALES, type SiteLocale } from "@/lib/SiteUrlLocales";
 
 export type FullstackStackKey = Exclude<
   keyof IFullStack,
@@ -24,25 +25,29 @@ export type FullstackSeed = {
 
 const fullstackSeedCache = new Map<string, Promise<FullstackSeed>>();
 
+function requireFullstackLocale(locale: string): SiteLocale {
+  if (!LOCALES.includes(locale as SiteLocale)) {
+    throw new Error(`Unsupported Full Stack locale: ${locale}`);
+  }
+
+  return locale as SiteLocale;
+}
+
 export async function getFullstackSeed(locale = "en"): Promise<FullstackSeed> {
-  const cachedSeed = fullstackSeedCache.get(locale);
+  const resolvedLocale = requireFullstackLocale(locale);
+  const cachedSeed = fullstackSeedCache.get(resolvedLocale);
 
   if (cachedSeed) {
     return cachedSeed;
   }
 
   const seedPromise = fetchData<FullstackSeed>(
-    `/technical-expertise/fullstack/${locale}.json`,
+    `/technical-expertise/fullstack/${resolvedLocale}.json`,
   ).catch((error) => {
-    fullstackSeedCache.delete(locale);
-
-    if (locale !== "en") {
-      return getFullstackSeed("en");
-    }
-
+    fullstackSeedCache.delete(resolvedLocale);
     throw error;
   });
-  fullstackSeedCache.set(locale, seedPromise);
+  fullstackSeedCache.set(resolvedLocale, seedPromise);
 
   return seedPromise;
 }

@@ -5,8 +5,17 @@ import { headers } from "next/headers";
 import PlatformFrontEndPage from "@/components/Services/frontend-development/PlatformFrontEndPage";
 import { getPlatformFrontendContent } from "@/lib/platform-content/frontendContent";
 
-export async function generateMetadata(): Promise<Metadata> {
-  const content = await getPlatformFrontendContent("en");
+type PageParams = {
+  params: Promise<{
+    locale: string;
+  }>;
+};
+
+export async function generateMetadata({
+  params,
+}: PageParams): Promise<Metadata> {
+  const { locale } = await params;
+  const content = await getPlatformFrontendContent(locale);
 
   return {
     title: content.frontendPage.schema.name,

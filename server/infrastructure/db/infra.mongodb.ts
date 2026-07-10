@@ -3,7 +3,6 @@ import {User} from "@/core/domain/user.entity";
 import {Task} from "@/core/domain/task.entity";
 import {HomePageContentRecord} from "@/core/domain/homepage-content.entity";
 import {ContactContentRecord} from "@/core/domain/contact-content.entity";
-import {PolicyContentRecord} from "@/core/domain/policy-content.entity";
 import {GalleryContentRecord} from "@/core/domain/gallery-content.entity";
 import {AboutContentRecord} from "@/core/domain/about-content.entity";
 import {AiCompanionsContentRecord} from "@/core/domain/ai-companions-content.entity";
@@ -20,8 +19,6 @@ const homePageContentCollectionName =
     process.env.MONGODB_COLLECTION_HOMEPAGE_CONTENT || 'homepage_content';
 const contactContentCollectionName =
     process.env.MONGODB_COLLECTION_CONTACT_CONTENT || 'contact_content';
-const policyContentCollectionName =
-    process.env.MONGODB_COLLECTION_POLICY_CONTENT || 'policy_content';
 const galleryContentCollectionName =
     process.env.MONGODB_COLLECTION_GALLERY_CONTENT || 'gallery_content';
 const aboutContentCollectionName =
@@ -106,8 +103,6 @@ export const homePageContentCollection: Collection<HomePageContentRecord> =
     db.collection(homePageContentCollectionName);
 export const contactContentCollection: Collection<ContactContentRecord> =
     db.collection(contactContentCollectionName);
-export const policyContentCollection: Collection<PolicyContentRecord> =
-    db.collection(policyContentCollectionName);
 export const galleryContentCollection: Collection<GalleryContentRecord> =
     db.collection(galleryContentCollectionName);
 export const aboutContentCollection: Collection<AboutContentRecord> =

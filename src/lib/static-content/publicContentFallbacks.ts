@@ -3,7 +3,6 @@ import { AiCompanionsContentPayload } from "@/core/domain/ai-companions-content.
 import { GalleryContentPayload } from "@/core/domain/gallery-content.entity";
 import { HomePageContentPayload } from "@/core/domain/homepage-content.entity";
 import { LayoutContentPayload } from "@/core/domain/layout-content.entity";
-import { PolicyContentPayload } from "@/core/domain/policy-content.entity";
 import { SmartFoodAiContentPayload } from "@/core/domain/smart-food-ai-content.entity";
 import { IImageResponsiveUnit } from "@/image/model/IImageResponsiveUnit";
 import { IImageUnit } from "@/image/model/IImageUnit";
@@ -14,7 +13,6 @@ import { normalizeAiCompanionsContentLocale } from "@/core/domain/ai-companions-
 import { normalizeGalleryContentLocale } from "@/core/domain/gallery-content.entity";
 import { normalizeHomePageLocale } from "@/core/domain/homepage-content.entity";
 import { normalizeLayoutContentLocale } from "@/core/domain/layout-content.entity";
-import { normalizePolicyContentLocale } from "@/core/domain/policy-content.entity";
 import { normalizeSmartFoodAiContentLocale } from "@/core/domain/smart-food-ai-content.entity";
 import { LanguageOptionList } from "@/lib/constants/languageOptions";
 import { fetchData } from "@/lib/chornplanet-data/fetchData";
@@ -639,26 +637,6 @@ export function getFallbackLayoutContent(locale: string): LayoutContentPayload {
     },
     languageOptions: LanguageOptionList,
   };
-}
-
-export function getPolicyContentFallbackPayload(
-  locale: string,
-): PolicyContentPayload {
-  const normalizedLocale = normalizePolicyContentLocale(locale);
-
-  return {
-    locale: normalizedLocale,
-    privacyPolicy: createPrivacyPolicyFallback(),
-    termOfService: createTermsOfServiceFallback(),
-    workplacePolicy: createWorkplacePolicyFallback(),
-  };
-}
-
-export function getFallbackPolicyContent(locale: string): PolicyContentPayload {
-  const normalizedLocale = normalizePolicyContentLocale(locale);
-  logStaticFallback("policy content", normalizedLocale);
-
-  return getPolicyContentFallbackPayload(normalizedLocale);
 }
 
 export function getFallbackSmartFoodAiContent(

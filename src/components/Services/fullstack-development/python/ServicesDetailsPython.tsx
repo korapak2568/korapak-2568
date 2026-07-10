@@ -9,7 +9,7 @@ export default function ServicesDetailsPython({lang, stack, frontEnd, fullStack}
         <FullStackServiceDetails
             lang={lang}
             stack={stack}
-        frontEnd={frontEnd}
+            frontEnd={frontEnd}
             fullStack={fullStack}
         />
     );

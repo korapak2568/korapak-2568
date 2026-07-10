@@ -4,8 +4,17 @@ import { getPlatformFullstackContent } from "@/lib/platform-content/fullstackCon
 import type { Metadata } from "next";
 import { headers } from "next/headers";
 
-export async function generateMetadata(): Promise<Metadata> {
-  const content = await getPlatformFullstackContent("en");
+type PageParams = {
+  params: Promise<{
+    locale: string;
+  }>;
+};
+
+export async function generateMetadata({
+  params,
+}: PageParams): Promise<Metadata> {
+  const { locale } = await params;
+  const content = await getPlatformFullstackContent(locale);
 
   return {
     title: content.fullstackPage.schema.name,

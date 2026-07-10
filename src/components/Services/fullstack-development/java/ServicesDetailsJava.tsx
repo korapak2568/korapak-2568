@@ -9,7 +9,7 @@ export default function ServicesDetailsJava({lang, stack, frontEnd, fullStack}: 
         <FullStackServiceDetails
             lang={lang}
             stack={stack}
-        frontEnd={frontEnd}
+            frontEnd={frontEnd}
             fullStack={fullStack}
         />
     );

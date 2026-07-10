@@ -1,7 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
-import SidebarFullStack from "@/components/Services/SidebarFullStack";
+import TechnicalExpertiseSidebar from "@/components/Services/TechnicalExpertiseSidebar";
 import {IFrontEndStack} from "@/lib/model/IFrontEnd";
 import FrontEndServiceFaq from "@/components/Services/frontend-development/FrontEndServiceFaq";
 import {IFrontEnd} from "@/lib/model/IFrontEnd";
@@ -18,7 +17,10 @@ export default function FrontEndServiceDetails(
 ) {
     return (
         <>
-            <TechnicalExpertiseHero features={stack.features}/>
+            <TechnicalExpertiseHero
+                features={stack.features}
+                capabilityCount={frontEnd.stacks.length + fullStack.stacks.length}
+            />
             <div className="services-details-area pb-50 container">
                     <div className="services-details-layout">
                         <div className="services-details-desc">
@@ -62,8 +64,11 @@ export default function FrontEndServiceDetails(
                         </div>
 
                         <div className="services-details-sidebar">
-                            <SidebarFrontEnd lang={lang} frontEnd={frontEnd}/>
-                            <SidebarFullStack lang={lang} fullStack={fullStack}/>
+                            <TechnicalExpertiseSidebar
+                                lang={lang}
+                                frontEnd={frontEnd}
+                                fullStack={fullStack}
+                            />
                         </div>
                     </div>
             </div>

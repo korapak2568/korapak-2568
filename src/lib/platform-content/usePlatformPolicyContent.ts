@@ -1,15 +1,19 @@
 "use client";
 
 import { useQuery } from "@tanstack/react-query";
-import type { PlatformPolicyContent } from "@/lib/platform-content/policyContent";
+import type {
+  PlatformPolicyContent,
+  PlatformPolicyType,
+} from "@/lib/platform-content/policyContent";
 
 const ONE_DAY = 1000 * 60 * 60 * 24;
 
 async function fetchPlatformPolicyContent(
+  policyType: PlatformPolicyType,
   locale: string,
 ): Promise<PlatformPolicyContent> {
   const response = await fetch(
-    `/api/platform-policy?locale=${encodeURIComponent(locale)}`,
+    `/api/platform-policy?policy=${encodeURIComponent(policyType)}&locale=${encodeURIComponent(locale)}`,
   );
 
   if (!response.ok) {
@@ -20,12 +24,13 @@ async function fetchPlatformPolicyContent(
 }
 
 export function usePlatformPolicyContent(
+  policyType: PlatformPolicyType,
   locale: string,
   initialData: PlatformPolicyContent,
 ) {
   return useQuery({
-    queryKey: ["platform-policy", locale],
-    queryFn: () => fetchPlatformPolicyContent(locale),
+    queryKey: ["platform-policy", policyType, locale],
+    queryFn: () => fetchPlatformPolicyContent(policyType, locale),
     initialData,
     staleTime: ONE_DAY,
     gcTime: ONE_DAY * 2,

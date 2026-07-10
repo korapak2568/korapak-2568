@@ -13,7 +13,7 @@ export async function generateMetadata(): Promise<Metadata> {
 export default async function TermsOfService() {
     const headers15 = await headers();
     const lang = headers15.get('x-locale') || 'en';
-    const content = await getPlatformPolicyContent(lang);
+    const content = await getPlatformPolicyContent("term-of-service", lang);
 
-    return <PlatformPolicyPage lang={lang} content={content} policyKey="termOfService" eyebrow="Terms of Service" accent="terms"/>;
+    return <PlatformPolicyPage lang={lang} content={content} policyType="term-of-service" eyebrow="Terms of Service" accent="terms"/>;
 }

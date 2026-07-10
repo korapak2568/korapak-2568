@@ -13,7 +13,7 @@ export async function generateMetadata(): Promise<Metadata> {
 export default async function Page() {
     const headers15 = await headers();
     const lang = headers15.get('x-locale') || 'en';
-    const content = await getPlatformPolicyContent(lang);
+    const content = await getPlatformPolicyContent("privacy-policy", lang);
 
-    return <PlatformPolicyPage lang={lang} content={content} policyKey="privacyPolicy" eyebrow="Privacy Policy" accent="privacy"/>;
+    return <PlatformPolicyPage lang={lang} content={content} policyType="privacy-policy" eyebrow="Privacy Policy" accent="privacy"/>;
 }

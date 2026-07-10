@@ -6,7 +6,13 @@ type TechnicalExpertiseHeroFeature = {
 };
 
 export default function TechnicalExpertiseHero(
-    {features}: { features: TechnicalExpertiseHeroFeature[] }
+    {
+        features,
+        capabilityCount,
+    }: {
+        features: TechnicalExpertiseHeroFeature[];
+        capabilityCount: number;
+    }
 ) {
     const primaryFeature = features[0];
     const secondaryFeature = features[1];
@@ -26,7 +32,7 @@ export default function TechnicalExpertiseHero(
                 </div>
                 <aside className="policy-page__summary" aria-label={`${summaryLabel} summary`}>
                     <span>Technical Capability</span>
-                    <strong>{features.length}</strong>
+                    <strong>{capabilityCount}</strong>
                     <small>content layers</small>
                 </aside>
             </div>

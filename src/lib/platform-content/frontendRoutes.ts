@@ -1,6 +1,7 @@
 import { fetchData } from "@/lib/chornplanet-data/fetchData";
 import type { IFrontEnd, IFrontEndStack } from "@/lib/model/IFrontEnd";
 import type { PlatformTechnicalExpertiseSchema } from "@/lib/platform-content/frontendContent";
+import { LOCALES, type SiteLocale } from "@/lib/SiteUrlLocales";
 
 export type FrontendStackKey = Exclude<
   keyof IFrontEnd,
@@ -24,25 +25,29 @@ export type FrontendSeed = {
 
 const frontendSeedCache = new Map<string, Promise<FrontendSeed>>();
 
+function requireFrontendLocale(locale: string): SiteLocale {
+  if (!LOCALES.includes(locale as SiteLocale)) {
+    throw new Error(`Unsupported Front End locale: ${locale}`);
+  }
+
+  return locale as SiteLocale;
+}
+
 export async function getFrontendSeed(locale = "en"): Promise<FrontendSeed> {
-  const cachedSeed = frontendSeedCache.get(locale);
+  const resolvedLocale = requireFrontendLocale(locale);
+  const cachedSeed = frontendSeedCache.get(resolvedLocale);
 
   if (cachedSeed) {
     return cachedSeed;
   }
 
   const seedPromise = fetchData<FrontendSeed>(
-    `/technical-expertise/frontend/${locale}.json`,
+    `/technical-expertise/frontend/${resolvedLocale}.json`,
   ).catch((error) => {
-    frontendSeedCache.delete(locale);
-
-    if (locale !== "en") {
-      return getFrontendSeed("en");
-    }
-
+    frontendSeedCache.delete(resolvedLocale);
     throw error;
   });
-  frontendSeedCache.set(locale, seedPromise);
+  frontendSeedCache.set(resolvedLocale, seedPromise);
 
   return seedPromise;
 }

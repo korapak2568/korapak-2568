@@ -1,30 +1,31 @@
 "use client";
 
 import PolicyPage from "@/components/Policy/PolicyPage";
-import type { PlatformPolicyContent } from "@/lib/platform-content/policyContent";
+import type {
+  PlatformPolicyContent,
+  PlatformPolicyType,
+} from "@/lib/platform-content/policyContent";
 import { usePlatformPolicyContent } from "@/lib/platform-content/usePlatformPolicyContent";
-
-type PolicyKey = "privacyPolicy" | "termOfService" | "workplacePolicy";
 
 export default function PlatformPolicyPage({
   lang,
   content,
-  policyKey,
+  policyType,
   eyebrow,
   accent,
 }: {
   lang: string;
   content: PlatformPolicyContent;
-  policyKey: PolicyKey;
+  policyType: PlatformPolicyType;
   eyebrow: string;
   accent: string;
 }) {
-  const { data: cachedContent } = usePlatformPolicyContent(lang, content);
+  const { data: cachedContent } = usePlatformPolicyContent(policyType, lang, content);
   const policyContent = cachedContent ?? content;
 
   return (
     <PolicyPage
-      policy={policyContent[policyKey]}
+      policy={policyContent}
       eyebrow={eyebrow}
       accent={accent}
     />
