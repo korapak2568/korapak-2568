@@ -4,13 +4,13 @@
 Official site: https://www.chornplanet.com/
 Default language route: https://www.chornplanet.com/en/
 Sitemap: https://www.chornplanet.com/sitemap.xml
-Full AI guide: https://www.chornplanet.com/llm-full.txt
-Preferred alias: https://www.chornplanet.com/llms.txt
+Full AI guide: https://www.chornplanet.com/llms-full.txt
+Legacy alias: https://www.chornplanet.com/llm.txt
 
 ## Discovery
 - [Sitemap](https://www.chornplanet.com/sitemap.xml): Live public URL inventory. Current generated sitemap covers 13,750 unique URLs across 10 locales.
 - [Robots](https://www.chornplanet.com/robots.txt): Crawl guidance for public routes and sitemap discovery.
-- [Full AI Context](https://www.chornplanet.com/llm-full.txt): Expanded public context, interpretation rules, sitemap coverage, and safety boundaries.
+- [Full AI Context](https://www.chornplanet.com/llms-full.txt): Expanded public context, interpretation rules, sitemap coverage, and safety boundaries.
 
 ## Core Public Areas
 - [Home](https://www.chornplanet.com/en/): English default entry point for the ChornPlanet public platform.

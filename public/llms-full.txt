@@ -4,8 +4,8 @@
 Official site: https://www.chornplanet.com/
 Default language route: https://www.chornplanet.com/en/
 Sitemap: https://www.chornplanet.com/sitemap.xml
-Navigation AI guide: https://www.chornplanet.com/llm.txt
-Preferred aliases: https://www.chornplanet.com/llms.txt and https://www.chornplanet.com/llms-full.txt
+Navigation AI guide: https://www.chornplanet.com/llms.txt
+Legacy aliases: https://www.chornplanet.com/llm.txt and https://www.chornplanet.com/llm-full.txt
 
 ## Overview
 
