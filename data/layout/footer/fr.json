@@ -2,9 +2,9 @@
   "title": "Chorn Planet",
   "link": "/",
   "www": "chornplanet.com",
-  "description": "Chorn Planet présente des produits numériques, des services d’IA, des concepts de ville intelligente et des capacités d’ingénierie de plateforme depuis Chiang Mai vers un public mondial.",
+  "description": "Chorn Planet présente des produits numériques, des services d’IA, des concepts de ville intelligente et des capacités d’ingénierie de plateforme depuis Chiang Mai vers des publics mondiaux.",
   "social": {
-    "title": "Réseaux sociaux",
+    "title": "Social",
     "items": []
   },
   "important": {
@@ -31,66 +31,8 @@
         "link": "/privacy-policy/"
       },
       {
-        "label": "Politique du lieu de travail",
+        "label": "Politique de travail",
         "link": "/workplace-policy/"
-      }
-    ]
-  },
-  "project": {
-    "title": "Projets",
-    "items": [
-      {
-        "label": "Projet Luxury",
-        "link": "/luxury/"
-      },
-      {
-        "label": "Système Smart Food",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "Graceful Style",
-        "link": "/style/"
-      },
-      {
-        "label": "Futur Chiang Mai",
-        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
-      },
-      {
-        "label": "Chorn Planet",
-        "link": "/"
-      }
-    ]
-  },
-  "smartCity": {
-    "title": "Plateforme",
-    "items": [
-      {
-        "label": "Civilisation future",
-        "link": "/future-civilization/"
-      },
-      {
-        "label": "Luxury",
-        "link": "/luxury/"
-      },
-      {
-        "label": "Smart Food",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "Ville intelligente",
-        "link": "/smart-city/"
-      },
-      {
-        "label": "Mobilité intelligente",
-        "link": "/smart-mobility/"
-      },
-      {
-        "label": "Histoire",
-        "link": "/story/"
-      },
-      {
-        "label": "Style",
-        "link": "/style/"
       }
     ]
   },
@@ -150,6 +92,35 @@
       {
         "label": "Technologie",
         "link": "/technology/"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projets lifestyle",
+    "items": [
+      {
+        "label": "Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Smart City",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "Smart Mobility",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "Histoire",
+        "link": "/story/"
+      },
+      {
+        "label": "Style",
+        "link": "/style/"
       }
     ]
   }

@@ -23,7 +23,7 @@
         "link": "/contact/"
       },
       {
-        "label": "ข้อกำหนดการใช้บริการ",
+        "label": "ข้อกำหนดการให้บริการ",
         "link": "/terms-of-service/"
       },
       {
@@ -33,64 +33,6 @@
       {
         "label": "นโยบายสถานที่ทำงาน",
         "link": "/workplace-policy/"
-      }
-    ]
-  },
-  "project": {
-    "title": "โปรเจกต์",
-    "items": [
-      {
-        "label": "โปรเจกต์ลักชัวรี",
-        "link": "/luxury/"
-      },
-      {
-        "label": "ระบบ Smart Food",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "Graceful Style",
-        "link": "/style/"
-      },
-      {
-        "label": "อนาคตเชียงใหม่",
-        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
-      },
-      {
-        "label": "Chorn Planet",
-        "link": "/"
-      }
-    ]
-  },
-  "smartCity": {
-    "title": "แพลตฟอร์ม",
-    "items": [
-      {
-        "label": "อารยธรรมอนาคต",
-        "link": "/future-civilization/"
-      },
-      {
-        "label": "ลักชัวรี",
-        "link": "/luxury/"
-      },
-      {
-        "label": "Smart Food",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "เมืองอัจฉริยะ",
-        "link": "/smart-city/"
-      },
-      {
-        "label": "การเดินทางอัจฉริยะ",
-        "link": "/smart-mobility/"
-      },
-      {
-        "label": "เรื่องราว",
-        "link": "/story/"
-      },
-      {
-        "label": "สไตล์",
-        "link": "/style/"
       }
     ]
   },
@@ -136,7 +78,7 @@
         "link": "/future-civilization/"
       },
       {
-        "label": "ทางออกแห่งอนาคต",
+        "label": "โซลูชันอนาคต",
         "link": "/future-solutions/"
       },
       {
@@ -150,6 +92,35 @@
       {
         "label": "เทคโนโลยี",
         "link": "/technology/"
+      }
+    ]
+  },
+  "projects": {
+    "title": "โปรเจกต์ไลฟ์สไตล์",
+    "items": [
+      {
+        "label": "ลักชัวรี",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Smart City",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "Smart Mobility",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "เรื่องราว",
+        "link": "/story/"
+      },
+      {
+        "label": "สไตล์",
+        "link": "/style/"
       }
     ]
   }

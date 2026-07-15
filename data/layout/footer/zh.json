@@ -2,9 +2,9 @@
   "title": "Chorn Planet",
   "link": "/",
   "www": "chornplanet.com",
-  "description": "Chorn Planet 向全球受众呈现来自清迈的数字产品、AI 服务、智慧城市概念与平台工程能力。",
+  "description": "Chorn Planet 将数字产品、AI 服务、智慧城市概念和平台工程能力从清迈呈现给全球受众。",
   "social": {
-    "title": "社交媒体",
+    "title": "社交",
     "items": []
   },
   "important": {
@@ -33,64 +33,6 @@
       {
         "label": "工作场所政策",
         "link": "/workplace-policy/"
-      }
-    ]
-  },
-  "project": {
-    "title": "项目",
-    "items": [
-      {
-        "label": "奢华项目",
-        "link": "/luxury/"
-      },
-      {
-        "label": "智慧食品系统",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "优雅风格",
-        "link": "/style/"
-      },
-      {
-        "label": "未来清迈",
-        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
-      },
-      {
-        "label": "Chorn Planet",
-        "link": "/"
-      }
-    ]
-  },
-  "smartCity": {
-    "title": "平台",
-    "items": [
-      {
-        "label": "未来文明",
-        "link": "/future-civilization/"
-      },
-      {
-        "label": "奢华",
-        "link": "/luxury/"
-      },
-      {
-        "label": "智慧食品",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "智慧城市",
-        "link": "/smart-city/"
-      },
-      {
-        "label": "智慧出行",
-        "link": "/smart-mobility/"
-      },
-      {
-        "label": "故事",
-        "link": "/story/"
-      },
-      {
-        "label": "风格",
-        "link": "/style/"
       }
     ]
   },
@@ -150,6 +92,35 @@
       {
         "label": "技术",
         "link": "/technology/"
+      }
+    ]
+  },
+  "projects": {
+    "title": "生活方式项目",
+    "items": [
+      {
+        "label": "奢华",
+        "link": "/luxury/"
+      },
+      {
+        "label": "智慧餐饮",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "智慧城市",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "智慧出行",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "故事",
+        "link": "/story/"
+      },
+      {
+        "label": "风格",
+        "link": "/style/"
       }
     ]
   }

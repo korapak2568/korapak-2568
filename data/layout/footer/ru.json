@@ -2,7 +2,7 @@
   "title": "Chorn Planet",
   "link": "/",
   "www": "chornplanet.com",
-  "description": "Chorn Planet представляет цифровые продукты, AI-сервисы, концепции умных городов и возможности платформенной инженерии из Чиангмая для глобальной аудитории.",
+  "description": "Chorn Planet представляет цифровые продукты, AI-сервисы, концепции умных городов и компетенции платформенной инженерии из Чиангмая для глобальной аудитории.",
   "social": {
     "title": "Социальные сети",
     "items": []
@@ -23,7 +23,7 @@
         "link": "/contact/"
       },
       {
-        "label": "Условия использования",
+        "label": "Условия обслуживания",
         "link": "/terms-of-service/"
       },
       {
@@ -31,71 +31,13 @@
         "link": "/privacy-policy/"
       },
       {
-        "label": "Политика рабочего места",
+        "label": "Политика рабочего взаимодействия",
         "link": "/workplace-policy/"
       }
     ]
   },
-  "project": {
-    "title": "Проекты",
-    "items": [
-      {
-        "label": "Проект Luxury",
-        "link": "/luxury/"
-      },
-      {
-        "label": "Система Smart Food",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "Graceful Style",
-        "link": "/style/"
-      },
-      {
-        "label": "Будущее Чиангмая",
-        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
-      },
-      {
-        "label": "Chorn Planet",
-        "link": "/"
-      }
-    ]
-  },
-  "smartCity": {
-    "title": "Платформа",
-    "items": [
-      {
-        "label": "Будущая цивилизация",
-        "link": "/future-civilization/"
-      },
-      {
-        "label": "Luxury",
-        "link": "/luxury/"
-      },
-      {
-        "label": "Smart Food",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "Умный город",
-        "link": "/smart-city/"
-      },
-      {
-        "label": "Умная мобильность",
-        "link": "/smart-mobility/"
-      },
-      {
-        "label": "История",
-        "link": "/story/"
-      },
-      {
-        "label": "Стиль",
-        "link": "/style/"
-      }
-    ]
-  },
   "connect": {
-    "title": "Связаться",
+    "title": "Связь",
     "items": [
       {
         "label": "Контакты",
@@ -136,7 +78,7 @@
         "link": "/future-civilization/"
       },
       {
-        "label": "Будущие решения",
+        "label": "Решения будущего",
         "link": "/future-solutions/"
       },
       {
@@ -150,6 +92,35 @@
       {
         "label": "Технологии",
         "link": "/technology/"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Lifestyle-проекты",
+    "items": [
+      {
+        "label": "Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Smart City",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "Smart Mobility",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "История",
+        "link": "/story/"
+      },
+      {
+        "label": "Стиль",
+        "link": "/style/"
       }
     ]
   }

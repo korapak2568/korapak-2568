@@ -2,7 +2,7 @@
   "title": "Chorn Planet",
   "link": "/",
   "www": "chornplanet.com",
-  "description": "Chorn Planet は、チェンマイ発のデジタル製品、AI サービス、スマートシティ構想、プラットフォームエンジニアリング能力を世界のオーディエンスに届けます。",
+  "description": "Chorn Planet は、チェンマイから世界に向けて、デジタルプロダクト、AI サービス、スマートシティ構想、プラットフォームエンジニアリング能力を発信します。",
   "social": {
     "title": "ソーシャル",
     "items": []
@@ -33,64 +33,6 @@
       {
         "label": "職場ポリシー",
         "link": "/workplace-policy/"
-      }
-    ]
-  },
-  "project": {
-    "title": "プロジェクト",
-    "items": [
-      {
-        "label": "ラグジュアリープロジェクト",
-        "link": "/luxury/"
-      },
-      {
-        "label": "スマートフードシステム",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "グレースフルスタイル",
-        "link": "/style/"
-      },
-      {
-        "label": "未来のチェンマイ",
-        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
-      },
-      {
-        "label": "Chorn Planet",
-        "link": "/"
-      }
-    ]
-  },
-  "smartCity": {
-    "title": "プラットフォーム",
-    "items": [
-      {
-        "label": "未来文明",
-        "link": "/future-civilization/"
-      },
-      {
-        "label": "ラグジュアリー",
-        "link": "/luxury/"
-      },
-      {
-        "label": "スマートフード",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "スマートシティ",
-        "link": "/smart-city/"
-      },
-      {
-        "label": "スマートモビリティ",
-        "link": "/smart-mobility/"
-      },
-      {
-        "label": "ストーリー",
-        "link": "/story/"
-      },
-      {
-        "label": "スタイル",
-        "link": "/style/"
       }
     ]
   },
@@ -150,6 +92,35 @@
       {
         "label": "テクノロジー",
         "link": "/technology/"
+      }
+    ]
+  },
+  "projects": {
+    "title": "ライフスタイルプロジェクト",
+    "items": [
+      {
+        "label": "ラグジュアリー",
+        "link": "/luxury/"
+      },
+      {
+        "label": "スマートフード",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "スマートシティ",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "スマートモビリティ",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "ストーリー",
+        "link": "/story/"
+      },
+      {
+        "label": "スタイル",
+        "link": "/style/"
       }
     ]
   }

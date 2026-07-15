@@ -2,7 +2,7 @@
   "title": "Chorn Planet",
   "link": "/",
   "www": "chornplanet.com",
-  "description": "Chorn Planet giới thiệu các sản phẩm số, dịch vụ AI, ý tưởng thành phố thông minh và năng lực kỹ thuật nền tảng từ Chiang Mai đến khán giả toàn cầu.",
+  "description": "Chorn Planet giới thiệu sản phẩm số, dịch vụ AI, ý tưởng thành phố thông minh và năng lực kỹ thuật nền tảng từ Chiang Mai đến khán giả toàn cầu.",
   "social": {
     "title": "Mạng xã hội",
     "items": []
@@ -33,64 +33,6 @@
       {
         "label": "Chính sách nơi làm việc",
         "link": "/workplace-policy/"
-      }
-    ]
-  },
-  "project": {
-    "title": "Dự án",
-    "items": [
-      {
-        "label": "Dự án Luxury",
-        "link": "/luxury/"
-      },
-      {
-        "label": "Hệ thống Smart Food",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "Graceful Style",
-        "link": "/style/"
-      },
-      {
-        "label": "Tương lai Chiang Mai",
-        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
-      },
-      {
-        "label": "Chorn Planet",
-        "link": "/"
-      }
-    ]
-  },
-  "smartCity": {
-    "title": "Nền tảng",
-    "items": [
-      {
-        "label": "Văn minh tương lai",
-        "link": "/future-civilization/"
-      },
-      {
-        "label": "Luxury",
-        "link": "/luxury/"
-      },
-      {
-        "label": "Smart Food",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "Thành phố thông minh",
-        "link": "/smart-city/"
-      },
-      {
-        "label": "Di chuyển thông minh",
-        "link": "/smart-mobility/"
-      },
-      {
-        "label": "Câu chuyện",
-        "link": "/story/"
-      },
-      {
-        "label": "Phong cách",
-        "link": "/style/"
       }
     ]
   },
@@ -132,7 +74,7 @@
     "title": "Nền tảng",
     "items": [
       {
-        "label": "Nền văn minh tương lai",
+        "label": "Văn minh tương lai",
         "link": "/future-civilization/"
       },
       {
@@ -144,12 +86,41 @@
         "link": "/business-opportunities/"
       },
       {
-        "label": "Ngành",
+        "label": "Ngành công nghiệp",
         "link": "/industries/"
       },
       {
         "label": "Công nghệ",
         "link": "/technology/"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Dự án lifestyle",
+    "items": [
+      {
+        "label": "Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Smart City",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "Smart Mobility",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "Câu chuyện",
+        "link": "/story/"
+      },
+      {
+        "label": "Phong cách",
+        "link": "/style/"
       }
     ]
   }

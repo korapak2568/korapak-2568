@@ -2,7 +2,7 @@
   "title": "Chorn Planet",
   "link": "/",
   "www": "chornplanet.com",
-  "description": "Chorn Planet menghadirkan produk digital, layanan AI, konsep kota cerdas, dan kemampuan rekayasa platform dari Chiang Mai untuk audiens global.",
+  "description": "Chorn Planet menghadirkan produk digital, layanan AI, konsep kota pintar, dan kemampuan rekayasa platform dari Chiang Mai untuk audiens global.",
   "social": {
     "title": "Sosial",
     "items": []
@@ -33,64 +33,6 @@
       {
         "label": "Kebijakan Tempat Kerja",
         "link": "/workplace-policy/"
-      }
-    ]
-  },
-  "project": {
-    "title": "Proyek",
-    "items": [
-      {
-        "label": "Proyek Luxury",
-        "link": "/luxury/"
-      },
-      {
-        "label": "Sistem Smart Food",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "Graceful Style",
-        "link": "/style/"
-      },
-      {
-        "label": "Masa Depan Chiang Mai",
-        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
-      },
-      {
-        "label": "Chorn Planet",
-        "link": "/"
-      }
-    ]
-  },
-  "smartCity": {
-    "title": "Platform",
-    "items": [
-      {
-        "label": "Peradaban Masa Depan",
-        "link": "/future-civilization/"
-      },
-      {
-        "label": "Luxury",
-        "link": "/luxury/"
-      },
-      {
-        "label": "Smart Food",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "Kota Cerdas",
-        "link": "/smart-city/"
-      },
-      {
-        "label": "Mobilitas Cerdas",
-        "link": "/smart-mobility/"
-      },
-      {
-        "label": "Cerita",
-        "link": "/story/"
-      },
-      {
-        "label": "Gaya",
-        "link": "/style/"
       }
     ]
   },
@@ -150,6 +92,35 @@
       {
         "label": "Teknologi",
         "link": "/technology/"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proyek Lifestyle",
+    "items": [
+      {
+        "label": "Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Smart City",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "Smart Mobility",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "Cerita",
+        "link": "/story/"
+      },
+      {
+        "label": "Gaya",
+        "link": "/style/"
       }
     ]
   }

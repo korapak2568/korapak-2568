@@ -4,7 +4,7 @@
   "www": "chornplanet.com",
   "description": "Chorn Planet präsentiert digitale Produkte, KI-Dienste, Smart-City-Konzepte und Plattform-Engineering-Kompetenzen aus Chiang Mai für ein globales Publikum.",
   "social": {
-    "title": "Soziale Medien",
+    "title": "Social",
     "items": []
   },
   "important": {
@@ -27,70 +27,12 @@
         "link": "/terms-of-service/"
       },
       {
-        "label": "Datenschutzrichtlinie",
+        "label": "Datenschutzerklärung",
         "link": "/privacy-policy/"
       },
       {
         "label": "Arbeitsplatzrichtlinie",
         "link": "/workplace-policy/"
-      }
-    ]
-  },
-  "project": {
-    "title": "Projekte",
-    "items": [
-      {
-        "label": "Luxury-Projekt",
-        "link": "/luxury/"
-      },
-      {
-        "label": "Smart-Food-System",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "Graceful Style",
-        "link": "/style/"
-      },
-      {
-        "label": "Zukunft Chiang Mai",
-        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
-      },
-      {
-        "label": "Chorn Planet",
-        "link": "/"
-      }
-    ]
-  },
-  "smartCity": {
-    "title": "Plattform",
-    "items": [
-      {
-        "label": "Zukunftszivilisation",
-        "link": "/future-civilization/"
-      },
-      {
-        "label": "Luxury",
-        "link": "/luxury/"
-      },
-      {
-        "label": "Smart Food",
-        "link": "/smart-food/"
-      },
-      {
-        "label": "Smart City",
-        "link": "/smart-city/"
-      },
-      {
-        "label": "Smart Mobility",
-        "link": "/smart-mobility/"
-      },
-      {
-        "label": "Story",
-        "link": "/story/"
-      },
-      {
-        "label": "Style",
-        "link": "/style/"
       }
     ]
   },
@@ -150,6 +92,35 @@
       {
         "label": "Technologie",
         "link": "/technology/"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Lifestyle-Projekte",
+    "items": [
+      {
+        "label": "Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Smart City",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "Smart Mobility",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "Story",
+        "link": "/story/"
+      },
+      {
+        "label": "Stil",
+        "link": "/style/"
       }
     ]
   }
