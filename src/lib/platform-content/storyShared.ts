@@ -36,7 +36,24 @@ export type PlatformSofaCoupleStory = {
   images: PlatformStoryCard[];
 };
 
+export type PlatformStoryHeaderCopy = {
+  eyebrow: string;
+  title: string;
+  description: string;
+};
+
+export type PlatformStoryUiCopy = {
+  intro: PlatformStoryHeaderCopy;
+  backlinks: PlatformStoryHeaderCopy;
+  featureEyebrow: string;
+  openStoryLabel: string;
+  circulatorySystemLabel: string;
+  exploreOnTiktokLabel: string;
+  stationCtaLabel: string;
+};
+
 export type PlatformStoryContent = {
   locale: string;
   sofaCoupleStory: PlatformSofaCoupleStory;
+  uiCopy: PlatformStoryUiCopy;
 };

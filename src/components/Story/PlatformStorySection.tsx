@@ -1,9 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
-import { ShoppingBag } from "lucide-react";
-import { FaTiktok } from "react-icons/fa";
 import SmartMobilityActions from "@/components/SmartMobility/SmartMobilityActions";
 import type { SmartMobilityNavigationAction } from "@/lib/platform-content/smartMobilityContent";
 import type { PlatformStoryContent } from "@/lib/platform-content/storyShared";
@@ -17,18 +14,15 @@ export default function PlatformStorySection({
   lang,
   content,
   navigationActions,
-  showStoryLink = true,
-  showTiktokLink = false,
 }: {
   lang: string;
   content: PlatformStoryContent;
   navigationActions: SmartMobilityNavigationAction[];
-  showStoryLink?: boolean;
-  showTiktokLink?: boolean;
 }) {
   const { data: cachedContent } = usePlatformStoryContent(lang, content);
   const storyContent = cachedContent ?? content;
   const sofaCoupleStory = storyContent.sofaCoupleStory;
+  const uiCopy = storyContent.uiCopy;
 
   return (
     <>
@@ -54,13 +48,9 @@ export default function PlatformStorySection({
 
       <section className="platform-shell platform-outfit-detail-related platform-home-sofa-story platform-home-sofa-story--intro">
         <div className="platform-section__header platform-home-sofa-story__section1">
-          <span>{"Circulatory System Story"}</span>
-          <h2>{"Turn circulatory system into scenes and stories"}</h2>
-          <p>
-            A soft future-lifestyle story where MTS is more than transport: it
-            carries a couple from the rhythm of the valley line back into the
-            warmth of home, love, rest and everyday civilization.
-          </p>
+          <span>{uiCopy.intro.eyebrow}</span>
+          <h2>{uiCopy.intro.title}</h2>
+          <p>{uiCopy.intro.description}</p>
         </div>
       </section>
 
@@ -70,50 +60,11 @@ export default function PlatformStorySection({
           aria-labelledby="platform-home-sofa-story-title"
         >
           <div className="platform-home-sofa-story__copy">
-            <span>Future Home Story</span>
+            <span>{uiCopy.featureEyebrow}</span>
             <h3 id="platform-home-sofa-story-title">
               {sofaCoupleStory.title}
             </h3>
             <p>{sofaCoupleStory.story}</p>
-            <div className="platform-home-sofa-story__actions">
-              {showStoryLink ? (
-                <Link
-                  className="platform-home-sofa-story__link"
-                  href={`/${lang}/story/`}
-                >
-                  Open Story
-                </Link>
-              ) : null}
-              {showStoryLink ? (
-                <Link
-                  className="platform-home-sofa-story__link platform-home-sofa-story__link--mobility"
-                  href={`/${lang}/smart-mobility/`}
-                >
-                  Circulatory System
-                </Link>
-              ) : null}
-              {showTiktokLink ? (
-                <a
-                  className="platform-outfit-detail-cta platform-home-sofa-story__tiktok"
-                  href={sofaCoupleStory.tiktok}
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <span
-                    className="platform-outfit-detail-cta__icons"
-                    aria-hidden="true"
-                  >
-                    <ShoppingBag
-                      className="platform-outfit-detail-cta__shopping-icon"
-                      size={18}
-                      strokeWidth={2.4}
-                    />
-                    <FaTiktok className="platform-outfit-detail-cta__tiktok-icon" />
-                  </span>
-                  <span>Explore on TikTok</span>
-                </a>
-              ) : null}
-            </div>
           </div>
           <div className="platform-home-sofa-story__cards">
             {sofaCoupleStory.images.slice(0, 4).map((storyImage) => (
@@ -139,6 +90,3 @@ export default function PlatformStorySection({
     </>
   );
 }
-
-
-

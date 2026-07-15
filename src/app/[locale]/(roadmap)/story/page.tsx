@@ -23,9 +23,11 @@ type PageParams = {
 function StoryMtsStationCard({
   locale,
   station,
+  stationCtaLabel,
 }: {
   locale: string;
   station: MtsStation;
+  stationCtaLabel: string;
 }) {
   return (
     <article className="platform-outfit-card platform-mts-card">
@@ -47,7 +49,7 @@ function StoryMtsStationCard({
           <h3>{station.name}</h3>
           <p>{station.story}</p>
           <div className="platform-outfit-card__meta">
-            <strong>View Station</strong>
+            <strong>{stationCtaLabel}</strong>
             <small>{station.mts_line}</small>
           </div>
         </div>
@@ -110,6 +112,7 @@ export default async function Page({ params }: PageParams) {
     ...valleyStations.slice(0, 3),
     ...coastalStations.slice(0, 3),
   ];
+  const uiCopy = storyContent.uiCopy;
 
   return (
     <main className="platform-page platform-home platform-story-index-page">
@@ -117,18 +120,13 @@ export default async function Page({ params }: PageParams) {
         lang={locale}
         content={storyContent}
         navigationActions={navigationActions}
-        showStoryLink={false}
-        showTiktokLink
       />
 
       <section className="platform-shell platform-outfit-detail-related platform-story-mts-backlinks">
         <div className="platform-section__header">
-          <span>MTS Backlinks</span>
-          <h2>Continue the journey through Valley and Coastal stations.</h2>
-          <p>
-            Open the mobility stations connected to this homecoming story, from
-            alpine valley arrival points to coastal future tourism districts.
-          </p>
+          <span>{uiCopy.backlinks.eyebrow}</span>
+          <h2>{uiCopy.backlinks.title}</h2>
+          <p>{uiCopy.backlinks.description}</p>
         </div>
         <div className="platform-outfit-detail-related__grid">
           {backlinkStations.map((station) => (
@@ -136,6 +134,7 @@ export default async function Page({ params }: PageParams) {
               key={station.slug}
               locale={locale}
               station={station}
+              stationCtaLabel={uiCopy.stationCtaLabel}
             />
           ))}
         </div>
@@ -143,4 +142,3 @@ export default async function Page({ params }: PageParams) {
     </main>
   );
 }
-
