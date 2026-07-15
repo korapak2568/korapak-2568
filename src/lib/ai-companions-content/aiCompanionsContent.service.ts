@@ -9,12 +9,70 @@ import {AiCompanionsContentService} from "@/core/services/ai-companions-content.
 import {AiCompanionsContentRepository} from "@/adapters/outbound/mongo.repository/ai-companions-content.repository";
 import {loadLocalizedContentWithFallback} from "@/lib/localized-content/localizedContentFallback";
 import {getFallbackAiCompanionsContent} from "@/lib/static-content/publicContentFallbacks";
+import type {IAiDetail, IAiLanding} from "@/lib/model/IAi";
+import type {IImageUnit} from "@/image/model/IImageUnit";
+import {CDN} from "@/lib/cdn";
 
 const aiCompanionsContentService = new AiCompanionsContentService(new AiCompanionsContentRepository());
 const AI_COMPANIONS_CONTENT_LIST_TAG = 'ai-companions-content';
 const isDevelopment = process.env.NODE_ENV !== 'production';
 const REQUIRED_AI_COMPANIONS_CONTENT_FIELDS = ['demo', 'service', 'aiCompanions', 'feature', 'media'] as const;
 
+function getAiImageAssetUrl(src: string): string {
+    return src.startsWith('/images/ai/') ? `${CDN}${src}` : src;
+}
+
+function normalizeAiImageUnit<TImage extends IImageUnit>(image: TImage): TImage {
+    return {
+        ...image,
+        path: getAiImageAssetUrl(image.path),
+    };
+}
+
+function normalizeAiDetailMedia(detail: IAiDetail): IAiDetail {
+    return {
+        ...detail,
+        thumbnail: getAiImageAssetUrl(detail.thumbnail),
+        pages: {
+            ...detail.pages,
+            home: {
+                ...detail.pages.home,
+                image: normalizeAiImageUnit(detail.pages.home.image),
+            },
+            landing: {
+                ...detail.pages.landing,
+                image: normalizeAiImageUnit(detail.pages.landing.image),
+            },
+        },
+    };
+}
+
+function normalizeAiLandingMedia(landing: IAiLanding): IAiLanding {
+    return {
+        ...landing,
+        thumbnail: landing.thumbnail ? getAiImageAssetUrl(landing.thumbnail) : landing.thumbnail,
+        pages: {
+            ...landing.pages,
+            landing: {
+                ...landing.pages.landing,
+                image: normalizeAiImageUnit(landing.pages.landing.image),
+            },
+        },
+        relevants: landing.relevants.map(normalizeAiDetailMedia),
+    };
+}
+
+function normalizeAiCompanionsPublicMedia(content: AiCompanionsContentPayload): AiCompanionsContentPayload {
+    return {
+        ...content,
+        aiCompanions: {
+            ...content.aiCompanions,
+            fah: normalizeAiLandingMedia(content.aiCompanions.fah),
+            aom: normalizeAiLandingMedia(content.aiCompanions.aom),
+            ploy: normalizeAiLandingMedia(content.aiCompanions.ploy),
+        },
+    };
+}
 function getAiCompanionsContentTag(locale: string) {
     return `ai-companions-content:${normalizeAiCompanionsContentLocale(locale)}`;
 }
@@ -67,12 +125,14 @@ export async function getAiCompanionsContent(locale: string): Promise<AiCompanio
 export async function getAiCompanionsContentForPublicPage(locale: string): Promise<AiCompanionsContentPayload> {
     const normalizedLocale = normalizeAiCompanionsContentLocale(locale);
 
-    return loadLocalizedContentWithFallback({
+    const content = await loadLocalizedContentWithFallback({
         locale: normalizedLocale,
         context: 'AI companions content public render',
         load: getAiCompanionsContent,
         fallback: () => getFallbackAiCompanionsContent(normalizedLocale),
     });
+
+    return normalizeAiCompanionsPublicMedia(content);
 }
 
 export async function getAllAiCompanionsContent(): Promise<AiCompanionsContentResponse[]> {

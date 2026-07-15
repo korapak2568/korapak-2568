@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { getLocalizedAlternates } from "@/lib/metadata/alternates";
 import { headers } from "next/headers";
 import { notFound } from "next/navigation";
 import PlatformFrontEndDetailPage from "@/components/Services/frontend-development/PlatformFrontEndDetailPage";
@@ -25,6 +26,10 @@ export async function generateMetadata({
   return {
     title: route.schema.name,
     description: route.schema.description,
+    alternates: getLocalizedAlternates(
+      `/technical-expertise/front-end-developer/${slug}/`,
+      locale,
+    ),
   };
 }
 

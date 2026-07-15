@@ -2,6 +2,7 @@
 
 import Image from "next/image"
 import Link from "next/link"
+import {getLocalizedRoute} from "@/lib/localizedRoute";
 import {IMobilityFocus} from "@/lib/model/ISmartCityMedia";
 import {
     getPlatformImageAlt,
@@ -22,7 +23,7 @@ export default function MobilityFocus({lang, data}: { lang: string; data: IMobil
                 {signals.map(signal => (
                     <Link
                         key={signal.title}
-                        href={`/${lang}` + signal.landingUrl}
+                        href={getLocalizedRoute(lang, signal.landingUrl)}
                         className="mobility-focus__item"
                     >
                         <div className="mobility-focus__image">

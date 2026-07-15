@@ -2,6 +2,7 @@ import { SchemaMarkupServicePage } from "@/components/GoogleSchemaMarkup/SchemaM
 import PlatformFullStackPage from "@/components/Services/fullstack-development/PlatformFullStackPage";
 import { getPlatformFullstackContent } from "@/lib/platform-content/fullstackContent";
 import type { Metadata } from "next";
+import { getLocalizedAlternates } from "@/lib/metadata/alternates";
 import { headers } from "next/headers";
 
 type PageParams = {
@@ -19,6 +20,7 @@ export async function generateMetadata({
   return {
     title: content.fullstackPage.schema.name,
     description: content.fullstackPage.schema.description,
+    alternates: getLocalizedAlternates("/technical-expertise/full-stack-developer/", locale),
   };
 }
 

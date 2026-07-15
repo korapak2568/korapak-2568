@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { getLocalizedAlternates } from "@/lib/metadata/alternates";
 import { headers } from "next/headers";
 import { notFound } from "next/navigation";
 import PlatformFullStackDetailPage from "@/components/Services/fullstack-development/PlatformFullStackDetailPage";
@@ -25,6 +26,10 @@ export async function generateMetadata({
   return {
     title: route.schema.name,
     description: route.schema.description,
+    alternates: getLocalizedAlternates(
+      `/technical-expertise/full-stack-developer/${slug}/`,
+      locale,
+    ),
   };
 }
 

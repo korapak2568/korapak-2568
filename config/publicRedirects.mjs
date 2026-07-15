@@ -9,13 +9,18 @@ export function getLegacyPublicRedirects() {
             permanent: true,
         },
         {
+            source: '/ai-integration/',
+            destination: '/en/ai-companions/fah/',
+            permanent: true,
+        },
+        {
             source: '/:lang/ai-integration/',
             destination: '/:lang/ai-companions/fah/',
             permanent: true,
         },
         {
             source: '/about-chorn/',
-            destination: '/about/',
+            destination: '/en/about/',
             permanent: true,
         },
         {
@@ -24,8 +29,18 @@ export function getLegacyPublicRedirects() {
             permanent: true,
         },
         {
+            source: '/contact-chorn/',
+            destination: '/en/contact/',
+            permanent: true,
+        },
+        {
+            source: '/:lang/contact-chorn/',
+            destination: '/:lang/contact/',
+            permanent: true,
+        },
+        {
             source: '/smart-food-ai/',
-            destination: '/smart-food/',
+            destination: '/en/smart-food/',
             permanent: true,
         },
         {
@@ -35,7 +50,7 @@ export function getLegacyPublicRedirects() {
         },
         {
             source: '/ai-luxury/',
-            destination: '/luxury/',
+            destination: '/en/luxury/',
             permanent: true,
         },
         {
@@ -53,6 +68,8 @@ export function getLegacyPublicRedirects() {
 
 export async function redirectIncorrectPublic() {
     const items = [
+        {source: '/&/', destination: '/en/', permanent: true},
+        {source: '/zh-cn/:path*', destination: '/zh/:path*', permanent: true},
         {source: '/na/:path*', destination: '/en/:path*', permanent: true},
         {source: '/public/', destination: '/en/', permanent: true},
     ];

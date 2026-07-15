@@ -5,69 +5,27 @@ export const ImageUrl: IImageUrl = {
     ai: {
         fah: {
             title: "Chorn Planet's Fah, AI Chat Friend",
-            image375: "/images/ai/ai-fah-qrcode-375.webp",
-            image750: "/images/ai/ai-fah-qrcode-750.webp",
-            image1200: "/images/ai/ai-fah-qrcode-1200.webp",
-            large: "/images/ai/ai-fah-qrcode-large.webp",
-            thumbnail: "/images/ai/ai-fah-thumbnail.webp",
+            image375: "https://assets.chornplanet.com/images/ai/ai-fah-qrcode-375.webp",
+            image750: "https://assets.chornplanet.com/images/ai/ai-fah-qrcode-750.webp",
+            image1200: "https://assets.chornplanet.com/images/ai/ai-fah-qrcode-1200.webp",
+            large: "https://assets.chornplanet.com/images/ai/ai-fah-qrcode-large.webp",
+            thumbnail: "https://assets.chornplanet.com/images/ai/ai-fah-thumbnail.webp",
         },
         aom: {
             title: "Chorn Planet's Aom, AI Chat Friend",
-            image375: "/images/ai/ai-aom-qrcode-375.webp",
-            image750: "/images/ai/ai-aom-qrcode-750.webp",
-            image1200: "/images/ai/ai-aom-qrcode-1200.webp",
-            large: "/images/ai/ai-aom-qrcode-large.webp",
-            thumbnail: "/images/ai/ai-aom-thumbnail.webp",
+            image375: "https://assets.chornplanet.com/images/ai/ai-aom-qrcode-375.webp",
+            image750: "https://assets.chornplanet.com/images/ai/ai-aom-qrcode-750.webp",
+            image1200: "https://assets.chornplanet.com/images/ai/ai-aom-qrcode-1200.webp",
+            large: "https://assets.chornplanet.com/images/ai/ai-aom-qrcode-large.webp",
+            thumbnail: "https://assets.chornplanet.com/images/ai/ai-aom-thumbnail.webp",
         },
         ploy: {
             title: "Chorn Planet's Ploy, AI Chat Friend",
-            image375: "/images/ai/ai-ploy-qrcode-375.webp",
-            image750: "/images/ai/ai-ploy-qrcode-750.webp",
-            image1200: "/images/ai/ai-ploy-qrcode-1200.webp",
-            large: "/images/ai/ai-ploy-qrcode-large.webp",
-            thumbnail: "/images/ai/ai-ploy-thumbnail.webp",
-        },
-    },
-    shape: {
-        default: {
-            shape1: {
-                title: "Chorn Planet's default shape-1",
-                path: "/images/default-shape/default-shape1.png"
-            },
-            shape2: {
-                title: "Chorn Planet's default shape-1",
-                path: "/images/default-shape/default-shape2.png"
-            },
-            shape3: {
-                title: "Chorn Planet's default shape-1",
-                path: "/images/default-shape/default-shape3.png"
-            },
-            shape4: {
-                title: "Chorn Planet's default shape-1",
-                path: "/images/default-shape/default-shape4.png"
-            }
-        },
-        main: {
-            shape1: {
-                title: "Chorn Planet's main slide shape-1",
-                path: "/images/main-slider/slider-shape-1.png"
-            },
-            shape2: {
-                title: "Chorn Planet's main slide shape-2",
-                path: "/images/main-slider/slider-shape-2.png"
-            },
-            shape3: {
-                title: "Chorn Planet's main slide shape-3",
-                path: "/images/main-slider/slider-shape-3.png"
-            },
-            shape4: {
-                title: "Chorn Planet's main slide shape-4",
-                path: "/images/main-slider/slider-shape-4.png"
-            },
-            shape5: {
-                title: "Chorn Planet's main slide shape-5",
-                path: "/images/main-slider/slider-shape-5.png"
-            },
+            image375: "https://assets.chornplanet.com/images/ai/ai-ploy-qrcode-375.webp",
+            image750: "https://assets.chornplanet.com/images/ai/ai-ploy-qrcode-750.webp",
+            image1200: "https://assets.chornplanet.com/images/ai/ai-ploy-qrcode-1200.webp",
+            large: "https://assets.chornplanet.com/images/ai/ai-ploy-qrcode-large.webp",
+            thumbnail: "https://assets.chornplanet.com/images/ai/ai-ploy-thumbnail.webp",
         },
     },
     feature: {

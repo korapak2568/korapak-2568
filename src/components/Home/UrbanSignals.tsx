@@ -2,6 +2,7 @@
 
 import Image from "next/image"
 import Link from "next/link"
+import {getLocalizedRoute} from "@/lib/localizedRoute";
 import {IUrbanSignals} from "@/lib/model/ISmartCityMedia";
 import {
     getPlatformImageAlt,
@@ -22,7 +23,7 @@ export default function UrbanSignals({lang, data}: { lang: string; data: IUrbanS
                 {signals.map(signal => (
                     <Link
                         key={signal.title}
-                        href={`/${lang}` + signal.landingUrl}
+                        href={getLocalizedRoute(lang, signal.landingUrl)}
                         className="urban-signals__item"
                     >
                         <div className="urban-signals__image">

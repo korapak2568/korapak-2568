@@ -1,5 +1,4 @@
 import React from "react";
-import {DefaultShape} from "@/components/Shape/DefaultShape";
 import {AiCompanionsDemo} from "@/lib/model/IAiCompanionsContent";
 
 export default function AiCompanionsPage({demo}: { lang?: string; demo: AiCompanionsDemo }) {
@@ -37,8 +36,6 @@ export default function AiCompanionsPage({demo}: { lang?: string; demo: AiCompan
                     </div>
                 </div>
             </div>
-
-            <DefaultShape/>
         </div>
     );
 }

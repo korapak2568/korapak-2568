@@ -2,6 +2,7 @@
 
 import Image from "next/image"
 import Link from "next/link"
+import {getLocalizedRoute} from "@/lib/localizedRoute";
 import {IEditorialPositioning} from "@/lib/model/ISmartCityMedia";
 import {
     getPlatformImageAlt,
@@ -28,7 +29,7 @@ export default function EditorialPositioning({lang, data}: {
                 {principles.map((principle) => (
                     <Link
                         key={principle.title}
-                        href={`/${lang}` + principle.landingUrl}
+                        href={getLocalizedRoute(lang, principle.landingUrl)}
                         className="editorial-positioning__item"
                     >
 

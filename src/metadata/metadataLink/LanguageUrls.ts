@@ -1,22 +1,19 @@
-import {LanguageCode} from "@/lib/constants/languageOptions";
+import {LOCALES, SITE_URL} from "@/lib/SiteUrlLocales";
+
+function ensureTrailingSlash(path: string): string {
+    return path.endsWith("/") ? path : `${path}/`;
+}
 
 const LanguageUrl = (lang: string, canonical: string) => {
-    return `${process.env.NEXT_PUBLIC_URL}${lang}${canonical}`
+    const normalizedCanonical = canonical === "/" ? "/" : ensureTrailingSlash(canonical);
+
+    return `${SITE_URL}/${lang}${normalizedCanonical}`;
 }
 
 const LanguageUrls = (canonical: string): Record<string, string> => {
-    return {
-        en: LanguageUrl(LanguageCode.en, canonical),
-        th: LanguageUrl(LanguageCode.th, canonical),
-        fr: LanguageUrl(LanguageCode.fr, canonical),
-        ja: LanguageUrl(LanguageCode.ja, canonical),
-        zh: LanguageUrl(LanguageCode.zh, canonical),
-        de: LanguageUrl(LanguageCode.de, canonical),
-        nl: LanguageUrl(LanguageCode.nl, canonical),
-        da: LanguageUrl(LanguageCode.da, canonical),
-        fi: LanguageUrl(LanguageCode.fi, canonical),
-        ko: LanguageUrl(LanguageCode.ko, canonical),
-    }
+    return Object.fromEntries(
+        LOCALES.map((locale) => [locale, LanguageUrl(locale, canonical)]),
+    );
 }
 
 export default LanguageUrls

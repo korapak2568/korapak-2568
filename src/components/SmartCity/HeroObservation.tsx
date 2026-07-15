@@ -1,6 +1,7 @@
 // src/components/SmartCity/HeroObservation.tsx
 
 import Link from "next/link";
+import {getLocalizedRoute} from "@/lib/localizedRoute";
 import { ISmartCitySection } from "@/lib/model/ISmartCityLanding";
 import SmartCityResponsiveImage from "@/components/SmartCity/SmartCityResponsiveImage";
 
@@ -24,7 +25,7 @@ export default function HeroObservation(
         ))}
 
         {cta && (
-          <Link href={`/${lang}` + cta.href} className="hero-observation__cta">
+          <Link href={getLocalizedRoute(lang ?? "en", cta.href)} className="hero-observation__cta">
             {cta.label}
           </Link>
         )}

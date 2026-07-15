@@ -17,7 +17,6 @@ This files table contents are outlined below>>>>>
 ** - NavbarContainer Area CSS
 ** - Main Banner Area CSS
 ** - Main Slider Area CSS
-** - HomeFeatureMain Area CSS
 ** - metadataLink Area CSS
 ** - Services Area CSS
 ** - Default Shape CSS
@@ -54,7 +53,7 @@ This files table contents are outlined below>>>>>
 ** - Product Details Area CSS
 ** - Partner Area CSS
 ** - FooterMain Area CSS
-** - Copy AiSolutionRight Area CSS
+** - Copyright Area CSS
 ** - Go Top CSS
 
 */
@@ -1551,263 +1550,6 @@ Main Slider Area CSS
 }
 .home-slides .swiper-button-prev:hover, .home-slides .swiper-button-prev:focus, .home-slides .swiper-button-next:hover, .home-slides .swiper-button-next:focus {
   background-color: #202647;
-}
-
-/*================================================
-HomeFeatureMain Area CSS
-=================================================*/
-.single-features {
-  background-color: #ffffff;
-  box-shadow: 0 0 1.25rem rgba(108, 118, 134, 0.1);
-  padding: 35px 20px;
-  position: relative;
-  z-index: 1;
-  transition: 0.5s;
-  border-radius: 5px;
-  border: 1px solid #fbe4d4;
-  margin-bottom: 30px;
-}
-.single-features::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-  background: linear-gradient(to right top, #fdb084, #ff9870, #ff7e62, #ff5f59, #ff3656);
-  transition: 0.5s;
-  opacity: 0;
-  visibility: hidden;
-  border-radius: 5px;
-}
-.single-features .icon {
-  margin-bottom: 20px;
-}
-.single-features .icon i {
-  font-size: 50px;
-  color: #f64c67;
-  transition: 0.5s;
-  line-height: 1;
-}
-.single-features h3 {
-  font-size: 20px;
-  font-weight: 600;
-  margin-bottom: 10px;
-  transition: 0.5s;
-}
-.single-features h3 a {
-  color: #202647;
-}
-.single-features p {
-  transition: 0.5s;
-  margin-bottom: 0;
-}
-.single-features .number {
-  position: absolute;
-  bottom: 10px;
-  right: 10px;
-}
-.single-features .number span {
-  font-size: 25px;
-  font-weight: 500;
-  color: #cbcac9;
-  transition: 0.5s;
-}
-.single-features .shape {
-  position: absolute;
-  bottom: 25px;
-  left: 18px;
-  z-index: -1;
-  transition: 0.5s;
-  opacity: 30%;
-}
-.single-features:hover::before {
-  opacity: 1;
-  visibility: visible;
-}
-.single-features:hover .icon i {
-  color: #ffffff;
-}
-.single-features:hover h3 a {
-  color: #ffffff;
-}
-.single-features:hover p {
-  color: #ffffff;
-}
-.single-features:hover .number span {
-  color: #ffffff;
-}
-.single-features:hover .shape {
-  opacity: 30%;
-  bottom: 35px;
-}
-
-.single-features-box {
-  background-color: #fafafa;
-  border: 1px solid #fbe4d4;
-  padding: 30px;
-  position: relative;
-  z-index: 1;
-  transition: 0.5s;
-  border-radius: 5px;
-  margin-bottom: 30px;
-}
-.single-features-box::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 0;
-  background: linear-gradient(to right top, #fdb084, #ff9870, #ff7e62, #ff5f59, #ff3656);
-  z-index: -1;
-  transition: 0.5s;
-  border-radius: 5px;
-}
-.single-features-box .icon {
-  margin-bottom: 20px;
-}
-.single-features-box .icon i {
-  font-size: 30px;
-  color: #f64c67;
-  transition: 0.5s;
-  line-height: 1;
-  display: inline-block;
-  text-align: center;
-  height: 70px;
-  width: 70px;
-  line-height: 70px;
-  border-radius: 50px;
-  background-color: #fbe4d4;
-}
-.single-features-box h3 {
-  font-size: 20px;
-  font-weight: 600;
-  margin-bottom: 10px;
-  transition: 0.5s;
-}
-.single-features-box h3 a {
-  color: #202647;
-}
-.single-features-box p {
-  transition: 0.5s;
-  margin-bottom: -4px;
-}
-.single-features-box:hover::before {
-  height: 100%;
-}
-.single-features-box:hover .icon i {
-  color: #f64c67;
-  background-color: #fff;
-}
-.single-features-box:hover h3 a {
-  color: #ffffff;
-}
-.single-features-box:hover p {
-  color: #ffffff;
-}
-.single-features-box.top-1 {
-  margin-top: 30px;
-}
-.single-features-box.top-2 {
-  margin-top: 0;
-}
-.single-features-box.top-3 {
-  margin-top: 0;
-}
-.single-features-box.top-4 {
-  margin-top: -30px;
-}
-
-.features-inner-content span {
-  color: #fd9b5f;
-  font-weight: 500;
-  text-transform: uppercase;
-  margin-bottom: 5px;
-}
-.features-inner-content h3 {
-  font-size: 38px;
-  margin: 0 0 25px 0;
-}
-.features-inner-content .bar {
-  height: 4px;
-  width: 85px;
-  background: linear-gradient(to right top, #fdb084, #ff9870, #ff7e62, #ff5f59, #ff3656);
-  position: relative;
-  border-radius: 5px;
-  overflow: hidden;
-  margin-bottom: 25px;
-}
-.features-inner-content .bar::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 5px;
-  background: #ffffff;
-  animation-duration: 2s;
-  animation-timing-function: linear;
-  animation-iteration-count: infinite;
-  animation-name: MOVE-BG;
-}
-.features-inner-content p {
-  margin-bottom: 0;
-}
-.features-inner-content .features-list {
-  display: flex;
-  flex-wrap: wrap;
-  padding-left: 0;
-  list-style-type: none;
-  margin-bottom: 0;
-  margin-top: 16px;
-  margin-left: -10px;
-  margin-right: -10px;
-}
-.features-inner-content .features-list li {
-  flex: 0 0 50%;
-  max-width: 50%;
-  margin-top: 6px;
-  margin-bottom: 8px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-.features-inner-content .features-list li span {
-  display: block;
-  background-color: #f7f7f7;
-  padding: 10px 15px;
-  z-index: 1;
-  position: relative;
-  transition: 0.5s;
-  text-transform: capitalize;
-  font-weight: 500;
-  border-radius: 5px;
-  color: #202647;
-}
-.features-inner-content .features-list li span::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 0;
-  height: 100%;
-  background: linear-gradient(to right top, #fdb084, #ff9870, #ff7e62, #ff5f59, #ff3656);
-  z-index: -1;
-  transition: 0.5s;
-  border-radius: 5px;
-}
-.features-inner-content .features-list li span i {
-  margin-right: 5px;
-}
-.features-inner-content .features-list li span:hover {
-  color: #ffffff;
-}
-.features-inner-content .features-list li span:hover::before {
-  width: 100%;
-}
-.features-inner-content .features-btn {
-  margin-top: 20px;
 }
 
 /*================================================
@@ -6550,7 +6292,7 @@ FooterMain Area CSS
 }
 
 /*================================================
-Copy AiSolutionRight Area CSS
+Copyright Area CSS
 =================================================*/
 .copyright-area {
   padding-top: 30px;

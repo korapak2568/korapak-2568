@@ -43,9 +43,9 @@ export default async function Home() {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     name: "Chorn Planet | Future Mobility & Smart City Systems Designer, Connected Systems & Early IoT Platforms, Concept to Architecture, System Design & Development",
-    logo: "https://chornplanet.com/images/logo/logo-romance-male.png",
-    "@id": "https://chornplanet.com",
-    url: "https://chornplanet.com",
+    logo: "https://www.chornplanet.com/images/logo/logo-romance-male.png",
+    "@id": "https://www.chornplanet.com",
+    url: "https://www.chornplanet.com",
     contactPoint: {
       "@type": "ContactPoint",
       telephone: "+66 (0)52 000 548",

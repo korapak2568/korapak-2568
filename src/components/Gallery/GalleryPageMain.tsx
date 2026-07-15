@@ -1,11 +1,10 @@
 import React from "react";
-import {DefaultShape} from "@/components/Shape/DefaultShape";
 import {IGalleryItem} from "@/lib/model/IGallery";
 
 const GalleryPageMain: React.FC<{ global: IGalleryItem }> = ({global}) => {
     return (
         <>
-            <div className="about-area pb-70">
+            <div className="about-area pb-70 pt-100">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">
@@ -24,8 +23,6 @@ const GalleryPageMain: React.FC<{ global: IGalleryItem }> = ({global}) => {
                     </div>
                 </div>
             </div>
-
-            <DefaultShape/>
         </>
     );
 };

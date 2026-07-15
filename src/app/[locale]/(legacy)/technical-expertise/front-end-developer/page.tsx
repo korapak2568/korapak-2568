@@ -1,5 +1,6 @@
 import React from "react";
 import { Metadata } from "next";
+import { getLocalizedAlternates } from "@/lib/metadata/alternates";
 import { SchemaMarkupServicePage } from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import { headers } from "next/headers";
 import PlatformFrontEndPage from "@/components/Services/frontend-development/PlatformFrontEndPage";
@@ -20,6 +21,7 @@ export async function generateMetadata({
   return {
     title: content.frontendPage.schema.name,
     description: content.frontendPage.schema.description,
+    alternates: getLocalizedAlternates("/technical-expertise/front-end-developer/", locale),
   };
 }
 

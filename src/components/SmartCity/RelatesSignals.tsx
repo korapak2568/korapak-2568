@@ -1,6 +1,7 @@
 // src/components/SmartCity/RelatesSignals.tsx
 
-import Link from "next/link";
+import Link from "next/link"
+import {getLocalizedRoute} from "@/lib/localizedRoute";
 import { ISmartCitySection } from "@/lib/model/ISmartCityLanding";
 import SmartCityResponsiveImage from "@/components/SmartCity/SmartCityResponsiveImage";
 
@@ -29,7 +30,7 @@ export default function RelatesSignals(
           return (
             <Link
               key={index}
-              href={`/${locale}${href}`}
+              href={getLocalizedRoute(locale, href)}
               className="related-signals__item"
             >
               {signal.image && (

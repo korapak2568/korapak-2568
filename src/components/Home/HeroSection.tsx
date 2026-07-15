@@ -1,5 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
+import {getLocalizedRoute} from "@/lib/localizedRoute";
 import {IHeroSection} from "@/lib/model/ISmartCityMedia";
 import {
     getPlatformImageAlt,
@@ -95,10 +96,10 @@ export default function HeroSection({lang, data}: { lang: string; data: IHeroSec
                     )}
 
                     <div className="smart-hero__cta">
-                        <Link className="smart-hero__cta-primary" href={`/${lang}` + landingUrl}>
+                        <Link className="smart-hero__cta-primary" href={getLocalizedRoute(lang, landingUrl)}>
                             {ui.primaryAction}
                         </Link>
-                        <Link className="smart-hero__cta-secondary" href={`/${lang}/smart-food`}>
+                        <Link className="smart-hero__cta-secondary" href={getLocalizedRoute(lang, "/smart-food/")}>
                             {ui.secondaryAction}
                         </Link>
                     </div>

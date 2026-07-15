@@ -1,5 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
+import {getLocalizedRoute} from "@/lib/localizedRoute";
 import {ILocalToGlobal} from "@/lib/model/ISmartCityMedia";
 import {
     getPlatformImageAlt,
@@ -55,7 +56,7 @@ export default function LocalToGlobal({lang, data}: { lang: string; data: ILocal
             </div>
 
             <div className="local-to-global__footer">
-                <Link href={`/${lang}` + landingUrl}>{ui.footerLink}</Link>
+                <Link href={getLocalizedRoute(lang, landingUrl)}>{ui.footerLink}</Link>
             </div>
         </section>
     )

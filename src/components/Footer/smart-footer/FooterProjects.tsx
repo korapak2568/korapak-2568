@@ -1,6 +1,7 @@
 import React from "react";
 import {IFooter, IFooterDetail} from "@/lib/model/IFooter";
 import Link from "next/link";
+import {getLocalizedRoute} from "@/lib/localizedRoute";
 
 function normalizeProjectLink(link: string): string {
     return link.endsWith("/") && link !== "/" ? link.slice(0, -1) : link;
@@ -52,7 +53,7 @@ export default function FooterProjects({lang, footer}: { lang: string, footer: I
 
                             return (
                                 <li key={index} className={highlightClassName}>
-                                    <Link href={`/${lang}` + item.link}>
+                                    <Link href={getLocalizedRoute(lang, item.link)}>
                                         {item.label}
                                     </Link>
                                 </li>

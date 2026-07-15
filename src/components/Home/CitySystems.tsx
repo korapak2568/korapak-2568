@@ -1,7 +1,8 @@
 // src/components/smart-city-media/CitySystems.tsx
 
 import Image from "next/image";
-import Link from "next/link";
+import Link from "next/link"
+import {getLocalizedRoute} from "@/lib/localizedRoute";;
 import {ICitySystems} from "@/lib/model/ISmartCityMedia";
 import {
     getPlatformImageAlt,
@@ -22,7 +23,7 @@ export default function CitySystems({lang, data}: { lang: string; data: ICitySys
                 {systems.map((system, index) => (
                     <Link
                         key={index}
-                        href={`/${lang}` + system.landingUrl}
+                        href={getLocalizedRoute(lang, system.landingUrl)}
                         className="city-systems__item"
                     >
                         <div className="city-systems__image">

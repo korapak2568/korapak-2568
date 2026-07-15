@@ -8,21 +8,6 @@ export interface IImageUrl {
         aom: IImageResponsiveUnit,
         ploy: IImageResponsiveUnit,
     },
-    shape: {
-        default: {
-            shape1: IImageUnit,
-            shape2: IImageUnit,
-            shape3: IImageUnit,
-            shape4: IImageUnit,
-        },
-        main: {
-            shape1: IImageUnit,
-            shape2: IImageUnit,
-            shape3: IImageUnit,
-            shape4: IImageUnit,
-            shape5: IImageUnit,
-        },
-    },
     feature: {
         default: IImageUnit,
         suvarnabhumi: IImageUnit,

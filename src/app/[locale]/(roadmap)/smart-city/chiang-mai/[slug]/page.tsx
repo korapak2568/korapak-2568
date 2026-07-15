@@ -5,10 +5,7 @@ import type { Metadata } from "next";
 import { headers } from "next/headers";
 import { notFound } from "next/navigation";
 
-import AiSolutionsMain from "@/components/AiSolutions/AiSolutionsMain";
-import HomeFeatureMain from "@/components/Features/HomeFeatureMain";
 import SmartCityMain from "@/components/SmartCity/ChiangMai/SmartCityMain";
-import { loadOptionalAiCompanionsContent } from "@/lib/ai-companions-content/optionalAiCompanionsContent";
 import {
   getSmartCityChiangMaiContentFromJson,
   getSmartCityChiangMaiMetadataFromJson,
@@ -37,8 +34,6 @@ export default async function Page(
 
   if (!smartCityContent?.item) notFound();
 
-  const aiContent = await loadOptionalAiCompanionsContent(lang, `smart-city-chiang-mai/${slug}`);
-
   return (
     <div className="container">
       <SmartCityMain
@@ -47,21 +42,6 @@ export default async function Page(
         relatedItems={smartCityContent.relatedItems}
         bottomContent={smartCityContent.bottomContent}
       />
-      {aiContent && (
-        <>
-          <AiSolutionsMain
-            lang={lang}
-            service={aiContent.service}
-            llmSlides={aiContent.media.llmSlides}
-          />
-          <HomeFeatureMain
-            lang={lang}
-            feature={aiContent.feature}
-            featureImage={aiContent.media.featureImage}
-            isHideTopTitle={true}
-          />
-        </>
-      )}
     </div>
   );
 }

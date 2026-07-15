@@ -75,7 +75,7 @@ export const MetaLinks: IMetaLinks = {
         }
     },
     webDevelopment: {
-        canonical: "/technical-expertise/web-development/",
+        canonical: "/technology/",
         image: {
             url: "/images-opengraph/frontend/frontend-development-services.png" + MetadataImageVersion,
             alt: "Open graph image for web development"

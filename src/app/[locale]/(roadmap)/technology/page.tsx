@@ -29,7 +29,7 @@ export default async function Page() {
       <SchemaMarkupServicePage
         name="Technology Platform Development | Chorn Planet"
         description="Explore Chorn Planet's technology platform capabilities, including AI platforms, system layers, web development, cloud operations, and digital product delivery."
-        url="https://chornplanet.com/en/technology/"
+        url="https://www.chornplanet.com/en/technology/"
       />
     </div>
   );

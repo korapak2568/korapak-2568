@@ -2,6 +2,7 @@
 
 import Image from "next/image"
 import Link from "next/link"
+import {getLocalizedRoute} from "@/lib/localizedRoute";
 import {IGlobalPatterns} from "@/lib/model/ISmartCityMedia";
 import {
     getPlatformImageAlt,
@@ -22,7 +23,7 @@ export default function GlobalPatterns({lang, data}: { lang: string; data: IGlob
                 {signals.map((signal, index) => (
                     <Link
                         key={index}
-                        href={`/${lang}` + signal.landingUrl}
+                        href={getLocalizedRoute(lang, signal.landingUrl)}
                         className="global-patterns__signal"
                     >
                         <div className="global-patterns__image">
