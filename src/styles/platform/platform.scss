@@ -4174,7 +4174,9 @@ a.platform-home-sofa-story__card-media:hover img {
   }
 
   .cgd-directory-grid,
-  .cgd-directory-list--wide {
+  .cgd-directory-list--wide,
+  .cgd-business-directory-page .cgd-directory-grid,
+  .cgd-industry-directory-page .cgd-directory-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
@@ -4187,7 +4189,9 @@ a.platform-home-sofa-story__card-media:hover img {
 
   .cgd-directory-grid,
   .cgd-directory-list,
-  .cgd-directory-list--wide {
+  .cgd-directory-list--wide,
+  .cgd-business-directory-page .cgd-directory-grid,
+  .cgd-industry-directory-page .cgd-directory-grid {
     grid-template-columns: 1fr;
   }
 
