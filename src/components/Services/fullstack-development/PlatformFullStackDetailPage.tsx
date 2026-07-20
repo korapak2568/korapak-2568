@@ -10,7 +10,6 @@ import type { IFrontEnd } from "@/lib/model/IFrontEnd";
 import type { IFullStack, IFullStackStack } from "@/lib/model/IFullStack";
 import type { PlatformFullstackContent } from "@/lib/platform-content/fullstackContent";
 import type { FullstackStackKey } from "@/lib/platform-content/fullstackRoutes";
-import { usePlatformFullstackContent } from "@/lib/platform-content/usePlatformFullstackContent";
 import type { ComponentType } from "react";
 
 type DetailComponentProps = {
@@ -37,8 +36,7 @@ export default function PlatformFullStackDetailPage({
   slug: string;
   content: PlatformFullstackContent;
 }) {
-  const { data: cachedContent } = usePlatformFullstackContent(lang, content);
-  const fullstackContent = cachedContent ?? content;
+  const fullstackContent = content;
   const route = fullstackContent.fullstackRoutes.find((candidate) => candidate.slug === slug);
 
   if (!route) {

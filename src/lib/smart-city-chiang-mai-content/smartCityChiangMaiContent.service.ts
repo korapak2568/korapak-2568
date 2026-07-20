@@ -1,16 +1,10 @@
-import type {
-  PartialSmartCityChiangMaiContentPayload,
-  SmartCityChiangMaiContentResponse,
-} from "@/core/domain/smart-city-chiang-mai-content.entity";
+import type { SmartCityChiangMaiContentResponse } from "@/core/domain/smart-city-chiang-mai-content.entity";
 import type { SmartCityChiangMaiContentPayload } from "@/lib/model/ISmartCityChiangMai";
 import {
   getAllSmartCityChiangMaiContentFromJson,
   getSmartCityChiangMaiContentFromJson,
 } from "@/lib/platform-content/smartCityContent";
 
-function unsupportedSmartCityWrite(): never {
-  throw new Error("Smart City Chiang Mai content is sourced from CHORN_DATA_URL/smart-city");
-}
 
 export async function getSmartCityChiangMaiContent(
   locale: string,
@@ -35,17 +29,3 @@ export async function getSmartCityChiangMaiContentForPublicPage(
 export async function getAllSmartCityChiangMaiContent(): Promise<SmartCityChiangMaiContentResponse[]> {
   return getAllSmartCityChiangMaiContentFromJson() as Promise<SmartCityChiangMaiContentResponse[]>;
 }
-
-export async function upsertSmartCityChiangMaiContent(
-  _content: PartialSmartCityChiangMaiContentPayload,
-): Promise<SmartCityChiangMaiContentResponse> {
-  unsupportedSmartCityWrite();
-}
-
-export async function deleteSmartCityChiangMaiContent(
-  _locale: string,
-  _slug: string,
-): Promise<void> {
-  unsupportedSmartCityWrite();
-}
-

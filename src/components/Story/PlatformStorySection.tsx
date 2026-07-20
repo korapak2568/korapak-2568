@@ -8,7 +8,6 @@ import {
   getPlatformImageAlt,
   getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
-import { usePlatformStoryContent } from "@/lib/platform-content/usePlatformStoryContent";
 
 export default function PlatformStorySection({
   lang,
@@ -19,8 +18,7 @@ export default function PlatformStorySection({
   content: PlatformStoryContent;
   navigationActions: SmartMobilityNavigationAction[];
 }) {
-  const { data: cachedContent } = usePlatformStoryContent(lang, content);
-  const storyContent = cachedContent ?? content;
+  const storyContent = content;
   const sofaCoupleStory = storyContent.sofaCoupleStory;
   const uiCopy = storyContent.uiCopy;
 

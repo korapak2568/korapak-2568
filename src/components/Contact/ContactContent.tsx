@@ -5,7 +5,6 @@ import ContactLeft from "@/components/Contact/ContactLeft";
 import ContactRight from "@/components/Contact/ContactRight";
 import {ContactGalleryBottom} from "@/components/Contact/ContactGalleryBottom";
 import type { PlatformContactContent } from "@/lib/platform-content/contactContent";
-import { usePlatformContactContent } from "@/lib/platform-content/usePlatformContactContent";
 
 export default function ContactContent({
     lang,
@@ -14,8 +13,7 @@ export default function ContactContent({
     lang: string;
     content: PlatformContactContent;
 }) {
-    const {data: cachedContent} = usePlatformContactContent(lang, content);
-    const contactContent = cachedContent ?? content;
+    const contactContent = content;
     const contactInfo = contactContent.contact.contactInfo;
     const title = contactInfo?.title || "Business Inquiries & Collaborations";
 

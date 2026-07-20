@@ -1,9 +1,8 @@
-import {unstable_cache, revalidateTag} from "next/cache";
+import {unstable_cache} from "next/cache";
 import {ISmartFoodAiMetadataContent} from "@/lib/model/ISmartFoodAiContent";
 import {
     normalizeSmartFoodAiContentLocale,
-    PartialSmartFoodAiContentPayload,
-    SmartFoodAiContentPayload,
+        SmartFoodAiContentPayload,
     SmartFoodAiContentResponse,
 } from "@/core/domain/smart-food-ai-content.entity";
 import {SmartFoodAiContentService} from "@/core/services/smart-food-ai-content.service";
@@ -141,49 +140,4 @@ export async function getSmartFoodAiMetadataContent(locale: string): Promise<ISm
     );
 
     return getCachedContent();
-}
-
-export async function getAllSmartFoodAiContent(): Promise<SmartFoodAiContentResponse[]> {
-    if (isDevelopment) {
-        try {
-            return await smartFoodAiContentService.findAll();
-        } catch (error) {
-            console.error('Failed to load Smart Food AI content list:', error);
-            return [];
-        }
-    }
-
-    const getCachedContent = unstable_cache(
-        async () => {
-            try {
-                return await smartFoodAiContentService.findAll();
-            } catch (error) {
-                console.error('Failed to load Smart Food AI content list:', error);
-                return [];
-            }
-        },
-        ['smart-food-ai-content-all'],
-        {
-            revalidate: 3600,
-            tags: [SMART_FOOD_AI_CONTENT_LIST_TAG],
-        }
-    );
-
-    return getCachedContent();
-}
-
-export async function upsertSmartFoodAiContent(
-    content: PartialSmartFoodAiContentPayload
-): Promise<SmartFoodAiContentResponse> {
-    const savedContent = await smartFoodAiContentService.upsertByLocale(content);
-    revalidateTag(SMART_FOOD_AI_CONTENT_LIST_TAG, 'max');
-    revalidateTag(getSmartFoodAiContentTag(savedContent.locale), 'max');
-    return savedContent;
-}
-
-export async function deleteSmartFoodAiContent(locale: string): Promise<void> {
-    const normalizedLocale = normalizeSmartFoodAiContentLocale(locale);
-    await smartFoodAiContentService.deleteByLocale(normalizedLocale);
-    revalidateTag(SMART_FOOD_AI_CONTENT_LIST_TAG, 'max');
-    revalidateTag(getSmartFoodAiContentTag(normalizedLocale), 'max');
 }

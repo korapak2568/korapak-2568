@@ -11,7 +11,6 @@ import {
   getPlatformImageAlt,
   getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
-import { usePlatformSmartMobilityMTSContent } from "@/lib/platform-content/usePlatformSmartMobilityMTSContent";
 import SmartMobilityActions from "./SmartMobilityActions";
 
 function getActiveMtsGatewaySlug(slug: string) {
@@ -73,12 +72,7 @@ export default function SmartMobilityStationPage({
   slug: string;
   content: SmartMobilityStationDetailContent;
 }) {
-  const { data: cachedContent } = usePlatformSmartMobilityMTSContent(
-    locale,
-    slug,
-    content,
-  );
-  const stationContent = cachedContent ?? content;
+  const stationContent = content;
   const { detail, station, relatedStations } = stationContent;
   const activeGatewaySlug = getActiveMtsGatewaySlug(slug);
 

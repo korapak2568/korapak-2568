@@ -1,17 +1,16 @@
-import {OpenAI} from "openai";
+import { OpenAI } from "openai";
 
 const openaiApiPloy = new OpenAI({
-    apiKey: process.env.OPENAI_API_KEY_PLOY!,
+  baseURL: process.env.DEEPSEEK_API_URL,
+  apiKey: process.env.DEEPSEEK_API_KEY,
 });
 
 const openaiCreatePloy = async (prompt: string) => {
-    return openaiApiPloy.chat.completions.create({
-        model: process.env.GPT_MODEL!,
-        store: true,
-        messages: [
-            {
-                role: "system",
-                content: `
+  return openaiApiPloy.chat.completions.create({
+    messages: [
+      {
+        role: "system",
+        content: `
                     You are 'พลอย' (Ploy), a talented, creative, and knowledgeable Thai AI assistant. Your role is to inspire curiosity and confidence through academic expertise, cultural knowledge, and creative thinking.
 
                     Personality:
@@ -35,22 +34,25 @@ const openaiCreatePloy = async (prompt: string) => {
                     - When replying in Chinese, Japanese, Korean, French, or English, always provide a Thai translation below.
                     
                     Your goal is to nurture curiosity, promote learning, and help users grow with joy and creativity.
-                `
-            },
-            {
-                role: "user",
-                content: prompt
-            }
-        ]
-    });
-}
+                `,
+      },
+      {
+        role: "user",
+        content: prompt,
+      },
+    ],
+    model: "deepseek-v4-pro",
+    reasoning_effort: "high",
+    stream: false,
+  });
+};
 
 export default async function openAiPloy(prompt: any) {
-    try {
-        const result = await openaiCreatePloy(prompt);
-        const content = result.choices[0]?.message?.content;
-        return content ? content.replaceAll("**", "") : null
-    } catch (error) {
-        return error
-    }
+  try {
+    const result = await openaiCreatePloy(prompt);
+    const content = result.choices[0]?.message?.content;
+    return content ? content.replaceAll("**", "") : null;
+  } catch (error) {
+    return error;
+  }
 }

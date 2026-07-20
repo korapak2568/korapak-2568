@@ -2,11 +2,9 @@ import {
     GalleryContentResponse,
     mapGalleryContentResponse,
     normalizeGalleryContentLocale,
-    PartialGalleryContentPayload,
 } from "@/core/domain/gallery-content.entity";
 import {GalleryContentInterface} from "@/core/ports/gallery-content.interface";
 import {galleryContentCollection, withMongoReadRetry} from "@/infrastructure/db/infra.mongodb";
-import {getNowTimeBangkokAsia} from "@/utils/timezone";
 
 export class GalleryContentRepository implements GalleryContentInterface {
 
@@ -30,52 +28,5 @@ export class GalleryContentRepository implements GalleryContentInterface {
             `gallery content ${normalizedLocale}`
         );
         return document ? mapGalleryContentResponse(document) : null;
-    }
-
-    async findAll(): Promise<GalleryContentResponse[]> {
-        const documents = await withMongoReadRetry(
-            () => galleryContentCollection
-                .find({})
-                .sort({locale: 1})
-                .toArray(),
-            'gallery content list'
-        );
-
-        return documents.map(mapGalleryContentResponse);
-    }
-
-    async upsertByLocale(content: PartialGalleryContentPayload): Promise<GalleryContentResponse> {
-        const now = getNowTimeBangkokAsia().toISOString();
-        const normalizedLocale = normalizeGalleryContentLocale(content.locale);
-        const payload = {
-            ...content,
-            locale: normalizedLocale,
-            updatedAt: now,
-        };
-
-        const result = await galleryContentCollection.findOneAndUpdate(
-            {locale: normalizedLocale},
-            {
-                $set: payload,
-                $setOnInsert: {
-                    createdAt: now,
-                },
-            },
-            {
-                upsert: true,
-                returnDocument: 'after',
-            }
-        );
-
-        if (!result) {
-            throw new Error(`Failed to upsert gallery content for locale "${normalizedLocale}"`);
-        }
-
-        return mapGalleryContentResponse(result);
-    }
-
-    async deleteByLocale(locale: string): Promise<void> {
-        const normalizedLocale = normalizeGalleryContentLocale(locale);
-        await galleryContentCollection.deleteOne({locale: normalizedLocale});
     }
 }

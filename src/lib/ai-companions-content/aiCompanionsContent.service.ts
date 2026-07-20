@@ -1,10 +1,9 @@
-import {revalidateTag, unstable_cache} from "next/cache";
+import {unstable_cache} from "next/cache";
 import {
     AiCompanionsContentPayload,
     AiCompanionsContentResponse,
     normalizeAiCompanionsContentLocale,
-    PartialAiCompanionsContentPayload,
-} from "@/core/domain/ai-companions-content.entity";
+    } from "@/core/domain/ai-companions-content.entity";
 import {AiCompanionsContentService} from "@/core/services/ai-companions-content.service";
 import {AiCompanionsContentRepository} from "@/adapters/outbound/mongo.repository/ai-companions-content.repository";
 import {loadLocalizedContentWithFallback} from "@/lib/localized-content/localizedContentFallback";
@@ -133,49 +132,4 @@ export async function getAiCompanionsContentForPublicPage(locale: string): Promi
     });
 
     return normalizeAiCompanionsPublicMedia(content);
-}
-
-export async function getAllAiCompanionsContent(): Promise<AiCompanionsContentResponse[]> {
-    if (isDevelopment) {
-        try {
-            return await aiCompanionsContentService.findAll();
-        } catch (error) {
-            console.error('Failed to load AI companions content list:', error);
-            return [];
-        }
-    }
-
-    const getCachedContent = unstable_cache(
-        async () => {
-            try {
-                return await aiCompanionsContentService.findAll();
-            } catch (error) {
-                console.error('Failed to load AI companions content list:', error);
-                return [];
-            }
-        },
-        ['ai-companions-content-all'],
-        {
-            revalidate: 3600,
-            tags: [AI_COMPANIONS_CONTENT_LIST_TAG],
-        }
-    );
-
-    return getCachedContent();
-}
-
-export async function upsertAiCompanionsContent(
-    content: PartialAiCompanionsContentPayload
-): Promise<AiCompanionsContentResponse> {
-    const savedContent = await aiCompanionsContentService.upsertByLocale(content);
-    revalidateTag(AI_COMPANIONS_CONTENT_LIST_TAG, 'max');
-    revalidateTag(getAiCompanionsContentTag(savedContent.locale), 'max');
-    return savedContent;
-}
-
-export async function deleteAiCompanionsContent(locale: string): Promise<void> {
-    const normalizedLocale = normalizeAiCompanionsContentLocale(locale);
-    await aiCompanionsContentService.deleteByLocale(normalizedLocale);
-    revalidateTag(AI_COMPANIONS_CONTENT_LIST_TAG, 'max');
-    revalidateTag(getAiCompanionsContentTag(normalizedLocale), 'max');
 }

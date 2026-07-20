@@ -12,7 +12,6 @@ import {
   getPlatformImageAlt,
   getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
-import { usePlatformStyleContent } from "@/lib/platform-content/usePlatformStyleContent";
 
 function getLocalizedAnchor(lang: string, id: string): string {
   return `/${lang}/style/#${id}`;
@@ -66,8 +65,7 @@ export default function PlatformOutfitLandingPage({
   lang: string;
   content: ResolvedPlatformOutfitContent;
 }) {
-  const { data: cachedContent } = usePlatformStyleContent(lang, content);
-  const styleContent = cachedContent ?? content;
+  const styleContent = content;
   const [primaryHeroImage, secondaryHeroImage, tertiaryHeroImage] =
     styleContent.hero.images;
   const featuredSection = styleContent.layoutSections.find(

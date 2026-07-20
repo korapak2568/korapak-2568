@@ -2,14 +2,9 @@ import fs from "node:fs";
 import path from "node:path";
 import {unstable_cache} from "next/cache";
 import {
-    LayoutContentPayload,
-    LayoutContentResponse,
-    normalizeLayoutContentLocale,
-    PartialLayoutContentPayload,
-} from "@/core/domain/layout-content.entity";
+    LayoutContentPayload,    normalizeLayoutContentLocale,} from "@/core/domain/layout-content.entity";
 import {IFooter} from "@/lib/model/IFooter";
 import {ILanguageOption} from "@/lib/model/ILanguage";
-import {LOCALES} from "@/lib/SiteUrlLocales";
 
 const LAYOUT_CONTENT_LIST_TAG = 'layout-content';
 const LAYOUT_CONTENT_CACHE_VERSION = '2026-06-28-json-layout-source';
@@ -194,31 +189,4 @@ export async function getLayoutContent(locale: string): Promise<LayoutContentPay
 
 export async function getLayoutContentForPublicPage(locale: string): Promise<LayoutContentPayload> {
     return getLayoutContent(locale);
-}
-
-export async function getAllLayoutContent(): Promise<LayoutContentResponse[]> {
-    return Promise.all(
-        LOCALES.map(async (locale) => {
-            const content = await getLayoutContent(locale);
-
-            return {
-                ...content,
-                id: locale,
-            };
-        })
-    );
-}
-
-export async function upsertLayoutContent(
-    content: PartialLayoutContentPayload
-): Promise<LayoutContentResponse> {
-    throw new Error(
-        `Layout content is managed by data/layout/navigation/${normalizeLayoutContentLocale(content.locale)}.json, data/layout/footer/${normalizeLayoutContentLocale(content.locale)}.json, and data/layout/languages/languages.json`
-    );
-}
-
-export async function deleteLayoutContent(locale: string): Promise<void> {
-    throw new Error(
-        `Layout content is managed by data/layout/navigation/${normalizeLayoutContentLocale(locale)}.json, data/layout/footer/${normalizeLayoutContentLocale(locale)}.json, and data/layout/languages/languages.json`
-    );
 }

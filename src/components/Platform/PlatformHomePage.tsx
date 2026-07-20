@@ -26,7 +26,6 @@ import {
   getPlatformImageAlt,
   getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
-import { usePlatformHomeContent } from "@/lib/platform-content/usePlatformHomeContent";
 
 function PlatformHomeSection({
   lang,
@@ -210,8 +209,7 @@ export default function PlatformHomePage({
   outfitSets: PlatformOutfitSet[];
   sofaCoupleStory: PlatformSofaCoupleStory;
 }) {
-  const { data: cachedContent } = usePlatformHomeContent(lang, content);
-  const homeContent = cachedContent ?? content;
+  const homeContent = content;
   const outfitSection = homeContent.sections.find(
     (section) => section.layout === "grid",
   );

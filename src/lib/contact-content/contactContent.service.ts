@@ -1,10 +1,9 @@
-import {unstable_cache, revalidateTag} from "next/cache";
+import {unstable_cache} from "next/cache";
 import {
     ContactContentPayload,
     ContactContentResponse,
     normalizeContactContentLocale,
-    PartialContactContentPayload,
-} from "@/core/domain/contact-content.entity";
+    } from "@/core/domain/contact-content.entity";
 import {ContactContentService} from "@/core/services/contact-content.service";
 import {ContactContentRepository} from "@/adapters/outbound/mongo.repository/contact-content.repository";
 import {loadLocalizedContentWithFallback} from "@/lib/localized-content/localizedContentFallback";
@@ -231,49 +230,4 @@ export async function getContactContentForPublicPage(locale: string): Promise<Co
         load: getContactContent,
         fallback: () => getFallbackContactContent(locale),
     });
-}
-
-export async function getAllContactContent(): Promise<ContactContentResponse[]> {
-    if (isDevelopment) {
-        try {
-            return await contactContentService.findAll();
-        } catch (error) {
-            console.error('Failed to load contact content list:', error);
-            return [];
-        }
-    }
-
-    const getCachedContent = unstable_cache(
-        async () => {
-            try {
-                return await contactContentService.findAll();
-            } catch (error) {
-                console.error('Failed to load contact content list:', error);
-                return [];
-            }
-        },
-        ['contact-content-all'],
-        {
-            revalidate: 3600,
-            tags: [CONTACT_CONTENT_LIST_TAG],
-        }
-    );
-
-    return getCachedContent();
-}
-
-export async function upsertContactContent(
-    content: PartialContactContentPayload
-): Promise<ContactContentResponse> {
-    const savedContent = await contactContentService.upsertByLocale(content);
-    revalidateTag(CONTACT_CONTENT_LIST_TAG, 'max');
-    revalidateTag(getContactContentTag(savedContent.locale), 'max');
-    return savedContent;
-}
-
-export async function deleteContactContent(locale: string): Promise<void> {
-    const normalizedLocale = normalizeContactContentLocale(locale);
-    await contactContentService.deleteByLocale(normalizedLocale);
-    revalidateTag(CONTACT_CONTENT_LIST_TAG, 'max');
-    revalidateTag(getContactContentTag(normalizedLocale), 'max');
 }

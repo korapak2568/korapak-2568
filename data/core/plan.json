@@ -1,0 +1,789 @@
+{
+  "core_philosophy": {
+    "title": "Human Civilization Knowledge Platform",
+    "description": "Chorn Planet begins with human needs, industries, and real-world problems, then connects them to future solutions, Future Civilization Roadmap milestones, enabling technologies, and supporting knowledge. Technology is treated as the solution, while human civilization remains the central purpose.",
+    "goal": "100,000+ unique URLs",
+    "primary_flow": [
+      "Human Needs",
+      "Industries",
+      "Problems",
+      "Future Solutions",
+      "Future Roadmap",
+      "Technologies",
+      "Knowledge"
+    ],
+    "platform_positioning": [
+      "Human Civilization Platform",
+      "Civilization Knowledge Platform",
+      "Future Intelligence Platform",
+      "Civilization Graph Database"
+    ],
+    "phases": [
+      {
+        "phase": 2,
+        "title": "20 Human Civilization Domains"
+      },
+      {
+        "phase": 3,
+        "title": "Sub Domains"
+      },
+      {
+        "phase": 4,
+        "title": "Current Problems and Human Challenges"
+      },
+      {
+        "phase": 5,
+        "title": "Future Solutions"
+      },
+      {
+        "phase": 6,
+        "title": "Future Civilization Roadmap Expansion"
+      },
+      {
+        "phase": 7,
+        "title": "Technologies and Enabling Systems"
+      },
+      {
+        "phase": 8,
+        "title": "Civilization Knowledge"
+      },
+      {
+        "goal_phase": "Enterprise",
+        "title": "100,000+ URL Civilization Knowledge Platform"
+      }
+    ]
+  },
+  "content_principles": {
+    "human_first": "Start with what humans, families, communities, cities, rural areas, and businesses currently need.",
+    "problem_driven": "Every major content path should identify a real problem, limitation, risk, or unmet need.",
+    "solution_oriented": "Future solutions should explain how society and businesses can improve rather than only describing technology.",
+    "roadmap_connected": "Every relevant solution should connect to one or more Era 1-8 roadmap items.",
+    "technology_as_solution": "AI, robotics, biotechnology, energy, materials, and other technologies support human goals rather than becoming the central purpose.",
+    "business_connected": "Content should connect future developments to industries, operating models, jobs, investment opportunities, and business transformation.",
+    "graph_first": "Every page should be a reusable node connected through typed relationships inside the Civilization Graph Database.",
+    "multilingual": "All canonical content nodes should support the 10 Chorn Planet languages.",
+    "quality_over_volume": "New URLs should add a distinct search intent, useful explanation, or graph relationship."
+  },
+  "phase1": {
+    "section": "...",
+    "description": "..",
+    "domains": [
+      {
+        "id": "era-01",
+        "slug": "near-future-breakthroughs",
+        "title": "Near-Future Breakthroughs"
+      },
+      {
+        "id": "era-02",
+        "slug": "early-space-civilization",
+        "title": "Early Space Civilization"
+      },
+      {
+        "id": "era-03",
+        "slug": "post-scarcity-foundations",
+        "title": "Post-Scarcity Foundations"
+      },
+      {
+        "id": "era-04",
+        "slug": "planetary-transformation",
+        "title": "Planetary Transformation"
+      },
+      {
+        "id": "era-05",
+        "slug": "advanced-human-civilization",
+        "title": "Advanced Human Civilization"
+      },
+      {
+        "id": "era-06",
+        "slug": "interstellar-expansion",
+        "title": "Interstellar Expansion"
+      },
+      {
+        "id": "era-07",
+        "slug": "post-biological-civilization",
+        "title": "Post-Biological Civilization"
+      },
+      {
+        "id": "era-08",
+        "slug": "galactic-coexistence",
+        "title": "Galactic Coexistence"
+      }
+    ],
+    "cgd": [
+      {
+
+      }
+    ],
+    "urls_summary": [
+    ]
+  },
+  "phase2": {
+    "section": "Human Civilization Domains",
+    "description": "Create 20 permanent top-level domains representing the major systems of human life, society, business, and civilization.",
+    "target_nodes": 20,
+    "estimated_urls_per_language": 20,
+    "domains": [
+      {
+        "id": "family-society",
+        "title": "Family & Society",
+        "description": "Family development, parenting, relationships, loneliness, aging, social connection, and community support."
+      },
+      {
+        "id": "education-learning",
+        "title": "Education & Learning",
+        "description": "Schools, universities, lifelong learning, skills development, personal tutoring, and accessible education."
+      },
+      {
+        "id": "healthcare-longevity",
+        "title": "Healthcare & Longevity",
+        "description": "Healthcare delivery, preventive care, mental health, rehabilitation, healthy aging, and life extension."
+      },
+      {
+        "id": "food-agriculture",
+        "title": "Food, Agriculture & Nutrition",
+        "description": "Food production, restaurants, nutrition, food security, farming, supply chains, and future food systems."
+      },
+      {
+        "id": "housing-real-estate",
+        "title": "Housing & Real Estate",
+        "description": "Homes, apartments, property development, architecture, construction, property management, and future living."
+      },
+      {
+        "id": "cities-communities",
+        "title": "Cities & Communities",
+        "description": "Urban development, rural communities, public spaces, infrastructure, smart cities, and social inclusion."
+      },
+      {
+        "id": "transportation-mobility",
+        "title": "Transportation & Mobility",
+        "description": "Public transport, personal mobility, logistics, autonomous vehicles, aviation, marine transport, and accessibility."
+      },
+      {
+        "id": "energy-utilities",
+        "title": "Energy & Utilities",
+        "description": "Electricity, water, waste, heating, cooling, storage, distributed energy, and future utility systems."
+      },
+      {
+        "id": "environment-climate",
+        "title": "Environment, Wildlife & Climate",
+        "description": "Climate protection, biodiversity, wildlife, pollution, conservation, restoration, and planetary resilience."
+      },
+      {
+        "id": "economy-finance",
+        "title": "Economy & Finance",
+        "description": "Economic systems, banking, digital finance, employment, investment, trade, affordability, and future prosperity."
+      },
+      {
+        "id": "work-careers",
+        "title": "Work & Future Careers",
+        "description": "Employment, human-AI collaboration, future professions, workplace design, skills, and economic participation."
+      },
+      {
+        "id": "manufacturing-industry",
+        "title": "Manufacturing & Industry",
+        "description": "Factories, automation, industrial systems, supply chains, production efficiency, and advanced manufacturing."
+      },
+      {
+        "id": "retail-commerce",
+        "title": "Retail & Commerce",
+        "description": "Shopping, marketplaces, customer experience, payments, delivery, digital commerce, and future retail."
+      },
+      {
+        "id": "hospitality-tourism",
+        "title": "Hospitality, Wellness & Tourism",
+        "description": "Hotels, resorts, spas, restaurants, tourism, wellness retreats, destination development, and exploration."
+      },
+      {
+        "id": "government-public-services",
+        "title": "Government & Public Services",
+        "description": "Public administration, healthcare access, education systems, digital identity, infrastructure, and civic services."
+      },
+      {
+        "id": "safety-security",
+        "title": "Safety, Security & Resilience",
+        "description": "Personal safety, cybersecurity, disaster response, infrastructure resilience, defense, and risk management."
+      },
+      {
+        "id": "science-research",
+        "title": "Science & Research",
+        "description": "Scientific discovery, laboratories, research systems, physics, chemistry, biology, and interdisciplinary innovation."
+      },
+      {
+        "id": "space-civilization",
+        "title": "Space Civilization",
+        "description": "Orbital infrastructure, lunar settlements, Mars development, space industry, exploration, and interplanetary society."
+      },
+      {
+        "id": "arts-culture-entertainment",
+        "title": "Arts, Culture & Entertainment",
+        "description": "Creative industries, cultural heritage, media, music, film, games, immersive experiences, and human expression."
+      },
+      {
+        "id": "lifestyle-human-experience",
+        "title": "Lifestyle & Human Experience",
+        "description": "Daily living, recreation, sports, fashion, personal development, relationships, well-being, and quality of life."
+      }
+    ]
+  },
+  "phase3": {
+    "section": "Sub Domains",
+    "description": "Expand each Human Civilization Domain into focused sub-domains representing industries, services, social systems, environments, and lifestyle activities.",
+    "target_subdomains_per_domain": {
+      "minimum": 10,
+      "recommended": 20,
+      "maximum": 30
+    },
+    "estimated_total_nodes": 400,
+    "examples": {
+      "family-society": [
+        "Parenting",
+        "Child Development",
+        "Family Care",
+        "Elder Care",
+        "Loneliness",
+        "Marriage & Relationships",
+        "Community Support",
+        "Social Connection",
+        "Disability Inclusion",
+        "Intergenerational Living"
+      ],
+      "education-learning": [
+        "Early Childhood Education",
+        "Primary Education",
+        "Secondary Education",
+        "Higher Education",
+        "Vocational Training",
+        "Personalized Learning",
+        "AI Tutoring",
+        "Teacher Development",
+        "Special Education",
+        "Lifelong Learning"
+      ],
+      "healthcare-longevity": [
+        "Hospitals",
+        "Clinics",
+        "Emergency Care",
+        "Preventive Healthcare",
+        "Mental Health",
+        "Rehabilitation",
+        "Remote Healthcare",
+        "Precision Medicine",
+        "Healthy Aging",
+        "Longevity Medicine"
+      ],
+      "housing-real-estate": [
+        "Smart Homes",
+        "Apartments",
+        "Condominiums",
+        "Affordable Housing",
+        "Luxury Villas",
+        "Property Development",
+        "Architecture",
+        "Construction",
+        "Property Management",
+        "Facility Management"
+      ],
+      "cities-communities": [
+        "Smart Cities",
+        "Small Cities",
+        "Rural Communities",
+        "Public Spaces",
+        "Urban Planning",
+        "Community Services",
+        "Digital Infrastructure",
+        "Inclusive Cities",
+        "Resilient Cities",
+        "Regenerative Communities"
+      ],
+      "hospitality-tourism": [
+        "Hotels",
+        "Resorts",
+        "Spas",
+        "Wellness Retreats",
+        "Restaurants",
+        "Cafes",
+        "Eco-tourism",
+        "Medical Tourism",
+        "Luxury Travel",
+        "Space Tourism"
+      ],
+      "food-agriculture": [
+        "Restaurants",
+        "Central Kitchens",
+        "Food Delivery",
+        "Urban Farming",
+        "Precision Agriculture",
+        "Aquaculture",
+        "Alternative Protein",
+        "Nutrition",
+        "Food Safety",
+        "Food Supply Chains"
+      ],
+      "lifestyle-human-experience": [
+        "Sports",
+        "Outdoor Recreation",
+        "Travel",
+        "Fashion",
+        "Personal Wellness",
+        "Home Living",
+        "Social Life",
+        "Digital Lifestyle",
+        "Creative Hobbies",
+        "Human-Technology Coexistence"
+      ]
+    }
+  },
+  "phase4": {
+    "section": "Problems and Human Challenges",
+    "description": "Create pages for current problems faced by individuals, families, communities, businesses, industries, cities, rural areas, and public systems.",
+    "target_problems_per_subdomain": {
+      "minimum": 5,
+      "recommended": 10,
+      "maximum": 20
+    },
+    "estimated_total_nodes": 4000,
+    "problem_categories": [
+      "Accessibility",
+      "Affordability",
+      "Aging Population",
+      "Climate Risk",
+      "Customer Experience",
+      "Education Inequality",
+      "Energy Cost",
+      "Food Security",
+      "Healthcare Access",
+      "Housing Shortage",
+      "Infrastructure Failure",
+      "Labor Shortage",
+      "Loneliness",
+      "Mental Health",
+      "Operational Inefficiency",
+      "Pollution",
+      "Public Safety",
+      "Resource Scarcity",
+      "Skills Gap",
+      "Social Inequality",
+      "Supply Chain Disruption",
+      "Waste",
+      "Water Scarcity"
+    ],
+    "example_problem_flows": [
+      {
+        "subdomain": "Hotels",
+        "problems": [
+          "Hospitality Labor Shortage",
+          "High Hotel Energy Costs",
+          "Seasonal Demand Volatility",
+          "Inconsistent Guest Experience",
+          "Hotel Food Waste",
+          "Staff Training Complexity"
+        ]
+      },
+      {
+        "subdomain": "Elder Care",
+        "problems": [
+          "Older Adult Loneliness",
+          "Caregiver Shortage",
+          "Loss of Independent Living",
+          "Late Detection of Health Decline",
+          "Family Care Coordination",
+          "High Long-term Care Costs"
+        ]
+      },
+      {
+        "subdomain": "Education",
+        "problems": [
+          "Teacher Shortage",
+          "Unequal Education Access",
+          "High Tuition Costs",
+          "Learning Gaps",
+          "Language Barriers",
+          "Lack of Personalized Learning"
+        ]
+      }
+    ]
+  },
+  "phase5": {
+    "section": "Future Solutions",
+    "description": "Create solution-focused pages explaining how future systems, business models, social innovations, and technologies can solve current human and industry problems.",
+    "target_solutions_per_problem": {
+      "minimum": 2,
+      "recommended": 4,
+      "maximum": 8
+    },
+    "estimated_total_nodes": 15000,
+    "solution_types": [
+      "AI-based Solution",
+      "Automation Solution",
+      "Biotechnology Solution",
+      "Business Model Innovation",
+      "Community-based Solution",
+      "Digital Public Infrastructure",
+      "Energy Solution",
+      "Environmental Solution",
+      "Healthcare Solution",
+      "Human-centered Design",
+      "Material Innovation",
+      "Policy Solution",
+      "Robotics Solution",
+      "Social Innovation",
+      "Space-based Solution"
+    ],
+    "example_solution_flows": [
+      {
+        "problem": "Hospitality Labor Shortage",
+        "solutions": [
+          "AI Hotel Concierge",
+          "Humanoid Hotel Service Robots",
+          "Autonomous Hotel Cleaning Systems",
+          "Predictive Workforce Planning",
+          "Multilingual AI Guest Support"
+        ]
+      },
+      {
+        "problem": "Teacher Shortage",
+        "solutions": [
+          "AI Personal Tutors",
+          "AI-assisted Lesson Planning",
+          "Remote Expert Teaching Networks",
+          "Adaptive Learning Platforms",
+          "Human-AI Co-teaching"
+        ]
+      },
+      {
+        "problem": "Older Adult Loneliness",
+        "solutions": [
+          "Empathetic AI Companions",
+          "Community Care Networks",
+          "Socially Assistive Robots",
+          "Intergenerational Living Platforms",
+          "AI-supported Family Coordination"
+        ]
+      }
+    ]
+  },
+  "phase6": {
+    "section": "Future Civilization Roadmap",
+    "description": "Connect future solutions to the existing Era 1-8 roadmap items and continuously add new milestones as civilization develops.",
+    "existing_items": 400,
+    "target_items": {
+      "phase2": 600,
+      "phase3": 800,
+      "enterprise_goal": 1000
+    },
+    "eras": [
+      "Era 1",
+      "Era 2",
+      "Era 3",
+      "Era 4",
+      "Era 5",
+      "Era 6",
+      "Era 7",
+      "Era 8"
+    ],
+    "required_relationships": [
+      "belongs_to_era",
+      "addresses_problem",
+      "implements_solution",
+      "requires_technology",
+      "impacts_industry",
+      "supports_human_need",
+      "creates_business_opportunity",
+      "creates_future_job",
+      "depends_on",
+      "enables"
+    ]
+  },
+  "phase7": {
+    "section": "Technologies and Enabling Systems",
+    "description": "Create technology pages only when they enable a human, business, social, scientific, or civilization-level solution.",
+    "estimated_total_nodes": 1000,
+    "technology_domains": [
+      "Artificial Intelligence",
+      "Empathetic AI",
+      "Agentic AI",
+      "Robotics",
+      "Humanoid Robotics",
+      "Computer Vision",
+      "Natural Language Processing",
+      "Quantum Computing",
+      "Edge Computing",
+      "Cloud Computing",
+      "Internet of Things",
+      "Digital Twins",
+      "Biotechnology",
+      "Synthetic Biology",
+      "Genetic Engineering",
+      "Neurotechnology",
+      "Brain-Computer Interfaces",
+      "Nanotechnology",
+      "Advanced Materials",
+      "Fusion Energy",
+      "Renewable Energy",
+      "Energy Storage",
+      "Autonomous Mobility",
+      "Aerospace Technology",
+      "Space Robotics",
+      "Climate Technology"
+    ],
+    "technology_page_structure": [
+      "Definition",
+      "Human Problems Addressed",
+      "Industries Affected",
+      "Future Solutions Enabled",
+      "Roadmap Items",
+      "Maturity Level",
+      "Risks and Challenges",
+      "Related Science",
+      "Related Materials",
+      "Business Opportunities",
+      "Future Jobs"
+    ]
+  },
+  "phase8": {
+    "section": "Civilization Knowledge",
+    "description": "Build supporting knowledge pages that explain the scientific, social, economic, ethical, cultural, and engineering foundations behind the graph.",
+    "estimated_total_nodes": 20000,
+    "knowledge_categories": [
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Medicine",
+      "Psychology",
+      "Sociology",
+      "Economics",
+      "Business",
+      "Engineering",
+      "Architecture",
+      "Urban Planning",
+      "Agriculture",
+      "Computer Science",
+      "Data Science",
+      "Ethics",
+      "Governance",
+      "Law",
+      "Education",
+      "Environmental Science",
+      "Space Science",
+      "History",
+      "Culture",
+      "Human Behavior",
+      "Civilization Studies"
+    ],
+    "knowledge_page_types": [
+      "Concept",
+      "Definition",
+      "Explainer",
+      "Research Area",
+      "Scientific Principle",
+      "Engineering Method",
+      "Economic Model",
+      "Ethical Question",
+      "Policy Framework",
+      "Civilization Pattern"
+    ]
+  },
+  "supporting_graph_nodes": {
+    "description": "Add supporting node families that strengthen SEO, business relevance, discovery, and graph relationships.",
+    "node_families": [
+      {
+        "type": "Business Opportunities",
+        "target_nodes": 10000
+      },
+      {
+        "type": "Industries",
+        "target_nodes": 5000
+      },
+      {
+        "type": "Companies",
+        "target_nodes": 5000
+      },
+      {
+        "type": "Future Jobs",
+        "target_nodes": 5000
+      },
+      {
+        "type": "Future Cities and Communities",
+        "target_nodes": 3000
+      },
+      {
+        "type": "Materials",
+        "target_nodes": 2000
+      },
+      {
+        "type": "Space Missions and Infrastructure",
+        "target_nodes": 2000
+      },
+      {
+        "type": "Organizations and Research Institutions",
+        "target_nodes": 2000
+      },
+      {
+        "type": "Policies and Standards",
+        "target_nodes": 2000
+      },
+      {
+        "type": "Lifestyle Use Cases",
+        "target_nodes": 5000
+      }
+    ]
+  },
+  "enterprise_goal": {
+    "section": "100,000+ URL Enterprise Knowledge Platform",
+    "description": "Scale Chorn Planet through structured graph nodes, useful search intents, multilingual content, and meaningful relationships rather than generating disconnected pages.",
+    "target_unique_content_nodes": 10000,
+    "languages": 10,
+    "estimated_total_localized_urls": 100000,
+    "languages_supported": [
+      "en",
+      "th",
+      "zh",
+      "ja",
+      "ko",
+      "id",
+      "de",
+      "fr",
+      "ru",
+      "vi"
+    ],
+    "estimated_node_distribution": {
+      "human_civilization_domains": 20,
+      "subdomains": 400,
+      "problems": 4000,
+      "future_solutions": 15000,
+      "future_roadmap_items": 1000,
+      "technologies": 1000,
+      "knowledge_pages": 20000,
+      "business_opportunities": 10000,
+      "industries": 5000,
+      "companies": 5000,
+      "future_jobs": 5000,
+      "future_cities": 3000,
+      "materials": 2000,
+      "space_missions": 2000,
+      "organizations": 2000,
+      "policies_and_standards": 2000,
+      "lifestyle_use_cases": 5000
+    }
+  },
+  "cgd_relationships": {
+    "description": "Canonical relationship types for the Civilization Graph Database.",
+    "relationships": [
+      "belongs_to_domain",
+      "has_subdomain",
+      "supports_human_need",
+      "affects_industry",
+      "has_problem",
+      "experienced_by",
+      "caused_by",
+      "worsened_by",
+      "solved_by",
+      "partially_solved_by",
+      "requires_solution",
+      "implemented_by",
+      "enabled_by",
+      "requires_technology",
+      "uses_technology",
+      "related_to_science",
+      "uses_material",
+      "belongs_to_era",
+      "represented_by_roadmap_item",
+      "depends_on",
+      "enables",
+      "impacts",
+      "creates_business_opportunity",
+      "creates_future_job",
+      "changes_lifestyle",
+      "improves_quality_of_life",
+      "creates_risk",
+      "requires_policy",
+      "requires_infrastructure",
+      "located_in",
+      "developed_by"
+    ]
+  },
+  "page_generation_rules": {
+    "canonical_rule": "One canonical node should represent one distinct concept or search intent.",
+    "translation_rule": "Translations should reuse the same canonical node ID and graph relationships.",
+    "duplicate_rule": "Do not create separate nodes when only wording changes but the meaning remains the same.",
+    "thin_content_rule": "Do not publish a page unless it provides unique context, relationships, or useful information.",
+    "minimum_relationships": 3,
+    "recommended_relationships": 8,
+    "recommended_page_sections": [
+      "Overview",
+      "Why It Matters",
+      "Current Situation",
+      "Problems",
+      "Future Solutions",
+      "Roadmap Connections",
+      "Technologies",
+      "Industries",
+      "Business Opportunities",
+      "Human Impact",
+      "Risks and Challenges",
+      "Related Knowledge"
+    ]
+  },
+  "utility_platform": {
+    "description": "Transform graph data into useful tools that help people and businesses understand their current challenges and prepare for the future.",
+    "features": [
+      {
+        "title": "Industry Future Explorer",
+        "description": "Shows current problems, future solutions, roadmap milestones, technologies, and opportunities for an industry."
+      },
+      {
+        "title": "Human Challenge Explorer",
+        "description": "Allows users to explore challenges such as loneliness, aging, education inequality, healthcare access, and climate risk."
+      },
+      {
+        "title": "Future Solution Finder",
+        "description": "Matches a human or business problem with related solutions, technologies, and roadmap items."
+      },
+      {
+        "title": "Business Opportunity Finder",
+        "description": "Identifies products, services, markets, and operating models created by future changes."
+      },
+      {
+        "title": "Future Readiness Assessment",
+        "description": "Assesses how prepared a business, city, community, or industry is for future changes."
+      },
+      {
+        "title": "Civilization Path Explorer",
+        "description": "Explains how humanity can move from present conditions through Era 1-8."
+      },
+      {
+        "title": "AI Civilization Search",
+        "description": "Answers questions using CGD relationships and Chorn Planet content."
+      },
+      {
+        "title": "Personal Future Dashboard",
+        "description": "Allows users to follow industries, problems, solutions, technologies, and roadmap milestones."
+      }
+    ]
+  },
+  "success_metrics": {
+    "content_metrics": [
+      "Unique canonical nodes",
+      "Localized URLs",
+      "Average relationships per node",
+      "Pages with complete graph connections",
+      "Pages with three or more inbound internal links"
+    ],
+    "seo_metrics": [
+      "Indexed URL percentage",
+      "Organic impressions",
+      "Organic clicks",
+      "Non-branded keyword coverage",
+      "Average ranking position",
+      "Pages receiving organic traffic"
+    ],
+    "platform_metrics": [
+      "Returning users",
+      "Search usage",
+      "Graph exploration depth",
+      "Bookmarks and follows",
+      "Utility tool usage",
+      "Business opportunity interactions"
+    ]
+  }
+}

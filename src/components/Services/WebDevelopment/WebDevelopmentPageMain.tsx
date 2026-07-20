@@ -4,7 +4,6 @@ import SystemCapability from "@/components/Services/WebDevelopment/SystemCapabil
 import WebDevelopmentBackEnd from "@/components/Services/WebDevelopment/WebDevelopmentBackEnd";
 import WevDevelopmentFrontEnd from "@/components/Services/WebDevelopment/WevDevelopmentFrontEnd";
 import type { PlatformTechnologyContent } from "@/lib/platform-content/technologyContentShared";
-import { usePlatformTechnologyContent } from "@/lib/platform-content/usePlatformTechnologyContent";
 
 export default function WebDevelopmentPageMain({
   lang,
@@ -13,8 +12,7 @@ export default function WebDevelopmentPageMain({
   lang: string;
   content: PlatformTechnologyContent;
 }) {
-  const { data: cachedContent } = usePlatformTechnologyContent(lang, content);
-  const technologyContent = cachedContent ?? content;
+  const technologyContent = content;
   const pageContent = technologyContent.page;
 
   return (

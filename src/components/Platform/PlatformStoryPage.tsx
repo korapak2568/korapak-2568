@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import type { PlatformStoryContent } from "@/lib/platform-content/homeContent";
-import { usePlatformAboutContent } from "@/lib/platform-content/usePlatformAboutContent";
 
 export default function PlatformStoryPage({
   lang,
@@ -11,8 +10,7 @@ export default function PlatformStoryPage({
   lang: string;
   content: PlatformStoryContent;
 }) {
-  const { data: cachedContent } = usePlatformAboutContent(lang, content);
-  const aboutContent = cachedContent ?? content;
+  const aboutContent = content;
 
   const getLocalizedHref = (href: string) => {
     if (href.startsWith("http")) {

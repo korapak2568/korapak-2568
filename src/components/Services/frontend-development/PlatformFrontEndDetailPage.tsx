@@ -7,7 +7,6 @@ import ServicesDetailsTypeScript from "@/components/Services/frontend-developmen
 import { SchemaMarkupServicePage } from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import type { FrontendStackKey } from "@/lib/platform-content/frontendRoutes";
 import type { PlatformFrontendContent } from "@/lib/platform-content/frontendContent";
-import { usePlatformFrontendContent } from "@/lib/platform-content/usePlatformFrontendContent";
 import type { IFrontEnd, IFrontEndStack } from "@/lib/model/IFrontEnd";
 import type { IFullStack } from "@/lib/model/IFullStack";
 import type { ComponentType } from "react";
@@ -34,8 +33,7 @@ export default function PlatformFrontEndDetailPage({
   slug: string;
   content: PlatformFrontendContent;
 }) {
-  const { data: cachedContent } = usePlatformFrontendContent(lang, content);
-  const frontendContent = cachedContent ?? content;
+  const frontendContent = content;
   const route = frontendContent.frontendRoutes.find((candidate) => candidate.slug === slug);
 
   if (!route) {

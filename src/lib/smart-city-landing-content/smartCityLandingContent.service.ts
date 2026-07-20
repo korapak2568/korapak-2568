@@ -1,16 +1,10 @@
-import type {
-  PartialSmartCityLandingContentPayload,
-  SmartCityLandingContentResponse,
-} from "@/core/domain/smart-city-landing-content.entity";
+import type { SmartCityLandingContentResponse } from "@/core/domain/smart-city-landing-content.entity";
 import type { SmartCityLandingContentPayload } from "@/lib/model/ISmartCityLandingContent";
 import {
   getAllSmartCityLandingContentFromJson,
   getSmartCityLandingContentFromJson,
 } from "@/lib/platform-content/smartCityContent";
 
-function unsupportedSmartCityWrite(): never {
-  throw new Error("Smart City landing content is sourced from CHORN_DATA_URL/smart-city/landing");
-}
 
 export async function getSmartCityLandingContent(
   locale: string,
@@ -35,17 +29,3 @@ export async function getSmartCityLandingContentForPublicPage(
 export async function getAllSmartCityLandingContent(): Promise<SmartCityLandingContentResponse[]> {
   return getAllSmartCityLandingContentFromJson() as Promise<SmartCityLandingContentResponse[]>;
 }
-
-export async function upsertSmartCityLandingContent(
-  _content: PartialSmartCityLandingContentPayload,
-): Promise<SmartCityLandingContentResponse> {
-  unsupportedSmartCityWrite();
-}
-
-export async function deleteSmartCityLandingContent(
-  _locale: string,
-  _slug: string,
-): Promise<void> {
-  unsupportedSmartCityWrite();
-}
-

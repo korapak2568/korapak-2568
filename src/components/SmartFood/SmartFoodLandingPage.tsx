@@ -7,7 +7,6 @@ import {
   getPlatformImageAlt,
   getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
-import {usePlatformSmartFoodContent} from "@/lib/platform-content/usePlatformSmartFoodContent";
 
 export default function SmartFoodLandingPage({
   lang,
@@ -16,8 +15,7 @@ export default function SmartFoodLandingPage({
   lang: string;
   content: ISmartFoodAiContent;
 }) {
-  const {data: cachedContent} = usePlatformSmartFoodContent(lang, content);
-  const smartFoodContent = cachedContent ?? content;
+  const smartFoodContent = content;
   const heroActions = smartFoodContent.hero.actions.filter(
     (action) => action.href !== "#smart-food-ai-value",
   );

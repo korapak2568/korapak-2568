@@ -1,32 +1,42 @@
 [
   {
-    "en": "Family & Education Care Development"
+    "en": "Family & Education Care Development",
+    "total_items": 50
   },
   {
-    "en": "Loneliness, Aging & Social Connection"
+    "en": "Loneliness, Aging & Social Connection",
+    "total_items": 30
   },
   {
-    "en": "Ecosystem, Wildlife & Environmental Protection"
+    "en": "Ecosystem, Wildlife & Environmental Protection",
+    "total_items": 30
   },
   {
-    "en": "Healthcare, Mental Health & Well-being"
+    "en": "Healthcare, Mental Health & Well-being",
+    "total_items": 30
   },
   {
-    "en": "Human & Technology Coexistence"
+    "en": "Human & Technology Coexistence",
+    "total_items": 30
   },
   {
-    "en": "Artificial Intelligence & Empathetic AI"
+    "en": "Artificial Intelligence & Empathetic AI",
+    "total_items": 30
   },
   {
-    "en": "Food, Agriculture & Nutrition"
+    "en": "Food, Agriculture & Nutrition",
+    "total_items": 30
   },
   {
-    "en": "Arts, Culture & Entertainment"
+    "en": "Arts, Culture & Entertainment",
+    "total_items": 30
   },
   {
-    "en": "Sports, Recreation & Outdoor Activities"
+    "en": "Sports, Recreation & Outdoor Activities",
+    "total_items": 30
   },
   {
-    "en": "Travel, Tourism & Exploration"
+    "en": "Travel, Tourism & Exploration",
+    "total_items": 30
   }
 ]

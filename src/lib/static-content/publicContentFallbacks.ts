@@ -1,4 +1,3 @@
-import { AboutContentPayload } from "@/core/domain/about-content.entity";
 import { AiCompanionsContentPayload } from "@/core/domain/ai-companions-content.entity";
 import { GalleryContentPayload } from "@/core/domain/gallery-content.entity";
 import { HomePageContentPayload } from "@/core/domain/homepage-content.entity";
@@ -8,7 +7,6 @@ import { IImageResponsiveUnit } from "@/image/model/IImageResponsiveUnit";
 import { IImageUnit } from "@/image/model/IImageUnit";
 import { IFooter } from "@/lib/model/IFooter";
 import { INavbar } from "@/lib/model/INavbar";
-import { normalizeAboutContentLocale } from "@/core/domain/about-content.entity";
 import { normalizeAiCompanionsContentLocale } from "@/core/domain/ai-companions-content.entity";
 import { normalizeGalleryContentLocale } from "@/core/domain/gallery-content.entity";
 import { normalizeHomePageLocale } from "@/core/domain/homepage-content.entity";
@@ -465,30 +463,6 @@ function createAiLanding(name: string) {
       button: "",
     },
     relevants: [],
-  };
-}
-
-export function getFallbackAboutContent(locale: string): AboutContentPayload {
-  const normalizedLocale = normalizeAboutContentLocale(locale);
-  logStaticFallback("about content", normalizedLocale);
-
-  return {
-    locale: normalizedLocale,
-    about: {
-      title: "About",
-      span: "Chorn Planet",
-      subTitle: fallbackText.description,
-      description: [
-        {
-          title: "Platform overview",
-          description: fallbackText.description,
-        },
-      ],
-      stacks: [],
-    },
-    media: {
-      mainImage: EMPTY_RESPONSIVE_IMAGE,
-    },
   };
 }
 

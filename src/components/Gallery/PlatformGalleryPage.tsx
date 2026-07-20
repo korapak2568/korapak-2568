@@ -4,7 +4,6 @@ import AiAomLandingPage from "@/components/AiCompanions/Main/AiAomLandingPage";
 import GalleryModuleBottom from "@/components/Gallery/GalleryModuleBottom";
 import GalleryPageMain from "@/components/Gallery/GalleryPageMain";
 import type { PlatformGalleryContent } from "@/lib/platform-content/galleryContent";
-import { usePlatformGalleryContent } from "@/lib/platform-content/usePlatformGalleryContent";
 
 export default function PlatformGalleryPage({
   lang,
@@ -13,8 +12,7 @@ export default function PlatformGalleryPage({
   lang: string;
   content: PlatformGalleryContent;
 }) {
-  const { data: cachedContent } = usePlatformGalleryContent(lang, content);
-  const galleryContent = cachedContent ?? content;
+  const galleryContent = content;
 
   return (
     <div className="smart-container-top">

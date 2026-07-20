@@ -2,7 +2,6 @@
 
 import MainChiangMai from "@/components/SmartMobility/ChiangMai/MainChiangMai";
 import type { SmartMobilityChiangMaiContentPayload } from "@/lib/model/ISmartMobilityChiangMai";
-import { usePlatformSmartMobilityChiangMaiContent } from "@/lib/platform-content/usePlatformSmartMobilityChiangMaiContent";
 import type { SmartMobilityNavigationAction } from "@/lib/platform-content/smartMobilityContent";
 import type { SmartMobilityChiangMaiSlug } from "./ChiangMaiRoutes";
 
@@ -18,12 +17,7 @@ export function SmartMobilityChiangMaiPage({
   navigationActions: SmartMobilityNavigationAction[];
 }) {
   const lang = locale || "en";
-  const { data: cachedContent } = usePlatformSmartMobilityChiangMaiContent(
-    lang,
-    slug,
-    content,
-  );
-  const smartMobilityContent = cachedContent ?? content;
+  const smartMobilityContent = content;
 
   return (
     <main className={`smart-mobility-premium smart-mobility-premium--${slug}`}>

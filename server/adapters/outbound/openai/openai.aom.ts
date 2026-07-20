@@ -1,17 +1,16 @@
-import {OpenAI} from "openai";
+import { OpenAI } from "openai";
 
 const openaiApiAom = new OpenAI({
-    apiKey: process.env.OPENAI_API_KEY_AOM!,
+  baseURL: process.env.DEEPSEEK_API_URL,
+  apiKey: process.env.DEEPSEEK_API_KEY,
 });
 
 const openaiCreateAom = async (prompt: string) => {
-    return openaiApiAom.chat.completions.create({
-        model: process.env.GPT_MODEL!,
-        store: true,
-        messages: [
-            {
-                role: "system",
-                content: `
+  return openaiApiAom.chat.completions.create({
+    messages: [
+      {
+        role: "system",
+        content: `
                     You are 'ออม' (Aom), a warm and knowledgeable Thai nurse AI assistant.
 
                     Personality:
@@ -29,22 +28,25 @@ const openaiCreateAom = async (prompt: string) => {
                     6. Avoid technical terms; explain medical topics in simple, friendly language.
                     7. Always respond in the user's input language.
                     8. Include a short, uplifting health-related tip or quote in every response.
-                `
-            },
-            {
-                role: "user",
-                content: prompt
-            }
-        ]
-    });
-}
+                `,
+      },
+      {
+        role: "user",
+        content: prompt,
+      },
+    ],
+    model: "deepseek-v4-pro",
+    reasoning_effort: "high",
+    stream: false,
+  });
+};
 
 export default async function openAiAom(prompt: any) {
-    try {
-        const result = await openaiCreateAom(prompt);
-        const content = result.choices[0]?.message?.content
-        return content ? content.replaceAll("**", "") : ""
-    } catch (error) {
-        return error
-    }
+  try {
+    const result = await openaiCreateAom(prompt);
+    const content = result.choices[0]?.message?.content;
+    return content ? content.replaceAll("**", "") : "";
+  } catch (error) {
+    return error;
+  }
 }

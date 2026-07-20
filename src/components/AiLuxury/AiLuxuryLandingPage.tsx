@@ -7,7 +7,6 @@ import {
   getPlatformImageAlt,
   getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
-import {usePlatformLuxuryContent} from "@/lib/platform-content/usePlatformLuxuryContent";
 
 export default function AiLuxuryLandingPage({
   lang,
@@ -16,7 +15,6 @@ export default function AiLuxuryLandingPage({
   lang: string;
   content: AiLuxuryContent;
 }) {
-  const {data: cachedContent} = usePlatformLuxuryContent(lang, content);
   const {
     heroImage,
     heroContent,
@@ -29,7 +27,7 @@ export default function AiLuxuryLandingPage({
     premiumSegments,
     platformLayers,
     businessSignals,
-  } = cachedContent ?? content;
+  } = content;
 
   return (
     <main className="ai-luxury-page">

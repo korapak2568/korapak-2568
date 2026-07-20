@@ -10,7 +10,6 @@ import GlobalPatterns from "@/components/Home/GlobalPatterns";
 import UrbanSignals from "@/components/Home/UrbanSignals";
 import EditorialPositioning from "@/components/Home/EditorialPositioning";
 import type { PlatformSmartCityContent } from "@/lib/platform-content/smartCityContent";
-import { usePlatformSmartCityContent } from "@/lib/platform-content/usePlatformSmartCityContent";
 
 export default function PlatformSmartCityPage({
   lang,
@@ -19,8 +18,7 @@ export default function PlatformSmartCityPage({
   lang: string;
   content: PlatformSmartCityContent;
 }) {
-  const { data: cachedContent } = usePlatformSmartCityContent(lang, content);
-  const smartCityContent = cachedContent ?? content;
+  const smartCityContent = content;
   const smartCityMain = smartCityContent.smartCityMain;
 
   return (

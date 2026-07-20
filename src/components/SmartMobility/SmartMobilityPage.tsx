@@ -10,7 +10,6 @@ import {
   getPlatformImageAlt,
   getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
-import { usePlatformSmartMobilityContent } from "@/lib/platform-content/usePlatformSmartMobilityContent";
 import SmartMobilityActions from "./SmartMobilityActions";
 
 function MtsStationCard({
@@ -56,11 +55,7 @@ export default function SmartMobilityPage({
   locale: string;
   content: SmartMobilityLandingContent;
 }) {
-  const { data: cachedContent } = usePlatformSmartMobilityContent(
-    locale,
-    content,
-  );
-  const smartMobilityContent = cachedContent ?? content;
+  const smartMobilityContent = content;
   const heroStation = smartMobilityContent.heroStation;
 
   return (

@@ -1,8 +1,7 @@
-import {unstable_cache, revalidateTag} from "next/cache";
+import {unstable_cache} from "next/cache";
 import {
     HomePageContentPayload,
-    PartialHomePageContentPayload,
-    HomePageContentResponse,
+        HomePageContentResponse,
     normalizeHomePageLocale,
 } from "@/core/domain/homepage-content.entity";
 import {HomePageContentService} from "@/core/services/homepage-content.service";
@@ -86,49 +85,4 @@ export async function getHomePageContentForPublicPage(locale: string): Promise<H
         load: getHomePageContent,
         fallback: () => getFallbackHomePageContent(normalizedLocale),
     });
-}
-
-export async function getAllHomePageContent(): Promise<HomePageContentResponse[]> {
-    if (isDevelopment) {
-        try {
-            return await homePageContentService.findAll();
-        } catch (error) {
-            console.error('Failed to load homepage content list:', error);
-            return [];
-        }
-    }
-
-    const getCachedContent = unstable_cache(
-        async () => {
-            try {
-                return await homePageContentService.findAll();
-            } catch (error) {
-                console.error('Failed to load homepage content list:', error);
-                return [];
-            }
-        },
-        ['homepage-content-all'],
-        {
-            revalidate: 3600,
-            tags: [HOME_PAGE_CONTENT_LIST_TAG],
-        }
-    );
-
-    return getCachedContent();
-}
-
-export async function upsertHomePageContent(
-    content: PartialHomePageContentPayload
-): Promise<HomePageContentResponse> {
-    const savedContent = await homePageContentService.upsertByLocale(content);
-    revalidateTag(HOME_PAGE_CONTENT_LIST_TAG, 'max');
-    revalidateTag(getHomePageContentTag(savedContent.locale), 'max');
-    return savedContent;
-}
-
-export async function deleteHomePageContent(locale: string): Promise<void> {
-    const normalizedLocale = normalizeHomePageLocale(locale);
-    await homePageContentService.deleteByLocale(normalizedLocale);
-    revalidateTag(HOME_PAGE_CONTENT_LIST_TAG, 'max');
-    revalidateTag(getHomePageContentTag(normalizedLocale), 'max');
 }

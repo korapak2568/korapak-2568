@@ -5,7 +5,6 @@ import type {
   PlatformPolicyContent,
   PlatformPolicyType,
 } from "@/lib/platform-content/policyContent";
-import { usePlatformPolicyContent } from "@/lib/platform-content/usePlatformPolicyContent";
 
 export default function PlatformPolicyPage({
   lang,
@@ -20,8 +19,7 @@ export default function PlatformPolicyPage({
   eyebrow: string;
   accent: string;
 }) {
-  const { data: cachedContent } = usePlatformPolicyContent(policyType, lang, content);
-  const policyContent = cachedContent ?? content;
+  const policyContent = content;
 
   return (
     <PolicyPage
