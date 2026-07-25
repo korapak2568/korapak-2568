@@ -36,7 +36,7 @@ export default function ContactRight({
                           <FaEnvelope />
                         </div>
                       </div>
-                      <div className="label">{item.email}</div>
+                      <div className="label">contact@chornplanet.com</div>
                     </div>
                   )}
 

@@ -33,8 +33,8 @@ const FALLBACK_CONTACT: IContact = {
         icon: 'flaticon-email-1',
         label: 'Email',
         isLink: true,
-        link: 'mailto:contact@chorn.in.th',
-        linkText: 'contact@chorn.in.th',
+        link: 'mailto:contact@chornplanet.com',
+        linkText: 'contact@chornplanet.com',
         button: '',
     },
     tel: {
@@ -87,7 +87,7 @@ const FALLBACK_CONTACT: IContact = {
             {
                 title: 'Chorn Planet',
                 span: 'Helping Founders Scale Technology, Teams, and Strategy',
-                email: 'contact@chorn.in.th',
+                email: 'contact@chornplanet.com',
             },
             {
                 title: 'Nearby places',
